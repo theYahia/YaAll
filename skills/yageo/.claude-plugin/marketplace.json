@@ -1,0 +1,16 @@
+{
+  "name": "yageo",
+  "owner": { "name": "theYahia" },
+  "metadata": {
+    "description": "YaGEO — аудит RU-сайтов под Яндекс ЭПОС / Alice AI: MCP-сервер + skill",
+    "homepage": "https://github.com/theYahia/YaGEO"
+  },
+  "plugins": [
+    {
+      "name": "yageo",
+      "version": "0.1.0",
+      "source": "./plugin",
+      "description": "ЭПОС/GEO-аудит как MCP-сервер (yageo_epos, yageo_audit, yageo_schema, …) — Python/FastMCP"
+    }
+  ]
+}

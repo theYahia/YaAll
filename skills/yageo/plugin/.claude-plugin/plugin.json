@@ -1,0 +1,8 @@
+{
+  "name": "yageo",
+  "version": "0.1.0",
+  "description": "ЭПОС/GEO-аудит RU-сайтов под Яндекс Alice AI — MCP-сервер (8 тулов: yageo_epos, yageo_audit, …)",
+  "author": { "name": "theYahia", "url": "https://github.com/theYahia/YaGEO" },
+  "homepage": "https://github.com/theYahia/YaGEO",
+  "license": "MIT"
+}

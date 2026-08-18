@@ -1,0 +1,125 @@
+# YaGEO — конфиг калибровки ЭПОС-скоринга.
+#
+# Эти значения дублируют встроенные DEFAULTS (scripts/config.py) и задают веса/пороги ЭПОС.
+# Правь их, чтобы откалибровать скоринг БЕЗ изменения кода. Удалить любой ключ безопасно — движок
+# возьмёт встроенный дефолт (deep-merge). Можно указать свой файл через env YAGEO_CONFIG=path.
+#
+# Парсинг — stdlib tomllib. Скоринг с этим файлом «как есть» == поведение v0.1 (хардкод).
+
+# С — Содержательность
+[content]
+# Бакеты word-count: score = первый, чей порог > words; иначе последний score.
+word_count_thresholds = [100, 300, 500, 1500]
+word_count_scores = [0, 10, 40, 65, 85]
+h2_min_low = 3
+h2_bonus_low = 10
+h2_min_high = 6
+h2_bonus_high = 15
+list_bonus_per = 5
+list_bonus_cap = 10
+schema_bonus = 15            # FAQPage / HowTo / speakable schema
+flesch_min = 40
+flesch_max = 70
+flesch_bonus = 5
+flesch_enabled = true            # Flesch ненадёжен для русского — false отключает бонус
+
+# П — Полезность
+[usefulness]
+https_pts = 10
+viewport_pts = 15
+h1_pts = 10
+answer_first_slice = 1500        # окно «первого ответа» (символов текста)
+answer_first_min_chars = 200     # минимум символов в окне для бонуса
+answer_first_pts = 20
+popup_scan_chars = 50000         # окно скана сырого HTML на попапы
+popup_detected_pts = -20
+popup_clean_pts = 20
+thin_word_threshold = 100
+thin_penalty = -30
+auth_link_pts_per = 5
+auth_link_cap = 15
+
+# Э — Экспертность
+[expertise]
+author_pts = 30                  # Person schema без credentials
+author_with_creds_pts = 50       # Person schema + jobTitle/affiliation/sameAs
+org_pts = 15
+numeric_density_mult = 4
+numeric_density_cap = 20
+entity_density_mult = 5
+entity_density_cap = 20
+auth_link_pts_per = 5
+auth_link_cap = 15
+ner_chunk_chars = 8000           # Natasha обрабатывает первые N символов
+
+# О — Оригинальность
+[originality]
+min_tokens = 10                  # меньше — текст «слишком короткий», score = short_text_score
+short_text_score = 10
+ttr_mult = 60                    # ttr * mult, cap = ttr_cap (TTR 0.5 → 30)
+ttr_cap = 30
+boilerplate_base = 30            # score = base - hits * penalty_per
+boilerplate_penalty_per = 5
+numeric_mult = 2
+numeric_cap = 25
+min_sentences_for_variance = 3
+sentence_std_mult = 1.5
+sentence_std_cap = 15
+lemmatize_ttr = false            # opt-in: TTR по леммам (Natasha) вместо словоформ
+
+# Пороги срабатывания рекомендаций
+[recommendations]
+numeric_density_min = 2
+ttr_min = 0.3
+boilerplate_max = 2
+word_count_min = 300
+h2_min = 2
+
+# Пороги уровней / Alice AI citability
+[citability]
+level_high = 70                  # _level: >=high → HIGH/green
+level_medium = 40                # >=medium → MEDIUM/yellow, иначе LOW/red
+cit_high = 70                    # _citability_label: >=high → HIGH citability
+cit_medium = 50
+
+# Лексические списки / доменные сигналы
+[lexicon]
+stopwords = [
+    "и", "в", "не", "на", "с", "что", "а", "по", "это", "из",
+    "как", "к", "от", "но", "за", "то", "так", "его", "для", "же",
+    "все", "о", "об", "или", "при", "он", "она", "они", "мы",
+    "я", "ты", "вы", "был", "была", "было", "были", "есть", "будет",
+    "свой", "своей", "своего", "этот", "эта", "эти", "того", "той",
+]
+# Доменный boilerplate (под каталог типа gosmax.ru) — штрафует О за шаблонность.
+catalog_boilerplate = [
+    "бот для", "в мессенджере", "скачать приложение", "установить бесплатно",
+    "перейти к", "официальный сайт", "подробнее о", "читать далее",
+    "все боты", "каталог ботов",
+]
+# Фрагменты regex авторитетных доменов — собираются в \.(...). Литеральные строки ('...') сохраняют \.
+auth_domains = [
+    'gov', 'edu', 'ac\.', 'wikipedia\.org', 'rbc\.ru',
+    'kommersant\.ru', 'habr\.com', 'tass\.ru', 'vedomosti\.ru',
+]
+
+# LSI-покрытие (content_depth). Доменная специфика — в профилях (данные, не код).
+# Первый profile, чей url_marker встретился в URL, задаёт keywords; иначе default_keywords.
+# Под свой сайт: замени default_keywords и/или добавь свой [[lsi.profiles]].
+[lsi]
+coverage_min = 0.5               # порог рекомендации «низкое LSI-покрытие»
+default_keywords = [
+    "заголовок", "структура", "раздел", "параграф",
+    "автор", "эксперт", "источник", "исследование", "данные",
+    "пример", "кейс", "инструкция", "как", "шаг",
+    "алиса", "яндекс", "поиск", "ответ", "запрос",
+]
+
+[[lsi.profiles]]
+name = "catalog"                 # каталог ботов (gosmax.ru-style)
+url_markers = ["gosmax", "bot", "catalog"]
+keywords = [
+    "бот", "команда", "функция", "интеграция", "api", "мессенджер",
+    "автоматизация", "сценарий", "webhook", "чат",
+    "заголовок", "структура", "раздел", "параграф", "автор", "эксперт",
+]

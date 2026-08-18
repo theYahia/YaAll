@@ -21,6 +21,7 @@ dependencies = [
 [project.optional-dependencies]
 dev = ["pytest>=8.0", "pytest-cov>=5.0"]
 pdf = ["reportlab>=4.0"]
+mcp = ["mcp>=1.10"]              # MCP stdio server (FastMCP); anyio приходит транзитивно
 # v0.2 — semantic similarity vs competitor corpus:
 # llm = ["sentence-transformers>=3.0"]
 # yandex = ["yandex-webmaster-api>=0.0.3", "yandex-cloud-ml-sdk"]
@@ -33,6 +34,7 @@ yageo-schema = "scripts.json_ld_validator:main"
 yageo-audit = "scripts.audit:main"
 yageo-pdf = "scripts.generate_yageo_pdf:main"
 yageo-batch = "scripts.batch_audit:main"
+yageo-mcp = "scripts.mcp_server:main"
 
 [build-system]
 requires = ["hatchling"]

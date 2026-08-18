@@ -32,6 +32,7 @@ from reportlab.platypus import (
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 
+from scripts._common import ensure_utf8_stdout as _ensure_utf8_stdout
 from scripts.audit import audit_url, AuditReport, AggregatedRec
 
 # ---------------------------------------------------------------------------
@@ -367,14 +368,6 @@ def build_pdf(report: AuditReport, out_path: str) -> None:
 # ---------------------------------------------------------------------------
 # CLI
 # ---------------------------------------------------------------------------
-def _ensure_utf8_stdout():
-    if hasattr(sys.stdout, "reconfigure"):
-        try:
-            sys.stdout.reconfigure(encoding="utf-8", errors="replace")
-        except Exception:
-            pass
-
-
 @click.command()
 @click.argument("url")
 @click.option("-o", "--output", "out_path", default=None,

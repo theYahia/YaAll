@@ -15,11 +15,10 @@ Usage:
 from __future__ import annotations
 
 import json
-import os
 import sys
 import time
 import warnings
-from concurrent.futures import ThreadPoolExecutor, as_completed, Future
+from concurrent.futures import ThreadPoolExecutor, Future
 from dataclasses import dataclass, field
 from datetime import datetime
 from pathlib import Path
@@ -34,6 +33,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 _HERE = Path(__file__).parent
 sys.path.insert(0, str(_HERE.parent))
 
+from scripts._common import ensure_utf8_stdout as _ensure_utf8_stdout
 from scripts.epos_scorer import score_url as _score_epos
 from scripts.yandex_crawler_check import check_url as _check_crawlers
 from scripts.content_depth import analyze_url as _analyze_depth
@@ -263,14 +263,6 @@ def render_report(report: AuditReport) -> str:
 
 _SYM = {"HIGH": "✓", "MEDIUM": "⚠", "LOW": "✗"}
 _EFFORT_LABEL = {"LOW": "быстро", "MEDIUM": "средне", "HIGH": "сложно"}
-
-
-def _ensure_utf8_stdout():
-    if hasattr(sys.stdout, "reconfigure"):
-        try:
-            sys.stdout.reconfigure(encoding="utf-8", errors="replace")
-        except Exception:
-            pass
 
 
 def _print_summary(report: AuditReport) -> None:

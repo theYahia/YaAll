@@ -8,16 +8,17 @@ __pycache__/
 .mypy_cache/
 .ruff_cache/
 .venv/
+.venv*/
 venv/
 dist/
 build/
 *.egg-info/
 .DS_Store
 models/
-*.egg-info/
-.venv*/
 .claude/
 .git_replacements.txt
 yageo_audit_*.md
 yageo_audit_*.pdf
 yageo_batch_*.csv
+# локальный dev-конфиг MCP (машино-специфичный путь к .venv); plugin/.mcp.json НЕ игнорируется
+/.mcp.json

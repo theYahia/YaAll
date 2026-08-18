@@ -28,7 +28,8 @@ import click
 import warnings
 warnings.filterwarnings("ignore")
 
-from scripts.epos_scorer import score_url, EposScore
+from scripts._common import ensure_utf8_stdout as _ensure_utf8_stdout
+from scripts.epos_scorer import score_url
 
 
 @dataclass
@@ -44,8 +45,6 @@ class PageResult:
 
 def _fetch_sitemap_urls(site_url: str, limit: Optional[int] = None) -> list[str]:
     """Читает sitemap.xml и возвращает список URL."""
-    from urllib.parse import urljoin
-    import requests
     from usp.tree import sitemap_tree_for_homepage
 
     try:
@@ -153,14 +152,6 @@ def _print_summary(results: list[PageResult], elapsed: float) -> None:
         click.echo(f"  Ошибки ({len(errors)}):")
         for r in errors[:5]:
             click.echo(f"    {r.url}: {r.error}")
-
-
-def _ensure_utf8_stdout():
-    if hasattr(sys.stdout, "reconfigure"):
-        try:
-            sys.stdout.reconfigure(encoding="utf-8", errors="replace")
-        except Exception:
-            pass
 
 
 # ---------------------------------------------------------------------------

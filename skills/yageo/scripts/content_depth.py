@@ -16,7 +16,6 @@ Usage:
 
 from __future__ import annotations
 
-import io
 import json
 import re
 import sys
@@ -27,10 +26,17 @@ from typing import Optional
 warnings.filterwarnings("ignore")
 
 import click
-import requests
 import textstat
-import trafilatura
 from bs4 import BeautifulSoup, Tag
+
+from scripts._common import (
+    ensure_utf8_stdout as _ensure_utf8_stdout,
+    extract_text as _extract_text,
+    fetch_html as _fetch_html,
+    STATUS_SYMBOLS as _SYM,
+    status_symbol as _sym,
+)
+from scripts.config import CFG
 
 
 # ---------------------------------------------------------------------------
@@ -72,38 +78,7 @@ class ContentDepthReport:
 
 
 # ---------------------------------------------------------------------------
-# Fetch & parse
-# ---------------------------------------------------------------------------
-
-_HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/124.0.0.0 Safari/537.36"
-    ),
-    "Accept-Language": "ru-RU,ru;q=0.9",
-}
-
-
-def _fetch_html(url: str) -> str:
-    r = requests.get(url, headers=_HEADERS, timeout=15)
-    r.raise_for_status()
-    r.encoding = r.apparent_encoding or "utf-8"
-    return r.text
-
-
-def _extract_text(html: str) -> str:
-    text = trafilatura.extract(html, include_comments=False, include_tables=True)
-    if text and len(text.strip()) > 50:
-        return text.strip()
-    soup = BeautifulSoup(html, "lxml")
-    for tag in soup(["nav", "header", "footer", "aside", "script", "style"]):
-        tag.decompose()
-    return soup.get_text(separator=" ", strip=True)
-
-
-# ---------------------------------------------------------------------------
-# Section extraction
+# Section extraction (fetch/extract live in scripts._common)
 # ---------------------------------------------------------------------------
 
 _HEADING_TAGS = {"h1", "h2", "h3", "h4"}
@@ -253,34 +228,19 @@ def _detect_speakable(soup: BeautifulSoup, text: str) -> bool:
 # LSI keyword coverage
 # ---------------------------------------------------------------------------
 
-# Base domain keywords for Alice AI / GEO content context.
-# These are generic RU content quality signals (Ashmanov checklist proximity).
-# For a real page, you'd derive LSI from the page's main topic.
-_BASE_LSI_KEYWORDS = [
-    # structure
-    "заголовок", "структура", "раздел", "параграф",
-    # expertise signals
-    "автор", "эксперт", "источник", "исследование", "данные",
-    # usefulness
-    "пример", "кейс", "инструкция", "как", "шаг",
-    # EPOS specifics
-    "алиса", "яндекс", "поиск", "ответ", "запрос",
-]
-
-# For gosmax.ru (bot catalog) — domain-specific terms
-_CATALOG_LSI = [
-    "бот", "команда", "функция", "интеграция", "api", "мессенджер",
-    "автоматизация", "сценарий", "webhook", "чат",
-]
+# LSI-наборы (base / catalog), доменные маркеры URL и пороги — в scripts/config.py
+# (секция [lsi], дублируется в yageo/epos_config.toml). Под свой сайт замени списки в TOML.
 
 
 def _compute_lsi(text: str, url: str) -> tuple[float, list[str], list[str]]:
+    lsi = CFG["lsi"]
     text_lower = text.lower()
-    # Choose keyword set based on URL heuristic
-    if "gosmax" in url or "bot" in url or "catalog" in url:
-        keywords = _CATALOG_LSI + _BASE_LSI_KEYWORDS[:6]
-    else:
-        keywords = _BASE_LSI_KEYWORDS
+    # Доменный профиль: первый, чей url_marker встретился в URL; иначе набор по умолчанию.
+    keywords = lsi["default_keywords"]
+    for profile in lsi.get("profiles", []):
+        if any(marker in url for marker in profile.get("url_markers", [])):
+            keywords = profile["keywords"]
+            break
 
     found = [kw for kw in keywords if kw in text_lower]
     missing = [kw for kw in keywords if kw not in text_lower]
@@ -340,7 +300,7 @@ def _build_recommendations(report: ContentDepthReport) -> list[str]:
         )
 
     # LSI
-    if report.lsi_coverage < 0.5 and report.lsi_missing:
+    if report.lsi_coverage < CFG["lsi"]["coverage_min"] and report.lsi_missing:
         top_missing = report.lsi_missing[:5]
         recs.append(f"Низкое LSI-покрытие ({report.lsi_coverage:.0%}). Добавить: {', '.join(top_missing)}")
 
@@ -390,17 +350,8 @@ def analyze_url(url: str) -> ContentDepthReport:
 
 
 # ---------------------------------------------------------------------------
-# CLI output
+# CLI output  (_SYM / _sym are shared helpers imported from scripts._common)
 # ---------------------------------------------------------------------------
-
-_SYM = {"ok": "✓", "warn": "⚠", "bad": "✗"}
-
-
-def _sym(condition: bool, warn_only: bool = False) -> str:
-    if condition:
-        return _SYM["ok"]
-    return _SYM["warn"] if warn_only else _SYM["bad"]
-
 
 def _print_report(r: ContentDepthReport) -> None:
     click.echo()
@@ -457,14 +408,6 @@ def _print_report(r: ContentDepthReport) -> None:
 # ---------------------------------------------------------------------------
 # Click CLI
 # ---------------------------------------------------------------------------
-
-def _ensure_utf8_stdout():
-    if hasattr(sys.stdout, "reconfigure"):
-        try:
-            sys.stdout.reconfigure(encoding="utf-8", errors="replace")
-        except Exception:
-            pass
-
 
 @click.command()
 @click.argument("url", required=False)
