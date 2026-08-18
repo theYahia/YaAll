@@ -1,0 +1,84 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+# Воркфлоу собирает все MCP-серверы из mcp/ и питон-скиллы из skills/.
+# Каталоги upstream/ не трогаются: это снимки чужого кода, чинить их здесь нечего.
+
+jobs:
+  mcp:
+    name: mcp/${{ matrix.pkg }}
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        pkg:
+          - appmetrica-mcp
+          - yandex-360-mcp
+          - yandex-direct-mcp
+          - yandex-maps-mcp
+          - yandex-metrika-mcp
+          - yandex-search-mcp
+          - yandex-speechkit-mcp
+          - yandex-tracker-mcp
+          - yandex-webmaster-mcp
+          - yandexgpt-mcp
+    defaults:
+      run:
+        working-directory: mcp/${{ matrix.pkg }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # yandex-search-mcp приехал из монорепозитория WWmcp и своего lock-файла
+      # не имеет — там был общий. npm ci без lock падает, поэтому развилка.
+      - name: Install
+        run: |
+          if [ -f package-lock.json ]; then npm ci; else npm install; fi
+
+      - name: Build
+        run: npm run build
+
+      - name: Test
+        run: npm test
+
+  skills-python:
+    name: skills/yageo
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: skills/yageo
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        run: pip install -e ".[dev]" || pip install -e .
+
+      - name: Test
+        run: python -m pytest tests/ -q
+
+  wordstat-gate:
+    name: skills/wordstat-sweep selftest
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.9"
+
+      # Проверяет пороги офлайн: без API, без ключа и без расхода квоты.
+      # Заодно ловит регрессию совместимости — скилл обязан идти с 3.9.
+      - name: Selftest
+        run: python3 skills/wordstat-sweep/scripts/wordstat_gate.py --selftest
