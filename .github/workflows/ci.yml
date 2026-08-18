@@ -62,8 +62,11 @@ jobs:
         with:
           python-version: "3.12"
 
+      # Экстры обязательны: тест MCP-сервера тянет anyio через экстру mcp,
+      # тест генератора PDF — reportlab через pdf. Без них pytest падает
+      # не на ассерте, а на сборе тестов.
       - name: Install
-        run: pip install -e ".[dev]" || pip install -e .
+        run: pip install -e ".[dev,mcp,pdf]"
 
       - name: Test
         run: python -m pytest tests/ -q
