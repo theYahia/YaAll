@@ -81,7 +81,7 @@ describe("get_campaign", () => {
     const { handleGetCampaign } = await import("../tools/campaigns.js");
     mockFetch.mockResolvedValueOnce(mockOk({ result: { Campaigns: [{ Id: 42, Name: "My Campaign" }] } }));
 
-    const result = JSON.parse(await handleGetCampaign({ campaign_id: 42 }));
+    const result = JSON.parse(await handleGetCampaign({ campaign_id: "42" }));
     expect(result.result.Campaigns[0].Id).toBe(42);
     expect(lastBody().params.SelectionCriteria.Ids).toEqual([42]);
   });
@@ -124,7 +124,7 @@ describe("update_campaign", () => {
       .mockResolvedValueOnce(mockOk({ result: { SuspendResults: [{ Id: 1 }] } }))
       .mockResolvedValueOnce(mockOk({ result: { UpdateResults: [{ Id: 1 }] } }));
 
-    await handleUpdateCampaign({ campaign_id: 1, status: "SUSPEND", daily_budget: 100 });
+    await handleUpdateCampaign({ campaign_id: "1", status: "SUSPEND", daily_budget: 100 });
     expect(mockFetch).toHaveBeenCalledTimes(2);
     expect(JSON.parse(mockFetch.mock.calls[0][1].body).method).toBe("suspend");
     const upd = JSON.parse(mockFetch.mock.calls[1][1].body);
@@ -138,7 +138,7 @@ describe("update_campaign", () => {
       .mockResolvedValueOnce(mockOk({ result: { SuspendResults: [{ Id: 1 }] } }))
       .mockResolvedValueOnce(mockOk({ result: { UpdateResults: [{ Errors: [{ Code: 8800, Message: "Бюджет недопустим" }] }] } }));
 
-    const res = await handleUpdateCampaign({ campaign_id: 1, status: "SUSPEND", daily_budget: 1 });
+    const res = await handleUpdateCampaign({ campaign_id: "1", status: "SUSPEND", daily_budget: 1 });
     expect(res).toContain("Бюджет недопустим");
     expect(res).toContain("❌");
   });
@@ -153,7 +153,7 @@ describe("list_ad_groups", () => {
     const { handleListAdGroups } = await import("../tools/ad_groups.js");
     mockFetch.mockResolvedValueOnce(mockOk({ result: { AdGroups: [{ Id: 10, Name: "Group 1", CampaignId: 1 }] } }));
 
-    const result = JSON.parse(await handleListAdGroups({ campaign_ids: [1, 2] }));
+    const result = JSON.parse(await handleListAdGroups({ campaign_ids: ["1", "2"] }));
     expect(result.result.AdGroups).toHaveLength(1);
     expect(lastBody().params.SelectionCriteria.CampaignIds).toEqual([1, 2]);
   });
@@ -169,7 +169,7 @@ describe("create_text_ad", () => {
     mockFetch.mockResolvedValueOnce(mockOk({ result: { AddResults: [{ Id: 200 }] } }));
 
     await handleCreateTextAd({
-      ad_group_id: 10,
+      ad_group_id: "10",
       title: "Buy Now",
       text: "Best deals here",
       href: "https://example.com",
@@ -192,7 +192,7 @@ describe("manage_ads", () => {
     const { handleManageAds } = await import("../tools/ads.js");
     mockFetch.mockResolvedValueOnce(mockOk({ result: { SuspendResults: [{ Id: 1 }, { Id: 2 }] } }));
 
-    await handleManageAds({ ad_ids: [1, 2], action: "suspend" });
+    await handleManageAds({ ad_ids: ["1", "2"], action: "suspend" });
     const body = lastBody();
     expect(body.method).toBe("suspend");
     expect(body.params.SelectionCriteria.Ids).toEqual([1, 2]);
@@ -209,7 +209,7 @@ describe("add_keywords", () => {
     mockFetch.mockResolvedValueOnce(mockOk({ result: { AddResults: [{ Id: 300 }, { Id: 301 }] } }));
 
     await handleAddKeywords({
-      ad_group_id: 10,
+      ad_group_id: "10",
       keywords: ["купить телефон", "смартфон недорого"],
     });
 
@@ -229,7 +229,7 @@ describe("list_keywords", () => {
     const { handleListKeywords } = await import("../tools/keywords.js");
     mockFetch.mockResolvedValueOnce(mockOk({ result: { Keywords: [{ Id: 1, Bid: 30_000_000, ContextBid: 15_000_000 }] } }));
 
-    const res = JSON.parse(await handleListKeywords({ ad_group_ids: [1] }));
+    const res = JSON.parse(await handleListKeywords({ ad_group_ids: ["1"] }));
     expect(res.result.Keywords[0].Bid).toBe(30);
     expect(res.result.Keywords[0].ContextBid).toBe(15);
   });
@@ -244,7 +244,7 @@ describe("set_keyword_bids", () => {
     const { handleSetKeywordBids } = await import("../tools/bids.js");
     mockFetch.mockResolvedValueOnce(mockOk({ result: { SetResults: [{ KeywordId: 1 }] } }));
 
-    await handleSetKeywordBids({ keyword_ids: [1, 2], bid: 12.5 });
+    await handleSetKeywordBids({ keyword_ids: ["1", "2"], bid: 12.5 });
     const body = lastBody();
     expect(body.method).toBe("set");
     expect(body.params.Bids[0].KeywordId).toBe(1);
@@ -259,7 +259,7 @@ describe("set_keyword_bids", () => {
 
   it("rejects when no bid given", async () => {
     const { handleSetKeywordBids } = await import("../tools/bids.js");
-    await expect(handleSetKeywordBids({ keyword_ids: [1] })).rejects.toThrow(/bid/);
+    await expect(handleSetKeywordBids({ keyword_ids: ["1"] })).rejects.toThrow(/bid/);
   });
 });
 
@@ -272,7 +272,7 @@ describe("negative_keywords", () => {
     const { handleSetCampaignNegativeKeywords } = await import("../tools/negative_keywords.js");
     mockFetch.mockResolvedValueOnce(mockOk({ result: { UpdateResults: [{ Id: 1 }] } }));
 
-    await handleSetCampaignNegativeKeywords({ campaign_id: 1, negative_keywords: ["бесплатно", "даром"] });
+    await handleSetCampaignNegativeKeywords({ campaign_id: "1", negative_keywords: ["бесплатно", "даром"] });
     const body = lastBody();
     expect(body.method).toBe("update");
     expect(body.params.Campaigns[0].NegativeKeywords.Items).toEqual(["бесплатно", "даром"]);
@@ -282,7 +282,7 @@ describe("negative_keywords", () => {
     const { handleSetAdGroupNegativeKeywords } = await import("../tools/negative_keywords.js");
     mockFetch.mockResolvedValueOnce(mockOk({ result: { UpdateResults: [{ Id: 5 }] } }));
 
-    await handleSetAdGroupNegativeKeywords({ ad_group_id: 5, negative_keywords: ["скачать"] });
+    await handleSetAdGroupNegativeKeywords({ ad_group_id: "5", negative_keywords: ["скачать"] });
     expect(lastBody().params.AdGroups[0].NegativeKeywords.Items).toEqual(["скачать"]);
   });
 });
@@ -296,7 +296,7 @@ describe("get_statistics", () => {
     const { handleGetStatistics } = await import("../tools/statistics.js");
     mockFetch.mockResolvedValueOnce(mockOk("Date\tCampaignName\tImpressions\n2026-01-01\tTest\t100"));
 
-    const result = await handleGetStatistics({ campaign_ids: [1], date_from: "2026-01-01", date_to: "2026-01-31" });
+    const result = await handleGetStatistics({ campaign_ids: ["1"], date_from: "2026-01-01", date_to: "2026-01-31" });
     expect(result).toContain("Impressions");
   });
 
@@ -306,7 +306,7 @@ describe("get_statistics", () => {
       .mockResolvedValueOnce({ ok: true, status: 202, headers: { get: (k: string) => (k === "retryIn" ? "0" : null) }, text: () => Promise.resolve("") })
       .mockResolvedValueOnce({ ok: true, status: 200, headers: { get: () => null }, text: () => Promise.resolve("Clicks\n5") });
 
-    const res = await handleGetStatistics({ campaign_ids: [1], date_from: "2026-01-01", date_to: "2026-01-31" });
+    const res = await handleGetStatistics({ campaign_ids: ["1"], date_from: "2026-01-01", date_to: "2026-01-31" });
     expect(res).toContain("Clicks");
     expect(mockFetch).toHaveBeenCalledTimes(2);
   });
@@ -369,7 +369,7 @@ describe("error handling", () => {
       result: { AddResults: [{ Id: 1 }, { Errors: [{ Code: 5, Message: "Дубль фразы" }] }] },
     }));
 
-    const res = await handleAddKeywords({ ad_group_id: 1, keywords: ["a", "b"] });
+    const res = await handleAddKeywords({ ad_group_id: "1", keywords: ["a", "b"] });
     expect(res).toContain("Дубль фразы");
     expect(res).toContain("❌");
   });
