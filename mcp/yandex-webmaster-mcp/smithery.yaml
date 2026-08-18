@@ -1,0 +1,43 @@
+name: yandex-webmaster-mcp
+description: MCP server for Yandex.Webmaster API - hosts, indexing, search queries, sitemaps, diagnostics, recrawl.
+version: 2.0.0
+
+startCommand:
+  type: stdio
+  configSchema:
+    type: object
+    properties:
+      YANDEX_WEBMASTER_TOKEN:
+        type: string
+        description: Yandex OAuth token with webmaster:api scope
+      YANDEX_WEBMASTER_USER_ID:
+        type: string
+        description: Optional numeric user ID. Auto-detected from GET /user/ when omitted.
+    required:
+      - YANDEX_WEBMASTER_TOKEN
+  commandFunction: |-
+    (config) => ({
+      command: "npx",
+      args: ["-y", "@theyahia/yandex-webmaster-mcp"],
+      env: {
+        YANDEX_WEBMASTER_TOKEN: config.YANDEX_WEBMASTER_TOKEN,
+        ...(config.YANDEX_WEBMASTER_USER_ID
+          ? { YANDEX_WEBMASTER_USER_ID: config.YANDEX_WEBMASTER_USER_ID }
+          : {})
+      }
+    })
+
+tools:
+  - get_hosts
+  - get_user_info
+  - get_popular_search_queries
+  - get_query_analytics
+  - get_search_queries
+  - get_indexing
+  - get_indexing_history
+  - submit_url
+  - get_recrawl_quota
+  - get_recrawl_task
+  - get_sitemaps
+  - get_diagnostics
+  - get_important_urls

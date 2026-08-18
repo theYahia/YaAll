@@ -1,69 +1,126 @@
 # YaAll
 
-Весь яндексовский слой в одном месте: два официальных MCP-сервера от Яндекса и четыре
-собственных инструмента — MCP под Директ и Метрику, скилл YaGEO и Wordstat-гейт.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![npm](https://img.shields.io/npm/v/@theyahia/yandex-direct-mcp?label=yandex-direct-mcp)](https://www.npmjs.com/package/@theyahia/yandex-direct-mcp)
+[![npm](https://img.shields.io/npm/v/@theyahia/yandex-metrika-mcp?label=yandex-metrika-mcp)](https://www.npmjs.com/package/@theyahia/yandex-metrika-mcp)
 
-**Это канон для всего, что лежит в корне.** Отдельные репозитории, из которых оно
-собрано, заархивированы и указывают сюда. Разработка идёт здесь, обычными коммитами:
-никаких сабмодулей, сабтри и прочей машинерии — просто файлы.
+Весь яндексовский слой для MCP в одном репозитории: **десять своих MCP-серверов**
+(104 инструмента), **четыре набора скиллов** Claude Code и материалы **двух
+официальных наборов** серверов от Яндекса.
+
+**Это канон для всего, что лежит в `mcp/` и `skills/`.** Отдельные репозитории, из
+которых часть этого собрана, заархивированы и указывают сюда. Разработка идёт здесь,
+обычными коммитами: ни сабмодулей, ни сабтри — просто файлы.
 
 ---
 
-## Своё — MIT
+## Быстрый старт
 
-| Каталог | Что это |
+Все свои серверы опубликованы в npm и запускаются без установки:
+
+```jsonc
+// ~/.claude.json  или  claude_desktop_config.json
+{
+  "mcpServers": {
+    "yandex-direct":  { "command": "npx", "args": ["-y", "@theyahia/yandex-direct-mcp"],
+                        "env": { "YANDEX_DIRECT_TOKEN": "..." } },
+    "yandex-metrika": { "command": "npx", "args": ["-y", "@theyahia/yandex-metrika-mcp"],
+                        "env": { "YANDEX_METRIKA_TOKEN": "..." } }
+  }
+}
+```
+
+Переменные окружения у каждого сервера свои — точный список в его `README.md`.
+Скиллы из `skills/` копируются в `~/.claude/skills/` и вызываются как `/имя-скилла`.
+
+---
+
+## `mcp/` — свои MCP-серверы, MIT
+
+| Каталог | Инструментов | Версия | Что делает |
+|---|---:|---|---|
+| `yandex-direct-mcp` | 20 | 4.0.1 | Директ: кампании, группы, объявления, ключевые слова, ставки, минус-фразы, статистика, баланс. Ввод-вывод в рублях, поддержка песочницы |
+| `yandex-metrika-mcp` | 15 | 2.1.1 | Метрика: счётчики, цели, отчёты, логи, источники трафика, топ страниц |
+| `yandex-webmaster-mcp` | 13 | 2.0.0 | Вебмастер: хосты, поисковые запросы, индексация, переобход, карты сайта, диагностика |
+| `yandex-tracker-mcp` | 12 | 1.0.1 | Трекер: задачи, очереди, ворклоги, доски |
+| `yandex-360-mcp` | 10 | 1.0.1 | Яндекс 360: почта, календарь, диск, пользователи |
+| `yandex-maps-mcp` | 10 | 1.0.1 | Карты: геокодинг, маршруты, поиск мест |
+| `appmetrica-mcp` | 8 | 1.0.1 | AppMetrica: мобильная аналитика, когорты, пуши |
+| `yandexgpt-mcp` | 8 | 3.0.1 | YandexGPT: генерация, эмбеддинги, суммаризация |
+| `yandex-speechkit-mcp` | 5 | 1.1.0 | SpeechKit: распознавание и синтез речи |
+| `yandex-search-mcp` | 3 | 1.0.0 | **Wordstat**: `topRequests`, `regions`, `dynamics` — статистика поисковых запросов |
+
+Все опубликованы в npm под `@theyahia/*`.
+
+**`yandex-search-mcp` стоит отдельного слова.** Статистики поисковых запросов нет ни в
+одном официальном сервере Яндекса: оба его поисковых сервера отдают только веб-поиск,
+то есть «найди страницы в интернете». Wordstat при этом живёт в том же Search API —
+эндпоинт `v2/wordstat/topRequests`, тот же ключ и тот же каталог. Яндекс просто не
+завернул его в MCP; этот сервер закрывает пробел.
+
+## `skills/` — скиллы Claude Code, MIT
+
+| Каталог | Что делает |
 |---|---|
-| `yageo/` | Скилл Claude Code: аудит сайта по ЭПОС — Экспертность, Полезность, Оригинальность, Содержательность. Оценивает, попадут ли страницы в ответы Алисы и Yandex AI Search. Питон: `epos_scorer.py`, `audit.py`, `batch_audit.py`, `json_ld_validator.py`, `yandex_crawler_check.py`, плюс четыре субагента и пять JSON-LD схем под РФ. |
-| `yandex-direct-mcp/` | MCP-сервер Яндекс.Директа, TypeScript, 20 инструментов: кампании, группы, объявления, ключевые слова, ставки, минус-слова, статистика, баланс. Ввод-вывод в рублях, поддержка песочницы. Опубликован в npm как `@theyahia/yandex-direct-mcp`. |
-| `yandex-metrika-mcp/` | MCP-сервер Яндекс.Метрики, TypeScript: счётчики, цели, отчёты, логи, источники трафика, топ страниц. |
-| `wordstat-sweep/` | Скилл поверх Wordstat API: валидация спроса под нишу до разработки. Вердикт GO / MAYBE-PILOT / RED по объёму top-3 seed-фраз. Голая стандартная библиотека питона, ноль зависимостей. |
+| `yageo/` | Аудит сайта по ЭПОС — Экспертность, Полезность, Оригинальность, Содержательность. Оценивает, попадут ли страницы в ответы Алисы и Yandex AI Search. Питон: `epos_scorer.py`, `audit.py`, `batch_audit.py`, `content_depth.py`, `json_ld_validator.py`, `yandex_crawler_check.py`, `generate_yageo_pdf.py`, плюс четыре субагента и пять JSON-LD-схем под РФ. Требует Python ≥3.12 и десяток пакетов, см. `pyproject.toml` |
+| `wordstat-sweep/` | Два режима поверх Wordstat API. **Gate** — валидация спроса под нишу до разработки, вердикт GO / MAYBE-PILOT / RED/PIVOT по объёму top-3 seed-фраз, голая стандартная библиотека. **SEO-ядро** — `collect_semantics.py`, сборка семантики перед написанием контента |
+| `yageo-audit/` | Прогон уже задеплоенного сайта через ЭПОС-скорер, `yageo_gate.py`. Парный к `wordstat-sweep`: тот работает до контента, этот после деплоя |
+| `mcp-skills-yandex/` | Девять готовых сценариев поверх серверов выше: аудит Директа, SEO-аудит, недельный отчёт по трафику, ROI, описания товаров, голосовой бот, генерация контента, суммаризация документов, расшифровка звонков |
 
-## `upstream/` — код Яндекса, Apache 2.0
+## `upstream/` — материалы Яндекса, Apache 2.0
 
 | Каталог | Что это | Канон |
 |---|---|---|
-| `upstream/yandex-cloud-mcp/` | Десять MCP-серверов Yandex Cloud: `apigateway`, `containers`, `datacatalog-consumer`, `documentation`, `functions`, `mcpgateway`, `search`, `toolkit`, `triggers`, `workflows`. Клиент публикуется как `@yandex-cloud/mcp`. | [yandex-cloud/mcp](https://github.com/yandex-cloud/mcp) |
-| `upstream/yandex-search-mcp-server/` | Отдельный сервер Yandex Search API на питоне. Два инструмента: `ai_search_post` и `web_search_post`. Есть remote-подключение по SSE, ключ и folder передаются заголовками. | [yandex/yandex-search-mcp-server](https://github.com/yandex/yandex-search-mcp-server) |
+| `yandex-cloud-mcp/` | **Документация** десяти хостовых MCP-серверов Yandex Cloud: `apigateway`, `containers`, `datacatalog-consumer`, `documentation`, `functions`, `mcpgateway`, `search`, `toolkit`, `triggers`, `workflows`. Исходников в репозитории Яндекса нет — серверы работают на его стороне, доступ через клиент `@yandex-cloud/mcp` или streamable HTTP | [yandex-cloud/mcp](https://github.com/yandex-cloud/mcp) |
+| `yandex-search-mcp-server/` | Отдельный сервер Yandex Search API на питоне. Два инструмента: `ai_search_with_yazeka` и `web_search`; в README самого Яндекса они названы `*_post`, это опечатка апстрима. Есть remote-подключение по SSE — ключ и каталог передаются заголовками | [yandex/yandex-search-mcp-server](https://github.com/yandex/yandex-search-mcp-server) |
 
 Здесь канон **не** переезжает: репозитории принадлежат Яндексу, он продолжает их
-развивать. В `upstream/` лежит снимок, снятый на дату из `ИСТОЧНИКИ.md`. Править его
-на месте бессмысленно — правка исчезнет при следующем обновлении снимка. Нужна
-правка в Яндексе — pull request в их репозиторий.
+развивать. В `upstream/` лежит снимок на дату из `ИСТОЧНИКИ.md`. Править его на месте
+бессмысленно — правка исчезнет при следующем обновлении снимка. Нужно поправить код
+Яндекса — pull request в его репозиторий.
 
 ---
 
-## Дыра, которую закрывает `wordstat-sweep`
+## Ключи и доступы
 
-Ни в одном официальном сервере Яндекса нет статистики поисковых запросов. И
-`yandex/yandex-search-mcp-server`, и `yandex-cloud/mcp/servers/search-mcp-server` отдают
-ровно два инструмента веб-поиска — найти страницы в интернете, не более.
+Общего ключа на всю сборку нет, и это главный источник путаницы. Три разных механизма:
 
-При этом сам Wordstat живёт в том же Search API: эндпоинт `v2/wordstat/topRequests`,
-тот же ключ, тот же folder. Яндекс просто не завернул его в MCP. Сторонние
-реализации существуют — [altrr2/yandex-tools-mcp](https://github.com/altrr2/yandex-tools-mcp),
-[georgy-agaev/yandex-direct-metrica-mcp](https://github.com/georgy-agaev/yandex-direct-metrica-mcp), —
-но официальной нет, и в линейке `yandex-*-mcp` это единственный незакрытый брат.
+| Что | Как авторизуется |
+|---|---|
+| `skills/wordstat-sweep`, `skills/yageo-audit` | `YANDEX_SEARCH_API_KEY` + `YANDEX_FOLDER_ID` |
+| `upstream/yandex-search-mcp-server` | Те же значения, но переменные называются `SEARCH_API_KEY` и `FOLDER_ID` — **без префикса** `YANDEX_`. В remote-режиме вместо них заголовки `ApiKey` и `FolderId` |
+| `upstream/yandex-cloud-mcp` | Ключом не пользуется вовсе: OAuth в браузере по умолчанию, либо `yc` CLI, либо IAM-токен в `Authorization: Bearer` плюс заголовок `Folder-Id` |
+| `mcp/*` | У каждого свой токен продукта — Директа, Метрики, Вебмастера и так далее. См. `README.md` внутри каталога |
 
-Здесь Wordstat лежит скиллом, а не MCP-сервером. Обернуть его в
-`yandex-wordstat-mcp` — очевидный следующий шаг, но это отдельная работа.
+**Роль сервисного аккаунта тоже зависит от того, чем пользуешься**, и одного правильного
+ответа нет: `wordstat-sweep` требует `search-api.executor`, документация Яндекса к
+`yandex-search-mcp-server` называет `search-api.editor` и scope `yc.search-api.execute`,
+а его же `search-mcp-server` в Yandex Cloud — `search-api.webSearch.user`.
 
----
+Частая диагностика: HTTP 403 `Permission denied` в Search API чаще означает, что на
+платёжном аккаунте нет денег, а не что роли не хватает.
 
-## Ключи
+## Что сознательно вне сборки
 
-Всё в `upstream/` и `wordstat-sweep` ходит в Yandex Cloud и требует пары
-`YANDEX_SEARCH_API_KEY` + `YANDEX_FOLDER_ID`. У сервисного аккаунта нужна роль
-`search-api.executor` на этот folder, а платёжный аккаунт не должен быть пустым —
-403 `Permission denied` чаще означает именно пустой баланс, а не отсутствие роли.
-
-`yandex-direct-mcp` и `yandex-metrika-mcp` работают на своих токенах,
-см. README внутри каждого.
+- **Свой `theYahia/yandex-cloud-mcp`.** Имя в точности совпадает с каталогом
+  `upstream/yandex-cloud-mcp`, который на самом деле от `yandex-cloud/mcp`. Два
+  одноимённых каталога породили бы вопрос «какой канон» — ровно ту болезнь, от которой
+  эта сборка лечит. Официальные десять серверов уже здесь.
+- **`WWmcp`** — экосистема из 114 MCP-серверов для развивающихся рынков. Яндекс там
+  один вендор из многих; сюда приехал только `servers/yandex-search`.
+- **Остальные 31 скилл из `theYahia/mcp-skills`** — не про Яндекс.
 
 ## Лицензии
 
-Сборка и всё, кроме `upstream/`, — MIT, см. `LICENSE`. Код Яндекса в `upstream/` — Apache 2.0,
-LICENSE-файлы сохранены внутри каждого каталога, атрибуция в `NOTICE`. Ни один
-LICENSE не удалён и не переписан.
+Сборка, `mcp/` и `skills/` — MIT, см. `LICENSE`. Материалы Яндекса в `upstream/` —
+Apache 2.0, LICENSE-файлы сохранены внутри каждого каталога, атрибуция в `NOTICE`.
+Ни один LICENSE не удалён и не переписан, изменений в код Яндекса не вносилось.
 
 Происхождение каждого каталога, точные коммиты снимков и порядок обновления —
 в `ИСТОЧНИКИ.md`.
+
+## Правки
+
+Правки в `mcp/` и `skills/` — обычным pull request сюда. Правки в `upstream/`
+**не принимаются**: это чужой код, изменения затрутся при следующем обновлении
+снимка. Нашли баг у Яндекса — заводите issue в его репозитории по ссылке из таблицы.

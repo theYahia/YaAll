@@ -1,0 +1,81 @@
+{
+  "name": "@theyahia/yandex-webmaster-mcp",
+  "version": "2.0.0",
+  "description": "MCP server for Yandex Webmaster — SEO, indexing, search queries (Russia)",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "yandex-webmaster-mcp": "dist/index.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "clean": "node -e \"require('fs').rmSync('dist',{recursive:true,force:true})\"",
+    "prebuild": "npm run clean",
+    "build": "tsc",
+    "dev": "tsx src/index.ts",
+    "start": "node dist/index.js",
+    "start:http": "node dist/index.js --http",
+    "typecheck": "tsc --noEmit -p tsconfig.test.json",
+    "lint": "eslint src tests",
+    "format": "prettier --check .",
+    "format:write": "prettier --write .",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "prepublishOnly": "npm run build"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "zod": "^3.24.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "eslint": "^9.0.0",
+    "eslint-config-prettier": "^9.1.0",
+    "prettier": "^3.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0",
+    "typescript-eslint": "^8.0.0",
+    "vitest": "^3.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "modelcontextprotocol",
+    "claude",
+    "ai",
+    "llm",
+    "anthropic",
+    "cursor",
+    "ai-tools",
+    "ai-agent",
+    "russian-api",
+    "yandex",
+    "webmaster",
+    "seo",
+    "indexing",
+    "search",
+    "sitemaps",
+    "diagnostics",
+    "yandex-webmaster",
+    "api",
+    "typescript",
+    "marketing"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theYahia/yandex-webmaster-mcp.git"
+  },
+  "homepage": "https://github.com/theYahia/yandex-webmaster-mcp#readme",
+  "author": "theYahia (https://github.com/theYahia)",
+  "mcpName": "io.github.theYahia/yandex-webmaster-mcp"
+}

@@ -1,0 +1,28 @@
+# smithery.yaml — Smithery.ai deployment config
+startCommand:
+  type: stdio
+  configSchema:
+    type: object
+    properties:
+      YANDEX_SPEECHKIT_API_KEY:
+        type: string
+        description: "Yandex Cloud API key for SpeechKit"
+      IAM_TOKEN:
+        type: string
+        description: "IAM token (alternative to API key)"
+      FOLDER_ID:
+        type: string
+        description: "Yandex Cloud folder ID"
+    anyOf:
+      - required: [YANDEX_SPEECHKIT_API_KEY, FOLDER_ID]
+      - required: [IAM_TOKEN, FOLDER_ID]
+  commandFunction: |-
+    (config) => ({
+      command: "npx",
+      args: ["-y", "@theyahia/yandex-speechkit-mcp"],
+      env: {
+        ...(config.YANDEX_SPEECHKIT_API_KEY ? { YANDEX_SPEECHKIT_API_KEY: config.YANDEX_SPEECHKIT_API_KEY } : {}),
+        ...(config.IAM_TOKEN ? { IAM_TOKEN: config.IAM_TOKEN } : {}),
+        FOLDER_ID: config.FOLDER_ID,
+      },
+    })

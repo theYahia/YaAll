@@ -2,16 +2,16 @@ YaAll
 Copyright (c) 2026 theYahia
 
 This product is a compilation. It bundles, unmodified, third-party software
-that is NOT authored by the compiler of this repository.
+that is NOT authored by the maintainer of this compilation.
 
 ================================================================================
 Third-party components — Apache License 2.0
 ================================================================================
 
-The following directories contain software developed by YANDEX LLC:
+The following directories contain material developed by YANDEX LLC:
 
   upstream/yandex-cloud-mcp/
-      Yandex Cloud MCP Servers
+      Yandex Cloud MCP Servers (documentation)
       Copyright YANDEX LLC
       Source: https://github.com/yandex-cloud/mcp
       Licensed under the Apache License, Version 2.0
@@ -31,18 +31,29 @@ Unless required by applicable law or agreed to in writing, software distributed
 under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
 CONDITIONS OF ANY KIND, either express or implied.
 
-These components are included as unmodified snapshots. Exact upstream commits
-are recorded in ИСТОЧНИКИ.md. Neither YANDEX LLC nor the Yandex Cloud project
-endorses or is affiliated with this compilation.
+NO MODIFICATIONS were made to the bundled Apache-2.0 components. They are
+included as verbatim snapshots; the exact upstream commits are recorded in
+ИСТОЧНИКИ.md. Neither YANDEX LLC nor the Yandex Cloud project endorses or is
+affiliated with this compilation.
 
 ================================================================================
 Components under MIT — see LICENSE
 ================================================================================
 
-  yageo/                  originally https://github.com/theYahia/YaGEO
-  yandex-direct-mcp/      originally https://github.com/theYahia/yandex-direct-mcp
-  yandex-metrika-mcp/     originally https://github.com/theYahia/yandex-metrika-mcp
-  wordstat-sweep/         first published here
+  mcp/yandex-direct-mcp/       originally https://github.com/theYahia/yandex-direct-mcp
+  mcp/yandex-metrika-mcp/      originally https://github.com/theYahia/yandex-metrika-mcp
+  mcp/yandex-webmaster-mcp/    from https://github.com/theYahia/yandex-webmaster-mcp
+  mcp/yandex-tracker-mcp/      from https://github.com/theYahia/yandex-tracker-mcp
+  mcp/yandex-360-mcp/          from https://github.com/theYahia/yandex-360-mcp
+  mcp/yandex-maps-mcp/         from https://github.com/theYahia/yandex-maps-mcp
+  mcp/appmetrica-mcp/          from https://github.com/theYahia/appmetrica-mcp
+  mcp/yandexgpt-mcp/           from https://github.com/theYahia/yandexgpt-mcp
+  mcp/yandex-speechkit-mcp/    from https://github.com/theYahia/yandex-speechkit-mcp
+  mcp/yandex-search-mcp/       from https://github.com/theYahia/WWmcp
+  skills/yageo/                originally https://github.com/theYahia/YaGEO
+  skills/mcp-skills-yandex/    from https://github.com/theYahia/mcp-skills
+  skills/wordstat-sweep/       first published here
+  skills/yageo-audit/          first published here
 
-Those three source repositories are archived; this repository is now their
-canonical home. See ИСТОЧНИКИ.md for exact provenance commits.
+The three repositories marked "originally" are archived; this repository is now
+their canonical home. See ИСТОЧНИКИ.md for exact provenance commits.

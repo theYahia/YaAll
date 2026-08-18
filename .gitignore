@@ -1,0 +1,18 @@
+# кэш wordstat_gate.py — создаётся в текущем каталоге при запуске
+.wordstat-cache/
+
+# питон
+__pycache__/
+*.py[cod]
+.venv/
+.coverage
+.pytest_cache/
+
+# node
+node_modules/
+dist/
+*.tsbuildinfo
+.turbo/
+
+# macOS
+.DS_Store

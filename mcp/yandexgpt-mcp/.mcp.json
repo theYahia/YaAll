@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "yandexgpt": {
+      "command": "npx",
+      "args": ["-y", "@theyahia/yandexgpt-mcp"],
+      "env": {
+        "YANDEX_API_KEY": "",
+        "YANDEX_FOLDER_ID": ""
+      }
+    }
+  }
+}

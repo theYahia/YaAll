@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "yandex-speechkit": {
+      "command": "npx",
+      "args": ["-y", "@theyahia/yandex-speechkit-mcp"],
+      "env": {
+        "YANDEX_API_KEY": "",
+        "YANDEX_FOLDER_ID": ""
+      }
+    }
+  }
+}
