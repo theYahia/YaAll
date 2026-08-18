@@ -21,7 +21,9 @@ dependencies = [
 [project.optional-dependencies]
 dev = ["pytest>=8.0", "pytest-cov>=5.0"]
 pdf = ["reportlab>=4.0"]
-mcp = ["mcp>=1.10"]              # MCP stdio server (FastMCP); anyio приходит транзитивно
+mcp = ["mcp>=1.9,<2"]            # MCP stdio server (FastMCP); anyio приходит транзитивно
+                                 # Было >=1.10 — невыполнимо: линейка 1.x кончилась на 1.9.4,
+                                 # поэтому pip ставил 2.x, где mcp.server.fastmcp уже нет.
 # v0.2 — semantic similarity vs competitor corpus:
 # llm = ["sentence-transformers>=3.0"]
 # yandex = ["yandex-webmaster-api>=0.0.3", "yandex-cloud-ml-sdk"]
