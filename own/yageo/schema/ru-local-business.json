@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "{{ИМЯ_БИЗНЕСА}}",
+  "url": "{{URL_САЙТА}}",
+  "telephone": "{{ТЕЛЕФОН}}",
+  "description": "{{ОПИСАНИЕ}}",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "{{УЛИЦА_И_ДОМ}}",
+    "addressLocality": "{{ГОРОД}}",
+    "addressRegion": "{{РЕГИОН}}",
+    "postalCode": "{{ИНДЕКС}}",
+    "addressCountry": "RU"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "{{ШИРОТА}}",
+    "longitude": "{{ДОЛГОТА}}"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "opens": "09:00",
+      "closes": "18:00"
+    }
+  ],
+  "sameAs": [
+    "{{ССЫЛКА_ЯНДЕКС_КАРТЫ}}",
+    "{{ССЫЛКА_2ГИС}}",
+    "{{ССЫЛКА_VK}}"
+  ]
+}

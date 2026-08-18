@@ -1,0 +1,91 @@
+{
+  "type": "search",
+  "query": {
+    "original": "similarweb ai.pixeltools.ru OR rush-analytics.ru traffic 2026",
+    "show_strict_warning": false,
+    "cleaned": "similarweb ai.pixeltools.ru rush-analytics.ru traffic 2026",
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": true,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": false,
+    "state": "",
+    "search_operators": {
+      "applied": true,
+      "cleaned_query": "similarweb ai.pixeltools.ru rush-analytics.ru traffic 2026"
+    }
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "rush-analytics.ru Website Traffic, Ranking, Analytics [October 2025]",
+        "url": "https://www.semrush.com/website/rush-analytics.ru/overview/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "rush-analytics.ru is ranked #21304 in RU with 140.1K Traffic. Categories: Advertising and Marketing, Online Services. Learn more about website traffic, market share, and more!",
+        "page_age": "2025-11-12T00:00:00",
+        "profile": {
+          "name": "Semrush",
+          "url": "https://www.semrush.com/website/rush-analytics.ru/overview/",
+          "long_name": "semrush.com",
+          "img": "https://imgs.search.brave.com/GD33FCUvgaE06wSpBlq37RG8dOGTO6C0uaNB3IpujoQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWEwYzE4MTRi/M2QxZGZmMGMwNmJl/MGYxNzgzZjIzMzMz/OTNlMjEzMjdjY2Qy/M2M1ODE5NmMxMmE5/MTI4NmQ4YS93d3cu/c2VtcnVzaC5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "semrush.com",
+          "hostname": "www.semrush.com",
+          "favicon": "https://imgs.search.brave.com/GD33FCUvgaE06wSpBlq37RG8dOGTO6C0uaNB3IpujoQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWEwYzE4MTRi/M2QxZGZmMGMwNmJl/MGYxNzgzZjIzMzMz/OTNlMjEzMjdjY2Qy/M2M1ODE5NmMxMmE5/MTI4NmQ4YS93d3cu/c2VtcnVzaC5jb20v",
+          "path": "› website  › rush-analytics.ru  › overview"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ZuydbC9Ex2cwmmKpbyM0smIVwQVfbo4OVKzoc6PaTZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuc2VtcnVzaC5j/b20vd2Vic2l0ZS9p/bWFnZXMvb2cvZW4v/ZG9tYWluLW92ZXJ2/aWV3LnBuZw",
+          "original": "https://static.semrush.com/website/images/og/en/domain-overview.png",
+          "logo": false
+        },
+        "age": "November 12, 2025",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Semrush Traffic Analytics Team",
+              "url": "https://www.semrush.com"
+            }
+          ],
+          "date": "Nov 12, 2025",
+          "publisher": {
+            "type": "organization",
+            "name": "Semrush",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/WG-IrxeM8pwi6tq1o4ovoYUQJuMjsFe8WhqfxqIx5G0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/c2VtcnVzaC5jb20v/X19zdGF0aWNfXy9z/ZW1ydXNoLWxvZ28t/NzAwLmpwZw",
+              "original": "https://cdn.semrush.com/__static__/semrush-logo-700.jpg"
+            }
+          }
+        }
+      }
+    ],
+    "family_friendly": true
+  }
+}

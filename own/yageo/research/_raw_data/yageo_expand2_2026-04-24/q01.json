@@ -1,0 +1,543 @@
+{
+  "type": "search",
+  "query": {
+    "original": "Natasha DeepPavlov pymorphy2 razdel russian NER сравнение production",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "GitHub - natasha/naeval: Comparing quality and performance of NLP systems for Russian language",
+        "url": "https://github.com/natasha/naeval",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Naeval — comparing quality and performance of NLP systems for Russian language. Naeval is used to evaluate project Natasha components: Razdel, Navec, Slovnet. ... BiLSTM-CRF NER trained on Collection5. Original repo, docs, paper ... Current SOTA for Russian language. Docs, video ... DeepPavlov solution for BSNLP-2019.",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/natasha/naeval",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› natasha  › naeval"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/vbFYkKvuR3yK7c89o4iggLh0voUCsGV9L4UEQAuu5Qo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yZXBv/c2l0b3J5LWltYWdl/cy5naXRodWJ1c2Vy/Y29udGVudC5jb20v/MjQ5MTQ0MjAyLzY5/NjE4MTAwLWI0ODEt/MTFlYS04MjcyLWYz/NzdmM2QyNTg3YQ",
+          "original": "https://repository-images.githubusercontent.com/249144202/69618100-b481-11ea-8272-f377f3d2587a",
+          "logo": false
+        },
+        "software": {
+          "name": "naeval",
+          "author": "natasha",
+          "is_npm": false,
+          "is_pypi": false,
+          "stars": 50,
+          "forks": 6,
+          "programmingLanguage": "Python 74.1% | Jupyter Notebook 21.5% | Dockerfile 2.7% | Makefile 1.1% | Python 74.1% | Jupyter Notebook 21.5% | Dockerfile 2.7% | Makefile 1.1%"
+        },
+        "extra_snippets": [
+          "Naeval — comparing quality and performance of NLP systems for Russian language. Naeval is used to evaluate project Natasha components: Razdel, Navec, Slovnet. ... BiLSTM-CRF NER trained on Collection5. Original repo, docs, paper ... Current SOTA for Russian language. Docs, video ... DeepPavlov solution for BSNLP-2019."
+        ]
+      },
+      {
+        "title": "Naeval — количественное сравнение систем для русскоязычного NLP",
+        "url": "https://natasha.github.io/naeval/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Проект Natasha решает базовые задачи обработки естественного русского языка: сегментация на токены и предложения, анализ морфологии и синтаксиса, NER...",
+        "profile": {
+          "name": "Natasha",
+          "url": "https://natasha.github.io/naeval/",
+          "long_name": "natasha.github.io",
+          "img": "https://imgs.search.brave.com/0PvDm_Ty8RCo-d_FqJG3Nq54Ve24FSBUgsvcUKqehjY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTVkNzQ5OThi/MTJmMDNmNjdiYmI4/MmViYzljZTc1ZTBl/MzczMmQ5NDFjYzk2/MDFiNjdiOTcxMzEx/OThjMjEzNS9uYXRh/c2hhLmdpdGh1Yi5p/by8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "natasha.github.io",
+          "hostname": "natasha.github.io",
+          "favicon": "https://imgs.search.brave.com/0PvDm_Ty8RCo-d_FqJG3Nq54Ve24FSBUgsvcUKqehjY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTVkNzQ5OThi/MTJmMDNmNjdiYmI4/MmViYzljZTc1ZTBl/MzczMmQ5NDFjYzk2/MDFiNjdiOTcxMzEx/OThjMjEzNS9uYXRh/c2hhLmdpdGh1Yi5p/by8",
+          "path": "› naeval"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/tupkZyY5FxY9dCn76p-WvH1nkegnKiPccAvWAhzEsHU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uYXRh/c2hhLmdpdGh1Yi5p/by9uYWV2YWwvaW1h/Z2VzL3ByZXZpZXcu/cG5n",
+          "original": "https://natasha.github.io/naeval/images/preview.png",
+          "logo": false
+        },
+        "extra_snippets": [
+          "Сетка решений и тестовых датасетов из репозитория Naeval. Инструменты проекта Natasha: Razdel, Navec, Slovnet.",
+          "Natasha — не научный проект, у нас нет цели побить SOTA.",
+          "Проект Natasha решает базовые задачи обработки естественного русского языка: сегментация на токены и предложения, анализ морфологии и синтаксиса, NER.",
+          "Naeval — часть проекта Natasha, набор скриптов для оценки качества и скорости работы открытых инструментов для обработки естественного русского языка:"
+        ]
+      },
+      {
+        "title": "GitHub - natasha/slovnet: Deep Learning based NLP modeling for Russian language · GitHub",
+        "url": "https://github.com/natasha/slovnet",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Slovnet provides high quality practical ... section for more: NER is 1-2% worse than current BERT SOTA by DeepPavlov but 60 times smaller in size (~30 MB) and works fast on CPU (~25 news articles/sec)....",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/natasha/slovnet",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› natasha  › slovnet"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/dvZfojBI9ZV6LuHZsj1dUJwybbUV70H_JZ0rJaLIXZk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yZXBv/c2l0b3J5LWltYWdl/cy5naXRodWJ1c2Vy/Y29udGVudC5jb20v/MjA1ODI3ODA1LzJl/NWU0ZTAwLWI0N2Yt/MTFlYS05NjE4LTAy/NzAzNDMxYjE4Yg",
+          "original": "https://repository-images.githubusercontent.com/205827805/2e5e4e00-b47f-11ea-9618-02703431b18b",
+          "logo": false
+        },
+        "software": {
+          "name": "slovnet",
+          "author": "natasha",
+          "is_npm": false,
+          "is_pypi": false,
+          "stars": 243,
+          "forks": 24,
+          "programmingLanguage": "Python 60.7% | Jupyter Notebook 36.5% | Dockerfile 1.8% | Makefile 1.0%"
+        },
+        "extra_snippets": [
+          "Library is integrated with other Natasha projects: Nerus — large automatically annotated corpus, Razdel — sentence segmenter, tokenizer and Navec — compact Russian embeddings. Slovnet provides high quality practical models for Russian NER, morphology and syntax, see evaluation section for more: NER is 1-2% worse than current BERT SOTA by DeepPavlov but 60 times smaller in size (~30 MB) and works fast on CPU (~25 news articles/sec).",
+          "Slovnet is compated to a number of existing morphology taggers: deeppavlov, deeppavlov_bert, rupostagger, rnnmorph, maru, udpipe, spacy, stanza.",
+          "Slovnet is compated to several existing syntax parsers: udpipe, spacy, deeppavlov, stanza.",
+          "Morphology annotator processes tokenized text. To split the input into sentencies and tokens use Razdel."
+        ]
+      },
+      {
+        "title": "Инструменты для решения NER-задач для русского языка — NTA на vc.ru",
+        "url": "https://vc.ru/newtechaudit/358200-instrumenty-dlya-resheniya-ner-zadach-dlya-russkogo-yazyka",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Передадим текст с данной новостью в Doc(). Далее сегментируем наш текст (Natasha использует для этого еще одну свою разработку именуемую «Раздел» (https://github.com/natasha/razdel )), посмотрим на первые и последние 5 токенов:",
+        "page_age": "2024-04-24T07:34:44",
+        "profile": {
+          "name": "Vc.ru",
+          "url": "https://vc.ru/newtechaudit/358200-instrumenty-dlya-resheniya-ner-zadach-dlya-russkogo-yazyka",
+          "long_name": "vc.ru",
+          "img": "https://imgs.search.brave.com/bM0KkEYXQT4V7IpgOoGP5oGezeQBMQ6PMg3cu7M1oB8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODQxMzViMTEw/ZDgxNDEwNjc5NTFk/NzQyZWYwZThmNDJl/NDYzYzI4MmNlYjFl/MDY1YmQ5OWVmZGJj/N2RhZDYyZC92Yy5y/dS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "vc.ru",
+          "hostname": "vc.ru",
+          "favicon": "https://imgs.search.brave.com/bM0KkEYXQT4V7IpgOoGP5oGezeQBMQ6PMg3cu7M1oB8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODQxMzViMTEw/ZDgxNDEwNjc5NTFk/NzQyZWYwZThmNDJl/NDYzYzI4MmNlYjFl/MDY1YmQ5OWVmZGJj/N2RhZDYyZC92Yy5y/dS8",
+          "path": "  › nta"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/1DN_1gvemG4ZafvIcTzJ_8h7DcVzbSzliqTonFJKs-0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hcGku/dmMucnUvdjIuMS9j/b3Zlci9mYi9jLzM1/ODIwMC8xNzMyNTUw/NzUyL2NvdmVyLmpw/Zw",
+          "original": "https://api.vc.ru/v2.1/cover/fb/c/358200/1732550752/cover.jpg",
+          "logo": false
+        },
+        "age": "April 24, 2024",
+        "extra_snippets": [
+          "Часто приходится работать с большими объемами документов, к примеру, исполнительными листами, заявлениями, договорами, из текстов которых зачастую необходимо извлечь весьма конкретную информацию: ФИО, даты рождения, наименования должности, паспортные данные, адрес, ИНН и наименование компаний, даты подписания документов и так далее.",
+          "Передадим текст с данной новостью в Doc(). Далее сегментируем наш текст (Natasha использует для этого еще одну свою разработку именуемую «Раздел» (https://github.com/natasha/razdel )), посмотрим на первые и последние 5 токенов:",
+          "С лемматизацией (процессом приведения слова к нормальной форме) проблем также не обнаружено. Эта задача решается с помощью известной многим разработкой Яндекса Pymorphy (https://pymorphy2.readthedocs.io/en/stable/user/guide.html ):",
+          "Пожалуй, первое что приходит в голову Data Scientist’у, когда речь идет о NLP или конкретно NER-задачах — это проекты DeepPavlov."
+        ]
+      },
+      {
+        "title": "Natasha — качественный компактный NER для русского языка",
+        "url": "https://natasha.github.io/ner/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "В 2020 году в проекте ... NER, размер модели получился в 75 раз меньше (27МБ), потребление памяти в 30 раз меньше (205МБ), скорость в 2 раза больше на CPU (25 статей в секунду)....",
+        "profile": {
+          "name": "Natasha",
+          "url": "https://natasha.github.io/ner/",
+          "long_name": "natasha.github.io",
+          "img": "https://imgs.search.brave.com/0PvDm_Ty8RCo-d_FqJG3Nq54Ve24FSBUgsvcUKqehjY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTVkNzQ5OThi/MTJmMDNmNjdiYmI4/MmViYzljZTc1ZTBl/MzczMmQ5NDFjYzk2/MDFiNjdiOTcxMzEx/OThjMjEzNS9uYXRh/c2hhLmdpdGh1Yi5p/by8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "natasha.github.io",
+          "hostname": "natasha.github.io",
+          "favicon": "https://imgs.search.brave.com/0PvDm_Ty8RCo-d_FqJG3Nq54Ve24FSBUgsvcUKqehjY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTVkNzQ5OThi/MTJmMDNmNjdiYmI4/MmViYzljZTc1ZTBl/MzczMmQ5NDFjYzk2/MDFiNjdiOTcxMzEx/OThjMjEzNS9uYXRh/c2hhLmdpdGh1Yi5p/by8",
+          "path": "› ner"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ysLFi8xnKjWJldqUC6F0NJnHXXxQ6eD8jsp1aSwiJWg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uYXRh/c2hhLmdpdGh1Yi5p/by9uZXIvaW1hZ2Vz/L3ByZXZpZXcucG5n",
+          "original": "https://natasha.github.io/ner/images/preview.png",
+          "logo": false
+        },
+        "extra_snippets": [
+          "В 2020 году в проекте Natasha нам удалось вплотную приблизится по качеству к DeepPavlov BERT NER, размер модели получился в 75 раз меньше (27МБ), потребление памяти в 30 раз меньше (205МБ), скорость в 2 раза больше на CPU (25 статей в секунду).",
+          "Качество на 1 процентный пункт ниже, чем у SOTA DeepPavlov BERT NER, размер модели в 75 раз меньше, потребление памяти в 30 раз меньше, скорость в 2 раза больше на CPU.",
+          "Natasha (Slovnet NER) = Slovnet BERT NER — аналог DeepPavlov BERT NER + дистилляция через синтетическую разметку (Nerus) в WordCNN-CRF c квантованными эмбеддингами (Navec) + движок для инференса на NumPy.",
+          "Получим Slovnet BERT NER, качество на 0.5 процентных пункта лучше, чем у DeepPavlov BERT NER, размер модели меньше в 4 раза (473МБ), работает в 3 раза быстрее (40 статей в секунду)."
+        ]
+      },
+      {
+        "title": "GitHub - natasha/natasha-spacy: SpaCy official Russian model proposal · GitHub",
+        "url": "https://github.com/natasha/natasha-spacy",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Nerus — part of Natasha project, large silver standard Russian corpus annotated with morphology tags, syntax trees and PER, LOC, ORG NER-tags. Navec — also part of Natasha project, pretrained word embeddings for Russian language. Code in this repo is also available under MIT license. Resulting model is relatively small due to embeddings table pruning (138MB), works fast on CPU. Shows near SOTA performance on tasks of morphology tagging and syntax parsing, beating heavy DeepPavlov BERT on news and wiki domains.",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/natasha/natasha-spacy",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› natasha  › natasha-spacy"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/AXlVkgeoWmVPD1UBg9Qz8PHQZtf_tVHs2DZdPTTirc8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcGVu/Z3JhcGguZ2l0aHVi/YXNzZXRzLmNvbS9h/MTFmMTRiYTNmZWVm/ZjFkNWQwMWVhYWE2/N2IwZGY4MjZhYmFh/ZjQ4NGZmNWY0Y2I4/ZmY2ZTYzOGQ5ZTQ1/ZGMxL25hdGFzaGEv/bmF0YXNoYS1zcGFj/eQ",
+          "original": "https://opengraph.githubassets.com/a11f14ba3feeff1d5d01eaaa67b0df826abaaf484ff5f4cb8ff6e638d9e45dc1/natasha/natasha-spacy",
+          "logo": false
+        },
+        "software": {
+          "name": "natasha-spacy",
+          "author": "natasha",
+          "is_npm": false,
+          "is_pypi": false,
+          "stars": 32,
+          "forks": 4,
+          "programmingLanguage": "Jupyter Notebook 94.6% | Python 5.4%"
+        },
+        "extra_snippets": [
+          "Both Nerus and Navec are adapted to fit SpaCy utilities. Training procedure uses only standart spacy convert, spacy init-model, spacy train. Initialize the environment. We use SpaCy 2.3 for training, Russian language in SpaCy requires PyMorphy for morphology. pip install spacy==2.3.5 pymorphy2==0.8 mkdir -p data train/data train/base train/model",
+          "Nerus — part of Natasha project, large silver standard Russian corpus annotated with morphology tags, syntax trees and PER, LOC, ORG NER-tags. Navec — also part of Natasha project, pretrained word embeddings for Russian language. Code in this repo is also available under MIT license. Resulting model is relatively small due to embeddings table pruning (138MB), works fast on CPU. Shows near SOTA performance on tasks of morphology tagging and syntax parsing, beating heavy DeepPavlov BERT on news and wiki domains.",
+          "On NER task model shows quality comparable to other top Russian systems, beating DeepPavlov, PullEnti, Stanza.",
+          "Use ipymarkup for NER and syntax visualization."
+        ]
+      },
+      {
+        "title": "GitHub - natasha/natasha: Solves basic Russian NLP tasks, API for lower level Natasha projects · GitHub",
+        "url": "https://github.com/natasha/natasha",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Natasha solves basic NLP tasks for Russian language: tokenization, sentence segmentation, word embedding, morphology tagging, lemmatization, phrase normalization, syntax parsing, NER tagging, fact extraction. Quality on every task is similar or better than current SOTAs for Russian language on news articles, see evaluation section. Natasha is not a research project, underlying technologies are built for production. We pay attention to model size, RAM usage and performance. Models run on CPU, use Numpy for inference. Natasha integrates libraries from Natasha project under one convenient API: Razdel — token, sentence segmentation for Russian",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/natasha/natasha",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› natasha  › natasha"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/5V5cCUuJG_OdG7hLLuRKGBJPJ6jd3lSS8XMvHwmelEU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yZXBv/c2l0b3J5LWltYWdl/cy5naXRodWJ1c2Vy/Y29udGVudC5jb20v/NjQ4MzQ3NzgvNmUy/NjM1MDAtYjQ4MS0x/MWVhLTk1MTItZTFh/NjQ2ZjdkNmJi",
+          "original": "https://repository-images.githubusercontent.com/64834778/6e263500-b481-11ea-9512-e1a646f7d6bb",
+          "logo": false
+        },
+        "software": {
+          "name": "natasha",
+          "author": "natasha",
+          "is_npm": false,
+          "is_pypi": false,
+          "stars": 1300,
+          "forks": 113,
+          "programmingLanguage": "Python 71.4% | Jupyter Notebook 28.5% | Makefile 0.1%"
+        },
+        "extra_snippets": [
+          "Natasha solves basic NLP tasks for Russian language: tokenization, sentence segmentation, word embedding, morphology tagging, lemmatization, phrase normalization, syntax parsing, NER tagging, fact extraction. Quality on every task is similar or better than current SOTAs for Russian language on news articles, see evaluation section. Natasha is not a research project, underlying technologies are built for production. We pay attention to model size, RAM usage and performance. Models run on CPU, use Numpy for inference. Natasha integrates libraries from Natasha project under one convenient API: Razdel — token, sentence segmentation for Russian",
+          "Split text into tokens and sentencies. Defines tokens and sents properties of doc. Uses Razdel internally.",
+          "Extract standart named entities: names, locations, organizations. Depends on segmentation step. Defines spans property of doc. Uses Slovnet NER model internally.",
+          "Call ner.print() to visualize NER markup."
+        ]
+      },
+      {
+        "title": "slovnet · PyPI",
+        "url": "https://pypi.org/project/slovnet/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Slovnet provides high quality practical ... section for more: NER is 1-2% worse than current BERT SOTA by DeepPavlov but 60 times smaller in size (~30 MB) and works fast on CPU (~25 news articles/sec)....",
+        "profile": {
+          "name": "PyPI",
+          "url": "https://pypi.org/project/slovnet/",
+          "long_name": "pypi.org",
+          "img": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pypi.org",
+          "hostname": "pypi.org",
+          "favicon": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8",
+          "path": "› project  › slovnet"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lJdaJSfF8JrYle3bvs5zoI0KGv_VB46f4fIqVrxGCmI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9weXBp/Lm9yZy9zdGF0aWMv/aW1hZ2VzL3R3aXR0/ZXIuYWJhZjRiMTku/d2VicA",
+          "original": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+          "logo": false
+        },
+        "software": {
+          "name": "slovnet",
+          "version": "0.6.0",
+          "homepage": "https://github.com/natasha/slovnet",
+          "datePublished": "Jan 23, 2023",
+          "is_npm": false,
+          "is_pypi": true,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "Library is integrated with other Natasha projects: Nerus — large automatically annotated corpus, Razdel — sentence segmenter, tokenizer and Navec — compact Russian embeddings. Slovnet provides high quality practical models for Russian NER, morphology and syntax, see evaluation section for more: NER is 1-2% worse than current BERT SOTA by DeepPavlov but 60 times smaller in size (~30 MB) and works fast on CPU (~25 news articles/sec).",
+          "Slovnet is compated to several existing syntax parsers: udpipe, spacy, deeppavlov, stanza. ... python -m venv ~/.venvs/natasha-slovnet source ~/.venvs/natasha-slovnet/bin/activate pip install -r requirements/dev.txt pip install -e .",
+          "Slovnet is compated to a number of existing morphology taggers: deeppavlov, deeppavlov_bert, rupostagger, rnnmorph, maru, udpipe, spacy, stanza.",
+          "Morphology annotator processes tokenized text. To split the input into sentencies and tokens use Razdel."
+        ]
+      },
+      {
+        "title": "naeval/docker/deeppavlov-ner-ru-bert/Dockerfile at master · natasha/naeval",
+        "url": "https://github.com/natasha/naeval/blob/master/docker/deeppavlov-ner-ru-bert/Dockerfile",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Comparing quality and performance of NLP systems for Russian language - naeval/docker/deeppavlov-ner-ru-bert/Dockerfile at master · natasha/naeval",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/natasha/naeval/blob/master/docker/deeppavlov-ner-ru-bert/Dockerfile",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› natasha  › naeval  › blob  › master  › docker  › deeppavlov-ner-ru-bert  › Dockerfile"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/vbFYkKvuR3yK7c89o4iggLh0voUCsGV9L4UEQAuu5Qo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yZXBv/c2l0b3J5LWltYWdl/cy5naXRodWJ1c2Vy/Y29udGVudC5jb20v/MjQ5MTQ0MjAyLzY5/NjE4MTAwLWI0ODEt/MTFlYS04MjcyLWYz/NzdmM2QyNTg3YQ",
+          "original": "https://repository-images.githubusercontent.com/249144202/69618100-b481-11ea-8272-f377f3d2587a",
+          "logo": false
+        },
+        "software": {
+          "name": "naeval",
+          "author": "natasha",
+          "is_npm": false,
+          "is_pypi": false,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "Comparing quality and performance of NLP systems for Russian language - natasha/naeval"
+        ]
+      },
+      {
+        "title": "naeval/docker/deeppavlov-ner-ru/Dockerfile at master · natasha/naeval",
+        "url": "https://github.com/natasha/naeval/blob/master/docker/deeppavlov-ner-ru/Dockerfile",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Comparing quality and performance of NLP systems for Russian language - naeval/docker/deeppavlov-ner-ru/Dockerfile at master · natasha/naeval",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/natasha/naeval/blob/master/docker/deeppavlov-ner-ru/Dockerfile",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› natasha  › naeval  › blob  › master  › docker  › deeppavlov-ner-ru  › Dockerfile"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/vbFYkKvuR3yK7c89o4iggLh0voUCsGV9L4UEQAuu5Qo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yZXBv/c2l0b3J5LWltYWdl/cy5naXRodWJ1c2Vy/Y29udGVudC5jb20v/MjQ5MTQ0MjAyLzY5/NjE4MTAwLWI0ODEt/MTFlYS04MjcyLWYz/NzdmM2QyNTg3YQ",
+          "original": "https://repository-images.githubusercontent.com/249144202/69618100-b481-11ea-8272-f377f3d2587a",
+          "logo": false
+        },
+        "software": {
+          "name": "naeval",
+          "author": "natasha",
+          "is_npm": false,
+          "is_pypi": false,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "Comparing quality and performance of NLP systems for Russian language - natasha/naeval"
+        ]
+      }
+    ],
+    "family_friendly": true
+  }
+}

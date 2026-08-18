@@ -1,0 +1,602 @@
+{
+  "type": "search",
+  "query": {
+    "original": "yandex site:pypi.org seo sitemap robots",
+    "show_strict_warning": false,
+    "cleaned": "yandex seo sitemap robots",
+    "is_navigational": true,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": "",
+    "search_operators": {
+      "applied": true,
+      "cleaned_query": "yandex seo sitemap robots",
+      "sites": [
+        "pypi.org"
+      ]
+    }
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "yandex-webmaster-api · PyPI",
+        "url": "https://pypi.org/project/yandex-webmaster-api/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "doc - https://yandex.ru/dev/webmaster/doc/dg/reference/host-sitemaps-get.html · params · result = client.get_sitemaps(host_id=&#x27;&lt;host_id&gt;&#x27;) doc - https://yandex.ru/dev/webmaster/doc/dg/reference/host-sitemaps-get.html · params · result = client.get_sitemap(host_id=&#x27;&lt;host_id&gt;&#x27;, sitemap_id=&#x27;&lt;sitemap_id&gt;&#x27;) doc - https://yandex.ru/dev/webmaster/doc/dg/reference/host-user-added-sitemaps-post.html ·",
+        "profile": {
+          "name": "PyPI",
+          "url": "https://pypi.org/project/yandex-webmaster-api/",
+          "long_name": "pypi.org",
+          "img": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pypi.org",
+          "hostname": "pypi.org",
+          "favicon": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8",
+          "path": "› project  › yandex-webmaster-api"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lJdaJSfF8JrYle3bvs5zoI0KGv_VB46f4fIqVrxGCmI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9weXBp/Lm9yZy9zdGF0aWMv/aW1hZ2VzL3R3aXR0/ZXIuYWJhZjRiMTku/d2VicA",
+          "original": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+          "logo": false
+        },
+        "cluster_type": "generic",
+        "cluster": [
+          {
+            "title": "Help",
+            "url": "https://pypi.org/help/",
+            "is_source_local": false,
+            "is_source_both": false,
+            "description": "The Python Package Index (PyPI) is a repository of software for the Python programming language.",
+            "family_friendly": true
+          },
+          {
+            "title": "Sponsors",
+            "url": "https://pypi.org/sponsors/",
+            "is_source_local": false,
+            "is_source_both": false,
+            "description": "The Python Package Index (PyPI) is a repository of software for the Python programming language.",
+            "family_friendly": true
+          },
+          {
+            "title": "Register",
+            "url": "https://pypi.org/account/register/",
+            "is_source_local": false,
+            "is_source_both": false,
+            "description": "The Python Package Index (PyPI) is a repository of software for the Python programming language.",
+            "family_friendly": true
+          },
+          {
+            "title": "Log in",
+            "url": "https://pypi.org/account/login/?next=https://pypi.org/project/yandex-webmaster-api/",
+            "is_source_local": false,
+            "is_source_both": false,
+            "description": "The Python Package Index (PyPI) is a repository of software for the Python programming language.",
+            "family_friendly": true
+          }
+        ],
+        "software": {
+          "name": "yandex-webmaster-api",
+          "version": "0.0.3",
+          "homepage": "https://github.com/bzdvdn/yandex-webmaster-api",
+          "datePublished": "Mar 12, 2024",
+          "is_npm": false,
+          "is_pypi": true,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "doc - https://yandex.ru/dev/webmaster/doc/dg/reference/host-sitemaps-get.html · params · result = client.get_sitemaps(host_id='<host_id>') doc - https://yandex.ru/dev/webmaster/doc/dg/reference/host-sitemaps-get.html · params · result = client.get_sitemap(host_id='<host_id>', sitemap_id='<sitemap_id>') doc - https://yandex.ru/dev/webmaster/doc/dg/reference/host-user-added-sitemaps-post.html ·",
+          "result = client.add_sitemap(host_id='<host_id>', host_url='<host_url>') doc - https://yandex.ru/dev/webmaster/doc/dg/reference/host-user-added-sitemaps-post.html · params · result = client.delete_sitemap(host_id='<host_id>', sitemap_id='<sitemap_id>') doc - https://yandex.ru/dev/webmaster/doc/dg/reference/host-id-summary.html ·",
+          "Details for the file yandex-webmaster-api-0.0.3.tar.gz.",
+          "doc - https://yandex.ru/dev/webmaster/doc/dg/reference/host-search-queries-history-all.html"
+        ]
+      },
+      {
+        "title": "ultimate-sitemap-parser · PyPI",
+        "url": "https://pypi.org/project/ultimate-sitemap-parser/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Ultimate Sitemap Parser (USP) is a performant and robust Python library for parsing and crawling sitemaps.",
+        "profile": {
+          "name": "PyPI",
+          "url": "https://pypi.org/project/ultimate-sitemap-parser/",
+          "long_name": "pypi.org",
+          "img": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pypi.org",
+          "hostname": "pypi.org",
+          "favicon": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8",
+          "path": "› project  › ultimate-sitemap-parser"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lJdaJSfF8JrYle3bvs5zoI0KGv_VB46f4fIqVrxGCmI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9weXBp/Lm9yZy9zdGF0aWMv/aW1hZ2VzL3R3aXR0/ZXIuYWJhZjRiMTku/d2VicA",
+          "original": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+          "logo": false
+        },
+        "software": {
+          "name": "ultimate-sitemap-parser",
+          "version": "1.8.0",
+          "datePublished": "Jan 25, 2026",
+          "is_npm": false,
+          "is_pypi": true,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "Ultimate Sitemap Parser (USP) is a performant and robust Python library for parsing and crawling sitemaps.",
+          "Details for the file ultimate_sitemap_parser-1.8.0.tar.gz.",
+          "Publisher: publish.yml on GateNLP/ultimate-sitemap-parser Attestations: Values shown here reflect the state when the release was signed and may no longer be current.",
+          "sitemap_tree_for_homepage() will return a tree of AbstractSitemap subclass objects that represent the sitemap hierarchy found on the website; see a reference of AbstractSitemap subclasses."
+        ]
+      },
+      {
+        "title": "sitemap_grabber · PyPI",
+        "url": "https://pypi.org/project/sitemap_grabber/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Grab and recursively parse website sitemaps, robots.txt, and other related files.",
+        "profile": {
+          "name": "PyPI",
+          "url": "https://pypi.org/project/sitemap_grabber/",
+          "long_name": "pypi.org",
+          "img": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pypi.org",
+          "hostname": "pypi.org",
+          "favicon": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8",
+          "path": "› project  › sitemap_grabber"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lJdaJSfF8JrYle3bvs5zoI0KGv_VB46f4fIqVrxGCmI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9weXBp/Lm9yZy9zdGF0aWMv/aW1hZ2VzL3R3aXR0/ZXIuYWJhZjRiMTku/d2VicA",
+          "original": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+          "logo": false
+        },
+        "software": {
+          "name": "sitemap_grabber",
+          "version": "1.0.1",
+          "codeRepository": "https://github.com/simplecto/sitemap_grabber",
+          "datePublished": "Oct 12, 2024",
+          "is_npm": false,
+          "is_pypi": true,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "from sitemap_grabber import SitemapGrabber # Initialize the SitemapGrabber with a website URL grabber = SitemapGrabber(\"https://example.com\") # Fetch all sitemaps grabber.get_all_sitemaps() # Print the discovered sitemap URLs for url in grabber.sitemap_urls: print(url) ... from well_known_files import WellKnownFiles # Initialize the WellKnownFiles with a website URL wkf = WellKnownFiles(\"https://example.com\") # Fetch robots.txt robots_txt = wkf.fetch(\"robots.txt\") print(robots_txt) # Fetch security.txt security_txt = wkf.fetch(\"security.txt\") print(security_txt)",
+          "sitemap_grabber-1.0.1.tar.gz (13.0 kB view hashes)"
+        ]
+      },
+      {
+        "title": "sphinx-sitemap · PyPI",
+        "url": "https://pypi.org/project/sphinx-sitemap/1.1.0/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Add a robots.txt file in the source directory which contains a link to the sitemap or sitemapindex.",
+        "profile": {
+          "name": "PyPI",
+          "url": "https://pypi.org/project/sphinx-sitemap/1.1.0/",
+          "long_name": "pypi.org",
+          "img": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pypi.org",
+          "hostname": "pypi.org",
+          "favicon": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8",
+          "path": "› project  › sphinx-sitemap  › 1.1.0"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lJdaJSfF8JrYle3bvs5zoI0KGv_VB46f4fIqVrxGCmI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9weXBp/Lm9yZy9zdGF0aWMv/aW1hZ2VzL3R3aXR0/ZXIuYWJhZjRiMTku/d2VicA",
+          "original": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+          "logo": false
+        },
+        "software": {
+          "name": "sphinx-sitemap",
+          "version": "1.1.0",
+          "homepage": "https://github.com/jdillard/sphinx-sitemap",
+          "datePublished": "Dec 13, 2019",
+          "is_npm": false,
+          "is_pypi": true,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "A Sphinx extension to silently generate multiversion and multilanguage sitemaps.org compliant sitemaps for the HTML version of your Sphinx documentation.",
+          "Add sphinx_sitemap to the extensions array in your Sphinx conf.py.",
+          "For multiversion sitemaps, you have to generate a sitemap per version and then manually add their locations to a sitemapindex file.",
+          "For multilingual sitemaps, you have to generate a sitemap per language/locale and then manually add their locations to a sitemapindex file."
+        ]
+      },
+      {
+        "title": "django-robots · PyPI",
+        "url": "https://pypi.org/project/django-robots/0.9.1/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "This is a basic Django application to manage robots.txt files following the robots exclusion protocol, complementing the Django Sitemap contrib app.",
+        "profile": {
+          "name": "PyPI",
+          "url": "https://pypi.org/project/django-robots/0.9.1/",
+          "long_name": "pypi.org",
+          "img": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pypi.org",
+          "hostname": "pypi.org",
+          "favicon": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8",
+          "path": "› project  › django-robots  › 0.9.1"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/_bg7bbaZrJJaEl12tzN7lOAr-fd7o0Seo8N-r9yNafc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9weXBp/Lm9yZy9zdGF0aWMv/aW1hZ2VzL3R3aXR0/ZXIuNmZlY2JhNmYu/anBn",
+          "original": "https://pypi.org/static/images/twitter.6fecba6f.jpg",
+          "logo": false
+        },
+        "software": {
+          "name": "django-robots",
+          "author": "Jannis Leidel",
+          "version": "0.9.1",
+          "homepage": "https://github.com/jezdez/django-robots/",
+          "datePublished": "Nov 23, 2012",
+          "is_npm": false,
+          "is_pypi": true,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "This is especially useful if you allow every robot to access your whole site, since it then gets URLs explicitly instead of searching every link. To change the default behaviour to omit the inclusion of a sitemap link, change the ROBOTS_USE_SITEMAP setting in your Django settings file to:",
+          "This is a basic Django application to manage robots.txt files following the robots exclusion protocol, complementing the Django Sitemap contrib app.",
+          "Deprecated ROBOTS_SITEMAP_URL setting.",
+          "Use ROBOTS_SITEMAP_URLS instead."
+        ]
+      },
+      {
+        "title": "sitemap-generator · PyPI",
+        "url": "https://pypi.org/project/sitemap-generator/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Download URL: sitemap_generator-0.9.13-py3-none-any.whl",
+        "profile": {
+          "name": "PyPI",
+          "url": "https://pypi.org/project/sitemap-generator/",
+          "long_name": "pypi.org",
+          "img": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pypi.org",
+          "hostname": "pypi.org",
+          "favicon": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8",
+          "path": "› project  › sitemap-generator"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lJdaJSfF8JrYle3bvs5zoI0KGv_VB46f4fIqVrxGCmI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9weXBp/Lm9yZy9zdGF0aWMv/aW1hZ2VzL3R3aXR0/ZXIuYWJhZjRiMTku/d2VicA",
+          "original": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+          "logo": false
+        },
+        "software": {
+          "name": "sitemap-generator",
+          "version": "0.9.13",
+          "homepage": "https://github.com/Haikson/sitemap-generator",
+          "datePublished": "Jul 08, 2023",
+          "is_npm": false,
+          "is_pypi": true,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "Details for the file sitemap-generator-0.9.13.tar.gz.",
+          "sitemap-generator-0.9.13.tar.gz (13.5 kB view details)",
+          "Details for the file sitemap_generator-0.9.13-py3-none-any.whl.",
+          "Download URL: sitemap_generator-0.9.13-py3-none-any.whl"
+        ]
+      },
+      {
+        "title": "django-sitemap-generate",
+        "url": "https://pypi.org/project/django-sitemap-generate/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "JavaScript is disabled in your browser · Please enable JavaScript to proceed · A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser",
+        "profile": {
+          "name": "PyPI",
+          "url": "https://pypi.org/project/django-sitemap-generate/",
+          "long_name": "pypi.org",
+          "img": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pypi.org",
+          "hostname": "pypi.org",
+          "favicon": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8",
+          "path": "› project  › django-sitemap-generate"
+        }
+      },
+      {
+        "title": "xml-sitemap-writer · PyPI",
+        "url": "https://pypi.org/project/xml-sitemap-writer/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "For easier discovery of your sitemap add its URL to /robots.txt file:",
+        "profile": {
+          "name": "PyPI",
+          "url": "https://pypi.org/project/xml-sitemap-writer/",
+          "long_name": "pypi.org",
+          "img": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pypi.org",
+          "hostname": "pypi.org",
+          "favicon": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8",
+          "path": "› project  › xml-sitemap-writer"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lJdaJSfF8JrYle3bvs5zoI0KGv_VB46f4fIqVrxGCmI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9weXBp/Lm9yZy9zdGF0aWMv/aW1hZ2VzL3R3aXR0/ZXIuYWJhZjRiMTku/d2VicA",
+          "original": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+          "logo": false
+        },
+        "software": {
+          "name": "xml-sitemap-writer",
+          "version": "0.7.0",
+          "homepage": "https://github.com/pigs-will-fly/py-xml-sitemap-writer",
+          "datePublished": "Oct 16, 2025",
+          "is_npm": false,
+          "is_pypi": true,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "For easier discovery of your sitemap add its URL to /robots.txt file:",
+          "This package is meant to generate sitemaps with hundred of thousands of URLs in memory-efficient way by making use of iterators to populate sitemap with URLs.",
+          "from typing import Iterator from xml_sitemap_writer import XMLSitemap def get_products_for_sitemap() -> Iterator[str]: \"\"\" Replace the logic below with a query from your database.",
+          "sitemap.xml and sitemap-00N.xml.gz files will be generated once this code runs:"
+        ]
+      },
+      {
+        "title": "dynamic-sitemap · PyPI",
+        "url": "https://pypi.org/project/dynamic-sitemap/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The sitemap generator for Python projects.",
+        "profile": {
+          "name": "PyPI",
+          "url": "https://pypi.org/project/dynamic-sitemap/",
+          "long_name": "pypi.org",
+          "img": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pypi.org",
+          "hostname": "pypi.org",
+          "favicon": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8",
+          "path": "› project  › dynamic-sitemap"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lJdaJSfF8JrYle3bvs5zoI0KGv_VB46f4fIqVrxGCmI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9weXBp/Lm9yZy9zdGF0aWMv/aW1hZ2VzL3R3aXR0/ZXIuYWJhZjRiMTku/d2VicA",
+          "original": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+          "logo": false
+        },
+        "software": {
+          "name": "dynamic-sitemap",
+          "version": "1.0.0a1",
+          "homepage": "https://github.com/KazakovDenis/dynamic-sitemap",
+          "datePublished": "Nov 06, 2021",
+          "is_npm": false,
+          "is_pypi": true,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "The sitemap generator for Python projects.",
+          "The simple sitemap generator for Python projects.",
+          "Then run your server and visit http://mysite.com/sitemap.xml.",
+          "from datetime import datetime from dynamic_sitemap import SimpleSitemap, ChangeFreq urls = [ '/', {'loc': '/contacts', 'changefreq': ChangeFreq.NEVER.value}, {'loc': '/about', 'priority': 0.9, 'lastmod': datetime.now().isoformat()}, ] sitemap = SimpleSitemap('https://mysite.com', urls) # or sitemap.render() sitemap.write('static/sitemap.xml')"
+        ]
+      },
+      {
+        "title": "yandex-maps · PyPI",
+        "url": "https://pypi.org/project/yandex-maps/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "В settings.py добавляем переменную YANDEX_MAPS_API_KEY со своим API-ключом от Яндекса.",
+        "profile": {
+          "name": "PyPI",
+          "url": "https://pypi.org/project/yandex-maps/",
+          "long_name": "pypi.org",
+          "img": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pypi.org",
+          "hostname": "pypi.org",
+          "favicon": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8",
+          "path": "› project  › yandex-maps"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lJdaJSfF8JrYle3bvs5zoI0KGv_VB46f4fIqVrxGCmI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9weXBp/Lm9yZy9zdGF0aWMv/aW1hZ2VzL3R3aXR0/ZXIuYWJhZjRiMTku/d2VicA",
+          "original": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+          "logo": false
+        },
+        "software": {
+          "name": "yandex-maps",
+          "version": "0.7",
+          "homepage": "https://bitbucket.org/kmike/yandex-maps/",
+          "datePublished": "Aug 02, 2013",
+          "is_npm": false,
+          "is_pypi": true,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "Details for the file yandex-maps-0.7.tar.gz.",
+          "фильтр static_map_url и тег yandex_map теперь поддерживают Point из GeoDjango (можно их применять к PointField с уже заполненными координатами);",
+          "В settings.py добавляем переменную YANDEX_MAPS_API_KEY со своим API-ключом от Яндекса.",
+          "‘yandex_maps’ добавляем в INSTALLED_APPS"
+        ]
+      }
+    ],
+    "family_friendly": true
+  }
+}

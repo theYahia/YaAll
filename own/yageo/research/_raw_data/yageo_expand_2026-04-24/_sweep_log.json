@@ -1,0 +1,14 @@
+{
+  "generated": "2026-04-24T09:14:14Z",
+  "duration_seconds": 10.02,
+  "total_queries": 10,
+  "stats": {
+    "web_ok": 10,
+    "unique_hostnames": 34
+  },
+  "warnings": [
+    "- [Rush-Agency Yandex AI GEO методология че]: 4 JSON-serialized snippets",
+    "- [Serpstat Topvisor \"Алиса AI\" генеративная выдача Я]: Brave altered → 'serpstat topvisor алиса ai генеративная выдача яндекс'",
+    "- [\"Yandex Webmaster API\" site:yandex.ru/dev endpoint]: zero web results"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "type": "search",
+  "query": {
+    "original": "\"yandex webmaster api\" site:yandex.ru/dev endpoints Алиса",
+    "show_strict_warning": false,
+    "cleaned": "yandex webmaster api endpoints Алиса",
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": true,
+    "should_fallback": true,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": false,
+    "state": "",
+    "search_operators": {
+      "applied": true,
+      "cleaned_query": "yandex webmaster api endpoints Алиса",
+      "sites": [
+        "yandex.ru/dev"
+      ]
+    }
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [],
+    "top": [],
+    "side": []
+  }
+}

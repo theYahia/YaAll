@@ -1,0 +1,1028 @@
+{
+  "type": "search",
+  "query": {
+    "original": "gitverse.ru repositories ranking discovery popular",
+    "show_strict_warning": false,
+    "is_navigational": true,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "discussions": {
+    "type": "search",
+    "results": [
+      {
+        "title": "how to check popular repos and other stats in github? - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/23170132/how-to-check-popular-repos-and-other-stats-in-github",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "I 'm not able to find the way of finding out which repos have most stars , most forked and according to each language. There is no direct link to statistics and when I go to stars , it only shows my",
+        "fetched_content_timestamp": 1776635338,
+        "language": "en",
+        "family_friendly": true,
+        "type": "discussion",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "stackoverflow.com",
+          "hostname": "stackoverflow.com",
+          "favicon": "https://imgs.search.brave.com/4WRMec_wn8Q9LO6DI43kkBvIL6wD5TYCXztC9C9kEI0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWU3Zjg0ZjA1/YjQ3ZTlkNjQ1ODA1/MjAwODhiNjhjYWU0/OTc4MjM4ZDJlMTBi/ODExYmNiNTkzMjdh/YjM3MGExMS9zdGFj/a292ZXJmbG93LmNv/bS8",
+          "path": "› questions  › 23170132  › how-to-check-popular-repos-and-other-stats-in-github"
+        },
+        "data": {
+          "forum_name": "stackoverflow.com"
+        }
+      },
+      {
+        "title": "How to find out \"The most popular repositories\" on Github? - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/19855552/how-to-find-out-the-most-popular-repositories-on-github",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Once upon a time, we can watch the most popular repositories (Most forked or Most watched) at this page (https://github.com/popular/watched) of Github. like this: But now when you try to explore re...",
+        "fetched_content_timestamp": 1772704945,
+        "language": "en",
+        "family_friendly": true,
+        "type": "discussion",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "stackoverflow.com",
+          "hostname": "stackoverflow.com",
+          "favicon": "https://imgs.search.brave.com/4WRMec_wn8Q9LO6DI43kkBvIL6wD5TYCXztC9C9kEI0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWU3Zjg0ZjA1/YjQ3ZTlkNjQ1ODA1/MjAwODhiNjhjYWU0/OTc4MjM4ZDJlMTBi/ODExYmNiNTkzMjdh/YjM3MGExMS9zdGFj/a292ZXJmbG93LmNv/bS8",
+          "path": "› questions  › 19855552  › how-to-find-out-the-most-popular-repositories-on-github"
+        },
+        "data": {
+          "forum_name": "stackoverflow.com"
+        }
+      },
+      {
+        "title": "The most starred GitHub repos are learning resources",
+        "url": "https://www.reddit.com/r/learnprogramming/comments/1gdezx8/the_most_starred_github_repos_are_learning/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "That is interesting. I would have not thought that at first but it makes sense. Most software projects out there are designed to fill a niche of some industry and is not going to have the full breadth of eyes on it. However, learning resources can service devs from all areas of development working on projects of all shapes and sizes.",
+        "fetched_content_timestamp": 1776978275,
+        "language": "en",
+        "family_friendly": true,
+        "type": "discussion",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "reddit.com",
+          "hostname": "www.reddit.com",
+          "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+          "path": "› r  › learnprogramming  › comments  › 1gdezx8  › the_most_starred_github_repos_are_learning"
+        },
+        "age": "October 27, 2024",
+        "data": {
+          "forum_name": "r/learnprogramming",
+          "num_answers": 11,
+          "score": "94",
+          "title": "The most starred GitHub repos are learning resources",
+          "question": "<p>\n      What sort of repo is valuable to the open-source community? Looked at star ranking to find out, the top 3 are: <a rpl class=\"relative pointer-events-auto a cursor-pointer\n  \n  \n  \n  \n  underline\n  \" href=\"https://github.com/freeCodeCamp/freeCodeCamp\" rel=\"noopener nofollow ugc\" target=\"_blank\">freeCodeCamp</a> 405k, <a rpl class=\"relative pointer-events-auto a cursor-pointer\n  \n  \n  \n  \n  underline\n  \" href=\"https://github.com/EbookFoundation/free-programming-books\" rel=\"noopener nofollow ugc\" target=\"_blank\">free-programming-books</a> 337k, <a rpl class=\"relative pointer-events-auto a cursor-pointer\n  \n  \n  \n  \n  underline\n  \" href=\"https://github.com/sindresorhus/awesome\" rel=\"noopener nofollow ugc\" target=\"_blank\">awesome</a> 330k.\n    </p><p>\n      The top 8 are learning resources like libraries, hands-on projects, and curriculums/roadmaps. Nice to note that the star count doesn&#39;t fully correlate to a ranking of &#39;the most valuable&#39; contributions to open-source. <a rpl class=\"relative pointer-events-auto a cursor-pointer\n  \n  \n  \n  \n  underline\n  \" href=\"https://github.com/torvalds/linux\" rel=\"noopener nofollow ugc\" target=\"_blank\">linux</a> is at 18 with 181k\n    </p><p>\n      <a rpl class=\"relative pointer-events-auto a cursor-pointer\n  \n  \n  \n  \n  underline\n  \" href=\"https://github.com/search?o=desc&amp;q=stars%3A%3E0&amp;s=stars&amp;type=repositories\" rel=\"noopener nofollow ugc\" target=\"_blank\">search query</a>\n    </p>",
+          "top_comment": "That is interesting. I would have not thought that at first but it makes sense. Most software projects out there are designed to fill a niche of some industry and is not going to have the full breadth of eyes on it. However, learning resources can service devs from all areas of development working on projects of all shapes and sizes."
+        }
+      },
+      {
+        "title": "Best Github repositories?",
+        "url": "https://www.reddit.com/r/AskComputerScience/comments/1fzm1kq/best_github_repositories/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Just do GitHub Advanced Search, https://github.com/search/advanced , do \"With this many stars\" > 20000 , and scroll through all the repos. Or filter it by a programming language and do the same thing.",
+        "fetched_content_timestamp": 1775469977,
+        "language": "en",
+        "family_friendly": true,
+        "type": "discussion",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "reddit.com",
+          "hostname": "www.reddit.com",
+          "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+          "path": "› r  › AskComputerScience  › comments  › 1fzm1kq  › best_github_repositories"
+        },
+        "age": "October 9, 2024",
+        "data": {
+          "forum_name": "r/AskComputerScience",
+          "num_answers": 15,
+          "score": "1",
+          "title": "Best Github repositories?",
+          "question": "<p>\n      What are the &quot;best&quot; Github repositories in your opinion?<br>Why are those the best?<br>Which one is your favourite?\n    </p>",
+          "top_comment": "Just do GitHub Advanced Search, https://github.com/search/advanced , do \"With this many stars\" > 20000 , and scroll through all the repos. Or filter it by a programming language and do the same thing."
+        }
+      },
+      {
+        "title": "Interesting GitHub Repositories",
+        "url": "https://www.reddit.com/r/DataHoarder/comments/1cr14sg/interesting_github_repositories/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Check out the various awesome lists on GitHub, here is one of several overviews , they are lists of cool projects on GitHub by topic.",
+        "fetched_content_timestamp": 1775670645,
+        "language": "en",
+        "family_friendly": true,
+        "type": "discussion",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "reddit.com",
+          "hostname": "www.reddit.com",
+          "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+          "path": "› r  › DataHoarder  › comments  › 1cr14sg  › interesting_github_repositories"
+        },
+        "age": "May 13, 2024",
+        "data": {
+          "forum_name": "r/DataHoarder",
+          "num_answers": 6,
+          "score": "2",
+          "title": "Interesting GitHub Repositories",
+          "question": "<p>\n      I discovered <a rpl class=\"relative pointer-events-auto a cursor-pointer\n  \n  \n  \n  \n  underline\n  \" href=\"https://github.com/stacks/stacks-project\" rel=\"noopener nofollow ugc\" target=\"_blank\">Stacks Project</a> over at GitHub. Also see <a rpl class=\"relative pointer-events-auto a cursor-pointer\n  \n  \n  \n  \n  underline\n  \" href=\"https://stacks.math.columbia.edu/\" rel=\"noopener nofollow ugc\" target=\"_blank\">the webpage</a>.\n    </p><p>\n      Git repositories of this kind are easy to hoard and some could be very interesting. Personally I&#39;m interested less in backing up all kinds of code packages, but more in knowledge bases like stacks.\n    </p><p>\n      Anything else you guys can recommend?\n    </p>",
+          "top_comment": "Check out the various awesome lists on GitHub, here is one of several overviews , they are lists of cool projects on GitHub by topic."
+        }
+      },
+      {
+        "title": "Fake GitHub Stars",
+        "url": "https://www.reddit.com/r/opensource/comments/10gesz4/fake_github_stars/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "It’s interesting how people use different metrics to determine whether a project is good or not. I typically ignore stars and look at a project’s documentation. If the project takes their documentation seriously it’s probably good regardless of number of stars.  IMO.",
+        "fetched_content_timestamp": 1776629507,
+        "language": "en",
+        "family_friendly": true,
+        "type": "discussion",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "reddit.com",
+          "hostname": "www.reddit.com",
+          "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+          "path": "› r  › opensource  › comments  › 10gesz4  › fake_github_stars"
+        },
+        "age": "January 19, 2023",
+        "data": {
+          "forum_name": "r/opensource",
+          "num_answers": 49,
+          "score": "99",
+          "title": "Fake GitHub Stars",
+          "question": "<p>\n      GitHub stars are usually a good indicator for popular, and widely used OSS projects. Popular projects, which are usually relatively mature, get many stars.\n    </p><p>\n      Hence most OSS projects on GitHub would want to have as many stars as they can, to indicate the maturity of the project, and drive more adoption.\n    </p><p>\n      I&#39;ve noticed a worriesome phenomenon on GitHub recently, where a project has many stars (usually in the thousands) and many forks, gained within weeks, indicating it&#39;s a trending and popular project.\n    </p><p>\n      But when looking deeply into it, it becomes very apparent that there&#39;s no way anyone actually uses it. (No open issues, no PRs, no active and no steady code commits). So the amount of stars and forks is probably fake.\n    </p><p>\n      Have you ever encountered this? What do you think about it?\n    </p>",
+          "top_comment": "It’s interesting how people use different metrics to determine whether a project is good or not. I typically ignore stars and look at a project’s documentation. If the project takes their documentation seriously it’s probably good regardless of number of stars.  IMO."
+        }
+      },
+      {
+        "title": "What are your favourite repositories in the wilderness of Github to learn from?",
+        "url": "https://www.reddit.com/r/Frontend/comments/181eh8p/what_are_your_favourite_repositories_in_the/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Yeah I didn’t like that “Trending” feature at first. Felt too social networky for GitHub. But I love it now and another thing I like to do is follow people I know are extremely good at programming and just take a look at the repos they are contributing to",
+        "fetched_content_timestamp": 1775734045,
+        "language": "en",
+        "family_friendly": true,
+        "type": "discussion",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "reddit.com",
+          "hostname": "www.reddit.com",
+          "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+          "path": "› r  › Frontend  › comments  › 181eh8p  › what_are_your_favourite_repositories_in_the"
+        },
+        "age": "November 22, 2023",
+        "data": {
+          "forum_name": "r/Frontend",
+          "num_answers": 9,
+          "score": "25",
+          "title": "What are your favourite repositories in the wilderness of Github to learn from?",
+          "question": "<p>\n      Hi, with 5+ years of experience, I wanted to make that transition to &quot;Senior FE&quot; in terms of skills and knowledge as a passionate frontend developer and started studying large, open source code bases. My current favourite list is:\n    </p><ol>\n        <li>\n      <p>\n      <a rpl class=\"relative pointer-events-auto a cursor-pointer\n  \n  \n  \n  \n  underline\n  \" href=\"https://github.com/huggingface/chat-ui\" rel=\"noopener nofollow ugc\" target=\"_blank\">Chat UI from Hugging face</a>\n    </p>\n    </li><li>\n      <p>\n      <a rpl class=\"relative pointer-events-auto a cursor-pointer\n  \n  \n  \n  \n  underline\n  \" href=\"https://github.com/opencollective/opencollective-frontend\" rel=\"noopener nofollow ugc\" target=\"_blank\">Opencollective Frontend</a>\n    </p>\n    </li>\n      </ol><p>\n      You ever look at a cool code base and wonder how did they do it? (At least I do). Yea, well, one way to get to that level is by exposing yourself consistently to open source codebases that you find in the wilderness of Github.\n    </p><p>\n      I try to checkout Github&#39;s <a rpl class=\"relative pointer-events-auto a cursor-pointer\n  \n  \n  \n  \n  underline\n  \" href=\"https://github.com/trending\" rel=\"noopener nofollow ugc\" target=\"_blank\">Trending</a> at least once a day and when I find something interesting, I fork it on Github and add it to my learning collection.\n    </p><p>\n      Do you have such repositories which you visit time and time to learn from and apply at workj ? if so, can you please share the links? so we as community can learn from that.\n    </p>",
+          "top_comment": "Yeah I didn’t like that “Trending” feature at first. Felt too social networky for GitHub. But I love it now and another thing I like to do is follow people I know are extremely good at programming and just take a look at the repos they are contributing to"
+        }
+      },
+      {
+        "title": "Let's see your most popular Open Source projects!",
+        "url": "https://www.reddit.com/r/github/comments/1e25yiw/lets_see_your_most_popular_open_source_projects/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "I've created Mockoon, an API mocking tool: https://mockoon.com More than 600k downloads and tens of thousands of users.",
+        "fetched_content_timestamp": 1776931669,
+        "language": "en",
+        "family_friendly": true,
+        "type": "discussion",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "reddit.com",
+          "hostname": "www.reddit.com",
+          "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+          "path": "› r  › github  › comments  › 1e25yiw  › lets_see_your_most_popular_open_source_projects"
+        },
+        "age": "July 13, 2024",
+        "data": {
+          "forum_name": "r/github",
+          "num_answers": 47,
+          "score": "53",
+          "title": "Let's see your most popular Open Source projects!",
+          "question": "<p>\n      I&#39;m curious to see what awesome open-source projects everyone here has created! Share your most popular one (or a few!) in the comments below.\n    </p><p>\n      I&#39;ll start:\n    </p><ul>\n        <li>\n      <p>\n      paypal Go SDK (664 stars) <a rpl class=\"relative pointer-events-auto a cursor-pointer\n  \n  \n  \n  \n  underline\n  \" href=\"https://github.com/netlify/PayPal-Go-SDK\" rel=\"noopener nofollow ugc\" target=\"_blank\">https://github.com/netlify/PayPal-Go-SDK</a>\n    </p>\n    </li><li>\n      <p>\n      Wit AI Go SDK (152 stars) <a rpl class=\"relative pointer-events-auto a cursor-pointer\n  \n  \n  \n  \n  underline\n  \" href=\"https://github.com/wit-ai/wit-go\" rel=\"noopener nofollow ugc\" target=\"_blank\">https://github.com/wit-ai/wit-go</a>\n    </p>\n    </li><li>\n      <p>\n      Collection of Go challenges (777 stars) <a rpl class=\"relative pointer-events-auto a cursor-pointer\n  \n  \n  \n  \n  underline\n  \" href=\"https://github.com/topics/practice-golang\" rel=\"noopener nofollow ugc\" target=\"_blank\">https://github.com/topics/practice-golang</a>\n    </p>\n    </li>\n      </ul><p>\n      Now it&#39;s your turn! Let&#39;s inspire each other and discover some hidden gems in the open-source world.\n    </p>",
+          "top_comment": "I've created Mockoon, an API mocking tool: https://mockoon.com More than 600k downloads and tens of thousands of users."
+        }
+      },
+      {
+        "title": "What’s the coolest GitHub repo you’ve ever stumbled on by accident?",
+        "url": "https://www.reddit.com/r/github/comments/1jhl8ad/whats_the_coolest_github_repo_youve_ever_stumbled/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Not exactly an accident (someone shared it on Reddit), but here is the original code for Apollo 11 .",
+        "fetched_content_timestamp": 1776889688,
+        "language": "en",
+        "family_friendly": true,
+        "type": "discussion",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "reddit.com",
+          "hostname": "www.reddit.com",
+          "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+          "path": "› r  › github  › comments  › 1jhl8ad  › whats_the_coolest_github_repo_youve_ever_stumbled"
+        },
+        "age": "March 22, 2025",
+        "data": {
+          "forum_name": "r/github",
+          "num_answers": 181,
+          "score": "1526",
+          "title": "What’s the coolest GitHub repo you’ve ever stumbled on by accident?",
+          "question": "<p>\n      You know those moments when you’re deep in a rabbit hole and suddenly land on a repo that just blows your mind—maybe it solves a problem you didn’t know you had, or it’s just brilliantly written? Share your accidental gems—I need some fresh inspiration!\n    </p>",
+          "top_comment": "Not exactly an accident (someone shared it on Reddit), but here is the original code for Apollo 11 ."
+        }
+      },
+      {
+        "title": "I have 4 projects with 1000+ stars on Github. What's the best way I can show this off when I graduate and apply for jobs?",
+        "url": "https://www.reddit.com/r/cscareerquestions/comments/6ch5rl/i_have_4_projects_with_1000_stars_on_github_whats/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "There's some critical replies here that I strongly disagree with, and I do actually hire people. From my perspective the biggest thing I care about is that you can deliver software that people actually want to use, and work with a team. Leading a successful open source project is a great way of showing you can do both these things! To me it means a lot more than some resume filler \"personal project\" - you're creating serious value here if your projects have been forked by that many people, and that you've been able to build an active community around them speaks volumes about your soft skills. I'd focus less on the stars and more on the forks though -- anyone can star a repo, but forks show more engagement. If you can say something like \"Developed open source project X, which grew a community of Y contributors and is in production at company Z and W\", you're gonna win.",
+        "fetched_content_timestamp": 1776444874,
+        "language": "en",
+        "family_friendly": true,
+        "type": "discussion",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "reddit.com",
+          "hostname": "www.reddit.com",
+          "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+          "path": "› r  › cscareerquestions  › comments  › 6ch5rl  › i_have_4_projects_with_1000_stars_on_github_whats"
+        },
+        "age": "May 21, 2017",
+        "data": {
+          "forum_name": "r/cscareerquestions",
+          "num_answers": 55,
+          "score": "48",
+          "title": "I have 4 projects with 1000+ stars on Github. What's the best way I can show this off when I graduate and apply for jobs?",
+          "question": "<p>\n      Not to sound braggy, but I have created four projects (in the last year) with 1000+ stars. They&#39;re not trivial stuff (like some of the &quot;awesome-*&quot; repos), I&#39;m quite proud of them. They&#39;re open source projects with great code quality and one of them actually has an active community of contributors now.\n    </p><p>\n      I don&#39;t want to sound petty by writing the number of stars each project in my resume. I&#39;m a junior at uni and come August, I&#39;ll be looking for full time jobs (gunning for the big4). Is it a good idea to say &quot;Project X has Y number of stars on Github&quot;?\n    </p>",
+          "top_comment": "There's some critical replies here that I strongly disagree with, and I do actually hire people. From my perspective the biggest thing I care about is that you can deliver software that people actually want to use, and work with a team. Leading a successful open source project is a great way of showing you can do both these things! To me it means a lot more than some resume filler \"personal project\" - you're creating serious value here if your projects have been forked by that many people, and that you've been able to build an active community around them speaks volumes about your soft skills. I'd focus less on the stars and more on the forks though -- anyone can star a repo, but forks show more engagement. If you can say something like \"Developed open source project X, which grew a community of Y contributors and is in production at company Z and W\", you're gonna win."
+        }
+      },
+      {
+        "title": "10 GitHub repos worth knowing",
+        "url": "https://www.reddit.com/r/devops/comments/1cm9r45/10_github_repos_worth_knowing/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Can you link the repos instead of a YouTube video?",
+        "fetched_content_timestamp": 1776791409,
+        "language": "en",
+        "family_friendly": true,
+        "type": "discussion",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "reddit.com",
+          "hostname": "www.reddit.com",
+          "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+          "path": "› r  › devops  › comments  › 1cm9r45  › 10_github_repos_worth_knowing"
+        },
+        "age": "May 7, 2024",
+        "data": {
+          "forum_name": "r/devops",
+          "num_answers": 7,
+          "score": "0",
+          "title": "10 GitHub repos worth knowing",
+          "question": "<p>\n      Hi, I wanted to share with you some great repositories on GitHub - 10 GitHub repos worth knowing <a rpl class=\"relative pointer-events-auto a cursor-pointer\n  \n  \n  \n  \n  underline\n  \" href=\"https://youtu.be/kiHL6mytf-0?feature=shared\" rel=\"noopener nofollow ugc\" target=\"_blank\">https://youtu.be/kiHL6mytf-0?feature=shared</a>\n    </p><p>\n      You can find a lot of free, organized and valuable knowledge there. Maps that will show you the way to become a Developer, DevOps, Architect, someone who earns a lot of money. The books are available in various languages. Games that help you learn by playing. Free courses and certificates that will help develop your career.<br>I have prepared a short video in which you will see what you will find in these repositories, I hope it will be useful.\n    </p><p>\n      Below some links from the video:<br><a rpl class=\"relative pointer-events-auto a cursor-pointer\n  \n  \n  \n  \n  underline\n  \" href=\"https://github.com/sindresorhus/awesome\" rel=\"noopener nofollow ugc\" target=\"_blank\">https://github.com/sindresorhus/awesome</a>, <a rpl class=\"relative pointer-events-auto a cursor-pointer\n  \n  \n  \n  \n  underline\n  \" href=\"https://github.com/EbookFoundation/free-programming-books\" rel=\"noopener nofollow ugc\" target=\"_blank\">https://github.com/EbookFoundation/free-programming-books</a>, <a rpl class=\"relative pointer-events-auto a cursor-pointer\n  \n  \n  \n  \n  underline\n  \" href=\"https://github.com/kamranahmedse/developer-roadmap\" rel=\"noopener nofollow ugc\" target=\"_blank\">https://github.com/kamranahmedse/developer-roadmap</a>, <a rpl class=\"relative pointer-events-auto a cursor-pointer\n  \n  \n  \n  \n  underline\n  \" href=\"https://github.com/MunGell/awesome-for-beginners\" rel=\"noopener nofollow ugc\" target=\"_blank\">https://github.com/MunGell/awesome-for-beginners</a>, <a rpl class=\"relative pointer-events-auto a cursor-pointer\n  \n  \n  \n  \n  underline\n  \" href=\"https://github.com/lmammino/awesome-learn-by-playing\" rel=\"noopener nofollow ugc\" target=\"_blank\">https://github.com/lmammino/awesome-learn-by-playing</a>, <a rpl class=\"relative pointer-events-auto a cursor-pointer\n  \n  \n  \n  \n  underline\n  \" href=\"https://github.com/danistefanovic/build-your-own-x\" rel=\"noopener nofollow ugc\" target=\"_blank\">https://github.com/danistefanovic/build-your-own-x</a> \n    </p>",
+          "top_comment": "Can you link the repos instead of a YouTube video?"
+        }
+      },
+      {
+        "title": "Good git repository",
+        "url": "https://www.reddit.com/r/dotnet/comments/1d7yu1d/good_git_repository/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Here's an interesting reference for a real enterprise software setup. https://github.com/dotnet/eShop",
+        "fetched_content_timestamp": 1770257259,
+        "language": "en",
+        "family_friendly": true,
+        "type": "discussion",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "reddit.com",
+          "hostname": "www.reddit.com",
+          "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+          "path": "› r  › dotnet  › comments  › 1d7yu1d  › good_git_repository"
+        },
+        "age": "June 4, 2024",
+        "data": {
+          "forum_name": "r/dotnet",
+          "num_answers": 6,
+          "score": "1",
+          "title": "Good git repository",
+          "question": "<p>Can anybody please suggest good git repository which has examples for minimal api , unit testing , c# latest features and to learn things with c#</p>",
+          "top_comment": "Here's an interesting reference for a real enterprise software setup. https://github.com/dotnet/eShop"
+        }
+      }
+    ],
+    "mutated_by_goggles": false
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "discussions",
+        "all": true
+      },
+      {
+        "type": "videos",
+        "all": true
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "videos": {
+    "type": "videos",
+    "results": [
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=CPh92l4NLQ8",
+        "title": "GitVerse Российская платформа для работы ...",
+        "description": "GitVerse - это открытая платформа для совместной работы над проектами, основанная на Git и использующая технологию блокчейн. Она была создана для того, чтобы...",
+        "age": "March 2, 2024",
+        "page_age": "2024-03-02T11:45:01",
+        "fetched_content_timestamp": 1716938437,
+        "video": {
+          "duration": "08:32",
+          "views": 3205,
+          "creator": "ITDoctor",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/OrgPMTTF2VuCvEtfWZ_YaKQNYrG1LFMg-wveAaPU1aE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9D/UGg5Mmw0TkxROC9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/CPh92l4NLQ8/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=ZIATvD9oo6o",
+        "title": "Убийца GitHub? GitVerse Российская платформа.",
+        "description": "Российская платформа для работы с исходным кодом: https://gitverse.ruИнструкция SSH: https://clck.ru/39kHQRУроки по Git: https://youtube.com/playlist?list=PL",
+        "age": "March 29, 2024",
+        "page_age": "2024-03-29T15:22:15",
+        "fetched_content_timestamp": 1719936827,
+        "video": {
+          "duration": "15:33",
+          "views": 822,
+          "creator": "Cделано на Unreal Engine",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/sNexw-6jnD2jl2NgJv1qL6Gdevir-5-SenUT5nG1Rsc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9a/SUFUdkQ5b282by9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/ZIATvD9oo6o/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=jwrLHHvFi0E",
+        "title": "Как работать с Git LFS (+ бонус: GitVerse 19.0.0) ...",
+        "description": "В GitVerse 19.0.0 добавили LFS даже для репозиториев организаций. Это совершенно бесплатно. Вам не нужно никаких премиум учеток. Достаточно большие лимиты, к...",
+        "age": "August 15, 2025",
+        "page_age": "2025-08-15T12:25:48",
+        "fetched_content_timestamp": 1757993708,
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Bm_8FJXPMO7igRIWFdNtYQqD665WTrV8IMtsYz7BNVs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9q/d3JMSEh2RmkwRS9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/jwrLHHvFi0E/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=jo7bcJC10tM",
+        "title": "GitVerse — пространство для развития, ...",
+        "description": "Дмитрий Чуканов, ведущий эксперт по технологиям GitVerseЧат по open source ИТМО - https://t.me/itmo_opensourceScientific Open SourceМитап \"Научный open sourc",
+        "age": "August 7, 2025",
+        "page_age": "2025-08-07T13:25:19",
+        "fetched_content_timestamp": 1764026004,
+        "video": {
+          "duration": "40:17",
+          "creator": "NSS Lab ITMO",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/e91-coE1mvEjDfZEFapth1oZFTUwSbChTNZbZgUh2JU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9q/bzdiY0pDMTB0TS9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/jo7bcJC10tM/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=txpzUUIVkd8",
+        "title": "GitVerse: открой вселенную кода - YouTube",
+        "description": "GitVerse — это открытая платформа от Сбера с AI-помощником для совместной разработки и хостинга кода.29 марта в 10:00 МСК на онлайн-презентации «GitVerse: от...",
+        "age": "March 29, 2024",
+        "page_age": "2024-03-29T10:40:59",
+        "fetched_content_timestamp": 1731588440,
+        "video": {
+          "duration": "04:04:21",
+          "views": 2829,
+          "creator": "Habr",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/oQtTm_H6SexCEpxe-QQi5YXt5tR6DeVyFd3i1rfjoWk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS90/eHB6VVVJVmtkOC9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/txpzUUIVkd8/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=HvlUhmOa-xg",
+        "title": "ТЕСТИРУЮ РОССИЙСКУЮ GIT-ПЛАТФОРМУ - YouTube",
+        "description": "Регистрируйтесь на GitVerse: https://bit.ly/3Zo31z7У GitVerse есть телеграм-канал, в котором можно задать любые вопросы команде и следить за развитием платфо...",
+        "age": "November 28, 2024",
+        "page_age": "2024-11-28T09:24:59",
+        "fetched_content_timestamp": 1759732086,
+        "video": {
+          "duration": "13:32",
+          "creator": "Alek OS",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/qCqlNDyXd8J30gbT3TviBVi9nEDMTAFfrGeuIpnL_K4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9I/dmxVaG1PYS14Zy9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/HvlUhmOa-xg/maxresdefault.jpg"
+        }
+      }
+    ],
+    "mutated_by_goggles": false
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Gitstar Ranking - Top GitHub users and repositories",
+        "url": "https://gitstar-ranking.com/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Gitstar Ranking is a GitHub star ranking. You can see top 10,000 users, organizations and repositories. Find your favorite user. See what is your rank.",
+        "profile": {
+          "name": "Gitstar Ranking",
+          "url": "https://gitstar-ranking.com/",
+          "long_name": "gitstar-ranking.com",
+          "img": "https://imgs.search.brave.com/UOa3KJi1OwKIhOXQg9WXjubTDOd8aLEFKbH2CYC5bic/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWNjNTkwMTIw/YThkYjI0MGFjOTI0/Y2RkNjhmZWM1MGY4/YzEwNzM5N2JlMTMy/YjdhZDNhNjFjOTNh/MWNjOGVjOC9naXRz/dGFyLXJhbmtpbmcu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "gitstar-ranking.com",
+          "hostname": "gitstar-ranking.com",
+          "favicon": "https://imgs.search.brave.com/UOa3KJi1OwKIhOXQg9WXjubTDOd8aLEFKbH2CYC5bic/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWNjNTkwMTIw/YThkYjI0MGFjOTI0/Y2RkNjhmZWM1MGY4/YzEwNzM5N2JlMTMy/YjdhZDNhNjFjOTNh/MWNjOGVjOC9naXRz/dGFyLXJhbmtpbmcu/Y29tLw",
+          "path": ""
+        }
+      },
+      {
+        "title": "Trending repositories on GitHub today · GitHub",
+        "url": "https://github.com/trending",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. ... OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
+        "page_age": "2026-04-02T12:57:05",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/trending",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› trending"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Ak6HThvSqywc3-m9bLCqUL8AA_8s3vzsf8Bgi4yo0ds/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9naXRo/dWIuZ2l0aHViYXNz/ZXRzLmNvbS9hc3Nl/dHMvZ2l0aHViLW9j/dG9jYXQtMTNjODZi/OGIzMzZkLnBuZw",
+          "original": "https://github.githubassets.com/assets/github-octocat-13c86b8b336d.png",
+          "logo": false
+        },
+        "age": "3 weeks ago",
+        "extra_snippets": [
+          "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. ... OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
+          "Oromo Oriya Ossetian, Ossetic Punjabi, Panjabi Pali Persian Polish Pashto, Pushto Portuguese Quechua Romansh Rundi Romanian, Moldavian, Moldovan Russian Sanskrit Sardinian Sindhi Northern Sami Samoan Sango Serbian Gaelic, Scottish Gaelic Shona Sinhala, Sinhalese Slovak Slovenian Somali Southern Sotho Spanish, Castilian Sundanese Swahili Swati Swedish Tamil Telugu Tajik Thai Tigrinya Tibetan Turkmen Tagalog Tswana Tonga (Tonga Islands) Turkish Tsonga Tatar Twi Tahitian Uighur, Uyghur Ukrainian Urdu Uzbek Venda Vietnamese Volapük Walloon Welsh Wolof Western Frisian Xhosa Yiddish Yoruba Zhuang, Chuang Zulu",
+          "Unknown languages 1C Enterprise 2-Dimensional Array 4D ABAP ABAP CDS ABNF ActionScript Ada Adblock Filter List Adobe Font Metrics Agda AGS Script AIDL Aiken AL ALGOL Alloy Alpine Abuild Altium Designer AMPL AngelScript Answer Set Programming Ant Build System Antlers ANTLR ApacheConf Apex API Blueprint APL Apollo Guidance Computer AppleScript Arc AsciiDoc ASL ASN.1 Classic ASP ASP.NET AspectJ Assembly Astro Asymptote ATS Augeas AutoHotkey AutoIt Avro IDL Awk B (Formal Method) B4X Ballerina BASIC Batchfile Beef Befunge Berry BibTeX BibTeX Style Bicep Bikeshed Bison BitBake Blade BlitzBasic Blitz"
+        ]
+      },
+      {
+        "title": "GitHub - EvanLi/Github-Ranking: :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新",
+        "url": "https://github.com/EvanLi/Github-Ranking",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": ":star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新 - EvanLi/Github-Ranking",
+        "page_age": "2026-04-02T05:01:20",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/EvanLi/Github-Ranking",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› EvanLi  › Github-Ranking"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Od1SFywO0QpHp6_06GhWE7HfcxCw4bLLmmIbiRf_Jk4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcGVu/Z3JhcGguZ2l0aHVi/YXNzZXRzLmNvbS9k/NjM4NzZhZGUzOWFj/OWRjMTJiN2Q0Y2Zl/MzA1YjA1NDY0ZTY4/MzEyZmYyZTU1ZmRi/YzE0YmJhNzNhNjE3/YzNjL0V2YW5MaS9H/aXRodWItUmFua2lu/Zw",
+          "original": "https://opengraph.githubassets.com/d63876ade39ac9dc12b7d4cfe305b05464e68312ff2e55fdbc14bba73a617c3c/EvanLi/Github-Ranking",
+          "logo": false
+        },
+        "age": "3 weeks ago",
+        "software": {
+          "name": "Github-Ranking",
+          "author": "EvanLi",
+          "is_npm": false,
+          "is_pypi": false,
+          "stars": 11000,
+          "forks": 646,
+          "programmingLanguage": "Python 96.7% | Shell 3.0% | Ruby 0.3%"
+        },
+        "extra_snippets": [
+          "Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. ... Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 ... 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+          "File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.",
+          "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.",
+          "GPT4All: Run Local LLMs on Any Device."
+        ]
+      },
+      {
+        "title": "Repositories Ranking - Gitstar Ranking",
+        "url": "https://gitstar-ranking.com/repositories",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "See the top 10,000 GitHub repositories on GitHub Ranking.",
+        "profile": {
+          "name": "Gitstar Ranking",
+          "url": "https://gitstar-ranking.com/repositories",
+          "long_name": "gitstar-ranking.com",
+          "img": "https://imgs.search.brave.com/UOa3KJi1OwKIhOXQg9WXjubTDOd8aLEFKbH2CYC5bic/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWNjNTkwMTIw/YThkYjI0MGFjOTI0/Y2RkNjhmZWM1MGY4/YzEwNzM5N2JlMTMy/YjdhZDNhNjFjOTNh/MWNjOGVjOC9naXRz/dGFyLXJhbmtpbmcu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "gitstar-ranking.com",
+          "hostname": "gitstar-ranking.com",
+          "favicon": "https://imgs.search.brave.com/UOa3KJi1OwKIhOXQg9WXjubTDOd8aLEFKbH2CYC5bic/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWNjNTkwMTIw/YThkYjI0MGFjOTI0/Y2RkNjhmZWM1MGY4/YzEwNzM5N2JlMTMy/YjdhZDNhNjFjOTNh/MWNjOGVjOC9naXRz/dGFyLXJhbmtpbmcu/Y29tLw",
+          "path": "› repositories"
+        },
+        "extra_snippets": [
+          "Shell 52. rust-lang/rust rust 112012",
+          "A modern runtime for JavaScript and TypeScript.",
+          "Set up a modern web app by running one command.",
+          "Python 88. ruanyf/weekly weekly 87791"
+        ]
+      },
+      {
+        "title": "GitHub - GitVerse-HQ/gitverse · GitHub",
+        "url": "https://github.com/GitVerse-HQ/gitverse",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Gitverse supports open-source projects to mint programmable NFTs to realize project copyright tracking, value accumulation, and developer ecological incentives.",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/GitVerse-HQ/gitverse",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› GitVerse-HQ  › gitverse"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/NBgUqLgvFSXERlUyXAGOXNY8apuvFTN1SbxwNXtyVBk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcGVu/Z3JhcGguZ2l0aHVi/YXNzZXRzLmNvbS9i/ZDNiZjIxYTI5ODk0/MmY0OWE3ODQxMDI5/MjU5OTQ2MzE3YWI0/ODBhNmQ2ZWY0ZjA3/NDlhNzU1NGIzNDlj/MmVjL0dpdFZlcnNl/LUhRL2dpdHZlcnNl",
+          "original": "https://opengraph.githubassets.com/bd3bf21a298942f49a7841029259946317ab480a6d6ef4f0749a7554b349c2ec/GitVerse-HQ/gitverse",
+          "logo": false
+        },
+        "software": {
+          "name": "gitverse",
+          "author": "GitVerse-HQ",
+          "is_npm": false,
+          "is_pypi": false,
+          "stars": 3,
+          "forks": 2,
+          "programmingLanguage": "JavaScript 56.7% | Solidity 41.1% | Shell 2.2%"
+        },
+        "extra_snippets": [
+          "Gitverse supports open-source projects to mint programmable NFTs to realize project copyright tracking, value accumulation, and developer ecological incentives.",
+          "Currently, all codes are uploaded to the gitverse code warehouse based on the commitId point, and later optimized to only upload the code that is different from the previous commitId.",
+          "gitverse init Create a gitverse code warehouse in the current directory, and create a smart contract based on the repository name;",
+          "gitverse add <pathlist...> Add the specified file or directory to the gitverse code staging area"
+        ]
+      },
+      {
+        "title": "| GitVerse",
+        "url": "https://gitverse.ru/docs/collaborative/repositories/guides/repository-workflow/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "21. GET /orgs/{org}/actions/runners — получить список раннеров для организации",
+        "profile": {
+          "name": "Gitverse",
+          "url": "https://gitverse.ru/docs/collaborative/repositories/guides/repository-workflow/",
+          "long_name": "gitverse.ru",
+          "img": "https://imgs.search.brave.com/yE8NKwp7QtDR1xx6jyBRtig8Apb_1a7SZSIyASVCEsM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTgxYTEwMzdk/OGJlNTQxNjY2MGJj/YmYyMTkyMjEzNzFj/ODI4YTg0NGI4NGQy/NDQxNWMwMDQzNGQx/YmQ5N2VkOS9naXR2/ZXJzZS5ydS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "gitverse.ru",
+          "hostname": "gitverse.ru",
+          "favicon": "https://imgs.search.brave.com/yE8NKwp7QtDR1xx6jyBRtig8Apb_1a7SZSIyASVCEsM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTgxYTEwMzdk/OGJlNTQxNjY2MGJj/YmYyMTkyMjEzNzFj/ODI4YTg0NGI4NGQy/NDQxNWMwMDQzNGQx/YmQ5N2VkOS9naXR2/ZXJzZS5ydS8",
+          "path": "› docs  › collaborative  › repositories  › guides  › repository-workflow"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Yc89Sayrrm7ozhJPWh9bmiUnQJ4B4x0I69Uxh8gJyuQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9naXR2/ZXJzZS5ydS9kb2Nz/L2dpdF92ZXJzZS5q/cGc",
+          "original": "https://gitverse.ru/docs/git_verse.jpg",
+          "logo": false
+        },
+        "extra_snippets": [
+          "21. GET /orgs/{org}/actions/runners — получить список раннеров для организации",
+          "22. POST /orgs/{org}/actions/runners/registration-token — создать токен регистрации раннера для организации",
+          "23. GET /orgs/{org}/actions/runners/{runner_id} — получить информацию о раннере для организации",
+          "24. DELETE /orgs/{org}/actions/runners/{runner_id} — удалить раннер из организации"
+        ]
+      },
+      {
+        "title": "🌟 200+ Ultimate Open-Source Repositories: The Developer’s Curated Guide [2026] — 🚀 (Curated by Category) | top-github-repos-list",
+        "url": "https://md8-habibullah.github.io/top-github-repos-list/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "best-of-lists — Discover awesome open-source projects, ranked by quality and updated weekly.",
+        "profile": {
+          "name": "Md8-habibullah",
+          "url": "https://md8-habibullah.github.io/top-github-repos-list/",
+          "long_name": "md8-habibullah.github.io",
+          "img": "https://imgs.search.brave.com/4OFrfFDPltMRazZTNL8ap8qWAqM_psTJdAVX6cbUBNk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODQzNDlkY2Mw/NzNhN2QzZDdkNGQ3/NTVlZjhhNzBiNjYz/MmI4MGFlY2NkZmRl/YjVmYzMyN2RjNzAx/MmRmNTE1MC9tZDgt/aGFiaWJ1bGxhaC5n/aXRodWIuaW8v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "md8-habibullah.github.io",
+          "hostname": "md8-habibullah.github.io",
+          "favicon": "https://imgs.search.brave.com/4OFrfFDPltMRazZTNL8ap8qWAqM_psTJdAVX6cbUBNk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODQzNDlkY2Mw/NzNhN2QzZDdkNGQ3/NTVlZjhhNzBiNjYz/MmI4MGFlY2NkZmRl/YjVmYzMyN2RjNzAx/MmRmNTE1MC9tZDgt/aGFiaWJ1bGxhaC5n/aXRodWIuaW8v",
+          "path": "› top-github-repos-list"
+        },
+        "extra_snippets": [
+          "Cai-Framework — Cybersecurity AI framework for building autonomous agents that discover and exploit vulnerabilities. Honeymap — Real-time visualization of world-wide honeypot attacks (see the “botnet” in action). Bettercap — The “Swiss Army Knife” for 802.11, BLE, and Ethernet reconnaissance and MITM attacks. RustScan — A modern port scanner that can scan 65k ports in 3 seconds; designed for speed and scriptability.",
+          "best-of-lists — Discover awesome open-source projects, ranked by quality and updated weekly.",
+          "Ollama — Run large language models (Llama 3.2, Mistral) locally.",
+          "Conduit — Lightweight Matrix homeserver written in Rust."
+        ]
+      },
+      {
+        "title": "GitHub - sachin-source/top-github-repositories-which-everyone-should-look: This repository contains a list of important and useful github repos which a developer, coder, a student should never miss to look at. · GitHub",
+        "url": "https://github.com/sachin-source/top-github-repositories-which-everyone-should-look",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "This repository contains a list of important and useful github repos which a developer, coder, a student should never miss to look at. - sachin-source/top-github-repositories-which-everyone-should-look",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/sachin-source/top-github-repositories-which-everyone-should-look",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› sachin-source  › top-github-repositories-which-everyone-should-look"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/KchB8vZVCHZyiW4qe1xq7twILgR0hU4XGq7AlRu3E6c/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcGVu/Z3JhcGguZ2l0aHVi/YXNzZXRzLmNvbS81/ZjNjNjk1NTEyNjlj/YjNlMmQ0Y2M2NDg1/ZWZlNTliODMyZGVi/NGQ4MTdkMGE0NjM0/OTg2MzdjNWMxMjhj/YTcyL3NhY2hpbi1z/b3VyY2UvdG9wLWdp/dGh1Yi1yZXBvc2l0/b3JpZXMtd2hpY2gt/ZXZlcnlvbmUtc2hv/dWxkLWxvb2s",
+          "original": "https://opengraph.githubassets.com/5f3c69551269cb3e2d4cc6485efe59b832deb4d817d0a463498637c5c128ca72/sachin-source/top-github-repositories-which-everyone-should-look",
+          "logo": false
+        },
+        "software": {
+          "name": "top-github-repositories-which-everyone-should-look",
+          "author": "sachin-source",
+          "is_npm": false,
+          "is_pypi": false,
+          "stars": 1500,
+          "forks": 175,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "This repository contains a list of important and useful github repos which a developer, coder, a student should never miss to look at. - sachin-source/top-github-repositories-which-everyone-should-look"
+        ]
+      },
+      {
+        "title": "15 Most Popular GitHub Repos for Developers in 2026",
+        "url": "https://www.hostinger.com/tutorials/most-popular-github-repos",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "As the most popular Git repository hosting platform, GitHub hosts more than 300 million repositories with a global community of over 100 million developers. The platform has become one of the best sources for free and useful software and web development resources. However, with so many projects available, finding the best git repository for your needs can be a daunting task. This is why we have compiled 15 of the most popular GitHub repos, ranked from the most starred to the least.",
+        "page_age": "2025-04-26T02:59:28",
+        "profile": {
+          "name": "Hostinger",
+          "url": "https://www.hostinger.com/tutorials/most-popular-github-repos",
+          "long_name": "hostinger.com",
+          "img": "https://imgs.search.brave.com/wwgjliC78jnALK7RhT0KrlmKstaJpcWZC5r2ZHyqKpg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTdkNjEwNGRj/ZGE4ZWYxMTViOWZm/YTJjM2E1MjUwMTQx/ZjUxNTViZGJmMmZi/ZDY2MDk4OTQ2NWIw/MzI3MjU2YS93d3cu/aG9zdGluZ2VyLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "hostinger.com",
+          "hostname": "www.hostinger.com",
+          "favicon": "https://imgs.search.brave.com/wwgjliC78jnALK7RhT0KrlmKstaJpcWZC5r2ZHyqKpg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTdkNjEwNGRj/ZGE4ZWYxMTViOWZm/YTJjM2E1MjUwMTQx/ZjUxNTViZGJmMmZi/ZDY2MDk4OTQ2NWIw/MzI3MjU2YS93d3cu/aG9zdGluZ2VyLmNv/bS8",
+          "path": "  › home  › tutorials  › 15 most popular github repositories every developer should know"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/rLHa3jaCxGCZJ2E6pYstUvRZu23NVni5S-6F85axgs8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/aG9zdGluZ2VyLmNv/bS90dXRvcmlhbHMv/d3AtY29udGVudC91/cGxvYWRzL3NpdGVz/LzIvMjAyMy8wMy9m/cmVlY29kZWNhbXAt/ZnJlZWNvZGVjYW1w/LWdpdGh1Yi1yZXBv/c2l0b3J5LnBuZw",
+          "original": "https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2023/03/freecodecamp-freecodecamp-github-repository.png",
+          "logo": false
+        },
+        "age": "April 26, 2025",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Tashia T."
+            }
+          ],
+          "date": "Mar 28, 2023",
+          "publisher": {
+            "type": "organization",
+            "name": "Hostinger",
+            "url": "https://www.hostinger.com/",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/F1rNm_AB5GTa73_qag6ii6dHuZRQMpHpA1AYQkF0wss/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/aG9zdGluZ2VyLmNv/bS90dXRvcmlhbHMv/d3AtY29udGVudC91/cGxvYWRzL3NpdGVz/LzIvMjAxNy8wNC9o/b3N0aW5nZXItbG9n/by5wbmc",
+              "original": "https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2017/04/hostinger-logo.png"
+            }
+          }
+        },
+        "organization": {
+          "type": "organization",
+          "name": "Hostinger",
+          "contact_points": []
+        },
+        "extra_snippets": [
+          "The following are some of the most starred repositories offering valuable learning materials for aspiring and professional developers. ... freeCodeCamp is the most starred repository on GitHub. It is the backend for the main freeCodeCamp website that offers numerous free computer science learning materials. These include over 9,000 tutorials and 11 core certifications, ranging from responsive web design to machine learning with Python. freeCodeCamp is a charitable organization that runs on donor and community support, enabling users to contribute to the site’s codebase.",
+          "As the most popular Git repository hosting platform, GitHub hosts more than 300 million repositories with a global community of over 100 million developers. The platform has become one of the best sources for free and useful software and web development resources. However, with so many projects available, finding the best git repository for your needs can be a daunting task. This is why we have compiled 15 of the most popular GitHub repos, ranked from the most starred to the least.",
+          "Run by the Free Ebook Foundation, this popular repository has become one of the top GitHub projects.",
+          "Paperclip is an open-source platform for running fully autonomous business operations using AI agents."
+        ]
+      },
+      {
+        "title": "Leino | GitVerse Project — Self-Hosted Git Repository Management System",
+        "url": "https://leino.dev/en/cases/gitverse/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The platform was intended to serve as a Russian alternative to GitLab and GitHub, meeting local regulatory requirements, providing a user-friendly interface for collaborative development, and supporting CI/CD tools, DevOps integrations, and access management. We created a web application with a Git repository management panel that enables users to create, clone, and manage repositories, as well as work with branches, pull requests, code reviews, tasks, and wikis.",
+        "page_age": "2025-08-06T00:00:00",
+        "profile": {
+          "name": "Leino",
+          "url": "https://leino.dev/en/cases/gitverse/",
+          "long_name": "leino.dev",
+          "img": "https://imgs.search.brave.com/n8DxQhiy35gshPOvspoPsIfs7lcAYULhSzt5kDYakTI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTc3ODg2MjA0/MmE0NGY2YjI5NDE4/MjZkMWQwMTI3MDU4/M2ZhZGM2YTZhMGFl/YmYzNjI0MWJjMjE2/YzJiMGVjZS9sZWlu/by5kZXYv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "leino.dev",
+          "hostname": "leino.dev",
+          "favicon": "https://imgs.search.brave.com/n8DxQhiy35gshPOvspoPsIfs7lcAYULhSzt5kDYakTI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTc3ODg2MjA0/MmE0NGY2YjI5NDE4/MjZkMWQwMTI3MDU4/M2ZhZGM2YTZhMGFl/YmYzNjI0MWJjMjE2/YzJiMGVjZS9sZWlu/by5kZXYv",
+          "path": "› en  › cases  › gitverse"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/9gceZi3jT5MTr92HBuScNnYS7RAOw0B8tgVpdH_J1dk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jbG91/ZC5sZWluby5kZXYv/YXBpL3N0b3JhZ2Uv/NjQ2OTg3Y2ItMzQ4/Zi00Y2JlLTgxMzkt/ZjJiZjhjYWJmZjll",
+          "original": "https://cloud.leino.dev/api/storage/646987cb-348f-4cbe-8139-f2bf8cabff9e",
+          "logo": false
+        },
+        "age": "August 6, 2025",
+        "extra_snippets": [
+          "Our task was to develop a modern, secure, and scalable code repository management system for deployment on companies’ own servers. The platform was intended to serve as a Russian alternative to GitLab and GitHub, meeting local regulatory requirements, providing a user-friendly interface for collaborative development, and supporting CI/CD tools, DevOps integrations, and access management.",
+          "GitVerse provides a convenient interface for collaborative code work, including pull requests, reviews, tasks, and wikis. It is secure, compliant with local regulations, and can be deployed in isolated networks. The flexible architecture scales to support teams of any size, from small startups to large enterprises.",
+          "The platform was intended to serve as a Russian alternative to GitLab and GitHub, meeting local regulatory requirements, providing a user-friendly interface for collaborative development, and supporting CI/CD tools, DevOps integrations, and access management. We created a web application with a Git repository management panel that enables users to create, clone, and manage repositories, as well as work with branches, pull requests, code reviews, tasks, and wikis."
+        ]
+      }
+    ],
+    "family_friendly": true
+  }
+}

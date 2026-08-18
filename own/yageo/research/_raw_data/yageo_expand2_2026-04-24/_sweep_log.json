@@ -1,0 +1,13 @@
+{
+  "generated": "2026-04-24T09:31:37Z",
+  "duration_seconds": 12.01,
+  "total_queries": 12,
+  "stats": {
+    "web_ok": 12,
+    "unique_hostnames": 40
+  },
+  "warnings": [
+    "- [\"rubert\" OR \"sbert\" russian semantic sim]: 3 JSON-serialized snippets",
+    "- [\"LLM Spot\" Digital Geeks brand visibility platform]: zero web results"
+  ]
+}

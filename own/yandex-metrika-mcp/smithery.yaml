@@ -1,0 +1,19 @@
+startCommand:
+  type: stdio
+  configSchema:
+    type: object
+    required:
+      - YANDEX_METRIKA_TOKEN
+    properties:
+      YANDEX_METRIKA_TOKEN:
+        type: string
+        description: "OAuth-токен Яндекс.Метрики (получить на oauth.yandex.ru)"
+  commandFunction:
+    |-
+    (config) => ({
+      command: 'node',
+      args: ['dist/index.js'],
+      env: {
+        YANDEX_METRIKA_TOKEN: config.YANDEX_METRIKA_TOKEN
+      }
+    })

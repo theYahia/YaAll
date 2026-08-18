@@ -1,0 +1,403 @@
+{
+  "type": "search",
+  "query": {
+    "original": "\"yandex direct api\" OR \"yandex metrika api\" python wrapper",
+    "show_strict_warning": false,
+    "cleaned": "yandex direct api yandex metrika api python wrapper",
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": false,
+    "state": "",
+    "search_operators": {
+      "applied": true,
+      "cleaned_query": "yandex direct api yandex metrika api python wrapper"
+    }
+  },
+  "infobox": {
+    "type": "graph",
+    "results": [
+      {
+        "title": "Yandex Metrika API realtime visitor data",
+        "url": "https://stackoverflow.com/questions/42842660/yandex-metrika-api-realtime-visitor-data",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "",
+        "family_friendly": true,
+        "type": "infobox",
+        "position": 5,
+        "attributes": [],
+        "providers": [
+          {
+            "type": "external",
+            "name": "Stack Overflow",
+            "url": "https://stackoverflow.com/questions/42842660/yandex-metrika-api-realtime-visitor-data",
+            "img": "https://imgs.search.brave.com/4WRMec_wn8Q9LO6DI43kkBvIL6wD5TYCXztC9C9kEI0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWU3Zjg0ZjA1/YjQ3ZTlkNjQ1ODA1/MjAwODhiNjhjYWU0/OTc4MjM4ZDJlMTBi/ODExYmNiNTkzMjdh/YjM3MGExMS9zdGFj/a292ZXJmbG93LmNv/bS8"
+          }
+        ],
+        "subtype": "code",
+        "data": {
+          "question": "Yandex Metrika API realtime visitor data",
+          "answer": {
+            "text": "<p>There is no such feature in Yandex Metrika right now, therefore it is not possible.</p>",
+            "author": "efim",
+            "upvoteCount": 1
+          }
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "stackoverflow.com",
+          "hostname": "stackoverflow.com",
+          "favicon": "https://imgs.search.brave.com/4WRMec_wn8Q9LO6DI43kkBvIL6wD5TYCXztC9C9kEI0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWU3Zjg0ZjA1/YjQ3ZTlkNjQ1ODA1/MjAwODhiNjhjYWU0/OTc4MjM4ZDJlMTBi/ODExYmNiNTkzMjdh/YjM3MGExMS9zdGFj/a292ZXJmbG93LmNv/bS8",
+          "path": "› questions  › 42842660  › yandex-metrika-api-realtime-visitor-data"
+        }
+      }
+    ]
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "infobox",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "GitHub - pikhovkin/yametrikapy: Python library for Yandex Metrika API",
+        "url": "https://github.com/pikhovkin/yametrikapy",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "from yametrikapy import Metrika def main(): client_id = &#x27;6993a3cd88e34ac67574578th87h67r7fe341c&#x27; client_secret = &#x27;AQAg4h45h4DJk4545gBDqIln6hNJGet45DHJgVxCjncQ&#x27; code = &#x27;3463468&#x27; metrika = Metrika(client_id, client_secret=client_secret, code=code) counters = metrika.counters().counters print(counters) counter_id = counters[0][&#x27;id&#x27;] stat = metrika.stat_data(counter_id, &#x27;ym:s:visits,ym:s:users&#x27;, dimensions=&#x27;ym:s:searchEngineName&#x27;) print(stat.data) counter = metrika.add_counter(&#x27;My new counter&#x27;, &#x27;my-site.ru&#x27;) print(counter.counter[&#x27;id&#x27;], counter.counter[&#x27;name&#x27;]) # Output obtained data print(metrika.get_data()) if __name__ == &#x27;__main__&#x27;: main()",
+        "page_age": "2023-07-25T00:00:00",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/pikhovkin/yametrikapy",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› pikhovkin  › yametrikapy"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Zv5QT4iw5C2PStQdFD5nB_SXzEewjkeUteDsutoXI9I/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcGVu/Z3JhcGguZ2l0aHVi/YXNzZXRzLmNvbS9h/OTZhZWZjMjQ2YmQz/YmQxMjI3ZmUyN2M1/MWI1NzBjMzUzMTRj/MDJmN2M5NWZmYzBj/NGMwOTk0ZGM5OGE5/YjlhL3Bpa2hvdmtp/bi95YW1ldHJpa2Fw/eQ",
+          "original": "https://opengraph.githubassets.com/a96aefc246bd3bd1227fe27c51b570c35314c02f7c95ffc0c4c0994dc98a9b9a/pikhovkin/yametrikapy",
+          "logo": false
+        },
+        "age": "July 25, 2023",
+        "software": {
+          "name": "yametrikapy",
+          "author": "pikhovkin",
+          "is_npm": false,
+          "is_pypi": false,
+          "stars": 20,
+          "forks": 10,
+          "programmingLanguage": "Python 100.0% | Python 100.0%"
+        },
+        "extra_snippets": [
+          "To connect to Yandex.Metric, you need to get a code: ... from yametrikapy import Metrika client_id = '6993a3cd88e34ac67574578th87h67r7fe341c' client_secret = 'AQAg4h45h4DJk4545gBDqIln6hNJGet45DHJgVxCjncQ' code = '3463468' metrika = Metrika(client_id, client_secret=client_secret, code=code)",
+          "To sign in you need client_id, get it from https://tech.yandex.ru/oauth/doc/dg/tasks/register-client-docpage for your application.",
+          "from yametrikapy import Metrika def main(): client_id = '6993a3cd88e34ac67574578th87h67r7fe341c' client_secret = 'AQAg4h45h4DJk4545gBDqIln6hNJGet45DHJgVxCjncQ' code = '3463468' metrika = Metrika(client_id, client_secret=client_secret, code=code) counters = metrika.counters().counters print(counters) counter_id = counters[0]['id'] stat = metrika.stat_data(counter_id, 'ym:s:visits,ym:s:users', dimensions='ym:s:searchEngineName') print(stat.data) counter = metrika.add_counter('My new counter', 'my-site.ru') print(counter.counter['id'], counter.counter['name']) # Output obtained data print(metrika.get_data()) if __name__ == '__main__': main()"
+        ]
+      },
+      {
+        "title": "Yandex Metrika Python API Docs | dltHub",
+        "url": "https://dlthub.com/context/source/yandex-metrika",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The REST API base URL is https://api-metrika.yandex.net and All requests require a Bearer OAuth token for authentication.. dlt is an open-source Python library that handles authentication, pagination, and schema evolution automatically. dlthub ...",
+        "page_age": "2026-03-11T00:00:00",
+        "profile": {
+          "name": "dltHub",
+          "url": "https://dlthub.com/context/source/yandex-metrika",
+          "long_name": "dlthub.com",
+          "img": "https://imgs.search.brave.com/H2rQ0DbOKTLsRo-Pu3j9OyaSC8U8OJVegMyKrLx4Boc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzhhOWU4ZmRh/Y2ZlYzhmMGVjMGZi/NjBhNzhhYzJjZDgw/NmFhYzIxOGNmMjJh/YWNiMzExNTdiMDQw/ZjA5YjllYy9kbHRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "creative_work",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "dlthub.com",
+          "hostname": "dlthub.com",
+          "favicon": "https://imgs.search.brave.com/H2rQ0DbOKTLsRo-Pu3j9OyaSC8U8OJVegMyKrLx4Boc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzhhOWU4ZmRh/Y2ZlYzhmMGVjMGZi/NjBhNzhhYzJjZDgw/NmFhYzIxOGNmMjJh/YWNiMzExNTdiMDQw/ZjA5YjllYy9kbHRo/dWIuY29tLw",
+          "path": "  › all scaffoldings  › yandex metrika"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Ke9vBs98VkQNM0OsfDInPVcApL6MOE04hq019NA-zYg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bG9nby5kZXYvbWV0/cmlrYS55YW5kZXgu/Y29t",
+          "original": "https://img.logo.dev/metrika.yandex.com",
+          "logo": true
+        },
+        "age": "March 11, 2026",
+        "creative_work": {
+          "name": "Yandex Metrika API Connector",
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/Ke9vBs98VkQNM0OsfDInPVcApL6MOE04hq019NA-zYg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bG9nby5kZXYvbWV0/cmlrYS55YW5kZXgu/Y29t",
+            "original": "https://img.logo.dev/metrika.yandex.com"
+          }
+        },
+        "organization": {
+          "type": "organization",
+          "name": "dltHub",
+          "contact_points": []
+        },
+        "extra_snippets": [
+          "Build a Yandex Metrika-to-database pipeline in Python using dlt with AI Workbench support for Claude Code, Cursor, and Codex. ... Yandex Metrika is a web and app analytics platform that provides traffic statistics and other data through a RESTful Reports API.",
+          "This loads the skills and context about dlt the agent uses to build the pipeline iteratively, efficiently, and safely. The agent uses MCP tools to inspect credentials — it never needs to read your secrets.toml directly. Learn more → ... Use /find-source to load data from the Yandex Metrika API into DuckDB.",
+          "This opens the Pipeline Dashboard where you can verify pipeline state, load metrics, schema (tables, columns, types), and query the loaded data directly. This example loads reports and drilldown from the Yandex Metrika API into DuckDB.",
+          "The REST API base URL is https://api-metrika.yandex.net and All requests require a Bearer OAuth token for authentication.. dlt is an open-source Python library that handles authentication, pagination, and schema evolution automatically. dlthub provides AI context files that enable code assistants to generate production-ready pipelines."
+        ]
+      },
+      {
+        "title": "Example: Yandex Metrica data. Yandex Direct API. Version 5",
+        "url": "https://yandex.com/dev/direct/doc/reports/example-metrika.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "curl \\ -H &#x27;Authorization: Bearer 0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f&#x27; \\ -H &#x27;Accept-Language: en&#x27; \\ -H &#x27;Client-Login: agrom&#x27; \\ -H &#x27;skipReportHeader: true&#x27; \\ -H &#x27;returnMoneyInMicros: false&#x27; \\ -d &#x27;{ &quot;params&quot;: { &quot;SelectionCriteria&quot;: { }, &quot;Goals&quot;: [ &quot;20002&quot;, &quot;20003&quot; ], &quot;AttributionModels&quot;: [ &quot;LSC&quot; ], &quot;FieldNames&quot;: [ &quot;Date&quot;, &quot;Clicks&quot;, &quot;Impressions&quot;, &quot;Conversions&quot;, &quot;CostPerConversion&quot;, &quot;GoalsRoi&quot;, &quot;Revenue&quot;, &quot;ConversionRate&quot;], &quot;OrderBy&quot;: [{ &quot;Field&quot;: &quot;Date&quot; }], &quot;ReportName&quot;: &quot;Conversions&quot;, &quot;ReportType&quot;: &quot;ACCOUNT_PERFORMANCE_REPORT&quot;, &quot;DateRangeType&quot;: &quot;LAST_5_DAYS&quot;, &quot;Format&quot;: &quot;TSV&quot;, &quot;IncludeVAT&quot;: &quot;YES&quot;, &quot;IncludeDiscount&quot;: &quot;YES&quot; } }&#x27; \\ https://api.direct.yandex.com/json/v5/reports",
+        "profile": {
+          "name": "Yandex",
+          "url": "https://yandex.com/dev/direct/doc/reports/example-metrika.html",
+          "long_name": "yandex.com",
+          "img": "https://imgs.search.brave.com/PzD4Z70x4Tr5qx1FVRSQC87oEooqqKp5MO04jnTc-kI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDcxYjJmYzYw/NTk4Yzc0MWFhZjgw/ODg3ZDQ3ZDIyNmZl/NjE4NmU0NjY1YTkw/MzNlOGJkYzIwNGQz/ZTAxY2E4Zi95YW5k/ZXguY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "yandex.com",
+          "hostname": "yandex.com",
+          "favicon": "https://imgs.search.brave.com/PzD4Z70x4Tr5qx1FVRSQC87oEooqqKp5MO04jnTc-kI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDcxYjJmYzYw/NTk4Yzc0MWFhZjgw/ODg3ZDQ3ZDIyNmZl/NjE4NmU0NjY1YTkw/MzNlOGJkYzIwNGQz/ZTAxY2E4Zi95YW5k/ZXguY29tLw",
+          "path": "› dev  › direct  › doc  › reports  › example-metrika.html"
+        },
+        "extra_snippets": [
+          "curl \\ -H 'Authorization: Bearer 0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f' \\ -H 'Accept-Language: en' \\ -H 'Client-Login: agrom' \\ -H 'skipReportHeader: true' \\ -H 'returnMoneyInMicros: false' \\ -d '<?xml version=\"1.0\" encoding=\"UTF-8\"?> <ReportDefinition xmlns=\"http://api.direct.yandex.com/v5/reports\"> <SelectionCriteria/> <Goals>20002</Goals> <Goals>20003</Goals> <AttributionModels>LSC</AttributionModels> <FieldNames>Date</FieldNames> <FieldNames>Clicks</FieldNames> <FieldNames>Impressions</FieldNames> <FieldNames>Conversions</FieldNames> <FieldNames>CostPerConversion</FieldNames> <FieldNames>GoalsR",
+          "curl \\ -H 'Authorization: Bearer 0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f' \\ -H 'Accept-Language: en' \\ -H 'Client-Login: agrom' \\ -H 'skipReportHeader: true' \\ -H 'returnMoneyInMicros: false' \\ -d '{ \"params\": { \"SelectionCriteria\": { }, \"Goals\": [ \"20002\", \"20003\" ], \"AttributionModels\": [ \"LSC\" ], \"FieldNames\": [ \"Date\", \"Clicks\", \"Impressions\", \"Conversions\", \"CostPerConversion\", \"GoalsRoi\", \"Revenue\", \"ConversionRate\"], \"OrderBy\": [{ \"Field\": \"Date\" }], \"ReportName\": \"Conversions\", \"ReportType\": \"ACCOUNT_PERFORMANCE_REPORT\", \"DateRangeType\": \"LAST_5_DAYS\", \"Format\": \"TSV\", \"IncludeVAT\": \"YES\", \"IncludeDiscount\": \"YES\" } }' \\ https://api.direct.yandex.com/json/v5/reports"
+        ]
+      },
+      {
+        "title": "GitHub - AlariCode/yandex-metrika-api: This library will help you to get data from Yandex Metrika API · GitHub",
+        "url": "https://github.com/AlariCode/yandex-metrika-api",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "This library will help you to get data from Yandex Metrika API - AlariCode/yandex-metrika-api",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/AlariCode/yandex-metrika-api",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› AlariCode  › yandex-metrika-api"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ip_XU1zDI8qfVEF2Ev9e3sFSh5j8uJhBWT4q_clHOD0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcGVu/Z3JhcGguZ2l0aHVi/YXNzZXRzLmNvbS85/NjEwNjU5ZmEyODAx/NzRhMzMwYWEzNzI5/ZDdjNTg5MjBlZjRl/MDUyZmUzNDA1OTFh/NmU2OWYxZjBmOGQ4/NzZhL0FsYXJpQ29k/ZS95YW5kZXgtbWV0/cmlrYS1hcGk",
+          "original": "https://opengraph.githubassets.com/9610659fa280174a330aa3729d7c58920ef4e052fe340591a6e69f1f0f8d876a/AlariCode/yandex-metrika-api",
+          "logo": false
+        },
+        "software": {
+          "name": "yandex-metrika-api",
+          "author": "AlariCode",
+          "is_npm": false,
+          "is_pypi": false,
+          "stars": 8,
+          "forks": 0,
+          "programmingLanguage": "TypeScript"
+        }
+      },
+      {
+        "title": "GitHub - amureki/ya-direct-api: Yandex Direct API Wrapper · GitHub",
+        "url": "https://github.com/amureki/ya-direct-api",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Простейшая обертка для JSON API Яндекс.Директа (Yandex.Direct)",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/amureki/ya-direct-api",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› amureki  › ya-direct-api"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/W4PkYJ3oE-Qp2p-qtIuptNMxHD7ObxnLZAk_xhQ3fvQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcGVu/Z3JhcGguZ2l0aHVi/YXNzZXRzLmNvbS83/ODMwMjkzNTg0NjFm/N2E1YmJmYzQyOWQw/NjdlZjNjZGE5NTRi/NDk4ODEyNzQ2Yjk5/N2RkYzI3MGE2M2Yw/OTkxL2FtdXJla2kv/eWEtZGlyZWN0LWFw/aQ",
+          "original": "https://opengraph.githubassets.com/783029358461f7a5bbfc429d067ef3cda954b498812746b997ddc270a63f0991/amureki/ya-direct-api",
+          "logo": false
+        },
+        "software": {
+          "name": "ya-direct-api",
+          "author": "amureki",
+          "is_npm": false,
+          "is_pypi": false,
+          "stars": 0,
+          "programmingLanguage": "Python"
+        },
+        "extra_snippets": [
+          "Простейшая обертка для JSON API Яндекс.Директа (Yandex.Direct)"
+        ]
+      },
+      {
+        "title": "Yandex Metrika API realtime visitor data - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/42842660/yandex-metrika-api-realtime-visitor-data",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "In Yandex Reporting Api I couldn&#x27;t find any information about realtime data. So far I used bytime? GET request and grouped them by minute and then retrieved page views as close as possible to current time: ... https://api-metrika.yandex.ru/stat/v1/data/bytime?&amp;ids=xxxxxxx&amp;metrics=ym:s:pageviews&amp;group=minutes&amp;date1=#{today}&amp;date2=#{today}&amp;oauth_token=#{access_token}",
+        "profile": {
+          "name": "Stack Overflow",
+          "url": "https://stackoverflow.com/questions/42842660/yandex-metrika-api-realtime-visitor-data",
+          "long_name": "stackoverflow.com",
+          "img": "https://imgs.search.brave.com/4WRMec_wn8Q9LO6DI43kkBvIL6wD5TYCXztC9C9kEI0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWU3Zjg0ZjA1/YjQ3ZTlkNjQ1ODA1/MjAwODhiNjhjYWU0/OTc4MjM4ZDJlMTBi/ODExYmNiNTkzMjdh/YjM3MGExMS9zdGFj/a292ZXJmbG93LmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "qa",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "stackoverflow.com",
+          "hostname": "stackoverflow.com",
+          "favicon": "https://imgs.search.brave.com/4WRMec_wn8Q9LO6DI43kkBvIL6wD5TYCXztC9C9kEI0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWU3Zjg0ZjA1/YjQ3ZTlkNjQ1ODA1/MjAwODhiNjhjYWU0/OTc4MjM4ZDJlMTBi/ODExYmNiNTkzMjdh/YjM3MGExMS9zdGFj/a292ZXJmbG93LmNv/bS8",
+          "path": "› questions  › 42842660  › yandex-metrika-api-realtime-visitor-data"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/7xYts7jy_f89pn-IFVr8VxO1jMDhot5Ln0Buo0It8EM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGFj/a292ZXJmbG93LmNv/bS9Db250ZW50L1Np/dGVzL3N0YWNrb3Zl/cmZsb3cvSW1nL2Fw/cGxlLXRvdWNoLWlj/b25AMi5wbmc_dj03/M2Q3OWE4OWJkZWQ",
+          "original": "https://stackoverflow.com/Content/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+          "logo": true
+        },
+        "qa": {
+          "question": "Yandex Metrika API realtime visitor data",
+          "answer": {
+            "text": "<p>There is no such feature in Yandex Metrika right now, therefore it is not possible.</p>",
+            "author": "efim",
+            "upvoteCount": 1
+          }
+        },
+        "extra_snippets": [
+          "yandex-metrika · See similar questions with these tags. The Overflow Blog · Lightning-as-a-service for agriculture · Featured on Meta · Chat room owners can now establish room guidelines · Policy: Generative AI (e.g., ChatGPT) is banned · 5 Analytics for tastypie · 27 Scraping Real Time Visitors from Google Analytics · 0 Yandex.Direct - API in Python ·",
+          "In Google Analytics there is very good Realtime Api that works very good. 2) If it is possible to get near realtime data then how it is done ? I have searched for couple days, but didn't find any usefull information. Thanks in advance. ... There is no such feature in Yandex Metrika right now, therefore it is not possible.",
+          "1) Is it possible to get near realtime data (20s - 1 min) from Yandex Metrika API ?",
+          "In Yandex Reporting Api I couldn't find any information about realtime data. So far I used bytime? GET request and grouped them by minute and then retrieved page views as close as possible to current time: ... https://api-metrika.yandex.ru/stat/v1/data/bytime?&ids=xxxxxxx&metrics=ym:s:pageviews&group=minutes&date1=#{today}&date2=#{today}&oauth_token=#{access_token}"
+        ]
+      },
+      {
+        "title": "Как выгрузить данные из Yandex Metrika с помощью Python? - Python 3 | Data Science | Нейронные сети | AI - Искусственный Интеллект",
+        "url": "https://python.ivan-shamaev.ru/extract-data-from-yandex-metric-using-python/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "# Чтоб сделать это автоматически вы можете указать # параметр receive_all_data=True при инициализации класса. #Параметры запроса для библиотеки tapi_yandex_metrika api = YandexMetrikaStats( access_token=ACCESS_TOKEN, # Если True, будет скачивать все части отчета.",
+        "page_age": "2020-06-09T21:10:16",
+        "profile": {
+          "name": "Python 3",
+          "url": "https://python.ivan-shamaev.ru/extract-data-from-yandex-metric-using-python/",
+          "long_name": "python.ivan-shamaev.ru",
+          "img": "https://imgs.search.brave.com/XviBpX4RZx502-iUYWWJNQzA11NRAkZ06eUQ0dNtF9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTczMjY1NmJh/ZjE3NTMxY2E4NGM1/OThhN2FkNTg3NGNl/NmRlMTI1YTFmZTRl/Zjg5MzNiZTQ0ZDgz/MGRhM2VhMy9weXRo/b24uaXZhbi1zaGFt/YWV2LnJ1Lw"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "python.ivan-shamaev.ru",
+          "hostname": "python.ivan-shamaev.ru",
+          "favicon": "https://imgs.search.brave.com/XviBpX4RZx502-iUYWWJNQzA11NRAkZ06eUQ0dNtF9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTczMjY1NmJh/ZjE3NTMxY2E4NGM1/OThhN2FkNTg3NGNl/NmRlMTI1YTFmZTRl/Zjg5MzNiZTQ0ZDgz/MGRhM2VhMy9weXRo/b24uaXZhbi1zaGFt/YWV2LnJ1Lw",
+          "path": "  › главная страница  › как выгрузить данные из yandex metrika с помощью python?"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/C-53YTeA4lWs5c7U_Rh1kIzGVzj0_VobIGhz6h6RnLU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9weXRo/b24uaXZhbi1zaGFt/YWV2LnJ1L3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIwLzAyL1lh/bmRleF9NZXRyaWth/X0FQSV9hbmRfUHl0/aG9uLmpwZw",
+          "original": "https://python.ivan-shamaev.ru/wp-content/uploads/2020/02/Yandex_Metrika_API_and_Python.jpg",
+          "logo": false
+        },
+        "age": "June 9, 2020",
+        "extra_snippets": [
+          "chcp 1251 \"C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe\" \"D:\\PythonETL\\Scripts\\0_Extract\\YandexMetrika\\1_Трафик.py\"_Extract\\YandexMetrika_Трафик.py\" ... Tags: Yandex Metrika Yandex Metrika DataLabs Yandex Metrika Extract Data Yandex Metrika Python 3 Yandex Metrika Аналитика",
+          "Плюс необходимо узнать какие форматы данных может возвращать API — обычно это JSON, CSV (TXT). Вся документация Yandex Metrika API обычно очень быстро гуглится — https://yandex.ru/dev/metrika/.",
+          "# Чтоб сделать это автоматически вы можете указать # параметр receive_all_data=True при инициализации класса. #Параметры запроса для библиотеки tapi_yandex_metrika api = YandexMetrikaStats( access_token=ACCESS_TOKEN, # Если True, будет скачивать все части отчета.",
+          "Указываете в разделе Yandex.Metrika, что выдать доступ для получения статистики."
+        ]
+      }
+    ],
+    "family_friendly": true
+  }
+}

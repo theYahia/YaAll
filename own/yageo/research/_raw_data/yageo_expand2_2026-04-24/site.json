@@ -1,0 +1,665 @@
+{
+  "type": "search",
+  "query": {
+    "original": "github.com russian \"Alice AI\" OR алиса SEO audit skill",
+    "show_strict_warning": false,
+    "cleaned": "github.com russian Alice AI алиса SEO audit skill",
+    "is_navigational": true,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": false,
+    "state": "",
+    "search_operators": {
+      "applied": true,
+      "cleaned_query": "github.com russian Alice AI алиса SEO audit skill"
+    }
+  },
+  "infobox": {
+    "type": "graph",
+    "results": [
+      {
+        "title": "Alice AI",
+        "url": "https://en.wikipedia.org/wiki/Alice_AI",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Russian intelligent personal assistant software",
+        "family_friendly": true,
+        "type": "infobox",
+        "position": 1,
+        "long_desc": "Alice AI (formerly Alice and Alice Neural Network) is a Russian generative artificial intelligence chatbot and intelligent personal assistant for Android, iOS and Windows operating systems and Yandex's own devices developed by Yandex. Alice was officially introduced on 10 October 2017.",
+        "attributes": [
+          [
+            "Developer",
+            "<a href='https://en.wikipedia.org/wiki/Yandex'>Yandex</a>"
+          ],
+          [
+            "Initial release",
+            "October 10, 2017; 8 years ago (2017-10-10)"
+          ],
+          [
+            "Written in",
+            "<a href='https://en.wikipedia.org/wiki/C%2B%2B'>C++</a>"
+          ],
+          [
+            "Engine",
+            "<a href='https://en.wikipedia.org/wiki/Alice_AI_(AI_model_family)'>Alice AI 1.0</a>"
+          ],
+          [
+            "Operating system",
+            "<a href='https://en.wikipedia.org/wiki/Windows'>Windows</a>, <a href='https://en.wikipedia.org/wiki/IOS'>iOS</a>, <a href='https://en.wikipedia.org/wiki/Android_(operating_system)'>Android</a>"
+          ],
+          [
+            "Available in",
+            "<a href='https://en.wikipedia.org/wiki/Russian_language'>Russian</a>"
+          ],
+          [
+            "Type",
+            "<a href='https://en.wikipedia.org/wiki/Chatbot'>Chatbot</a><br><a href='https://en.wikipedia.org/wiki/Large_language_model'>Large language model</a><br><a href='https://en.wikipedia.org/wiki/Generative_pre-trained_transformer'>Generative pre-trained transformer</a><br><a href='https://en.wikipedia.org/wiki/Intelligent_personal_assistant'>Intelligent personal assistant</a>"
+          ],
+          [
+            "License",
+            "<a href='https://en.wikipedia.org/wiki/Proprietary_software'>Proprietary</a>"
+          ]
+        ],
+        "profiles": [
+          {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alice_AI",
+            "long_name": "en.wikipedia.org",
+            "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+          },
+          {
+            "name": "YouTube",
+            "url": "https://www.youtube.com/@yandex_search",
+            "long_name": "youtube.com",
+            "img": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v"
+          },
+          {
+            "name": "Wikidata",
+            "url": "http://www.wikidata.org/entity/Q42337230",
+            "long_name": "wikidata.org",
+            "img": "https://imgs.search.brave.com/8vIq-V97PH8S0N-pyaeHgq_gFHOA8hXjBunynHio-Uw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzdkMGIyYTky/OTJjN2RjNDEyNWYx/MGQxNjAzNmZlNDk4/ZTRmNDczNjk0ZTZl/N2IxZjI0NTVkMGE3/YTBiYjEzYi93d3cu/d2lraWRhdGEub3Jn/Lw"
+          },
+          {
+            "name": "VK",
+            "url": "https://vk.com/alice_yndx",
+            "long_name": "vk.com",
+            "img": "https://imgs.search.brave.com/MQK8gqZ0Gg4_DGQkhUiblqmOhR298jpWq-MDEnaVAjE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDlkNTQxZmQw/MTAyNjVmY2YwMzdh/MmQ0ZTlmZTMwZTFm/M2Y1YjBjNjk5ZDU4/ZDdiYTkxZWM3MDgz/ZDc2N2E5Ni92ay5j/b20v"
+          },
+          {
+            "name": "X",
+            "url": "https://x.com/alice_yandex",
+            "long_name": "x.com",
+            "img": "https://imgs.search.brave.com/VpOsyUaQQGp5MT_drqEzgpxdO8o12jax0jeq0Vojuto/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmQzM2JiZDhi/OWVhNGYxZmRkNDli/NzAxODUzMzFhYTNm/ODcxNmE4ZGQ5OTE3/MWU4OGZjNDQyZDdh/NzQ4MWE4YS94LmNv/bS8"
+          },
+          {
+            "name": "Telegram",
+            "url": "https://t.me/s/alice_ya_bot",
+            "long_name": "t.me",
+            "img": "https://imgs.search.brave.com/NIt42vl0MdXky8hEpBF0cs4eueEve_mDvIbqmjxImxo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGZjZjExMjdi/MWVjZDQ1YTg4YzNm/NjFiYmI2ZTJiZTQz/OTFlMTA5NTc1ZjYx/Nzg4YWQ0YmRkMjk0/ODdhMDNlMy90Lm1l/Lw"
+          },
+          {
+            "name": "Yandex Music",
+            "url": "https://music.yandex.ru/artist/5533796",
+            "long_name": "music.yandex.ru",
+            "img": "https://imgs.search.brave.com/wV7rirKRxOWzBmOpDLVjUGa8yvP789APGJWbxcGaznE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGQ1ODZiNGNk/MTk5ZmY2ZDEyMjA5/MmNjYjE5YzUwOWY5/YjUzMDc0MDlkOThk/ODliMDJmZDk3NDRh/ZTRhMTBhYi9tdXNp/Yy55YW5kZXgucnUv"
+          }
+        ],
+        "website_url": "https://a.ya.ru",
+        "ratings": [],
+        "providers": [
+          {
+            "type": "external",
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alice_AI",
+            "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+          }
+        ],
+        "images": [
+          {
+            "src": "https://imgs.search.brave.com/wkHJvPKYBAsjfQdos5fUzY2mHQtWKjSqzkgCVnputmI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9kL2QyL0Fs/aXNhX1lhbmRleC5z/dmcvMjUwcHgtQWxp/c2FfWWFuZGV4LnN2/Zy5wbmc",
+            "alt": "Alisa Yandex",
+            "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Alisa_Yandex.svg/250px-Alisa_Yandex.svg.png",
+            "logo": true
+          }
+        ],
+        "subtype": "generic",
+        "found_in_urls": []
+      }
+    ]
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "infobox",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "alice-skills · GitHub Topics · GitHub",
+        "url": "https://github.com/topics/alice-skills",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "yandex-dialogs yandex-alice alice-skills yandex-dialogs-sdk ... Оливер — навык для голосового помощника Алиса.",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/topics/alice-skills",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› topics  › alice-skills"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Ak6HThvSqywc3-m9bLCqUL8AA_8s3vzsf8Bgi4yo0ds/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9naXRo/dWIuZ2l0aHViYXNz/ZXRzLmNvbS9hc3Nl/dHMvZ2l0aHViLW9j/dG9jYXQtMTNjODZi/OGIzMzZkLnBuZw",
+          "original": "https://github.githubassets.com/assets/github-octocat-13c86b8b336d.png",
+          "logo": false
+        },
+        "extra_snippets": [
+          "yandex-dialogs yandex-alice alice-skills yandex-dialogs-sdk ... Оливер — навык для голосового помощника Алиса.",
+          "Add a description, image, and links to the alice-skills topic page so that developers can more easily learn about it.",
+          "python bot framework yandex alice asyncio yandex-dialogs yandex-alice alice-skills yandex-dialogs-sdk yandex-lyceum aliceio",
+          "php sdk yandex alice alisa yandex-dialogs alice-skills alice-sdk yandex-alisa"
+        ]
+      },
+      {
+        "title": "Alice AI - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Alice_AI",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Alice&#x27;s voice is based on that of the Russian voice actress Tatyana Shitova. Voice requests to Alice AI are processed by Yandex cloud servers to retain some of them with the aim of expanding Alisa&#x27;s training set data. According to Denis Filippov, head of Yandex Speech Technologies, the retained voice data are completely anonymous and without any association with users&#x27; accounts. Skill constructors can be used to create skills for Alice.",
+        "page_age": "2026-03-13T15:28:18",
+        "profile": {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Alice_AI",
+          "long_name": "en.wikipedia.org",
+          "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "deep_results": {
+          "buttons": [
+            {
+              "type": "button_result",
+              "title": "History",
+              "url": "https://en.wikipedia.org/wiki/Alice_AI#History"
+            },
+            {
+              "type": "button_result",
+              "title": "Name and personality",
+              "url": "https://en.wikipedia.org/wiki/Alice_AI#Name_and_personality"
+            },
+            {
+              "type": "button_result",
+              "title": "Technologies",
+              "url": "https://en.wikipedia.org/wiki/Alice_AI#Technologies"
+            },
+            {
+              "type": "button_result",
+              "title": "Devices with Alice",
+              "url": "https://en.wikipedia.org/wiki/Alice_AI#Devices_with_Alice"
+            },
+            {
+              "type": "button_result",
+              "title": "Development",
+              "url": "https://en.wikipedia.org/wiki/Alice_AI#Development"
+            },
+            {
+              "type": "button_result",
+              "title": "Skill Builders",
+              "url": "https://en.wikipedia.org/wiki/Alice_AI#Skill_Builders"
+            },
+            {
+              "type": "button_result",
+              "title": "In other languages",
+              "url": "https://en.wikipedia.org/wiki/Alice_AI#In_other_languages"
+            }
+          ]
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "en.wikipedia.org",
+          "hostname": "en.wikipedia.org",
+          "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+          "path": "› wiki  › Alice_AI"
+        },
+        "age": "March 13, 2026",
+        "extra_snippets": [
+          "Alice's voice is based on that of the Russian voice actress Tatyana Shitova. Voice requests to Alice AI are processed by Yandex cloud servers to retain some of them with the aim of expanding Alisa's training set data. According to Denis Filippov, head of Yandex Speech Technologies, the retained voice data are completely anonymous and without any association with users' accounts. Skill constructors can be used to create skills for Alice.",
+          "It was decided that the voice assistant would be a young, ironic girl, ready to help the owner of a smartphone. The voice of \"Alice\" was dubbing actress Tatiana Shitova, who voiced most of Scarlett Johansson's characters and the voice of OS1, who called herself \"Samantha\", in the Russian dubbing of Spike Jonze's \"Her\".",
+          "Initially, the Alice AI neural network was trained on an array of texts from the classics of Russian literature, including works by Leo Tolstoy, Fyodor Dostoevsky, and Nikolai Gogol, and then on arrays of live texts from the Internet. As Mikhail Bilenko, the head of Yandex Machine Learning, told Meduza in an interview, during the early tests impertinence appeared in Alice's communication style, which surprised and amused users.",
+          "In 2018, the company expanded the capabilities of Alice through a system of \"skills\" that use the voice assistant platform to interact with the user. \"Skills\" are chatbots and other Internet services that are activated by a key phrase and work in the interface of Alice."
+        ]
+      },
+      {
+        "title": "yandex-alice · GitHub Topics · GitHub",
+        "url": "https://github.com/topics/yandex-alice?o=desc&s=forks/1000",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "An educational bot dedicated to learning Russian literature (direct link: https://dialogs.yandex.ru/store/skills/90d1d068-viktorina-literaturnyj-genij) python api bot json yandex educational-game educational-project yandex-alice ... Пример навыка голосового помощника Алиса на яндекс функциях.",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/topics/yandex-alice?o=desc&s=forks/1000",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› topics  › yandex-alice"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Ak6HThvSqywc3-m9bLCqUL8AA_8s3vzsf8Bgi4yo0ds/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9naXRo/dWIuZ2l0aHViYXNz/ZXRzLmNvbS9hc3Nl/dHMvZ2l0aHViLW9j/dG9jYXQtMTNjODZi/OGIzMzZkLnBuZw",
+          "original": "https://github.githubassets.com/assets/github-octocat-13c86b8b336d.png",
+          "logo": false
+        },
+        "extra_snippets": [
+          "An educational bot dedicated to learning Russian literature (direct link: https://dialogs.yandex.ru/store/skills/90d1d068-viktorina-literaturnyj-genij) python api bot json yandex educational-game educational-project yandex-alice ... Пример навыка голосового помощника Алиса на яндекс функциях.",
+          "Alice is a Go package providing helpers for developing skills for Alice virtual assistant via Yandex.Dialogs platform. alice hacktoberfest yandex-dialogs yandex-alice alice-sdk yandex-dialogs-sdk ... Навык для голосового помощника от Яндекс \"Алиса\", который позволяет выполнять несколько сценариев умного дома за одну команду, а так же выполнять сценарии по таймеру.",
+          "An example of Yandex Alice skill with a back-end deployed to the AWS.",
+          "yandex alice proxmox yandex-dialogs yandex-alice alice-skills proxmox-api"
+        ]
+      },
+      {
+        "title": "Build software better, together",
+        "url": "https://github.com/topics/alisa",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "chat bot yandex bots chatbot dialog alice alisa yandex-dialogs ... 🎙️ Библиотека для разработки навыков голосового помощника Алиса. ... 📹 Share knowledge and grow with SkillBridge, an open-source platform for video tutorials that connects instructors and eager learners. react machine-learning ai wallet alexa-skill h5p amazon-alexa hacktoberfest mqtt-protocol amazon-lambda upskill alisa alexa-smart yandex-alice reskilling alisa-skills hacktoberfest2025 tutorial-platform",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/topics/alisa",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› topics  › alisa"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Ak6HThvSqywc3-m9bLCqUL8AA_8s3vzsf8Bgi4yo0ds/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9naXRo/dWIuZ2l0aHViYXNz/ZXRzLmNvbS9hc3Nl/dHMvZ2l0aHViLW9j/dG9jYXQtMTNjODZi/OGIzMzZkLnBuZw",
+          "original": "https://github.githubassets.com/assets/github-octocat-13c86b8b336d.png",
+          "logo": false
+        },
+        "extra_snippets": [
+          "chat bot yandex bots chatbot dialog alice alisa yandex-dialogs ... 🎙️ Библиотека для разработки навыков голосового помощника Алиса. ... 📹 Share knowledge and grow with SkillBridge, an open-source platform for video tutorials that connects instructors and eager learners. react machine-learning ai wallet alexa-skill h5p amazon-alexa hacktoberfest mqtt-protocol amazon-lambda upskill alisa alexa-smart yandex-alice reskilling alisa-skills hacktoberfest2025 tutorial-platform",
+          "php sdk yandex alice alisa yandex-dialogs alice-skills alice-sdk yandex-alisa",
+          "productivity todo yandex skill todoist alice todoist-api alisa todoist-tasks yandex-alice alice-skills yandex-alisa todoist-rest",
+          "telegram-bot vk-bot viber-bot alisa vui marusia-skills marusia alisa-skills"
+        ]
+      },
+      {
+        "title": "Alice: AI assistant - App Store - Apple",
+        "url": "https://apps.apple.com/us/app/alice-ai-assistant/id6621272550",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Alice AI: texts, neural network, fresh ideas, knowledge, Russian-language AI chat. Powerful Yandex AI on your phone helps with everyday chores and tackles tasks for study, work, and creativity.",
+        "profile": {
+          "name": "App Store",
+          "url": "https://apps.apple.com/us/app/alice-ai-assistant/id6621272550",
+          "long_name": "apps.apple.com",
+          "img": "https://imgs.search.brave.com/_z2UHgNWh4jJ6brYGbXxpDTMJmD9b1fxdUBJ2mJOP4w/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDYzNzRkMjA3/NzAwOWZhNjI1MmM5/NzRiMzIwZGQ4YzZl/ZDgwYmM0Zjk3MDE2/ZDM1Y2FlMDBiNjVi/OWEzZDIzNy9hcHBz/LmFwcGxlLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "creative_work",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "apps.apple.com",
+          "hostname": "apps.apple.com",
+          "favicon": "https://imgs.search.brave.com/_z2UHgNWh4jJ6brYGbXxpDTMJmD9b1fxdUBJ2mJOP4w/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDYzNzRkMjA3/NzAwOWZhNjI1MmM5/NzRiMzIwZGQ4YzZl/ZDgwYmM0Zjk3MDE2/ZDM1Y2FlMDBiNjVi/OWEzZDIzNy9hcHBz/LmFwcGxlLmNvbS8",
+          "path": "› us  › app  › alice-ai-assistant  › id6621272550"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/kb7HkFhb25DnrOXiNcwC4kVAZOe8OhPA_TE1gJl2YiI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pczEt/c3NsLm16c3RhdGlj/LmNvbS9pbWFnZS90/aHVtYi9QdXJwbGUy/MTEvdjQvNjgvNTYv/MzEvNjg1NjMxMzgt/MTc0ZC1jZTFlLWIy/ZDAtODNmOGQ3Yjkz/N2U1L0FwcEljb24t/MC0wLTF4X1UwMDdl/cGhvbmUtMC0xLTAt/UDMtODUtMjIwLnBu/Zy8xMjAweDYzMHdh/LnBuZw",
+          "original": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/56/31/68563138-174d-ce1e-b2d0-83f8d7b937e5/AppIcon-0-0-1x_U007ephone-0-1-0-P3-85-220.png/1200x630wa.png",
+          "logo": true
+        },
+        "creative_work": {
+          "name": "Alice: AI assistant",
+          "rating": {
+            "ratingValue": 4.7,
+            "bestRating": 5.0,
+            "reviewCount": 735,
+            "is_tripadvisor": false
+          },
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/kb7HkFhb25DnrOXiNcwC4kVAZOe8OhPA_TE1gJl2YiI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pczEt/c3NsLm16c3RhdGlj/LmNvbS9pbWFnZS90/aHVtYi9QdXJwbGUy/MTEvdjQvNjgvNTYv/MzEvNjg1NjMxMzgt/MTc0ZC1jZTFlLWIy/ZDAtODNmOGQ3Yjkz/N2U1L0FwcEljb24t/MC0wLTF4X1UwMDdl/cGhvbmUtMC0xLTAt/UDMtODUtMjIwLnBu/Zy8xMjAweDYzMHdh/LnBuZw",
+            "original": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/56/31/68563138-174d-ce1e-b2d0-83f8d7b937e5/AppIcon-0-0-1x_U007ephone-0-1-0-P3-85-220.png/1200x630wa.png"
+          }
+        },
+        "organization": {
+          "type": "organization",
+          "name": "App Store",
+          "contact_points": []
+        },
+        "extra_snippets": [
+          "She has high emotional intelligence and skillful speech recognition for beginners at learning the Russian language. If you prefer to type and to read in English, she can interact with you just as well. After several months, I am still finding Alice to be helpful and enjoyable to chat with. If anything, the new version has only brought improvements. Thank you to the Yandex team for the hard work that they put into their products! ... Приятно знать, что Алиса вам помогает.",
+          "She has high emotional intelligence and skillful speech recognition for beginners at learning the Russian language. If you prefer to type and to read in English, she can interact with you just as well. After several months, I am still finding Alice to be helpful and enjoyable to chat with. If anything, the new version has only brought improvements. Thank you to the Yandex team for the hard work that they put into their products! Developer Response 08/31/2025 Приятно знать, что Алиса вам помогает.",
+          "Алиса AI поможет превратить любое изображение в видеоролик, которым захочется поделиться.",
+          "Alice AI: texts, neural network, fresh ideas, knowledge, Russian-language AI chat. Powerful Yandex AI on your phone helps with everyday chores and tackles tasks for study, work, and creativity. Explore what the neural network can do with Alice—everything you expect from a smart chat in Russian."
+        ]
+      },
+      {
+        "title": "GitHub - sameoldmadness/awesome-alice: Библиотеки и ресурсы для Яндекс.Диалогов",
+        "url": "https://github.com/sameoldmadness/awesome-alice",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "yandex/alice-skills - Примеры от Яндекса · jeyroik/php-yandex-alisa-simple - Пример на PHP · seralexeev/alice-dotnet - Пример на С# и .NET Core · sameoldmadness/alice-ts - Пример на TypeScript · surik00/aioAlice - Примеры на Python + aioAlice",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/sameoldmadness/awesome-alice",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› sameoldmadness  › awesome-alice"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/xDCCnuUB7ERQtQdSnztKTvRgXd4kY5g04LKPY0WjSjc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcGVu/Z3JhcGguZ2l0aHVi/YXNzZXRzLmNvbS9i/YzY1NTliMTA4NjA3/ODNhOWFjNWZhMWUy/NjVmNGMxZjgzNzc0/YjM3ZTE4YWJhMDc3/ODdkNGQ5NTRjNTE2/ZDU3L3NhbWVvbGRt/YWRuZXNzL2F3ZXNv/bWUtYWxpY2U",
+          "original": "https://opengraph.githubassets.com/bc6559b10860783a9ac5fa1e265f4c1f83774b37e18aba07787d4d954c516d57/sameoldmadness/awesome-alice",
+          "logo": false
+        },
+        "software": {
+          "name": "awesome-alice",
+          "author": "sameoldmadness",
+          "is_npm": false,
+          "is_pypi": false,
+          "stars": 297,
+          "forks": 55,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "granstel/Templates.Chatbot - Шаблонный проект на C# (Алиса, Telegram, Chat2Desk) popstas/yandex-dialogs-whatis - Пример на yandex-dialogs-sdk, навык Вторая память · ShoshinNikita/radio-t-bot - Пример на Go, навык Радио-Т · let-robots-reign/RussianHistory_Quiz - Пример на Python, навык Викторина по истории России",
+          "subnetsRU/alice-command-skill - Навык позволяет выполнять несколько сценариев умного дома · Школа Алисы - официальный канал на YouTube · Новая платформа уже здесь / Владимир Гриненко - WSD в Петербурге 2019 · Алиса, пойдём во фронтенд!",
+          "yandex/alice-skills - Примеры от Яндекса · jeyroik/php-yandex-alisa-simple - Пример на PHP · seralexeev/alice-dotnet - Пример на С# и .NET Core · sameoldmadness/alice-ts - Пример на TypeScript · surik00/aioAlice - Примеры на Python + aioAlice",
+          "Связка аккаунтов Алиса и Яндекс.Паспорт (OAuth2) - инструкция как сделать связку аккаунтов для Алисы без своего OAuth2-сервера"
+        ]
+      },
+      {
+        "title": "Alice AI - Apps on Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.yandex.aliceapp&hl=en",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Alice AI: texts, neural network, fresh ideas, knowledge, Russian-language AI chat. Powerful Yandex AI on your phone helps with everyday chores and tackles tasks for study, work, and creativity.",
+        "profile": {
+          "name": "Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.yandex.aliceapp&hl=en",
+          "long_name": "play.google.com",
+          "img": "https://imgs.search.brave.com/BRXcD4iaX7N7RXX5b2ues7rPiumLO6jABWJKycKQM3o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjgwZWUzMzVj/YTc2M2VmMDJlYjE2/YmIyYzA3Y2IwZDkx/ZGViYmUxOGU1Njk4/NGI0NDNhOTQ1N2Mw/MDYyNjk4Ny9wbGF5/Lmdvb2dsZS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "creative_work",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "play.google.com",
+          "hostname": "play.google.com",
+          "favicon": "https://imgs.search.brave.com/BRXcD4iaX7N7RXX5b2ues7rPiumLO6jABWJKycKQM3o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjgwZWUzMzVj/YTc2M2VmMDJlYjE2/YmIyYzA3Y2IwZDkx/ZGViYmUxOGU1Njk4/NGI0NDNhOTQ1N2Mw/MDYyNjk4Ny9wbGF5/Lmdvb2dsZS5jb20v",
+          "path": "› store  › apps  › details"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/q6ubS9bFz0AR5ql8G4jnkXJ-uuTkMaiJWfvNUYA5qlY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9wbGF5/LWxoLmdvb2dsZXVz/ZXJjb250ZW50LmNv/bS96R2U0T0d2ZU91/WGJGNHIzNUtYWEw3/d2hRLXA1SHdWNGQw/RWlsT3phMnk3ZHJD/RVNoR0lnSTVISGo3/UW1jRExnc3J1aEJK/Q0dfRkp4eS1SNUFz/Yzg",
+          "original": "https://play-lh.googleusercontent.com/zGe4OGveOuXbF4r35KXXL7whQ-p5HwV4d0EilOza2y7drCEShGIgI5HHj7QmcDLgsruhBJCG_FJxy-R5Asc8",
+          "logo": true
+        },
+        "creative_work": {
+          "name": "Alice AI",
+          "rating": {
+            "ratingValue": 4.6,
+            "bestRating": 5.0,
+            "reviewCount": 87914,
+            "is_tripadvisor": false
+          },
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/q6ubS9bFz0AR5ql8G4jnkXJ-uuTkMaiJWfvNUYA5qlY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9wbGF5/LWxoLmdvb2dsZXVz/ZXJjb250ZW50LmNv/bS96R2U0T0d2ZU91/WGJGNHIzNUtYWEw3/d2hRLXA1SHdWNGQw/RWlsT3phMnk3ZHJD/RVNoR0lnSTVISGo3/UW1jRExnc3J1aEJK/Q0dfRkp4eS1SNUFz/Yzg",
+            "original": "https://play-lh.googleusercontent.com/zGe4OGveOuXbF4r35KXXL7whQ-p5HwV4d0EilOza2y7drCEShGIgI5HHj7QmcDLgsruhBJCG_FJxy-R5Asc8"
+          }
+        },
+        "extra_snippets": [
+          "AI chat for real-life tasks"
+        ]
+      },
+      {
+        "title": "“Alice, what’s new?” — Yandex introduces Alice AI",
+        "url": "https://yandex.com/company/news/2025-10-28-01",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "At the “Alice, what’s new?” conference today, Yandex introduced Alice AI — a powerful, universal neural network that can help users solve almost any task in chat. Its usefulness and capabilities, compared to other AI products available in Russia, have been tested on thousands of real ...",
+        "page_age": "2025-10-28T00:00:00",
+        "profile": {
+          "name": "Yandex",
+          "url": "https://yandex.com/company/news/2025-10-28-01",
+          "long_name": "yandex.com",
+          "img": "https://imgs.search.brave.com/PzD4Z70x4Tr5qx1FVRSQC87oEooqqKp5MO04jnTc-kI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDcxYjJmYzYw/NTk4Yzc0MWFhZjgw/ODg3ZDQ3ZDIyNmZl/NjE4NmU0NjY1YTkw/MzNlOGJkYzIwNGQz/ZTAxY2E4Zi95YW5k/ZXguY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "yandex.com",
+          "hostname": "yandex.com",
+          "favicon": "https://imgs.search.brave.com/PzD4Z70x4Tr5qx1FVRSQC87oEooqqKp5MO04jnTc-kI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDcxYjJmYzYw/NTk4Yzc0MWFhZjgw/ODg3ZDQ3ZDIyNmZl/NjE4NmU0NjY1YTkw/MzNlOGJkYzIwNGQz/ZTAxY2E4Zi95YW5k/ZXguY29tLw",
+          "path": "› company  › news  › 2025-10-28-01"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/-c01JgBsh1VccqmdHjaDP3tkSCvmehqbrmEpSWW-RZ4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hdmF0/YXJzLm1kcy55YW5k/ZXgubmV0L2dldC15/YWJsb2dzLzYxMDAy/L2ZpbGVfMTc2MTY2/MDU0NjI4MS9vcmln",
+          "original": "https://avatars.mds.yandex.net/get-yablogs/61002/file_1761660546281/orig",
+          "logo": false
+        },
+        "age": "October 28, 2025",
+        "extra_snippets": [
+          "At the “Alice, what’s new?” conference today, Yandex introduced Alice AI — a powerful, universal neural network that can help users solve almost any task in chat. Its usefulness and capabilities, compared to other AI products available in Russia, have been tested on thousands of real use cases.",
+          "It excels at practical tasks and outperforms all other neural networks available in Russia in answering questions in the categories of Education, Personal Growth & Advice, Professional Tasks, and Household Tasks & How-tos, covering the main AI needs that exist now or are likely to appear soon for Russian-speaking users."
+        ]
+      },
+      {
+        "title": "Yandex with Alice AI - App Store - Apple",
+        "url": "https://apps.apple.com/us/app/yandex-with-alice-ai/id1050704155",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "It’s ok. It does collect a lot of personal data. A lot of what’s collected seems to have no use in the big picture. I guess they are collecting data for reasons other than just making money. Final comment. The reviews here, North America or USA store have more reviews written in Russian.",
+        "profile": {
+          "name": "App Store",
+          "url": "https://apps.apple.com/us/app/yandex-with-alice-ai/id1050704155",
+          "long_name": "apps.apple.com",
+          "img": "https://imgs.search.brave.com/_z2UHgNWh4jJ6brYGbXxpDTMJmD9b1fxdUBJ2mJOP4w/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDYzNzRkMjA3/NzAwOWZhNjI1MmM5/NzRiMzIwZGQ4YzZl/ZDgwYmM0Zjk3MDE2/ZDM1Y2FlMDBiNjVi/OWEzZDIzNy9hcHBz/LmFwcGxlLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "creative_work",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "apps.apple.com",
+          "hostname": "apps.apple.com",
+          "favicon": "https://imgs.search.brave.com/_z2UHgNWh4jJ6brYGbXxpDTMJmD9b1fxdUBJ2mJOP4w/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDYzNzRkMjA3/NzAwOWZhNjI1MmM5/NzRiMzIwZGQ4YzZl/ZDgwYmM0Zjk3MDE2/ZDM1Y2FlMDBiNjVi/OWEzZDIzNy9hcHBz/LmFwcGxlLmNvbS8",
+          "path": "› us  › app  › yandex-with-alice-ai  › id1050704155"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/1JNbazC1MsqIYZDCnRCNXKXfjrOAhf-qL2Y-Gbj20oU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pczEt/c3NsLm16c3RhdGlj/LmNvbS9pbWFnZS90/aHVtYi9QdXJwbGUy/MjEvdjQvNGMvZDgv/NzAvNGNkODcwODEt/MmIyZC0zNzUxLTIw/ODktMDRmMWEzYzMz/ZWRhL1lhbmRleEFw/cEljb24tMC0wLTF4/X1UwMDdlcGFkLTAt/MTEtMC04NS0yMjAu/cG5nLzEyMDB4NjMw/d2EucG5n",
+          "original": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/d8/70/4cd87081-2b2d-3751-2089-04f1a3c33eda/YandexAppIcon-0-0-1x_U007epad-0-11-0-85-220.png/1200x630wa.png",
+          "logo": true
+        },
+        "creative_work": {
+          "name": "Yandex with Alice AI",
+          "rating": {
+            "ratingValue": 4.6,
+            "bestRating": 5.0,
+            "reviewCount": 18812,
+            "is_tripadvisor": false
+          },
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/1JNbazC1MsqIYZDCnRCNXKXfjrOAhf-qL2Y-Gbj20oU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pczEt/c3NsLm16c3RhdGlj/LmNvbS9pbWFnZS90/aHVtYi9QdXJwbGUy/MjEvdjQvNGMvZDgv/NzAvNGNkODcwODEt/MmIyZC0zNzUxLTIw/ODktMDRmMWEzYzMz/ZWRhL1lhbmRleEFw/cEljb24tMC0wLTF4/X1UwMDdlcGFkLTAt/MTEtMC04NS0yMjAu/cG5nLzEyMDB4NjMw/d2EucG5n",
+            "original": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/d8/70/4cd87081-2b2d-3751-2089-04f1a3c33eda/YandexAppIcon-0-0-1x_U007epad-0-11-0-85-220.png/1200x630wa.png"
+          }
+        },
+        "organization": {
+          "type": "organization",
+          "name": "App Store",
+          "contact_points": []
+        },
+        "extra_snippets": [
+          "I am a native speaker of English learning Russian on my own. Yandex provides many avenues to do this, and because I spend a lot of time on the phone (unfortunately, and who doesn't right?) this is a great tool to immerse yourself in Russian.",
+          "It’s ok. It does collect a lot of personal data. A lot of what’s collected seems to have no use in the big picture. I guess they are collecting data for reasons other than just making money. Final comment. The reviews here, North America or USA store have more reviews written in Russian.",
+          "Dear yandex,Yandex app in ios has only russian verson. There's no english, so it's hard for many people who are fans of Yandex but didn't understand for russian alphabets. Please, please, please make it also english verson."
+        ]
+      },
+      {
+        "title": "datanymizer/datanymizer_engine/src/locale/ru.rs at main · datanymizer/datanymizer",
+        "url": "https://github.com/datanymizer/datanymizer/blob/main/datanymizer_engine/src/locale/ru.rs",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "&quot;Александра&quot;, &quot;Алина&quot;, &quot;Алиса&quot;, &quot;Алла&quot;, &quot;Альберта&quot;, &quot;Альбертина&quot;, &quot;Альбина&quot;, &quot;Альфреда&quot;,",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/datanymizer/datanymizer/blob/main/datanymizer_engine/src/locale/ru.rs",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› datanymizer  › datanymizer  › blob  › main  › datanymizer_engine  › src  › locale  › ru.rs"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/o13IAgvuvoTXDf5AmBk7XSPUFM7q_GbgwZlKrwqDetY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yZXBv/c2l0b3J5LWltYWdl/cy5naXRodWJ1c2Vy/Y29udGVudC5jb20v/MzE1NzQxMzU0LzZl/ZmRlNzAwLTVmY2Qt/MTFlYi05ZWMwLTA1/MDc4Y2E3NmUyMw",
+          "original": "https://repository-images.githubusercontent.com/315741354/6efde700-5fcd-11eb-9ec0-05078ca76e23",
+          "logo": false
+        },
+        "software": {
+          "name": "datanymizer",
+          "author": "datanymizer",
+          "is_npm": false,
+          "is_pypi": false,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "Powerful database anonymizer with flexible rules. Written in Rust. - datanymizer/datanymizer_engine/src/locale/ru.rs at main · datanymizer/datanymizer",
+          "\"Александра\", \"Алина\", \"Алиса\", \"Алла\", \"Альберта\", \"Альбертина\", \"Альбина\", \"Альфреда\","
+        ]
+      }
+    ],
+    "family_friendly": true
+  }
+}

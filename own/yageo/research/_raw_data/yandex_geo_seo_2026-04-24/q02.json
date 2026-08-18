@@ -1,0 +1,618 @@
+{
+  "type": "search",
+  "query": {
+    "original": "\"YandexGPT\" site:pypi.org OR site:npmjs.com SEO audit",
+    "show_strict_warning": false,
+    "cleaned": "YandexGPT SEO audit",
+    "is_navigational": true,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": "",
+    "search_operators": {
+      "applied": true,
+      "cleaned_query": "YandexGPT SEO audit",
+      "sites": [
+        "pypi.org",
+        "npmjs.com"
+      ]
+    }
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "yandexgpt-python · PyPI",
+        "url": "https://pypi.org/project/yandexgpt-python/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "A Python SDK for interacting with the YandexGPT API.",
+        "profile": {
+          "name": "PyPI",
+          "url": "https://pypi.org/project/yandexgpt-python/",
+          "long_name": "pypi.org",
+          "img": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pypi.org",
+          "hostname": "pypi.org",
+          "favicon": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8",
+          "path": "› project  › yandexgpt-python"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lJdaJSfF8JrYle3bvs5zoI0KGv_VB46f4fIqVrxGCmI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9weXBp/Lm9yZy9zdGF0aWMv/aW1hZ2VzL3R3aXR0/ZXIuYWJhZjRiMTku/d2VicA",
+          "original": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+          "logo": false
+        },
+        "cluster_type": "generic",
+        "cluster": [
+          {
+            "title": "Help",
+            "url": "https://pypi.org/help/",
+            "is_source_local": false,
+            "is_source_both": false,
+            "description": "The Python Package Index (PyPI) is a repository of software for the Python programming language.",
+            "family_friendly": true
+          },
+          {
+            "title": "Sponsors",
+            "url": "https://pypi.org/sponsors/",
+            "is_source_local": false,
+            "is_source_both": false,
+            "description": "The Python Package Index (PyPI) is a repository of software for the Python programming language.",
+            "family_friendly": true
+          },
+          {
+            "title": "Register",
+            "url": "https://pypi.org/account/register/",
+            "is_source_local": false,
+            "is_source_both": false,
+            "description": "The Python Package Index (PyPI) is a repository of software for the Python programming language.",
+            "family_friendly": true
+          },
+          {
+            "title": "Log in",
+            "url": "https://pypi.org/account/login/?next=https://pypi.org/project/yandexgpt-python/",
+            "is_source_local": false,
+            "is_source_both": false,
+            "description": "The Python Package Index (PyPI) is a repository of software for the Python programming language.",
+            "family_friendly": true
+          }
+        ],
+        "software": {
+          "name": "yandexgpt-python",
+          "version": "0.2.3",
+          "homepage": "https://github.com/allseeteam/yandexgpt-python",
+          "datePublished": "Apr 15, 2024",
+          "is_npm": false,
+          "is_pypi": true,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "The YandexGPT Python SDK provides an easy-to-use interface for interacting with the Yandex GPT API. It includes asynchronous methods for sending requests to the Yandex GPT API, handling authentication, and processing responses.",
+          "The YandexGPT SDK is designed for asynchronous operation. To use it, instantiate the YandexGPT class with a configuration manager that includes your Yandex Cloud catalog ID, API key/IAM token, and the desired GPT model type.",
+          "This can be done through the YandexGPTConfigManagerBase class or its subclasses, which allows for easy management of these settings either directly or via environment variables (see examples in env directory).",
+          "For more detailed information, including installation guides, usage examples, and API references, please visit the YandexGPT Python SDK Documentation."
+        ]
+      },
+      {
+        "title": "yandex-chain · PyPI",
+        "url": "https://pypi.org/project/yandex-chain/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "YandexGPT model comes in several flavours - YandexGPT Lite (current and RC), YandexGPT Pro and Summarization model. By default, YandexGPT Lite is used.",
+        "profile": {
+          "name": "PyPI",
+          "url": "https://pypi.org/project/yandex-chain/",
+          "long_name": "pypi.org",
+          "img": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pypi.org",
+          "hostname": "pypi.org",
+          "favicon": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8",
+          "path": "› project  › yandex-chain"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lJdaJSfF8JrYle3bvs5zoI0KGv_VB46f4fIqVrxGCmI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9weXBp/Lm9yZy9zdGF0aWMv/aW1hZ2VzL3R3aXR0/ZXIuYWJhZjRiMTku/d2VicA",
+          "original": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+          "logo": false
+        },
+        "software": {
+          "name": "yandex-chain",
+          "version": "0.0.10",
+          "homepage": "https://github.com/yandex-datasphere/yandex-chain",
+          "datePublished": "Oct 25, 2024",
+          "is_npm": false,
+          "is_pypi": true,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "YandexEmbeddings represents YandexGPT Embeddings service.",
+          "YandexGPTClassifier that supports zero-shot and few-shot classification.",
+          "YandexGPT model comes in several flavours - YandexGPT Lite (current and RC), YandexGPT Pro and Summarization model. By default, YandexGPT Lite is used.",
+          "Pro (based on Yandex GPT 3): model=YandexGPTModel.Pro"
+        ]
+      },
+      {
+        "title": "seo-analyzer - npm",
+        "url": "https://www.npmjs.com/package/seo-analyzer",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The library for analyze a HTML files to show all of the SEO defects.",
+        "profile": {
+          "name": "npm",
+          "url": "https://www.npmjs.com/package/seo-analyzer",
+          "long_name": "npmjs.com",
+          "img": "https://imgs.search.brave.com/129PsExJCizx2_pC-7e4exnT1C0gWE4PUinIWjrXr-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1ZTZiOGFm/M2NhY2JjMmE1NmJl/ZTRlODIwNDVhZWIy/OWRjZDgzYjYyYjcw/NjhmNzQzMWM0NDBk/Y2U3MGIzMi93d3cu/bnBtanMuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "npmjs.com",
+          "hostname": "www.npmjs.com",
+          "favicon": "https://imgs.search.brave.com/129PsExJCizx2_pC-7e4exnT1C0gWE4PUinIWjrXr-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1ZTZiOGFm/M2NhY2JjMmE1NmJl/ZTRlODIwNDVhZWIy/OWRjZDgzYjYyYjcw/NjhmNzQzMWM0NDBk/Y2U3MGIzMi93d3cu/bnBtanMuY29tLw",
+          "path": "› package  › seo-analyzer"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/62DpwhFyijlhFgJ_IRELYduUocC0mVxUE3w26Sc04W0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtcHJvZHVjdGlv/bi5ucG1qcy5jb20v/YTEyYzcyOGU5MDc1/OGNjZDE2OTc2YjM5/NGI5NjQzMTcucG5n",
+          "original": "https://static-production.npmjs.com/a12c728e90758ccd16976b394b964317.png",
+          "logo": false
+        },
+        "software": {
+          "name": "seo-analyzer",
+          "version": "3.2.0",
+          "datePublished": "Apr 18, 2024",
+          "is_npm": true,
+          "is_pypi": false,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "The library for analyze a HTML files to show all of the SEO defects.",
+          "Running the seo-analyzer for SSR applications.",
+          "Running the seo-analyzer for SPA applications.",
+          "Running the seo-analyzer in pipelines(github, gitlab, ...) or pre-push or anywhere else."
+        ]
+      },
+      {
+        "title": "yandex_gpt · PyPI",
+        "url": "https://pypi.org/project/yandex_gpt/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "pip install yandex_gpt Copy PIP instructions · Released: Jan 7, 2025",
+        "profile": {
+          "name": "PyPI",
+          "url": "https://pypi.org/project/yandex_gpt/",
+          "long_name": "pypi.org",
+          "img": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pypi.org",
+          "hostname": "pypi.org",
+          "favicon": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8",
+          "path": "› project  › yandex_gpt"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lJdaJSfF8JrYle3bvs5zoI0KGv_VB46f4fIqVrxGCmI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9weXBp/Lm9yZy9zdGF0aWMv/aW1hZ2VzL3R3aXR0/ZXIuYWJhZjRiMTku/d2VicA",
+          "original": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+          "logo": false
+        },
+        "software": {
+          "name": "yandex_gpt",
+          "version": "0.3.0",
+          "datePublished": "Jan 07, 2025",
+          "is_npm": false,
+          "is_pypi": true,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "from yandex_gpt import YandexGPT, YandexGPTModels yandex_gpt_client = YandexGPT( OAUTH_TOKEN, FOLDER_ID, gpt_model=YandexGPTModels.YANDEX_GPT_LITE )",
+          "Module for simple connecting to YandexGPT Api",
+          "from yandex_gpt import YandexGPT, Messages, SystemMessage, UserMessage yandex_gpt_client = YandexGPT( OAUTH_TOKEN, FOLDER_ID ) chat = Messages( SystemMessage('Ты в диалоге с пользователем. Отвечай на все его запросы'), UserMessage('Привет!"
+        ]
+      },
+      {
+        "title": "SEO Audit - npm search",
+        "url": "https://www.npmjs.com/search?type=61&q=SEO+Audit",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Marketing-focused MCP server for SEO analysis. Audits pages, analyzes keywords, checks links, validates sitemaps, and compares page SEO metrics.",
+        "profile": {
+          "name": "npm",
+          "url": "https://www.npmjs.com/search?type=61&q=SEO+Audit",
+          "long_name": "npmjs.com",
+          "img": "https://imgs.search.brave.com/129PsExJCizx2_pC-7e4exnT1C0gWE4PUinIWjrXr-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1ZTZiOGFm/M2NhY2JjMmE1NmJl/ZTRlODIwNDVhZWIy/OWRjZDgzYjYyYjcw/NjhmNzQzMWM0NDBk/Y2U3MGIzMi93d3cu/bnBtanMuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "npmjs.com",
+          "hostname": "www.npmjs.com",
+          "favicon": "https://imgs.search.brave.com/129PsExJCizx2_pC-7e4exnT1C0gWE4PUinIWjrXr-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1ZTZiOGFm/M2NhY2JjMmE1NmJl/ZTRlODIwNDVhZWIy/OWRjZDgzYjYyYjcw/NjhmNzQzMWM0NDBk/Y2U3MGIzMi93d3cu/bnBtanMuY29tLw",
+          "path": "› search"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/62DpwhFyijlhFgJ_IRELYduUocC0mVxUE3w26Sc04W0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtcHJvZHVjdGlv/bi5ucG1qcy5jb20v/YTEyYzcyOGU5MDc1/OGNjZDE2OTc2YjM5/NGI5NjQzMTcucG5n",
+          "original": "https://static-production.npmjs.com/a12c728e90758ccd16976b394b964317.png",
+          "logo": false
+        },
+        "extra_snippets": [
+          "Programmatic SEO audit library — 140+ rules across 20 categories.",
+          "Install the Keploy SEO Audit skill for Claude Code — audits blog content against Keploy's SEO guidelines and generates a detailed .md report.",
+          "Lighthouse for AI SEO. Audit any webpage for AI search readiness. 7 categories, 30+ factors, research-backed scoring.",
+          "Marketing-focused MCP server for SEO analysis. Audits pages, analyzes keywords, checks links, validates sitemaps, and compares page SEO metrics."
+        ]
+      },
+      {
+        "title": "site-audit-seo - npm",
+        "url": "https://www.npmjs.com/package/site-audit-seo",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Web service and CLI tool for SEO site audit: crawl site, lighthouse all pages, view public reports in browser. Also output to console, json, csv.. Latest version: 6.0.1, last published: 5 months ago. Start using site-audit-seo in your project by running `npm i site-audit-seo`. There are no ...",
+        "page_age": "2021-06-23T00:00:00",
+        "profile": {
+          "name": "npm",
+          "url": "https://www.npmjs.com/package/site-audit-seo",
+          "long_name": "npmjs.com",
+          "img": "https://imgs.search.brave.com/129PsExJCizx2_pC-7e4exnT1C0gWE4PUinIWjrXr-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1ZTZiOGFm/M2NhY2JjMmE1NmJl/ZTRlODIwNDVhZWIy/OWRjZDgzYjYyYjcw/NjhmNzQzMWM0NDBk/Y2U3MGIzMi93d3cu/bnBtanMuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "npmjs.com",
+          "hostname": "www.npmjs.com",
+          "favicon": "https://imgs.search.brave.com/129PsExJCizx2_pC-7e4exnT1C0gWE4PUinIWjrXr-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1ZTZiOGFm/M2NhY2JjMmE1NmJl/ZTRlODIwNDVhZWIy/OWRjZDgzYjYyYjcw/NjhmNzQzMWM0NDBk/Y2U3MGIzMi93d3cu/bnBtanMuY29tLw",
+          "path": "› package  › site-audit-seo"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/t1TrvkMaJ8NM6BTzVXuMm-wqMPNvTDiEW-dL8v7DsSc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtcHJvZHVjdGlv/bi5ucG1qcy5jb20v/MzM4ZTQ5MDVhMjY4/NGNhOTZlMDhjNzc4/MGZjNjg0MTIucG5n",
+          "original": "https://static-production.npmjs.com/338e4905a2684ca96e08c7780fc68412.png",
+          "logo": false
+        },
+        "age": "June 23, 2021",
+        "software": {
+          "name": "site-audit-seo",
+          "author": "Stanislav Popov",
+          "version": "6.0.1",
+          "codeRepository": "https://github.com/viasite/site-audit-seo",
+          "homepage": "https://github.com/viasite/site-audit-seo#readme",
+          "datePublished": "Jun 24, 2025",
+          "is_npm": true,
+          "is_pypi": false,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "Web service and CLI tool for SEO site audit: crawl site, lighthouse all pages, view public reports in browser. Also output to console, json, csv.. Latest version: 6.0.1, last published: 5 months ago. Start using site-audit-seo in your project by running `npm i site-audit-seo`. There are no other projects in the npm registry using site-audit-seo.",
+          "Script will clone repository to %LocalAppData%\\Programs\\site-audit-seo and run service on http://localhost:5302.",
+          "Script will clone repository to $HOME/.local/share/programs/site-audit-seo and run service on http://localhost:5302.",
+          "$ site-audit-seo --help Usage: site-audit-seo -u https://example.com Options: -u --urls <urls> Comma separated url list for scan -p, --preset <preset> Table preset (minimal, seo, seo-minimal, headers, parse, lighthouse, lighthouse-all) (default: \"seo\") -t, --timeout <timeout> Timeout for page request, in ms (default: 10000) -e, --exclude <fields> Comma separated fields to exclude from results -d, --max-depth <depth> Max scan depth (default: 10) -c, --concurrency <threads> Threads number (default: by cpu cores) --lighthouse Appends base Lighthouse fields to preset --delay <ms> Delay between req"
+        ]
+      },
+      {
+        "title": "seo-light-audit - npm",
+        "url": "https://www.npmjs.com/package/seo-light-audit",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The current seo-light-audit module can find this functionality useful for your SEO tips with html.",
+        "page_age": "2018-10-19T00:00:00",
+        "profile": {
+          "name": "npm",
+          "url": "https://www.npmjs.com/package/seo-light-audit",
+          "long_name": "npmjs.com",
+          "img": "https://imgs.search.brave.com/129PsExJCizx2_pC-7e4exnT1C0gWE4PUinIWjrXr-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1ZTZiOGFm/M2NhY2JjMmE1NmJl/ZTRlODIwNDVhZWIy/OWRjZDgzYjYyYjcw/NjhmNzQzMWM0NDBk/Y2U3MGIzMi93d3cu/bnBtanMuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "npmjs.com",
+          "hostname": "www.npmjs.com",
+          "favicon": "https://imgs.search.brave.com/129PsExJCizx2_pC-7e4exnT1C0gWE4PUinIWjrXr-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1ZTZiOGFm/M2NhY2JjMmE1NmJl/ZTRlODIwNDVhZWIy/OWRjZDgzYjYyYjcw/NjhmNzQzMWM0NDBk/Y2U3MGIzMi93d3cu/bnBtanMuY29tLw",
+          "path": "› package  › seo-light-audit"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/t1TrvkMaJ8NM6BTzVXuMm-wqMPNvTDiEW-dL8v7DsSc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtcHJvZHVjdGlv/bi5ucG1qcy5jb20v/MzM4ZTQ5MDVhMjY4/NGNhOTZlMDhjNzc4/MGZjNjg0MTIucG5n",
+          "original": "https://static-production.npmjs.com/338e4905a2684ca96e08c7780fc68412.png",
+          "logo": false
+        },
+        "age": "October 19, 2018",
+        "software": {
+          "name": "seo-light-audit",
+          "author": "Macy Kung",
+          "version": "1.0.0",
+          "codeRepository": "https://github.com/windwaterbo/seo-light-audit",
+          "homepage": "https://github.com/windwaterbo/seo-light-audit#readme",
+          "datePublished": "Oct 19, 2018",
+          "is_npm": true,
+          "is_pypi": false,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "The current seo-light-audit module can find this functionality useful for your SEO tips with html.",
+          "The current seo-light-audit module contains an initial set of SEO audits which we’re planning in the default setting. Make the audits available by default in this package.",
+          "There have default setting with \"seo-light-audit\" module as bellow.",
+          "const seoAudit = require('seo-light-audit'); const path = require('path'); const userSetting = { \"keywords\":[\"CHOCO TV\",\"如懿傳\"], \"title.text.keywordRequired\":true } seoAudit(userSetting, path.join('hello.html'));"
+        ]
+      },
+      {
+        "title": "seo-checker - npm",
+        "url": "https://www.npmjs.com/package/seo-checker",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "What it does do is crawl and parse one or more web pages and returns an object or an array of object containing data you can use to determine the quality of a page&#x27;s SEO.",
+        "profile": {
+          "name": "npm",
+          "url": "https://www.npmjs.com/package/seo-checker",
+          "long_name": "npmjs.com",
+          "img": "https://imgs.search.brave.com/129PsExJCizx2_pC-7e4exnT1C0gWE4PUinIWjrXr-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1ZTZiOGFm/M2NhY2JjMmE1NmJl/ZTRlODIwNDVhZWIy/OWRjZDgzYjYyYjcw/NjhmNzQzMWM0NDBk/Y2U3MGIzMi93d3cu/bnBtanMuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "npmjs.com",
+          "hostname": "www.npmjs.com",
+          "favicon": "https://imgs.search.brave.com/129PsExJCizx2_pC-7e4exnT1C0gWE4PUinIWjrXr-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1ZTZiOGFm/M2NhY2JjMmE1NmJl/ZTRlODIwNDVhZWIy/OWRjZDgzYjYyYjcw/NjhmNzQzMWM0NDBk/Y2U3MGIzMi93d3cu/bnBtanMuY29tLw",
+          "path": "› package  › seo-checker"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/t1TrvkMaJ8NM6BTzVXuMm-wqMPNvTDiEW-dL8v7DsSc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtcHJvZHVjdGlv/bi5ucG1qcy5jb20v/MzM4ZTQ5MDVhMjY4/NGNhOTZlMDhjNzc4/MGZjNjg0MTIucG5n",
+          "original": "https://static-production.npmjs.com/338e4905a2684ca96e08c7780fc68412.png",
+          "logo": false
+        },
+        "software": {
+          "name": "seo-checker",
+          "author": "Bill Patrianakos @ Clever Labs",
+          "version": "0.3.2",
+          "codeRepository": "https://github.com/Clever-Labs/seo-checker",
+          "homepage": "https://github.com/Clever-Labs/seo-checker",
+          "datePublished": "Jan 16, 2015",
+          "is_npm": true,
+          "is_pypi": false,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "This library does not interpret SEO signals itself. It needs you to write the rules.",
+          "What it does do is crawl and parse one or more web pages and returns an object or an array of object containing data you can use to determine the quality of a page's SEO.",
+          "You can crawl a website and gather SEO data on any number of pages at once before parsing the results and returning a result.",
+          "SEO Checker's tests are written with Nodeunit. Run grunt nodeunit or npm test to run them."
+        ]
+      },
+      {
+        "title": "@langchain/yandex - npm",
+        "url": "https://www.npmjs.com/package/@langchain/yandex",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "This package also adds support for YandexGPT embeddings models.",
+        "page_age": "2025-11-24T00:00:00",
+        "profile": {
+          "name": "npm",
+          "url": "https://www.npmjs.com/package/@langchain/yandex",
+          "long_name": "npmjs.com",
+          "img": "https://imgs.search.brave.com/129PsExJCizx2_pC-7e4exnT1C0gWE4PUinIWjrXr-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1ZTZiOGFm/M2NhY2JjMmE1NmJl/ZTRlODIwNDVhZWIy/OWRjZDgzYjYyYjcw/NjhmNzQzMWM0NDBk/Y2U3MGIzMi93d3cu/bnBtanMuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "npmjs.com",
+          "hostname": "www.npmjs.com",
+          "favicon": "https://imgs.search.brave.com/129PsExJCizx2_pC-7e4exnT1C0gWE4PUinIWjrXr-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1ZTZiOGFm/M2NhY2JjMmE1NmJl/ZTRlODIwNDVhZWIy/OWRjZDgzYjYyYjcw/NjhmNzQzMWM0NDBk/Y2U3MGIzMi93d3cu/bnBtanMuY29tLw",
+          "path": "› package  › @langchain  › yandex"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/t1TrvkMaJ8NM6BTzVXuMm-wqMPNvTDiEW-dL8v7DsSc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtcHJvZHVjdGlv/bi5ucG1qcy5jb20v/MzM4ZTQ5MDVhMjY4/NGNhOTZlMDhjNzc4/MGZjNjg0MTIucG5n",
+          "original": "https://static-production.npmjs.com/338e4905a2684ca96e08c7780fc68412.png",
+          "logo": false
+        },
+        "age": "November 24, 2025",
+        "software": {
+          "name": "@langchain/yandex",
+          "author": "LangChain",
+          "version": "1.0.1",
+          "codeRepository": "https://github.com/langchain-ai/langchainjs",
+          "homepage": "https://github.com/langchain-ai/langchainjs/tree/main/libs/langchain-yandex/",
+          "datePublished": "Nov 24, 2025",
+          "is_npm": true,
+          "is_pypi": false,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "This package contains the LangChain.js integrations for YandexGPT through their Foundation Models REST API.",
+          "This package contains the ChatYandexGPT and YandexGPT classes for working with the YandexGPT series of models.",
+          "By default, the latest version of yandexgpt-lite is used from the folder specified in the parameter folder_id or YC_FOLDER_ID environment variable.",
+          "This package also adds support for YandexGPT embeddings models."
+        ]
+      },
+      {
+        "title": "SEO - npm search",
+        "url": "https://www.npmjs.com/search?q=SEO&page=10",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "MCP server for PageSpeed &amp; SEO audits.",
+        "profile": {
+          "name": "npm",
+          "url": "https://www.npmjs.com/search?q=SEO&page=10",
+          "long_name": "npmjs.com",
+          "img": "https://imgs.search.brave.com/129PsExJCizx2_pC-7e4exnT1C0gWE4PUinIWjrXr-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1ZTZiOGFm/M2NhY2JjMmE1NmJl/ZTRlODIwNDVhZWIy/OWRjZDgzYjYyYjcw/NjhmNzQzMWM0NDBk/Y2U3MGIzMi93d3cu/bnBtanMuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "npmjs.com",
+          "hostname": "www.npmjs.com",
+          "favicon": "https://imgs.search.brave.com/129PsExJCizx2_pC-7e4exnT1C0gWE4PUinIWjrXr-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1ZTZiOGFm/M2NhY2JjMmE1NmJl/ZTRlODIwNDVhZWIy/OWRjZDgzYjYyYjcw/NjhmNzQzMWM0NDBk/Y2U3MGIzMi93d3cu/bnBtanMuY29tLw",
+          "path": "› search"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/62DpwhFyijlhFgJ_IRELYduUocC0mVxUE3w26Sc04W0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtcHJvZHVjdGlv/bi5ucG1qcy5jb20v/YTEyYzcyOGU5MDc1/OGNjZDE2OTc2YjM5/NGI5NjQzMTcucG5n",
+          "original": "https://static-production.npmjs.com/a12c728e90758ccd16976b394b964317.png",
+          "logo": false
+        },
+        "extra_snippets": [
+          "MCP server for PageSpeed & SEO audits.",
+          "Single Page Application (SPA) plugin for CruxJS with built-in SEO/CEO support, E-E-A-T signals, and JSON-LD structured data generation.",
+          "Complete SEO management solution for Next.js - Give marketers independence!",
+          "Add SEO and other metadata tags to your Gatsby website."
+        ]
+      }
+    ],
+    "family_friendly": true
+  }
+}

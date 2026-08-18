@@ -1,0 +1,117 @@
+# YaGEO Audit Report
+
+**URL:** {{ url }}
+**Дата:** {{ generated_at }}
+**Время анализа:** {{ elapsed_sec }}с
+
+---
+
+## Сводка
+
+| Модуль | Показатель | Статус |
+|--------|-----------|--------|
+| ЭПОС Overall | {{ epos.overall }}/100 | {{ epos_status }} |
+| Э Экспертность | {{ epos.e }}/100 | {{ level(epos.e) }} |
+| П Полезность | {{ epos.p }}/100 | {{ level(epos.p) }} |
+| О Оригинальность | {{ epos.o }}/100 | {{ level(epos.o) }} |
+| С Содержательность | {{ epos.s }}/100 | {{ level(epos.s) }} |
+| Crawlers | {{ crawlers_status }} | {{ "OK" if crawlers.overall_ok else "Проблемы" }} |
+| Schema | {{ schema.overall_score }}/100 | {{ level(schema.overall_score) }} |
+| Content (слов) | {{ depth.total_words }} | {{ "OK" if depth.total_words >= 300 else "Мало" }} |
+
+**Alice AI citability:** **{{ citability }}**
+
+---
+
+## ЭПОС Scoring
+
+```
+Э Экспертность:      {{ "%3d"|format(epos.e) }} / 100   {{ epos_signals.e_note }}
+П Полезность:        {{ "%3d"|format(epos.p) }} / 100   {{ epos_signals.p_note }}
+О Оригинальность:    {{ "%3d"|format(epos.o) }} / 100   TTR={{ "%.2f"|format(epos.signals.get('ttr', 0)) }}
+С Содержательность:  {{ "%3d"|format(epos.s) }} / 100   {{ epos.signals.get('word_count', 0) }} слов
+```
+
+### Детали ЭПОС
+- **Автор в JSON-LD:** {{ "да" if epos.signals.get('has_author_schema') else "нет" }}
+{% if epos.signals.get('has_author_schema') %}- **Author credentials:** {{ "да" if epos.signals.get('author_has_credentials') else "нет" }}
+{% endif %}- **Organization schema:** {{ "да" if epos.signals.get('has_org_schema') else "нет" }}
+- **Numeric facts density:** {{ epos.signals.get('numeric_density', 0) }} / 100 слов
+- **NER entities density:** {{ epos.signals.get('entity_density', 0) }} / 100 слов
+- **Mobile viewport:** {{ "да" if epos.signals.get('has_viewport') else "нет" }}
+- **HTTPS:** {{ "да" if epos.signals.get('is_https') else "нет" }}
+- **H1:** {{ "да" if epos.signals.get('has_h1') else "нет" }}
+
+---
+
+## Технический аудит
+
+### Crawlers
+- **robots.txt:** {{ "найден" if crawlers.robots.found else "не найден" }}
+- **YandexBot:** {{ "разрешён" if crawlers.robots.yandexbot_allowed else "ЗАБЛОКИРОВАН" }}
+- **YandexAdditionalBot:** {{ "разрешён" if crawlers.robots.yandexadditional_allowed else "ЗАБЛОКИРОВАН" }}
+- **Sitemap:** {{ "найден, %d URL"|format(crawlers.sitemap.total_urls) if crawlers.sitemap.found else "не найден" }}
+- **URL в sitemap:** {{ "да" if crawlers.sitemap.target_url_in_sitemap else "нет" }}
+- **Canonical:** {{ "корректный" if (crawlers.canonical.found and crawlers.canonical.matches_target) else ("неверный: " + crawlers.canonical.canonical_url) if crawlers.canonical.found else "отсутствует" }}
+
+### Schema.org
+{% if schema.found_schemas %}
+Найденные схемы:
+{% for s in schema.found_schemas %}- **{{ s.schema_type }}** — {{ s.score }}/100{% if s.issues %} ({{ s.issues|length }} замечаний){% endif %}
+
+{% endfor %}
+{% else %}
+**JSON-LD разметка отсутствует** — ключевой gap для Яндекс Alice AI.
+{% endif %}
+Отсутствуют (рекомендуются): {{ schema.missing_recommended|join(", ") if schema.missing_recommended else "все есть" }}
+
+---
+
+## Контент
+
+- **Слов всего:** {{ depth.total_words }}
+- **Вступление:** {{ depth.intro_word_count }} слов
+- **Разделов H2:** {{ depth.total_sections }}
+- **Глубина заголовков:** H{{ depth.heading_depth }}
+- **FAQ-блок:** {{ "да" if depth.has_faq_block else "нет" }}{% if depth.has_faq_block %} (avg ответ: {{ depth.faq_answers_avg_words }} слов){% endif %}
+
+- **Speakable абзацы:** {{ "да" if depth.has_speakable_content else "нет" }}
+- **LSI-покрытие:** {{ "%.0f%%"|format(depth.lsi_coverage * 100) }}
+{% if depth.sections %}
+### По разделам
+
+| Раздел | Слов | Предложений | Числа | Список |
+|--------|------|------------|-------|--------|
+{% for s in depth.sections[:10] %}- **{{ s.heading[:50] }}** | {{ s.word_count }} | {{ s.sentences }} | {{ "да" if s.has_numeric_facts else "-" }} | {{ "да" if s.has_list else "-" }}
+{% endfor %}{% endif %}
+
+---
+
+## Приоритизированные рекомендации
+
+{% for rec in top_recommendations %}{{ loop.index }}. {{ rec.text }} *({{ rec.source }}, +{{ rec.impact }} pts)*
+{% endfor %}
+
+---
+
+## Сгенерированные JSON-LD блоки
+
+{% if schema.generated %}
+Добавить в `<head>` страницы:
+
+{% for block in schema.generated %}
+### {{ block['@type'] }}
+
+```json
+{{ block|tojson }}
+```
+
+{% endfor %}
+{% else %}
+Все рекомендуемые схемы уже присутствуют.
+{% endif %}
+
+---
+
+*Сгенерировано YaGEO v0.1 — open-source Claude Code skill для Яндекс ЭПОС + Alice AI*
+*GitHub: https://github.com/YOUR_USERNAME/YaGEO*

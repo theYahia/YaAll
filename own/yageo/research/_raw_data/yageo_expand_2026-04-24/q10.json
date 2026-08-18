@@ -1,0 +1,178 @@
+{
+  "type": "search",
+  "query": {
+    "original": "\"yandex.ru/dev/webmaster\" efficiency alice-answers generative API",
+    "show_strict_warning": false,
+    "cleaned": "yandex.ru/dev/webmaster efficiency alice-answers generative API",
+    "is_navigational": true,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": true,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": false,
+    "state": "",
+    "search_operators": {
+      "applied": true,
+      "cleaned_query": "yandex.ru/dev/webmaster efficiency alice-answers generative API"
+    }
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "GitHub - yandex/webmaster.api · GitHub",
+        "url": "https://github.com/yandex/webmaster.api",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Переходите на API Вебмастера V4 https://yandex.ru/dev/webmaster/",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/yandex/webmaster.api",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› yandex  › webmaster.api"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Zfgri0MeKhc2bqVSRIGMkgVlMzf2yZXZw31eOCmkwKM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcGVu/Z3JhcGguZ2l0aHVi/YXNzZXRzLmNvbS8x/MzVlZDNjNWE0Y2Y5/Y2M2NDRmN2UxNTJm/MjU1YzQ1ZWVjZGVm/MjU1ZTQzNzRiZjgw/MjcxMjlmYWFkNmIw/OTgwL3lhbmRleC93/ZWJtYXN0ZXIuYXBp",
+          "original": "https://opengraph.githubassets.com/135ed3c5a4cf9cc644f7e152f255c45eecdef255e4374bf8027129faad6b0980/yandex/webmaster.api",
+          "logo": false
+        },
+        "software": {
+          "name": "webmaster.api",
+          "author": "yandex",
+          "is_npm": false,
+          "is_pypi": false,
+          "stars": 28,
+          "forks": 30,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "Переходите на API Вебмастера V4 https://yandex.ru/dev/webmaster/"
+        ]
+      },
+      {
+        "title": "yandex-webmaster-api · PyPI",
+        "url": "https://pypi.org/project/yandex-webmaster-api/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "pip install yandex-webmaster-api Copy PIP instructions · Released: Mar 12, 2024",
+        "profile": {
+          "name": "PyPI",
+          "url": "https://pypi.org/project/yandex-webmaster-api/",
+          "long_name": "pypi.org",
+          "img": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pypi.org",
+          "hostname": "pypi.org",
+          "favicon": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8",
+          "path": "› project  › yandex-webmaster-api"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lJdaJSfF8JrYle3bvs5zoI0KGv_VB46f4fIqVrxGCmI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9weXBp/Lm9yZy9zdGF0aWMv/aW1hZ2VzL3R3aXR0/ZXIuYWJhZjRiMTku/d2VicA",
+          "original": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+          "logo": false
+        },
+        "software": {
+          "name": "yandex-webmaster-api",
+          "version": "0.0.3",
+          "homepage": "https://github.com/bzdvdn/yandex-webmaster-api",
+          "datePublished": "Mar 12, 2024",
+          "is_npm": false,
+          "is_pypi": true,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "doc - https://yandex.ru/dev/webmaster/doc/dg/reference/host-search-queries-history-all.html",
+          "doc - https://yandex.ru/dev/webmaster/doc/dg/reference/host-search-queries-history.html",
+          "doc - https://yandex.ru/dev/webmaster/doc/dg/reference/host-query-analytics.html",
+          "doc - https://yandex.ru/dev/webmaster/doc/dg/reference/hosts-add-site.html"
+        ]
+      },
+      {
+        "title": "webmaster.api/README.MD at master · yandex/webmaster.api",
+        "url": "https://github.com/yandex/webmaster.api/blob/master/README.MD",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Переходите на API Вебмастера V4 https://yandex.ru/dev/webmaster/",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/yandex/webmaster.api/blob/master/README.MD",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› yandex  › webmaster.api  › blob  › master  › README.MD"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Zfgri0MeKhc2bqVSRIGMkgVlMzf2yZXZw31eOCmkwKM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcGVu/Z3JhcGguZ2l0aHVi/YXNzZXRzLmNvbS8x/MzVlZDNjNWE0Y2Y5/Y2M2NDRmN2UxNTJm/MjU1YzQ1ZWVjZGVm/MjU1ZTQzNzRiZjgw/MjcxMjlmYWFkNmIw/OTgwL3lhbmRleC93/ZWJtYXN0ZXIuYXBp",
+          "original": "https://opengraph.githubassets.com/135ed3c5a4cf9cc644f7e152f255c45eecdef255e4374bf8027129faad6b0980/yandex/webmaster.api",
+          "logo": false
+        },
+        "software": {
+          "name": "webmaster.api",
+          "author": "yandex",
+          "is_npm": false,
+          "is_pypi": false,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "Переходите на API Вебмастера V4 https://yandex.ru/dev/webmaster/"
+        ]
+      }
+    ],
+    "family_friendly": true
+  }
+}

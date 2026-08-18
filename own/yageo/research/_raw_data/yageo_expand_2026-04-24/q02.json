@@ -1,0 +1,613 @@
+{
+  "type": "search",
+  "query": {
+    "original": "yandex site:pypi.org OR site:npmjs.com GEO AI analytics",
+    "show_strict_warning": false,
+    "cleaned": "yandex GEO AI analytics",
+    "is_navigational": true,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": "",
+    "search_operators": {
+      "applied": true,
+      "cleaned_query": "yandex GEO AI analytics",
+      "sites": [
+        "pypi.org",
+        "npmjs.com"
+      ]
+    }
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "yandex-geo · PyPI",
+        "url": "https://pypi.org/project/yandex-geo/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Details for the file yandex_geo-2.1.2-py3-none-any.whl. ... See more details on using hashes here. ... AWS Cloud computing and Security Sponsor Datadog Monitoring Depot Continuous Integration Fastly CDN Google Download Analytics Pingdom Monitoring Sentry Error logging StatusPage Status page",
+        "profile": {
+          "name": "PyPI",
+          "url": "https://pypi.org/project/yandex-geo/",
+          "long_name": "pypi.org",
+          "img": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pypi.org",
+          "hostname": "pypi.org",
+          "favicon": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8",
+          "path": "› project  › yandex-geo"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lJdaJSfF8JrYle3bvs5zoI0KGv_VB46f4fIqVrxGCmI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9weXBp/Lm9yZy9zdGF0aWMv/aW1hZ2VzL3R3aXR0/ZXIuYWJhZjRiMTku/d2VicA",
+          "original": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+          "logo": false
+        },
+        "cluster_type": "generic",
+        "cluster": [
+          {
+            "title": "Help",
+            "url": "https://pypi.org/help/",
+            "is_source_local": false,
+            "is_source_both": false,
+            "description": "The Python Package Index (PyPI) is a repository of software for the Python programming language.",
+            "family_friendly": true
+          },
+          {
+            "title": "Sponsors",
+            "url": "https://pypi.org/sponsors/",
+            "is_source_local": false,
+            "is_source_both": false,
+            "description": "The Python Package Index (PyPI) is a repository of software for the Python programming language.",
+            "family_friendly": true
+          },
+          {
+            "title": "Register",
+            "url": "https://pypi.org/account/register/",
+            "is_source_local": false,
+            "is_source_both": false,
+            "description": "The Python Package Index (PyPI) is a repository of software for the Python programming language.",
+            "family_friendly": true
+          },
+          {
+            "title": "Log in",
+            "url": "https://pypi.org/account/login/?next=https://pypi.org/project/yandex-geo/",
+            "is_source_local": false,
+            "is_source_both": false,
+            "description": "The Python Package Index (PyPI) is a repository of software for the Python programming language.",
+            "family_friendly": true
+          }
+        ],
+        "software": {
+          "name": "yandex-geo",
+          "version": "2.1.2",
+          "homepage": "https://github.com/QueGroup/yandex-geocoder",
+          "datePublished": "Jun 27, 2024",
+          "is_npm": false,
+          "is_pypi": true,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "Simple library for getting address or coordinates via Yandex geocoder",
+          "Yandex Geocoder requires an API developer key, you can get it here to use this library.",
+          "Details for the file yandex_geo-2.1.2.tar.gz.",
+          "import asyncio from decimal import Decimal from yandex_geocoder import Client async def main(): aclient = Client(api_key=\"your-api-key\") coordinates = await aclient.aiocoordinates(\"Москва Льва Толстого 16\") assert coordinates == (Decimal(\"37.587093\"), Decimal(\"55.733974\")) address = await aclient.aioaddress(Decimal(\"37.587093\"), Decimal(\"55.733974\")) assert address == \"Россия, Москва, улица Льва Толстого, 16\" if __name__ == '__main__': asyncio.run(main())"
+        ]
+      },
+      {
+        "title": "yandex-geocoder · PyPI",
+        "url": "https://pypi.org/project/yandex-geocoder/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Download URL: yandex_geocoder-3.0.1-py3-none-any.whl ... See more details on using hashes here. ... AWS Cloud computing and Security Sponsor Datadog Monitoring Depot Continuous Integration Fastly CDN Google Download Analytics Pingdom Monitoring Sentry Error logging StatusPage Status page",
+        "profile": {
+          "name": "PyPI",
+          "url": "https://pypi.org/project/yandex-geocoder/",
+          "long_name": "pypi.org",
+          "img": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pypi.org",
+          "hostname": "pypi.org",
+          "favicon": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8",
+          "path": "› project  › yandex-geocoder"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lJdaJSfF8JrYle3bvs5zoI0KGv_VB46f4fIqVrxGCmI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9weXBp/Lm9yZy9zdGF0aWMv/aW1hZ2VzL3R3aXR0/ZXIuYWJhZjRiMTku/d2VicA",
+          "original": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+          "logo": false
+        },
+        "software": {
+          "name": "yandex-geocoder",
+          "version": "3.0.1",
+          "homepage": "https://github.com/sivakov512/yandex-geocoder",
+          "datePublished": "Jan 17, 2023",
+          "is_npm": false,
+          "is_pypi": true,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "Simple library for getting address or coordinates via Yandex geocoder",
+          "Yandex Geocoder requires an API developer key, you can get it here to use this library.",
+          "Details for the file yandex_geocoder-3.0.1.tar.gz.",
+          "yandex_geocoder-3.0.1.tar.gz (4.0 kB view details)"
+        ]
+      },
+      {
+        "title": "yandex · PyPI",
+        "url": "https://pypi.org/project/yandex/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Details for the file yandex-0.0.2.tar.gz. ... Uploaded via: twine/3.1.0 pkginfo/1.5.0.1 requests/2.22.0 setuptools/41.2.0 requests-toolbelt/0.9.1 tqdm/4.39.0 CPython/3.8.0 · See more details on using hashes here. ... AWS Cloud computing and Security Sponsor Datadog Monitoring Depot Continuous Integration Fastly CDN Google Download Analytics ...",
+        "page_age": "2019-12-19T00:00:00",
+        "profile": {
+          "name": "PyPI",
+          "url": "https://pypi.org/project/yandex/",
+          "long_name": "pypi.org",
+          "img": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pypi.org",
+          "hostname": "pypi.org",
+          "favicon": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8",
+          "path": "› project  › yandex"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lJdaJSfF8JrYle3bvs5zoI0KGv_VB46f4fIqVrxGCmI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9weXBp/Lm9yZy9zdGF0aWMv/aW1hZ2VzL3R3aXR0/ZXIuYWJhZjRiMTku/d2VicA",
+          "original": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+          "logo": false
+        },
+        "age": "December 19, 2019",
+        "software": {
+          "name": "yandex",
+          "version": "0.0.2",
+          "homepage": "https://www.github.com/Dogeek/yandex",
+          "datePublished": "Dec 20, 2019",
+          "is_npm": false,
+          "is_pypi": true,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "Details for the file yandex-0.0.2.tar.gz. ... Uploaded via: twine/3.1.0 pkginfo/1.5.0.1 requests/2.22.0 setuptools/41.2.0 requests-toolbelt/0.9.1 tqdm/4.39.0 CPython/3.8.0 · See more details on using hashes here. ... AWS Cloud computing and Security Sponsor Datadog Monitoring Depot Continuous Integration Fastly CDN Google Download Analytics Pingdom Monitoring Sentry Error logging StatusPage Status page",
+          "A python wrapper around the Yandex API"
+        ]
+      },
+      {
+        "title": "keywords:yandex metrica - npm search",
+        "url": "https://www.npmjs.com/search?q=keywords:yandex+metrica",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "This plugin provides an easy way to add Yandex Metrica to your Docusaurus documentation website. ... gracefullight• 1.0.1 • 7 months ago • 0 dependents • MITpublished version 1.0.1, 7 months ago0 dependents licensed under $MIT ... firnis• 1.7.0 • a year ago • 0 dependents • ISCpublished version 1.7.0, a year ago0 dependents licensed under $ISC ... The lib, which provides statistics counters, e.g. Google analytics, Yandex metrica, etc",
+        "profile": {
+          "name": "npm",
+          "url": "https://www.npmjs.com/search?q=keywords:yandex+metrica",
+          "long_name": "npmjs.com",
+          "img": "https://imgs.search.brave.com/129PsExJCizx2_pC-7e4exnT1C0gWE4PUinIWjrXr-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1ZTZiOGFm/M2NhY2JjMmE1NmJl/ZTRlODIwNDVhZWIy/OWRjZDgzYjYyYjcw/NjhmNzQzMWM0NDBk/Y2U3MGIzMi93d3cu/bnBtanMuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "npmjs.com",
+          "hostname": "www.npmjs.com",
+          "favicon": "https://imgs.search.brave.com/129PsExJCizx2_pC-7e4exnT1C0gWE4PUinIWjrXr-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1ZTZiOGFm/M2NhY2JjMmE1NmJl/ZTRlODIwNDVhZWIy/OWRjZDgzYjYyYjcw/NjhmNzQzMWM0NDBk/Y2U3MGIzMi93d3cu/bnBtanMuY29tLw",
+          "path": "› search"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/62DpwhFyijlhFgJ_IRELYduUocC0mVxUE3w26Sc04W0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtcHJvZHVjdGlv/bi5ucG1qcy5jb20v/YTEyYzcyOGU5MDc1/OGNjZDE2OTc2YjM5/NGI5NjQzMTcucG5n",
+          "original": "https://static-production.npmjs.com/a12c728e90758ccd16976b394b964317.png",
+          "logo": false
+        },
+        "extra_snippets": [
+          "This plugin provides an easy way to add Yandex Metrica to your Docusaurus documentation website. ... gracefullight• 1.0.1 • 7 months ago • 0 dependents • MITpublished version 1.0.1, 7 months ago0 dependents licensed under $MIT ... firnis• 1.7.0 • a year ago • 0 dependents • ISCpublished version 1.7.0, a year ago0 dependents licensed under $ISC ... The lib, which provides statistics counters, e.g. Google analytics, Yandex metrica, etc",
+          "Understand how your tool is being used by anonymously reporting usage metrics to Google Analytics or Yandex.Metrica",
+          "Yandex Maps 3.0 components library for VueJS."
+        ]
+      },
+      {
+        "title": "yandex_gpt · PyPI",
+        "url": "https://pypi.org/project/yandex_gpt/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "from yandex_gpt import YandexGPT, YandexGPTModels yandex_gpt_client = YandexGPT( OAUTH_TOKEN, FOLDER_ID, gpt_model=YandexGPTModels.YANDEX_GPT_LITE )",
+        "profile": {
+          "name": "PyPI",
+          "url": "https://pypi.org/project/yandex_gpt/",
+          "long_name": "pypi.org",
+          "img": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pypi.org",
+          "hostname": "pypi.org",
+          "favicon": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8",
+          "path": "› project  › yandex_gpt"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lJdaJSfF8JrYle3bvs5zoI0KGv_VB46f4fIqVrxGCmI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9weXBp/Lm9yZy9zdGF0aWMv/aW1hZ2VzL3R3aXR0/ZXIuYWJhZjRiMTku/d2VicA",
+          "original": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+          "logo": false
+        },
+        "software": {
+          "name": "yandex_gpt",
+          "version": "0.3.0",
+          "datePublished": "Jan 07, 2025",
+          "is_npm": false,
+          "is_pypi": true,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "Details for the file yandex_gpt-0.3.0.tar.gz.",
+          "from yandex_gpt import YandexGPT, YandexGPTModels yandex_gpt_client = YandexGPT( OAUTH_TOKEN, FOLDER_ID, gpt_model=YandexGPTModels.YANDEX_GPT_LITE )",
+          "Module for simple connecting to YandexGPT Api",
+          "from yandex_gpt import YandexGPT, Messages, SystemMessage, UserMessage yandex_gpt_client = YandexGPT( OAUTH_TOKEN, FOLDER_ID ) chat = Messages( SystemMessage('Ты в диалоге с пользователем. Отвечай на все его запросы'), UserMessage('Привет!"
+        ]
+      },
+      {
+        "title": "yandexcloud · PyPI",
+        "url": "https://pypi.org/project/yandexcloud/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Download URL: yandexcloud-0.386.0-py3-none-any.whl ... See more details on using hashes here. ... AWS Cloud computing and Security Sponsor Datadog Monitoring Depot Continuous Integration Fastly CDN Google Download Analytics Pingdom Monitoring Sentry Error logging StatusPage Status page",
+        "profile": {
+          "name": "PyPI",
+          "url": "https://pypi.org/project/yandexcloud/",
+          "long_name": "pypi.org",
+          "img": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pypi.org",
+          "hostname": "pypi.org",
+          "favicon": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8",
+          "path": "› project  › yandexcloud"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lJdaJSfF8JrYle3bvs5zoI0KGv_VB46f4fIqVrxGCmI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9weXBp/Lm9yZy9zdGF0aWMv/aW1hZ2VzL3R3aXR0/ZXIuYWJhZjRiMTku/d2VicA",
+          "original": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+          "logo": false
+        },
+        "software": {
+          "name": "yandexcloud",
+          "version": "0.386.0",
+          "homepage": "https://github.com/yandex-cloud/python-sdk",
+          "datePublished": "Apr 13, 2026",
+          "is_npm": false,
+          "is_pypi": true,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "There are several options for authorization your requests - Metadata Service (if you're executing your code inside VMs or Cloud Functions running in Yandex.Cloud), Service Account Keys and externally created IAM tokens.",
+          "Details for the file yandexcloud-0.386.0.tar.gz.",
+          "Details for the file yandexcloud-0.386.0-py3-none-any.whl.",
+          "Need to automate your infrastructure or use services provided by Yandex.Cloud?"
+        ]
+      },
+      {
+        "title": "yandex-routeq-analytics · PyPI",
+        "url": "https://pypi.org/project/yandex-routeq-analytics/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Details for the file yandex-routeq-analytics-66.0.3.tar.gz.",
+        "page_age": "2023-08-30T00:00:00",
+        "profile": {
+          "name": "PyPI",
+          "url": "https://pypi.org/project/yandex-routeq-analytics/",
+          "long_name": "pypi.org",
+          "img": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pypi.org",
+          "hostname": "pypi.org",
+          "favicon": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8",
+          "path": "› project  › yandex-routeq-analytics"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lJdaJSfF8JrYle3bvs5zoI0KGv_VB46f4fIqVrxGCmI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9weXBp/Lm9yZy9zdGF0aWMv/aW1hZ2VzL3R3aXR0/ZXIuYWJhZjRiMTku/d2VicA",
+          "original": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+          "logo": false
+        },
+        "age": "August 30, 2023",
+        "software": {
+          "name": "yandex-routeq-analytics",
+          "version": "66.0.3",
+          "homepage": "https://ya.ru",
+          "datePublished": "Feb 16, 2024",
+          "is_npm": false,
+          "is_pypi": true,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "Details for the file yandex-routeq-analytics-66.0.3.tar.gz.",
+          "yandex-routeq-analytics-66.0.3.tar.gz (1.1 kB view details)",
+          "Download URL: yandex-routeq-analytics-66.0.3.tar.gz"
+        ]
+      },
+      {
+        "title": "yandex-cloud-ml-sdk · PyPI",
+        "url": "https://pypi.org/project/yandex-cloud-ml-sdk/0.19.0/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Download URL: yandex_cloud_ml_sdk-0.19.0-py3-none-any.whl ... See more details on using hashes here. ... AWS Cloud computing and Security Sponsor Datadog Monitoring Depot Continuous Integration Fastly CDN Google Download Analytics Pingdom Monitoring Sentry Error logging StatusPage Status page",
+        "profile": {
+          "name": "PyPI",
+          "url": "https://pypi.org/project/yandex-cloud-ml-sdk/0.19.0/",
+          "long_name": "pypi.org",
+          "img": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pypi.org",
+          "hostname": "pypi.org",
+          "favicon": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8",
+          "path": "› project  › yandex-cloud-ml-sdk  › 0.19.0"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lJdaJSfF8JrYle3bvs5zoI0KGv_VB46f4fIqVrxGCmI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9weXBp/Lm9yZy9zdGF0aWMv/aW1hZ2VzL3R3aXR0/ZXIuYWJhZjRiMTku/d2VicA",
+          "original": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+          "logo": false
+        },
+        "software": {
+          "name": "yandex-cloud-ml-sdk",
+          "version": "0.19.0",
+          "codeRepository": "https://github.com/yandex-cloud/yandex-ai-studio-sdk",
+          "datePublished": "Jan 27, 2026",
+          "is_npm": false,
+          "is_pypi": true,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "Download URL: yandex_cloud_ml_sdk-0.19.0-py3-none-any.whl ... See more details on using hashes here. ... AWS Cloud computing and Security Sponsor Datadog Monitoring Depot Continuous Integration Fastly CDN Google Download Analytics Pingdom Monitoring Sentry Error logging StatusPage Status page",
+          "This is a wrapper package for yandex-ai-studio-sdk for backward compatibility.",
+          "Refer to https://github.com/yandex-cloud/yandex-ai-studio-sdk/blob/master/compat/yandex-cloud-ml-sdk/MIGRATION.md",
+          "Details for the file yandex_cloud_ml_sdk-0.19.0-py3-none-any.whl."
+        ]
+      },
+      {
+        "title": "yandex-metrica-watch - npm",
+        "url": "https://www.npmjs.com/package/yandex-metrica-watch",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Yandex metrica browser code. Latest version: 1.423.0, last published: 12 days ago. Start using yandex-metrica-watch in your project by running `npm i yandex-metrica-watch`. There are no other projects in the npm registry using yandex-metrica-watch.",
+        "page_age": "2023-05-02T00:00:00",
+        "profile": {
+          "name": "npm",
+          "url": "https://www.npmjs.com/package/yandex-metrica-watch",
+          "long_name": "npmjs.com",
+          "img": "https://imgs.search.brave.com/129PsExJCizx2_pC-7e4exnT1C0gWE4PUinIWjrXr-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1ZTZiOGFm/M2NhY2JjMmE1NmJl/ZTRlODIwNDVhZWIy/OWRjZDgzYjYyYjcw/NjhmNzQzMWM0NDBk/Y2U3MGIzMi93d3cu/bnBtanMuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "npmjs.com",
+          "hostname": "www.npmjs.com",
+          "favicon": "https://imgs.search.brave.com/129PsExJCizx2_pC-7e4exnT1C0gWE4PUinIWjrXr-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1ZTZiOGFm/M2NhY2JjMmE1NmJl/ZTRlODIwNDVhZWIy/OWRjZDgzYjYyYjcw/NjhmNzQzMWM0NDBk/Y2U3MGIzMi93d3cu/bnBtanMuY29tLw",
+          "path": "› package  › yandex-metrica-watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/t1TrvkMaJ8NM6BTzVXuMm-wqMPNvTDiEW-dL8v7DsSc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtcHJvZHVjdGlv/bi5ucG1qcy5jb20v/MzM4ZTQ5MDVhMjY4/NGNhOTZlMDhjNzc4/MGZjNjg0MTIucG5n",
+          "original": "https://static-production.npmjs.com/338e4905a2684ca96e08c7780fc68412.png",
+          "logo": false
+        },
+        "age": "May 2, 2023",
+        "software": {
+          "name": "yandex-metrica-watch",
+          "author": "Yandex",
+          "version": "1.423.0",
+          "datePublished": "Dec 04, 2025",
+          "is_npm": true,
+          "is_pypi": false,
+          "programmingLanguage": ""
+        }
+      },
+      {
+        "title": "ng-yandex-metrika - npm",
+        "url": "https://www.npmjs.com/package/ng-yandex-metrika",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "import { MetrikaModule } from &#x27;ng-yandex-metrika&#x27;; @NgModule({ imports: [ MetrikaModule.forRoot( { id: 35567075, webvisor: true }, // CounterConfig | CounterConfig[] { // Можно задать ID счетчика, либо порядковый номер в массиве, необязательный параметр, по умолчанию первый defaultCounter, // Для загрузки метрики с другого источника alternativeUrl: &#x27;https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js&#x27;, }, ), ] })",
+        "page_age": "2024-07-13T00:00:00",
+        "profile": {
+          "name": "npm",
+          "url": "https://www.npmjs.com/package/ng-yandex-metrika",
+          "long_name": "npmjs.com",
+          "img": "https://imgs.search.brave.com/129PsExJCizx2_pC-7e4exnT1C0gWE4PUinIWjrXr-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1ZTZiOGFm/M2NhY2JjMmE1NmJl/ZTRlODIwNDVhZWIy/OWRjZDgzYjYyYjcw/NjhmNzQzMWM0NDBk/Y2U3MGIzMi93d3cu/bnBtanMuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "npmjs.com",
+          "hostname": "www.npmjs.com",
+          "favicon": "https://imgs.search.brave.com/129PsExJCizx2_pC-7e4exnT1C0gWE4PUinIWjrXr-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1ZTZiOGFm/M2NhY2JjMmE1NmJl/ZTRlODIwNDVhZWIy/OWRjZDgzYjYyYjcw/NjhmNzQzMWM0NDBk/Y2U3MGIzMi93d3cu/bnBtanMuY29tLw",
+          "path": "› package  › ng-yandex-metrika"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/t1TrvkMaJ8NM6BTzVXuMm-wqMPNvTDiEW-dL8v7DsSc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtcHJvZHVjdGlv/bi5ucG1qcy5jb20v/MzM4ZTQ5MDVhMjY4/NGNhOTZlMDhjNzc4/MGZjNjg0MTIucG5n",
+          "original": "https://static-production.npmjs.com/338e4905a2684ca96e08c7780fc68412.png",
+          "logo": false
+        },
+        "age": "July 13, 2024",
+        "software": {
+          "name": "ng-yandex-metrika",
+          "author": "Lyubimov Roman",
+          "version": "18.0.0",
+          "codeRepository": "https://github.com/FriOne/ng-yandex-metrika",
+          "homepage": "https://github.com/FriOne/ng-yandex-metrika#readme",
+          "datePublished": "Jul 13, 2024",
+          "is_npm": true,
+          "is_pypi": false,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "import { MetrikaModule } from 'ng-yandex-metrika'; @NgModule({ imports: [ MetrikaModule.forRoot( { id: 35567075, webvisor: true }, // CounterConfig | CounterConfig[] { // Можно задать ID счетчика, либо порядковый номер в массиве, необязательный параметр, по умолчанию первый defaultCounter, // Для загрузки метрики с другого источника alternativeUrl: 'https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js', }, ), ] })",
+          "<noscript><div><img src=\"https://mc.yandex.ru/watch/put_your_id_here\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>"
+        ]
+      }
+    ],
+    "family_friendly": true
+  }
+}

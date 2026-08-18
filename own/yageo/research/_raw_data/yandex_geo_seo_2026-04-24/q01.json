@@ -1,0 +1,121 @@
+{
+  "type": "search",
+  "query": {
+    "original": "\"yandex webmaster api\" python pip install LLM",
+    "show_strict_warning": false,
+    "cleaned": "yandex webmaster api python pip install LLM",
+    "is_navigational": true,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": true,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": false,
+    "state": "",
+    "search_operators": {
+      "applied": true,
+      "cleaned_query": "yandex webmaster api python pip install LLM"
+    }
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "yandex-webmaster-api · PyPI",
+        "url": "https://pypi.org/project/yandex-webmaster-api/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "pip install yandex-webmaster-api Copy PIP instructions · Released: Mar 12, 2024",
+        "profile": {
+          "name": "PyPI",
+          "url": "https://pypi.org/project/yandex-webmaster-api/",
+          "long_name": "pypi.org",
+          "img": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pypi.org",
+          "hostname": "pypi.org",
+          "favicon": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8",
+          "path": "› project  › yandex-webmaster-api"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lJdaJSfF8JrYle3bvs5zoI0KGv_VB46f4fIqVrxGCmI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9weXBp/Lm9yZy9zdGF0aWMv/aW1hZ2VzL3R3aXR0/ZXIuYWJhZjRiMTku/d2VicA",
+          "original": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+          "logo": false
+        },
+        "cluster_type": "generic",
+        "cluster": [
+          {
+            "title": "Help",
+            "url": "https://pypi.org/help/",
+            "is_source_local": false,
+            "is_source_both": false,
+            "description": "The Python Package Index (PyPI) is a repository of software for the Python programming language.",
+            "family_friendly": true
+          },
+          {
+            "title": "Sponsors",
+            "url": "https://pypi.org/sponsors/",
+            "is_source_local": false,
+            "is_source_both": false,
+            "description": "The Python Package Index (PyPI) is a repository of software for the Python programming language.",
+            "family_friendly": true
+          },
+          {
+            "title": "Register",
+            "url": "https://pypi.org/account/register/",
+            "is_source_local": false,
+            "is_source_both": false,
+            "description": "The Python Package Index (PyPI) is a repository of software for the Python programming language.",
+            "family_friendly": true
+          },
+          {
+            "title": "Log in",
+            "url": "https://pypi.org/account/login/?next=https://pypi.org/project/yandex-webmaster-api/",
+            "is_source_local": false,
+            "is_source_both": false,
+            "description": "The Python Package Index (PyPI) is a repository of software for the Python programming language.",
+            "family_friendly": true
+          }
+        ],
+        "software": {
+          "name": "yandex-webmaster-api",
+          "version": "0.0.3",
+          "homepage": "https://github.com/bzdvdn/yandex-webmaster-api",
+          "datePublished": "Mar 12, 2024",
+          "is_npm": false,
+          "is_pypi": true,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "pip install yandex-webmaster-api Copy PIP instructions · Latest version · Released: Mar 12, 2024 · wrapper for yandex webmaster api · These details have been verified by PyPI · bzdvdn · These details have not been verified by PyPI · Homepage · License: MIT · Author: bzdvdn · Requires: Python >=3.8 ·",
+          "Details for the file yandex-webmaster-api-0.0.3.tar.gz.",
+          "doc - https://yandex.ru/dev/webmaster/doc/dg/reference/host-search-queries-history.html",
+          "doc - https://yandex.ru/dev/webmaster/doc/dg/reference/host-query-analytics.html"
+        ]
+      }
+    ],
+    "family_friendly": true
+  }
+}

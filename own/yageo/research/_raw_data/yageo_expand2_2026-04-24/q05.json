@@ -1,0 +1,649 @@
+{
+  "type": "search",
+  "query": {
+    "original": "yandex.ru/dev/foundation-models yandexgpt pricing rate limits",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "discussions": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Yandex open sources 100B GPT-like model",
+        "url": "https://www.reddit.com/r/programming/comments/vit8xs/yandex_open_sources_100b_gptlike_model/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "PSA: Yandex is a multi-billion Moscow based company, finances the Russian war of aggression in Ukraine, and is one of the main Kremlin's tool in spreading propaganda and suppressing dissent .",
+        "fetched_content_timestamp": 1774888905,
+        "language": "en",
+        "family_friendly": true,
+        "type": "discussion",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "reddit.com",
+          "hostname": "www.reddit.com",
+          "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+          "path": "› r  › programming  › comments  › vit8xs  › yandex_open_sources_100b_gptlike_model"
+        },
+        "age": "June 23, 2022",
+        "data": {
+          "forum_name": "r/programming",
+          "num_answers": 255,
+          "score": "880",
+          "title": "Yandex open sources 100B GPT-like model",
+          "top_comment": "PSA: Yandex is a multi-billion Moscow based company, finances the Russian war of aggression in Ukraine, and is one of the main Kremlin's tool in spreading propaganda and suppressing dissent ."
+        }
+      }
+    ],
+    "mutated_by_goggles": false
+  },
+  "faq": {
+    "type": "faq",
+    "results": [
+      {
+        "question": "What is the latest YandexGPT model?",
+        "answer": "The latest model is YandexGPT 5.1 Pro, released in 2025-08.",
+        "title": "YandexGPT by Yandex — Models, Pricing & API | LLM Reference",
+        "url": "https://www.llmreference.com/model-family/yandexgpt",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "llmreference.com",
+          "hostname": "www.llmreference.com",
+          "favicon": "https://imgs.search.brave.com/qUmZ41Bs9ZpHIsLsUME4XSSmcV-kzax_ZeZ6NOxSe8o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmRiZTUzMDlj/MTIzNGUwOWU4ZTM2/NjYzNWY1MzViYTY5/MDg2YzM5NDAzZjE3/ZTA4ODc4YmYxOTE1/ZDg3MTQ5NC93d3cu/bGxtcmVmZXJlbmNl/LmNvbS8",
+          "path": "  › models  › yandexgpt"
+        }
+      },
+      {
+        "question": "What is YandexGPT?",
+        "answer": "YandexGPT is a suite of large language models crafted by Yandex, a notable Russian tech firm. These models adhere to the GPT architecture, harnessing extensive datasets of text and code, spanning books, articles, and freely accessible online content 134. The family comprises a range of models with diverse capabilities, the standout being YaLM 100B, which contains 100 billion parameters and has been trained on 1.7 TB of English and Russian data 3. YandexGPT models are embedded within various Yandex offerings such as the virtual assistant Alice and are accessible via APIs for enterprise deployme",
+        "title": "YandexGPT by Yandex — Models, Pricing & API | LLM Reference",
+        "url": "https://www.llmreference.com/model-family/yandexgpt",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "llmreference.com",
+          "hostname": "www.llmreference.com",
+          "favicon": "https://imgs.search.brave.com/qUmZ41Bs9ZpHIsLsUME4XSSmcV-kzax_ZeZ6NOxSe8o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmRiZTUzMDlj/MTIzNGUwOWU4ZTM2/NjYzNWY1MzViYTY5/MDg2YzM5NDAzZjE3/ZTA4ODc4YmYxOTE1/ZDg3MTQ5NC93d3cu/bGxtcmVmZXJlbmNl/LmNvbS8",
+          "path": "  › models  › yandexgpt"
+        }
+      },
+      {
+        "question": "How many models are in the YandexGPT family?",
+        "answer": "The YandexGPT family contains 5 models.",
+        "title": "YandexGPT by Yandex — Models, Pricing & API | LLM Reference",
+        "url": "https://www.llmreference.com/model-family/yandexgpt",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "llmreference.com",
+          "hostname": "www.llmreference.com",
+          "favicon": "https://imgs.search.brave.com/qUmZ41Bs9ZpHIsLsUME4XSSmcV-kzax_ZeZ6NOxSe8o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmRiZTUzMDlj/MTIzNGUwOWU4ZTM2/NjYzNWY1MzViYTY5/MDg2YzM5NDAzZjE3/ZTA4ODc4YmYxOTE1/ZDg3MTQ5NC93d3cu/bGxtcmVmZXJlbmNl/LmNvbS8",
+          "path": "  › models  › yandexgpt"
+        }
+      }
+    ]
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "discussions",
+        "all": true
+      },
+      {
+        "type": "faq",
+        "all": true
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Yandex Cloud Documentation | Yandex Foundation Models | Yandex Foundation Models pricing policy",
+        "url": "https://yandex.cloud/en/docs/foundation-models/pricing",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The same 770-token text classified with YandexGPT Pro or a fine-tuned classifier will be billed as four requests. The cost of text vectorization (getting text embeddings) depends on the size of the text submitted for vectorization. At the Preview stage, you can use AI Assistant API and store files free of charge; however, you will be charged for models according to the text generation rules.",
+        "profile": {
+          "name": "Yandex Cloud",
+          "url": "https://yandex.cloud/en/docs/foundation-models/pricing",
+          "long_name": "yandex.cloud",
+          "img": "https://imgs.search.brave.com/ZXA2-OoY8QsYFoJruyzvAt0tU4xdgLTF5PMWVeAWbm4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2NiMWFmNTMx/MDA1NDYwYzM4Y2Q4/NzJiN2U4YjFkZDJm/NjAxMzQyY2I4MmI5/MTA4YzI2NjJmOTUy/MDE1MzkwNi95YW5k/ZXguY2xvdWQv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "yandex.cloud",
+          "hostname": "yandex.cloud",
+          "favicon": "https://imgs.search.brave.com/ZXA2-OoY8QsYFoJruyzvAt0tU4xdgLTF5PMWVeAWbm4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2NiMWFmNTMx/MDA1NDYwYzM4Y2Q4/NzJiN2U4YjFkZDJm/NjAxMzQyY2I4MmI5/MTA4YzI2NjJmOTUy/MDE1MzkwNi95YW5k/ZXguY2xvdWQv",
+          "path": "› en  › docs  › foundation-models  › pricing"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/aeVf2Jb0NmfhG_WS_iySGZOVNO-0qSdK-7rOnsv31oc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly95YW5k/ZXguY2xvdWQvYXBp/L2ltYWdlLWdlbmVy/YXRvci9nZW5lcmF0/ZT91cmw9aHR0cHM6/JTJGJTJGeWFuZGV4/LmNsb3VkJTJGZW4l/MkZpbWFnZS1nZW5l/cmF0b3IlMkZlbiUy/RmRvY3MlMkZmb3Vu/ZGF0aW9uLW1vZGVs/cyUyRnByaWNpbmcm/YW1wO3dpZHRoPTEy/ODAmYW1wO2hlaWdo/dD02NDA",
+          "original": "https://yandex.cloud/api/image-generator/generate?url=https:%2F%2Fyandex.cloud%2Fen%2Fimage-generator%2Fen%2Fdocs%2Ffoundation-models%2Fpricing&amp;width=1280&amp;height=640",
+          "logo": false
+        },
+        "extra_snippets": [
+          "Prices in Russian roubles are applicable to customers of Yandex.Cloud LLC. In the management console, new users without a billing account have access to models for testing: YandexGPT Lite and YandexGPT Pro: 10 free requests per hour. YandexART: 10 free requests per day. In Yandex Cloud Billing, Foundation Models usage is detailed in billing units.",
+          "Prices for Yandex Cloud resources vary based on the region. For more information about the available regions, see Regions. The currency you can use to pay for the resources depends on which legal entity you entered into agreement with. For more information on creating an account, see Registering an account in Yandex Cloud. ... With models in batch mode, the minimum cost per run is 200,000 tokens. Cost of using YandexGPT Lite for text generation with the following parameters:",
+          "The same 770-token text classified with YandexGPT Pro or a fine-tuned classifier will be billed as four requests. The cost of text vectorization (getting text embeddings) depends on the size of the text submitted for vectorization. At the Preview stage, you can use AI Assistant API and store files free of charge; however, you will be charged for models according to the text generation rules.",
+          "Price per 1,000 tokens for the YandexGPT Pro model, asynchronous mode: $0.005001. Number of units per token for the YandexGPT Pro model, asynchronous mode: 3. Total number of units in usage details: 1,615 × 3 = 4,845. Total: ($0.005001 / 1,000 tokens) × 1,615 tokens = $0.008077. Cost of using YandexGPT Pro and DataSphere for text generation with the following parameters:"
+        ]
+      },
+      {
+        "title": "Yandex Cloud Documentation | Yandex AI Studio | Yandex AI Studio pricing policy",
+        "url": "https://yandex.cloud/en/docs/ai-studio/pricing",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The price per 1 unit for a dedicated instance is $0.0083333 without VAT. At the Preview stage, you can fine-tune models free of charge. A fine-tuned YandexGPT Lite model will cost the same as the basic YandexGPT Lite model.",
+        "page_age": "2026-03-04T16:25:03",
+        "profile": {
+          "name": "Yandex Cloud",
+          "url": "https://yandex.cloud/en/docs/ai-studio/pricing",
+          "long_name": "yandex.cloud",
+          "img": "https://imgs.search.brave.com/ZXA2-OoY8QsYFoJruyzvAt0tU4xdgLTF5PMWVeAWbm4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2NiMWFmNTMx/MDA1NDYwYzM4Y2Q4/NzJiN2U4YjFkZDJm/NjAxMzQyY2I4MmI5/MTA4YzI2NjJmOTUy/MDE1MzkwNi95YW5k/ZXguY2xvdWQv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "yandex.cloud",
+          "hostname": "yandex.cloud",
+          "favicon": "https://imgs.search.brave.com/ZXA2-OoY8QsYFoJruyzvAt0tU4xdgLTF5PMWVeAWbm4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2NiMWFmNTMx/MDA1NDYwYzM4Y2Q4/NzJiN2U4YjFkZDJm/NjAxMzQyY2I4MmI5/MTA4YzI2NjJmOTUy/MDE1MzkwNi95YW5k/ZXguY2xvdWQv",
+          "path": "› en  › docs  › ai-studio  › pricing"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/XdE92Rt4z2r4DwYsEpgbFN4OhKnXi8R4345RPUrxzcw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdG9y/YWdlLnlhbmRleGNs/b3VkLm5ldC91aS1h/cGktcnUtcHJvZC1z/dGFibGUtc2hhcmUt/Z2VuZXJhdG9yLXNj/cmVlbnNob3RzL2Nh/Y2hlL2JiNzhmYzNi/MzE1MWEyZGU2YTg3/MTE5ODBjMzBmYmRm/NDJiMTI1YzgucG5n",
+          "original": "https://storage.yandexcloud.net/ui-api-ru-prod-stable-share-generator-screenshots/cache/bb78fc3b3151a2de6a8711980c30fbdf42b125c8.png",
+          "logo": false
+        },
+        "age": "March 4, 2026",
+        "extra_snippets": [
+          "Price per 1,000 tokens for the YandexGPT Pro model, asynchronous mode: $0.005001. Number of units per token for the YandexGPT Pro model, asynchronous mode: 3. Total number of units in usage details: 1,615 × 3 = 4,845. Total: ($0.005001 / 1,000 tokens) × 1,615 tokens = $0.008077. With models in batch mode, the minimum cost per run is 200,000 tokens.",
+          "The price per 1 unit for a dedicated instance is $0.0083333 without VAT. At the Preview stage, you can fine-tune models free of charge. A fine-tuned YandexGPT Lite model will cost the same as the basic YandexGPT Lite model.",
+          "Prices in Russian roubles are applicable to customers of Yandex.Cloud LLC. All prices below do not include VAT. ... Yandex Cloud resources are priced differently in different regions. For more information about the available regions, see Regions. Your payment currency is determined by your contracting legal entity. For more information on creating an account, see Registering an account in Yandex Cloud. The cost of using Model Gallery models depends on:",
+          "The cost of text classification depends on the classification model you use and the number of tokens you provide. When classifying with YandexGPT Lite, a billing unit is a request of up to 1,000 tokens."
+        ]
+      },
+      {
+        "title": "YandexGPT and Foundation Models | yandex-cloud/docs | DeepWiki",
+        "url": "https://deepwiki.com/yandex-cloud/docs/7.2-datalens-and-message-queue",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Alternative SKU: Some models use foundation_models.text_generation_alt.v1 for pricing calculations. Asynchronous mode offers 50% discount on all tokens: Note: Open-source models (Qwen3, gpt-oss-*, Gemma3) do not support asynchronous mode. Sources: ru/_pricing/yandexgpt/rub-generating_new.md1-13 en/_pricing/yandexgpt/usd-generating_new.md1-13 ru/_pricing/yandexgpt/kzt-generating_new.md1-13",
+        "page_age": "2025-12-23T10:40:23",
+        "profile": {
+          "name": "DeepWiki",
+          "url": "https://deepwiki.com/yandex-cloud/docs/7.2-datalens-and-message-queue",
+          "long_name": "deepwiki.com",
+          "img": "https://imgs.search.brave.com/HJkhFaX_DbIorFWn0JxBTQ4cUEWc8_tIf0-UJ5OyYXM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjA3YmY5YmI1/YjhkZTQ5NTA1ZTcx/MTVmNzZkZjE3NjM0/MzdiNDY3MzUxZjVh/MGU3ODJlZGVhYTk1/ZWRmOTU3ZC9kZWVw/d2lraS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "deepwiki.com",
+          "hostname": "deepwiki.com",
+          "favicon": "https://imgs.search.brave.com/HJkhFaX_DbIorFWn0JxBTQ4cUEWc8_tIf0-UJ5OyYXM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjA3YmY5YmI1/YjhkZTQ5NTA1ZTcx/MTVmNzZkZjE3NjM0/MzdiNDY3MzUxZjVh/MGU3ODJlZGVhYTk1/ZWRmOTU3ZC9kZWVw/d2lraS5jb20v",
+          "path": "› yandex-cloud  › docs  › 7.2-datalens-and-message-queue"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/xWeJLAif6Jrf6-z8BPpZzqoA_GTI0J5ORAdbbbZmxK4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kZWVw/d2lraS5jb20veWFu/ZGV4LWNsb3VkL2Rv/Y3Mvb2ctaW1hZ2Uu/cG5n",
+          "original": "https://deepwiki.com/yandex-cloud/docs/og-image.png",
+          "logo": false
+        },
+        "age": "December 23, 2025",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "DeepWiki",
+              "url": "https://deepwiki.com"
+            }
+          ],
+          "date": "Dec 23, 2025",
+          "publisher": {
+            "type": "organization",
+            "name": "DeepWiki",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/6MeLms1T5gExgC795izknIZuOM6YoeutU4Pva7txz3s/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kZWVw/d2lraS5jb20vaWNv/bi5wbmc",
+              "original": "https://deepwiki.com/icon.png"
+            }
+          }
+        },
+        "extra_snippets": [
+          "Sources: ru/presets.yaml19 ru/presets.yaml361 ru/_pricing/yandexgpt/rub-generating_new.md3 ru/_pricing/yandexgpt/rub-generating_new.md7-10 ... Llama was created by Meta. Meta is designated as an extremist organization and its activities are prohibited in Russia. ... AI Studio (ai-studio-name) provides a unified interface for managing foundation models and AI workflows: ... DataSphere (ml-platform-name) is the machine learning development platform integrated with YandexGPT APIs:",
+          "Alternative SKU: Some models use foundation_models.text_generation_alt.v1 for pricing calculations. Asynchronous mode offers 50% discount on all tokens: Note: Open-source models (Qwen3, gpt-oss-*, Gemma3) do not support asynchronous mode. Sources: ru/_pricing/yandexgpt/rub-generating_new.md1-13 en/_pricing/yandexgpt/usd-generating_new.md1-13 ru/_pricing/yandexgpt/kzt-generating_new.md1-13",
+          "The YandexGPT and Foundation Models ecosystem provides access to generative AI capabilities through REST and gRPC APIs hosted at llm.api.cloud.yandex.net. The system offers multiple LLM models with different performance characteristics, synchronous and asynchronous execution modes, and integration with the DataSphere ML platform for custom model development. Sources: ru/presets.yaml44 ru/presets.yaml913-914 en/presets.yaml225-226",
+          "The YandexGPT API is accessible through the llm.api.cloud.yandex.net endpoint and supports both REST and gRPC protocols. The API provides two execution modes: Sources: ru/presets.yaml44 ru/_pricing/yandexgpt/rub-generating_new.md1-13"
+        ]
+      },
+      {
+        "title": "Yandex Cloud Documentation | Yandex Foundation Models | Getting started with YandexGPT Lite and YandexGPT Pro",
+        "url": "https://yandex.cloud/en/docs/foundation-models/quickstart/yandexgpt",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "maxTokens: Sets a limit on the model&#x27;s output in tokens. The maximum number of tokens per generation depends on the model. For more information, see Quotas and limits in Yandex Foundation Models.",
+        "page_age": "2025-09-05T00:00:00",
+        "profile": {
+          "name": "Yandex Cloud",
+          "url": "https://yandex.cloud/en/docs/foundation-models/quickstart/yandexgpt",
+          "long_name": "yandex.cloud",
+          "img": "https://imgs.search.brave.com/ZXA2-OoY8QsYFoJruyzvAt0tU4xdgLTF5PMWVeAWbm4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2NiMWFmNTMx/MDA1NDYwYzM4Y2Q4/NzJiN2U4YjFkZDJm/NjAxMzQyY2I4MmI5/MTA4YzI2NjJmOTUy/MDE1MzkwNi95YW5k/ZXguY2xvdWQv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "yandex.cloud",
+          "hostname": "yandex.cloud",
+          "favicon": "https://imgs.search.brave.com/ZXA2-OoY8QsYFoJruyzvAt0tU4xdgLTF5PMWVeAWbm4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2NiMWFmNTMx/MDA1NDYwYzM4Y2Q4/NzJiN2U4YjFkZDJm/NjAxMzQyY2I4MmI5/MTA4YzI2NjJmOTUy/MDE1MzkwNi95YW5k/ZXguY2xvdWQv",
+          "path": "› en  › docs  › foundation-models  › quickstart  › yandexgpt"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/SMCimzZmx_mxPcW1NHoLrILBJ8UAqqlgrpRf89tkEm0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly95YW5k/ZXguY2xvdWQvYXBp/L2ltYWdlLWdlbmVy/YXRvci9nZW5lcmF0/ZT91cmw9aHR0cHM6/JTJGJTJGeWFuZGV4/LmNsb3VkJTJGZW4l/MkZpbWFnZS1nZW5l/cmF0b3IlMkZlbiUy/RmRvY3MlMkZmb3Vu/ZGF0aW9uLW1vZGVs/cyUyRnF1aWNrc3Rh/cnQlMkZ5YW5kZXhn/cHQmYW1wO3dpZHRo/PTEyODAmYW1wO2hl/aWdodD02NDA",
+          "original": "https://yandex.cloud/api/image-generator/generate?url=https:%2F%2Fyandex.cloud%2Fen%2Fimage-generator%2Fen%2Fdocs%2Ffoundation-models%2Fquickstart%2Fyandexgpt&amp;width=1280&amp;height=640",
+          "logo": false
+        },
+        "age": "September 5, 2025",
+        "extra_snippets": [
+          "When accessing YandexGPT Lite or YandexGPT Pro via the API, provide the received parameters: In the request file, specify the folder ID in the modelUri parameter. In the request, specify the IAM token in the Authorization header. ... For information about other API authentication methods, see Authentication with the Yandex Foundation Models API.",
+          "In the list of services, select Foundation Models. In the left-hand panel, select YandexGPT Prompt mode.",
+          "maxTokens: Sets a limit on the model's output in tokens. The maximum number of tokens per generation depends on the model. For more information, see Quotas and limits in Yandex Foundation Models.",
+          "It withsatnds moisturre and mechanical dammage thanks to a 0.2 mm thick proctive layer of melamine films and a wax-treated interlocking system.\"\"\", }, ] def main(): sdk = YCloudML( folder_id=\"<folder_ID>\", auth=\"<API_key>\", ) result = ( sdk.models.completions(\"yandexgpt\").configure(temperature=0.5).run(messages) ) for alternative in result: print(alternative) if __name__ == \"__main__\": main()"
+        ]
+      },
+      {
+        "title": "YandexGPT - Yandex",
+        "url": "https://systems-analysis.ru/eng/YandexGPT_(language_model)",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "↑ 8.0 8.1 8.2 8.3 &quot;yandex/YandexGPT-5-Lite-8B-pretrain&quot;. Hugging Face. [8] ↑ &quot;ChatYandexGPT API Reference (max_tokens = 7400)&quot;. LangChain Docs. [9] ↑ &quot;Yandex Cloud service quotas and limits → Foundation Models&quot;. Yandex Cloud Docs. [10] ↑ &quot;llmarena/llmarena — a Russian crowdsourcing ...",
+        "page_age": "2025-12-15T00:00:00",
+        "profile": {
+          "name": "Systems Analysis",
+          "url": "https://systems-analysis.ru/eng/YandexGPT_(language_model)",
+          "long_name": "systems-analysis.ru",
+          "img": "https://imgs.search.brave.com/MB9CIfKteCfTWWXWLXXUjqvUa48CF71hJp0X_5su-WU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWYyZjcxZGVm/NmMyODMyYmY1MWE5/NWIzNGIzMzgwZmUz/NDNjMWZjMzgyYjY4/N2MyODIyMjY2ZjA5/NTJjMTI2OC9zeXN0/ZW1zLWFuYWx5c2lz/LnJ1Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "systems-analysis.ru",
+          "hostname": "systems-analysis.ru",
+          "favicon": "https://imgs.search.brave.com/MB9CIfKteCfTWWXWLXXUjqvUa48CF71hJp0X_5su-WU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWYyZjcxZGVm/NmMyODMyYmY1MWE5/NWIzNGIzMzgwZmUz/NDNjMWZjMzgyYjY4/N2MyODIyMjY2ZjA5/NTJjMTI2OC9zeXN0/ZW1zLWFuYWx5c2lz/LnJ1Lw",
+          "path": "› eng  › YandexGPT_(language_model)"
+        },
+        "age": "December 15, 2025",
+        "article": {
+          "author": [],
+          "date": "Dec 15, 2025",
+          "publisher": {
+            "type": "organization",
+            "name": "Systems Analysis",
+            "url": "https://systems-analysis.ru/"
+          }
+        },
+        "organization": {
+          "type": "organization",
+          "name": "Systems Analysis",
+          "contact_points": []
+        },
+        "extra_snippets": [
+          "YandexGPT (Yet another GPT) is a family of large language models developed by Yandex and first introduced in May 2023.[1] YandexGPT models are used in the Alisa voice assistant, Yandex Search, and other services, and are also available via the public API of the Yandex Cloud platform.[2] YaLM-100B (2022) was a preceding open-source research model with 100 billion parameters. It served as a \"proof of concept,\" but YandexGPT was developed separately for commercial use.[3] ... Base architecture: Transformer, optimized for the Russian language. YandexGPT 5 Lite: Llama-compatible; pre-training ≈ 15 trillion tokens, subsequent fine-tuning ≈ 320 billion.[8] Architectural context limit: 32,000 tokens (versions 4/5).[6]",
+          "↑ 8.0 8.1 8.2 8.3 \"yandex/YandexGPT-5-Lite-8B-pretrain\". Hugging Face. [8] ↑ \"ChatYandexGPT API Reference (max_tokens = 7400)\". LangChain Docs. [9] ↑ \"Yandex Cloud service quotas and limits → Foundation Models\". Yandex Cloud Docs. [10] ↑ \"llmarena/llmarena — a Russian crowdsourcing platform for LLM evaluation\".",
+          "KazMMLU: Evaluating Language Models on Kazakh, Russian, and Regional Knowledge of Kazakhstan. arXiv:2502.12829. Noels, S. et al. (2025). What Large Language Models Do Not Talk About: An Empirical Study of Moderation and Censorship Practices. arXiv:2504.03803. ↑ 1.0 1.1 \"Yandex adds ChatGPT analog to Alisa\". RBC. [1] ↑ 2.0 2.1 \"Getting started with YandexGPT (Quickstart)\".",
+          "ru-LLM Arena: YandexGPT holds the leading position in ELO rating among Russian-language models.[11] The LoRA method is officially supported for 5 Lite; a usage example is published in the model card.[8] Synchronous — for fast responses (Lite). Asynchronous — for resource-intensive tasks (Pro).[2] The YandexGPT family remains text-based; multimodal services (\"Neuro\", \"YandexArt\", \"Yandex Vision\") are developed separately.[6]"
+        ]
+      },
+      {
+        "title": "All YandexGPT models available in 2025: complete list for web, app, and API with generation 5 variants and developer access",
+        "url": "https://www.datastudios.org/post/all-yandexgpt-models-available-in-2025-complete-list-for-web-app-and-api-with-generation-5-varian",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The key distinction is that Alice auto-routes to the latest model, while developers on Yandex Cloud can explicitly select model type and generation. ... Both models are priced separately, and performance trade-offs are documented in the Foundation Models dashboard.",
+        "page_age": "2025-08-11T12:07:54",
+        "profile": {
+          "name": "Data Studios",
+          "url": "https://www.datastudios.org/post/all-yandexgpt-models-available-in-2025-complete-list-for-web-app-and-api-with-generation-5-varian",
+          "long_name": "datastudios.org",
+          "img": "https://imgs.search.brave.com/gBbQJKhr3ZyFY5FHc5zyMAsMLyNKaZ3IyvcOeQi7Xno/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTFhODY3M2I2/ODI2NTNhNzAxMzJj/Y2IzZTZmZjI1YWQ4/NjQ4YmNiYjNmNDdj/NGYxMmZmMzY1MDFi/MjMxMjYzZi93d3cu/ZGF0YXN0dWRpb3Mu/b3JnLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "datastudios.org",
+          "hostname": "www.datastudios.org",
+          "favicon": "https://imgs.search.brave.com/gBbQJKhr3ZyFY5FHc5zyMAsMLyNKaZ3IyvcOeQi7Xno/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTFhODY3M2I2/ODI2NTNhNzAxMzJj/Y2IzZTZmZjI1YWQ4/NjQ4YmNiYjNmNDdj/NGYxMmZmMzY1MDFi/MjMxMjYzZi93d3cu/ZGF0YXN0dWRpb3Mu/b3JnLw",
+          "path": "› post  › all-yandexgpt-models-available-in-2025-complete-list-for-web-app-and-api-with-generation-5-varian"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/3PWbVf0FxjUzfP2aIIOYnKwpV3nqlrOvjA1Pi8xmUUM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2l4c3RhdGlj/LmNvbS9tZWRpYS9j/NTcxOWNfN2VhNGI4/OGIwOThhNDQ5MmIz/YTI1ZmFjMjYyNTgz/OTh-bXYyLnBuZy92/MS9maWxsL3dfNzM3/LGhfNDQyLGFsX2Ms/bGdfMSxxXzg1L2M1/NzE5Y183ZWE0Yjg4/YjA5OGE0NDkyYjNh/MjVmYWMyNjI1ODM5/OH5tdjIucG5n",
+          "original": "https://static.wixstatic.com/media/c5719c_7ea4b88b098a4492b3a25fac26258398~mv2.png/v1/fill/w_737,h_442,al_c,lg_1,q_85/c5719c_7ea4b88b098a4492b3a25fac26258398~mv2.png",
+          "logo": false
+        },
+        "age": "August 11, 2025",
+        "extra_snippets": [
+          "YandexGPT now powers the Alice assistant and offers Lite and Pro models through Yandex Cloud.As of August 2025, Yandex has consolidated its large language model deployment under the YandexGPT brand, available to both end users and developers. The public-facing Alice assistant now runs on the YandexGPT 3+ family, while generation 5 YandexGPT Lite and Pro are offered through the Foundation Models section of Yandex Cloud for API use.",
+          "Users do not select models manually—Alice automatically runs on the most current YandexGPT deployment, now described as generation 5 in internal documentation. The experience is consistent across platforms, and updates are invisible to the end user. Alice now supports long-form answers, follow-ups, and document parsing thanks to its integration with YandexGPT’s high-context architecture. For developers, Yandex offers full API access to its models through the Foundation Models section of Yandex Cloud.",
+          "The key distinction is that Alice auto-routes to the latest model, while developers on Yandex Cloud can explicitly select model type and generation. ... Both models are priced separately, and performance trade-offs are documented in the Foundation Models dashboard.",
+          "A full benchmarking comparison of Lite vs Pro vs previous gens is available through Yandex Cloud documentation. ... FOLLOW US FOR MORE. ... Grok Real-Time Search: How X Integration, Live Web Retrieval, Citations, and Agent Tools Turn xAI’s Model Into a Research Workflow System · Claude Code Explained: How Anthropic’s Terminal-First Coding Agent Works Across CLI Sessions, IDE Integrations, Shared Context, Hooks, Memory, and Long-Running Development Workflows"
+        ]
+      },
+      {
+        "title": "YandexGPT by Yandex — Models, Pricing & API | LLM Reference",
+        "url": "https://www.llmreference.com/model-family/yandexgpt",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "YandexGPT AI models by Yandex — 5 variants, up to 128K context. Compare pricing, benchmarks, and API access.",
+        "profile": {
+          "name": "Yandex",
+          "url": "https://www.llmreference.com/model-family/yandexgpt",
+          "long_name": "llmreference.com",
+          "img": "https://imgs.search.brave.com/qUmZ41Bs9ZpHIsLsUME4XSSmcV-kzax_ZeZ6NOxSe8o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmRiZTUzMDlj/MTIzNGUwOWU4ZTM2/NjYzNWY1MzViYTY5/MDg2YzM5NDAzZjE3/ZTA4ODc4YmYxOTE1/ZDg3MTQ5NC93d3cu/bGxtcmVmZXJlbmNl/LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "faq",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "llmreference.com",
+          "hostname": "www.llmreference.com",
+          "favicon": "https://imgs.search.brave.com/qUmZ41Bs9ZpHIsLsUME4XSSmcV-kzax_ZeZ6NOxSe8o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmRiZTUzMDlj/MTIzNGUwOWU4ZTM2/NjYzNWY1MzViYTY5/MDg2YzM5NDAzZjE3/ZTA4ODc4YmYxOTE1/ZDg3MTQ5NC93d3cu/bGxtcmVmZXJlbmNl/LmNvbS8",
+          "path": "  › models  › yandexgpt"
+        },
+        "faq": {
+          "items": [
+            {
+              "question": "What is YandexGPT?",
+              "answer": "YandexGPT is a suite of large language models crafted by Yandex, a notable Russian tech firm. These models adhere to the GPT architecture, harnessing extensive datasets of text and code, spanning books, articles, and freely accessible online content 134. The family comprises a range of models with diverse capabilities, the standout being YaLM 100B, which contains 100 billion parameters and has been trained on 1.7 TB of English and Russian data 3. YandexGPT models are embedded within various Yandex offerings such as the virtual assistant Alice and are accessible via APIs for enterprise deployment in proprietary solutions 125). The models undergo constant refinement, with successive updates enhancing response quality, reasoning faculties, and processing capacity 13. Yandex is committed to ethical AI progress, ensuring that its models engage with sensitive issues sagely and provide sourced information 12.",
+              "title": "YandexGPT by Yandex — Models, Pricing & API | LLM Reference",
+              "url": "https://www.llmreference.com/model-family/yandexgpt",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "llmreference.com",
+                "hostname": "www.llmreference.com",
+                "favicon": "https://imgs.search.brave.com/qUmZ41Bs9ZpHIsLsUME4XSSmcV-kzax_ZeZ6NOxSe8o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmRiZTUzMDlj/MTIzNGUwOWU4ZTM2/NjYzNWY1MzViYTY5/MDg2YzM5NDAzZjE3/ZTA4ODc4YmYxOTE1/ZDg3MTQ5NC93d3cu/bGxtcmVmZXJlbmNl/LmNvbS8",
+                "path": "  › models  › yandexgpt"
+              }
+            },
+            {
+              "question": "How many models are in the YandexGPT family?",
+              "answer": "The YandexGPT family contains 5 models.",
+              "title": "YandexGPT by Yandex — Models, Pricing & API | LLM Reference",
+              "url": "https://www.llmreference.com/model-family/yandexgpt",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "llmreference.com",
+                "hostname": "www.llmreference.com",
+                "favicon": "https://imgs.search.brave.com/qUmZ41Bs9ZpHIsLsUME4XSSmcV-kzax_ZeZ6NOxSe8o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmRiZTUzMDlj/MTIzNGUwOWU4ZTM2/NjYzNWY1MzViYTY5/MDg2YzM5NDAzZjE3/ZTA4ODc4YmYxOTE1/ZDg3MTQ5NC93d3cu/bGxtcmVmZXJlbmNl/LmNvbS8",
+                "path": "  › models  › yandexgpt"
+              }
+            },
+            {
+              "question": "What is the latest YandexGPT model?",
+              "answer": "The latest model is YandexGPT 5.1 Pro, released in 2025-08.",
+              "title": "YandexGPT by Yandex — Models, Pricing & API | LLM Reference",
+              "url": "https://www.llmreference.com/model-family/yandexgpt",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "llmreference.com",
+                "hostname": "www.llmreference.com",
+                "favicon": "https://imgs.search.brave.com/qUmZ41Bs9ZpHIsLsUME4XSSmcV-kzax_ZeZ6NOxSe8o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmRiZTUzMDlj/MTIzNGUwOWU4ZTM2/NjYzNWY1MzViYTY5/MDg2YzM5NDAzZjE3/ZTA4ODc4YmYxOTE1/ZDg3MTQ5NC93d3cu/bGxtcmVmZXJlbmNl/LmNvbS8",
+                "path": "  › models  › yandexgpt"
+              }
+            }
+          ]
+        },
+        "organization": {
+          "type": "organization",
+          "name": "Yandex",
+          "contact_points": []
+        },
+        "extra_snippets": [
+          "YandexGPT AI models by Yandex — 5 variants, up to 128K context. Compare pricing, benchmarks, and API access.",
+          "YandexGPT is a suite of large language models crafted by Yandex, a notable Russian tech firm. These models adhere to the GPT architecture, harnessing extensive datasets of text and code, spanning books, articles, and freely accessible online content 134. The family comprises a range of models with diverse capabilities, the standout being YaLM 100B, which contains 100 billion parameters and has been trained on 1.7 TB of English and Russian data 3.",
+          "The models undergo constant refinement, with successive updates enhancing response quality, reasoning faculties, and processing capacity 13. Yandex is committed to ethical AI progress, ensuring that its models engage with sensitive issues sagely and provide sourced information 12. ... The YandexGPT family contains 5 models."
+        ]
+      },
+      {
+        "title": "About Yandex Foundation Models",
+        "url": "https://cloud.yandex.com/en/docs/yandexgpt/concepts/models",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Platform overview, service documentation, and solution tutorials.",
+        "page_age": "2025-10-28T00:00:00",
+        "profile": {
+          "name": "Yandex",
+          "url": "https://cloud.yandex.com/en/docs/yandexgpt/concepts/models",
+          "long_name": "cloud.yandex.com",
+          "img": "https://imgs.search.brave.com/7xGmrNGqJpaP0AMsxnUB1PjDDdMYvzIlq93HqcOvkJU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGI2NGMyMTgw/MWJmYzU2MDE2YzQw/MTUxOTBlNTk0ZDhk/MmYxOWM5ZDcxZmNh/ZGEyODk3ZDFhOGQx/ZDlhMTcxYy9jbG91/ZC55YW5kZXguY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "cloud.yandex.com",
+          "hostname": "cloud.yandex.com",
+          "favicon": "https://imgs.search.brave.com/7xGmrNGqJpaP0AMsxnUB1PjDDdMYvzIlq93HqcOvkJU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGI2NGMyMTgw/MWJmYzU2MDE2YzQw/MTUxOTBlNTk0ZDhk/MmYxOWM5ZDcxZmNh/ZGEyODk3ZDFhOGQx/ZDlhMTcxYy9jbG91/ZC55YW5kZXguY29t/Lw",
+          "path": "› en  › docs  › yandexgpt  › concepts  › models"
+        },
+        "age": "October 28, 2025"
+      },
+      {
+        "title": "Yandex makes the YandexGPT API available for all users worldwide",
+        "url": "https://yandex.com/company/news/01-19-12-2023",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The YandexGPT API is a Yandex Cloud service that unlocks the capabilities of generative language models for use in business apps and web services. YandexGPT 2, the latest version, is already available. Companies can also train the technology using their own data, and the service’s chat mode supports text dialog and remembers conversation context. In addition, YandexGPT uses embeddings in cloud environments, making it possible to work with vector databases and text data clustering. The YandexGPT API pricing and rates are available on the Yandex Cloud website.",
+        "profile": {
+          "name": "Yandex",
+          "url": "https://yandex.com/company/news/01-19-12-2023",
+          "long_name": "yandex.com",
+          "img": "https://imgs.search.brave.com/PzD4Z70x4Tr5qx1FVRSQC87oEooqqKp5MO04jnTc-kI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDcxYjJmYzYw/NTk4Yzc0MWFhZjgw/ODg3ZDQ3ZDIyNmZl/NjE4NmU0NjY1YTkw/MzNlOGJkYzIwNGQz/ZTAxY2E4Zi95YW5k/ZXguY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "yandex.com",
+          "hostname": "yandex.com",
+          "favicon": "https://imgs.search.brave.com/PzD4Z70x4Tr5qx1FVRSQC87oEooqqKp5MO04jnTc-kI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDcxYjJmYzYw/NTk4Yzc0MWFhZjgw/ODg3ZDQ3ZDIyNmZl/NjE4NmU0NjY1YTkw/MzNlOGJkYzIwNGQz/ZTAxY2E4Zi95YW5k/ZXguY29tLw",
+          "path": "› company  › news  › 01-19-12-2023"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/q4P0y8e-BRtBQf49Tws7Rohzh6EK_1Hg5MbwoQV9x2k/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hdmF0/YXJzLm1kcy55YW5k/ZXgubmV0L2dldC15/YWJsb2dzLzY0MDM0/MDUvZmlsZV8xNzQ5/NTQ1MDQzNzgwL29y/aWc",
+          "original": "https://avatars.mds.yandex.net/get-yablogs/6403405/file_1749545043780/orig",
+          "logo": false
+        },
+        "extra_snippets": [
+          "Yandex unlocks access to the YandexGPT API via Yandex Cloud to all businesses globally. YandexGPT API features a large asynchronous model that's suited for solving complex text-related tasks. A simpler model for processing real-time queries, which includes responding to search queries and user questions, is also available.",
+          "After we finished testing and doing pilot runs for the YandexGPT API, we realized there was huge interest and a broad range of applications. Some companies go beyond automating specific business processes and use the neural network to develop IT products.",
+          "We’re excited to develop the products and services of our ecosystem for users across the globe. Yandex places particular value in creating helpful solutions that help companies automate their business processes and make the most of our technologies. Our hope is that this investment will prove invaluable to the digital community. YandexGPT API features a large asynchronous model that’s suited for solving complex text-related tasks.",
+          "The YandexGPT API is a Yandex Cloud service that unlocks the capabilities of generative language models for use in business apps and web services. YandexGPT 2, the latest version, is already available. Companies can also train the technology using their own data, and the service’s chat mode supports text dialog and remembers conversation context. In addition, YandexGPT uses embeddings in cloud environments, making it possible to work with vector databases and text data clustering. The YandexGPT API pricing and rates are available on the Yandex Cloud website."
+        ]
+      },
+      {
+        "title": "YandexGPT in 2026: A Review of Russia's AI Platform for Business | mysummit.school - AI for Managers Blog",
+        "url": "https://mysummit.school/blog/en/yandexgpt-review-2026/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "YandexGPT review in 2026: models 5.1 Pro and Alice AI, Shedevrum, Yandex 360 integration, pricing, and practical applications for managers",
+        "page_age": "2026-04-04T12:58:17",
+        "profile": {
+          "name": "Mysummit",
+          "url": "https://mysummit.school/blog/en/yandexgpt-review-2026/",
+          "long_name": "mysummit.school",
+          "img": "https://imgs.search.brave.com/n8Nxfz3FdrZ4V_2jLDn-nQ67z21ePwwglmbTRoufs7o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjJmMTQxYmM4/ZDZlNzg3OWQ2OGE1/ZGFiMTE1NTMyYThh/MjMzODU0ZTIwZDcz/M2ViYmE2ZjUxNTA1/NzU4ODY3MS9teXN1/bW1pdC5zY2hvb2wv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "mysummit.school",
+          "hostname": "mysummit.school",
+          "favicon": "https://imgs.search.brave.com/n8Nxfz3FdrZ4V_2jLDn-nQ67z21ePwwglmbTRoufs7o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjJmMTQxYmM4/ZDZlNzg3OWQ2OGE1/ZGFiMTE1NTMyYThh/MjMzODU0ZTIwZDcz/M2ViYmE2ZjUxNTA1/NzU4ODY3MS9teXN1/bW1pdC5zY2hvb2wv",
+          "path": "  › home  › blog  › yandexgpt in 2026: a review of russia's ai platform for business"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/wKOEWCssfrgqJrizUJF4AsuFuN_DZc6bihi8CBbEXlU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9teXN1/bW1pdC5zY2hvb2wv/YmxvZy9lbi95YW5k/ZXhncHQtcmV2aWV3/LTIwMjYveWFuZGV4/Z3B0LWhlcm8uZW5f/aHVfZjgyY2ZmY2Y3/NjM3NGY4Ni53ZWJw",
+          "original": "https://mysummit.school/blog/en/yandexgpt-review-2026/yandexgpt-hero.en_hu_f82cffcf76374f86.webp",
+          "logo": false
+        },
+        "age": "3 weeks ago",
+        "extra_snippets": [
+          "They run faster and are cheaper, but with limited capabilities. Ideal for chatbots, quick queries, and bulk operations. Shedevrum is Yandex’s neural network for creating images and videos (up to 6 seconds in 16:9, 9:16, and 1:1 formats). Yandex Shedevrum: an example of a prompt-generated image ... Access through Alice – use YandexGPT via the voice assistant on smartphones, smart speakers, and other devices.",
+          "Video transcription service – 300.ya.ru. Built-in video transcription and summarization in Yandex Browser. Alice Pro – a Google Workspace-like AI solution – lets you work with data from your subscription. The basic version of YandexGPT is available for free through Alice and Yandex Browser. Since July 2025, most advanced features in “Chat with Alice” powered by the Pro model – including reasoning mode and file handling – have also become free. For developers (via Yandex Cloud, AI Studio, starting March 3, 2026):",
+          "YandexGPT with the Yandex 360 ecosystem is a convenient tool for working with documents and legislation in Russian. In our course, we cover how to build a workflow with Russian AI services – even when quality still lags behind global leaders. ... We tested YandexGPT models as part of our independent benchmark across real-world management tasks – analysis, team leadership, learning and development, and problem-solving.",
+          "Quality trails global leaders – in independent tests, YandexGPT falls behind ChatGPT 5 and Claude 4.6, although the gap is minimal for Russian-language tasks. Ecosystem lock-in – full capabilities are unlocked only within the Yandex ecosystem. Limited context – 128K tokens vs 1M for Claude and 2M for Gemini."
+        ]
+      }
+    ],
+    "family_friendly": true
+  }
+}

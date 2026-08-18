@@ -1,0 +1,13 @@
+{
+  "generated": "2026-04-24T09:01:33Z",
+  "duration_seconds": 2.95,
+  "total_queries": 3,
+  "stats": {
+    "web_ok": 3,
+    "unique_hostnames": 2
+  },
+  "warnings": [
+    "- [GEO \"E-E-A-T\" русский \"ЭПОС\" скрипт open-source]: Brave altered → 'geo e-e-a-t русский эпос скрипт open-source'",
+    "- [GEO \"E-E-A-T\" русский \"ЭПОС\" скрипт open-source]: zero web results"
+  ]
+}

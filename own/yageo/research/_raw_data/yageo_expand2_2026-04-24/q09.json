@@ -1,0 +1,29 @@
+{
+  "type": "search",
+  "query": {
+    "original": "\"LLM Spot\" Digital Geeks brand visibility platform публичная",
+    "show_strict_warning": false,
+    "cleaned": "LLM Spot Digital Geeks brand visibility platform публичная",
+    "is_navigational": true,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": true,
+    "should_fallback": true,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": false,
+    "state": "",
+    "search_operators": {
+      "applied": true,
+      "cleaned_query": "LLM Spot Digital Geeks brand visibility platform публичная"
+    }
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [],
+    "top": [],
+    "side": []
+  }
+}

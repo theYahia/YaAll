@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "yandex-direct": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@theyahia/yandex-direct-mcp"
+      ],
+      "env": {
+        "YANDEX_DIRECT_TOKEN": "YOUR_TOKEN"
+      }
+    }
+  }
+}

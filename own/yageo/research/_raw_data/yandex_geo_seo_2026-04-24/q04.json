@@ -1,0 +1,29 @@
+{
+  "type": "search",
+  "query": {
+    "original": "\"YaGEO\" or \"claude code skill\" yandex Алиса",
+    "show_strict_warning": false,
+    "cleaned": "YaGEOor claude code skill yandex Алиса",
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": true,
+    "should_fallback": true,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": false,
+    "state": "",
+    "search_operators": {
+      "applied": true,
+      "cleaned_query": "YaGEOor claude code skill yandex Алиса"
+    }
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [],
+    "top": [],
+    "side": []
+  }
+}

@@ -1,0 +1,620 @@
+{
+  "type": "search",
+  "query": {
+    "original": "llms.txt Яндекс yandexbot crawler",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "videos",
+        "all": true
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "videos": {
+    "type": "videos",
+    "results": [
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=TZMKugIjuQo",
+        "title": "Анализ robots.txt в Яндекс.Вебмастер: что ...",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "fetched_content_timestamp": 1720701670,
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/laQevhUz_yWW4VKnPu4xCqxCytpsk8ghGskmTZidvwU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9U/Wk1LdWdJanVRby9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/TZMKugIjuQo/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=i7lv4yS10_w",
+        "title": "Для чего нужен robots txt и как его прав...",
+        "description": "✅ О том, что такое robots txt, для чего он нужен, как проверить его на сайте и что закрыть от поисковиков, рассказывает Николай Полушкин, директор веб-студии...",
+        "age": "February 11, 2022",
+        "page_age": "2022-02-11T10:43:45",
+        "fetched_content_timestamp": 1763290570,
+        "video": {
+          "duration": "06:38",
+          "creator": "Web-DIUS - все про SEO и интернет-маркетинг",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/C9wfn-2GnpY5gAPt1c8PJMMbUI2Hh_DL5FwV74CRy7I/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9p/N2x2NHlTMTBfdy9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/i7lv4yS10_w/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=rsAt-ISuQJI",
+        "title": "Обновление алгоритмов Яндекс | ...",
+        "description": "Таймиг в ролике: 0:31 Обновление алгоритмов Яндекс3:36 Доставка в поиске по товарам5:17 Закрываем доступ к GPTBot 6:00 Регистр букв в файле robots.txt =====...",
+        "age": "September 6, 2023",
+        "page_age": "2023-09-06T07:00:24",
+        "fetched_content_timestamp": 1757254514,
+        "video": {
+          "duration": "07:20",
+          "creator": "Онегин-Эксперт. Продвижение сайтов",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/gVsmn0c1IRBLPeDec2infZ2R2RRqaqJ-HtUnkByDtmA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9y/c0F0LUlTdVFKSS9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/rsAt-ISuQJI/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=NfKhiBXKbkc",
+        "title": "Добавляем файлы robots и sitemap в сервисы ...",
+        "description": "Вы можете поддержать развитие каналаЯндекс кошелек 410013502699744WebMoney WMR544588506679 руб, Z195098022260 (WMZ)долhttps://webmaster-gk.ru Услуги по соз",
+        "age": "November 28, 2017",
+        "page_age": "2017-11-28T11:09:46",
+        "fetched_content_timestamp": 1752242452,
+        "video": {
+          "duration": "13:27",
+          "creator": "Веб Мастер Галина Курченко",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/qhwO444Mk_GaSxqNPb761Q_LRSjb9fQswfLCKO9qulw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9O/ZktoaUJYS2JrYy9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/NfKhiBXKbkc/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=fXh6cCLDehI&pp=ygUVI9Cy0LXQsdC80LDRgdGC0LXRgNGD",
+        "title": "Разбираем основные ошибки сайта в ...",
+        "description": "Видео по работе с Яндекс.Вебмастером: https://www.youtube.com/watch?v=-MKFwWCosssВидео по работе с Yoast SEO в WordPress: https://www.youtube.com/watch?v=eLr",
+        "age": "November 27, 2018",
+        "page_age": "2018-11-27T09:11:52",
+        "fetched_content_timestamp": 1744101951,
+        "video": {
+          "duration": "04:50",
+          "creator": "Теплица социальных технологий",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lqJzftykPZrfKR9Rp7oGwLtYSxPeqTg4ciF63fKYjE0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9m/WGg2Y0NMRGVoSS9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/fXh6cCLDehI/maxresdefault.jpg"
+        }
+      }
+    ],
+    "mutated_by_goggles": false
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "AI / LLM User-Agents: Blocking Guide",
+        "url": "https://robotstxt.com/ai",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "They function as supplementary crawlers alongside the main YandexBot, collecting additional web data to support Yandex&#x27;s AI and machine learning initiatives, including their Alice virtual assistant and other AI-powered services. ... The robots.txt tools and information shared on this website are under constant development and improvements will be added over time.",
+        "profile": {
+          "name": "Robotstxt",
+          "url": "https://robotstxt.com/ai",
+          "long_name": "robotstxt.com",
+          "img": "https://imgs.search.brave.com/lPN0wCsjbFi1RsbBUOJ0QMckHzx6__DBLXgvA0c2p7c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTQzNzg1ZWJk/MDM1MjVmZTA2N2Jk/MzI5MDc2NTcxZWZl/M2RkZWNiMzkxOGRl/NGY0NDdjNjJlMGY0/ZDZiM2U2Mi9yb2Jv/dHN0eHQuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "robotstxt.com",
+          "hostname": "robotstxt.com",
+          "favicon": "https://imgs.search.brave.com/lPN0wCsjbFi1RsbBUOJ0QMckHzx6__DBLXgvA0c2p7c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTQzNzg1ZWJk/MDM1MjVmZTA2N2Jk/MzI5MDc2NTcxZWZl/M2RkZWNiMzkxOGRl/NGY0NDdjNjJlMGY0/ZDZiM2U2Mi9yb2Jv/dHN0eHQuY29tLw",
+          "path": "› ai"
+        },
+        "extra_snippets": [
+          "They function as supplementary crawlers alongside the main YandexBot, collecting additional web data to support Yandex's AI and machine learning initiatives, including their Alice virtual assistant and other AI-powered services. ... The robots.txt tools and information shared on this website are under constant development and improvements will be added over time.",
+          "However, it's important to note that some LLMs, like those using CommonCrawl data (e.g., GPT-3), access content through public data sources. Blocking only their respective user agents may not prevent all AI accessing your content. To block all the AI user agents listed below, you can use the following robots.txt configuration: > Note The list below is updated regularly, when new AI bots are detected and confirmed. # Block all known AI crawlers and assistants # from using content for training AI models.",
+          "Timpibot is the web crawler developed by Timpi to power its decentralized search engine and data index. It collects publicly accessible web content to support unbiased search results, train large language models (LLMs), and offer insights like sentiment analysis and cybersecurity ratings.",
+          "Kangaroo Bot is a web crawler developed by Kangaroo LLM to gather publicly available data for training and improving its large language models (LLMs). These models are used for various applications, including natural language processing, content generation, and AI-driven tools tailored to industries such as education and customer support."
+        ]
+      },
+      {
+        "title": "What is the YandexBot? How to block it?",
+        "url": "https://datadome.co/bots/yandexbot/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "AI-Based CAPTCHA Solvers Human-Based ... Browser Engine Multi drivers Other drivers PhantomJS drivers Webkit drivers ... YandexBot is a web crawler operated by Yandex, a major Russian search engine....",
+        "page_age": "2025-01-09T07:13:47",
+        "profile": {
+          "name": "DataDome",
+          "url": "https://datadome.co/bots/yandexbot/",
+          "long_name": "datadome.co",
+          "img": "https://imgs.search.brave.com/xudXms0kLhyuBomO7Xhvl-3dfwJuzH8vzg-XtDnPiWQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmNlNzY0MGEy/OGExNzZjY2E3MTAw/ODI0OTQ0OTUyMjA5/ZWJjMDU4ODc4Njlj/MjE0NTRlZjQzOWRh/YWRlYjkwNi9kYXRh/ZG9tZS5jby8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "datadome.co",
+          "hostname": "datadome.co",
+          "favicon": "https://imgs.search.brave.com/xudXms0kLhyuBomO7Xhvl-3dfwJuzH8vzg-XtDnPiWQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmNlNzY0MGEy/OGExNzZjY2E3MTAw/ODI0OTQ0OTUyMjA5/ZWJjMDU4ODc4Njlj/MjE0NTRlZjQzOWRh/YWRlYjkwNi9kYXRh/ZG9tZS5jby8",
+          "path": "  › home  › bots  › yandexbot"
+        },
+        "age": "January 9, 2025",
+        "extra_snippets": [
+          "Academic & Research Crawlers Academic Research Accessibility Accessibility & Web Reading Accessibility / Monitoring Accessibility Bots Advertising & Marketing Advertising & marketing bots Advertising & Marketing Bots Aggregator AI & LLM Crawlers AI Assistant E-commerce & Price Scrapers Bots Search engine crawlers SEO & Analytics Bots ... AI-Based CAPTCHA Solvers Human-Based Solvers Proxy & Infrastructure-Level Solvers Specialized Solvers & Automation Tools ... Browser Engines Chromium drivers Fake Browser Engine Multi drivers Other drivers PhantomJS drivers Webkit drivers ... YandexBot is a web crawler operated by Yandex, a major Russian search engine.",
+          "YandexBot identifies itself with a specific user-agent string in HTTP requests, allowing webmasters to recognize its activity. It respects the robots.txt protocol, which means it will adhere to the rules set by website administrators regarding which parts of a site it can access.",
+          "If your site has new or frequently updated content, YandexBot’s visits may be more frequent to keep its index up-to-date. Furthermore, if your site has inbound links from other sites that YandexBot crawls, it may follow these links to discover and index your pages. 1. Robots.txt File: Add a directive in your robots.txt file to disallow YandexBot from accessing your site.",
+          "3. Firewall Rules: Configure your web application firewall (WAF) to block requests from IP ranges associated with YandexBot."
+        ]
+      },
+      {
+        "title": "YandexBot User Agent - Yandex's Search Engine Crawler",
+        "url": "https://darkvisitors.com/agents/yandexbot",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "See Your Hidden Bot Traffic for Free → ... Please reach out with questions or requests. ... YandexBot is the web crawler for Yandex, a major Russian search engine. It visits websites to index content and make it searchable through Yandex&#x27;s ...",
+        "profile": {
+          "name": "Dark Visitors",
+          "url": "https://darkvisitors.com/agents/yandexbot",
+          "long_name": "darkvisitors.com",
+          "img": "https://imgs.search.brave.com/-zhlWLlCgg6ic5LX_4NZmVuKhFV34ELwyBGgMQ0rmD0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTkyNjM0ZTg0/OTg4YjQ4MTEyYjk2/NTJlNmI3NjE5MTJi/NDAzMWI3N2Y3OGYy/NDQ0OGJkNzJiYzdm/MWRjMjEyZi9kYXJr/dmlzaXRvcnMuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "darkvisitors.com",
+          "hostname": "darkvisitors.com",
+          "favicon": "https://imgs.search.brave.com/-zhlWLlCgg6ic5LX_4NZmVuKhFV34ELwyBGgMQ0rmD0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTkyNjM0ZTg0/OTg4YjQ4MTEyYjk2/NTJlNmI3NjE5MTJi/NDAzMWI3N2Y3OGYy/NDQ0OGJkNzJiYzdm/MWRjMjEyZi9kYXJr/dmlzaXRvcnMuY29t/Lw",
+          "path": "› agents  › yandexbot"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/-CUZPwa8JQaVMoSAqVZREnM0JN3t5n_f9gTUF7OukCU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kYXJr/dmlzaXRvcnMuY29t/L2Fzc2V0cy9oZXJv/LnBuZw",
+          "original": "https://darkvisitors.com/assets/hero.png",
+          "logo": false
+        },
+        "extra_snippets": [
+          "Find out which crawlers, scrapers, AI agents, and LLM assistants are browsing your website. See Your Hidden Bot Traffic for Free → ... Please reach out with questions or requests. ... YandexBot is the web crawler for Yandex, a major Russian search engine. It visits websites to index content and make it searchable through Yandex's search results.",
+          "While the vast majority of agents operated by reputable companies honor these robots.txt directives, bad actors may choose to ignore them entirely. In that case, you'll need to implement alternative blocking methods such as firewall rules or server-level restrictions. You can verify whether YandexBot is respecting your rules by setting up Agent Analytics to monitor its visits to your website. Blocking search engine crawlers will severely damage your SEO rankings and organic traffic.",
+          "Search engine crawlers are designed to index only publicly accessible content. They respect robots.txt rules and don't attempt to access password-protected pages, private user accounts, or authenticated areas. However, they may index content that's technically public but not intended for search visibility, such as unlisted pages or development environments. Setting up Agent Analytics will give you realtime visibility into YandexBot visiting your website, along with hundreds of other AI agents, crawlers, and scrapers.",
+          "⚠️ Manually copying and pasting this rule is not scalable, because new search engine crawlers are discovered every day. Instead, serve a robots.txt that updates automatically. ... Definitely no. YandexBot is essential for content discovery and website traffic."
+        ]
+      },
+      {
+        "title": "YandexBot <-UA list :: udger.com",
+        "url": "https://udger.com/resources/ua-list/bot-detail?bot=YandexBot",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Detail of web crawler YandexBot",
+        "profile": {
+          "name": "udger.com",
+          "url": "https://udger.com/resources/ua-list/bot-detail?bot=YandexBot",
+          "long_name": "udger.com",
+          "img": "https://imgs.search.brave.com/8J5Fp-2yp6ztNwCF182Dw9J9fXbL2D7E2oAVaIGKVuw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjc3ZjYxNGNk/ZGE0NDkwMDYyZDg3/ZTQ1ZTYyZGZlZGY2/NmFmM2Q3Y2RlNTAy/YTY2Njg3OGMyOTU0/ZDU0ZGE0Yi91ZGdl/ci5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "udger.com",
+          "hostname": "udger.com",
+          "favicon": "https://imgs.search.brave.com/8J5Fp-2yp6ztNwCF182Dw9J9fXbL2D7E2oAVaIGKVuw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjc3ZjYxNGNk/ZGE0NDkwMDYyZDg3/ZTQ1ZTYyZGZlZGY2/NmFmM2Q3Y2RlNTAy/YTY2Njg3OGMyOTU0/ZDU0ZGE0Yi91ZGdl/ci5jb20v",
+          "path": "› resources  › ua-list  › bot-detail"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ZCqoHBbnLJamAlpawSCoRw_I4CuH3qVf9ptiF40F_rs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly91ZGdl/ci5jb20vcHViL2lt/Zy9sb2dvLnBuZw",
+          "original": "https://udger.com/pub/img/logo.png",
+          "logo": true
+        },
+        "extra_snippets": [
+          "Detail of web crawler YandexBot"
+        ]
+      },
+      {
+        "title": "What is the Yandex.Webmaster bot & How to block it?",
+        "url": "https://datadome.co/bots/yandex-webmaster/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The Yandex.Webmaster crawler bot is an automated tool used by Yandex, a major Russian search engine, to index and analyze web content. It systematically navigates websites to gather data, which is then used to update Yandex’s search index. This process helps improve search result relevance ...",
+        "profile": {
+          "name": "DataDome",
+          "url": "https://datadome.co/bots/yandex-webmaster/",
+          "long_name": "datadome.co",
+          "img": "https://imgs.search.brave.com/xudXms0kLhyuBomO7Xhvl-3dfwJuzH8vzg-XtDnPiWQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmNlNzY0MGEy/OGExNzZjY2E3MTAw/ODI0OTQ0OTUyMjA5/ZWJjMDU4ODc4Njlj/MjE0NTRlZjQzOWRh/YWRlYjkwNi9kYXRh/ZG9tZS5jby8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "datadome.co",
+          "hostname": "datadome.co",
+          "favicon": "https://imgs.search.brave.com/xudXms0kLhyuBomO7Xhvl-3dfwJuzH8vzg-XtDnPiWQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmNlNzY0MGEy/OGExNzZjY2E3MTAw/ODI0OTQ0OTUyMjA5/ZWJjMDU4ODc4Njlj/MjE0NTRlZjQzOWRh/YWRlYjkwNi9kYXRh/ZG9tZS5jby8",
+          "path": "  › home  › bots  › yandex.webmaster"
+        },
+        "extra_snippets": [
+          "The Yandex.Webmaster crawler bot is an automated tool used by Yandex, a major Russian search engine, to index and analyze web content. It systematically navigates websites to gather data, which is then used to update Yandex’s search index. This process helps improve search result relevance and visibility for users searching via Yandex. The bot identifies itself with a user-agent string that includes “”YandexBot.”” Use cases include enhancing website discoverability in Yandex’s search results, monitoring site health, and providing insights into site performance through the Yandex.Webmaster tool.",
+          "1. Robots.txt File: Add a directive in your robots.txt file to disallow YandexBot.",
+          "if ($http_user_agent ~* 'YandexBot') { return 403; }",
+          "5. CDN Settings: If using a CDN, configure it to block requests from YandexBot by setting up user-agent filtering rules."
+        ]
+      },
+      {
+        "title": "What is YandexBot?",
+        "url": "https://usehall.com/agents/yandexbot",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "You can also manage YandexBot’s access through Yandex Webmaster Tools, which provides additional options for controlling how your site is crawled and indexed. Search index crawler · Not used to train AI or LLMs · No, operates independently of any user action · Yes, obeys robots.txt rules ·",
+        "page_age": "2025-09-17T04:54:12",
+        "profile": {
+          "name": "Usehall",
+          "url": "https://usehall.com/agents/yandexbot",
+          "long_name": "usehall.com",
+          "img": "https://imgs.search.brave.com/-UMYlK6aVbU9I9GxGV1uThwylPpsJDA1nHyHYZ3Lc_g/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmQ4MmVmMGQ3/ZWMxZGE1OGYzNDAw/ODU5MWU2YmU1MWNh/ZTJmMzkyZjIzODdl/ZmI4ZGY2OTEyOWU0/YjBjNmZlNy91c2Vo/YWxsLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "usehall.com",
+          "hostname": "usehall.com",
+          "favicon": "https://imgs.search.brave.com/-UMYlK6aVbU9I9GxGV1uThwylPpsJDA1nHyHYZ3Lc_g/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmQ4MmVmMGQ3/ZWMxZGE1OGYzNDAw/ODU5MWU2YmU1MWNh/ZTJmMzkyZjIzODdl/ZmI4ZGY2OTEyOWU0/YjBjNmZlNy91c2Vo/YWxsLmNvbS8",
+          "path": "› agents  › yandexbot"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/rn9GRY20B8BxXKXS37UFnz-TvynPKIySnYsIk4VOwTE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly91c2Vo/YWxsLmNvbS9hcGkv/b2c_dGl0bGU9WWFu/ZGV4Qm90JmFtcDtz/dWJ0aXRsZT1BSSUy/MGFnZW50JTIwZGly/ZWN0b3J5",
+          "original": "https://usehall.com/api/og?title=YandexBot&amp;subtitle=AI%20agent%20directory",
+          "logo": false
+        },
+        "age": "September 17, 2025",
+        "extra_snippets": [
+          "You can also manage YandexBot’s access through Yandex Webmaster Tools, which provides additional options for controlling how your site is crawled and indexed. Search index crawler · Not used to train AI or LLMs · No, operates independently of any user action · Yes, obeys robots.txt rules ·",
+          "YandexBot is the web crawler operated by Yandex, Russia’s largest search engine company. This automated bot systematically browses the internet to discover, analyze, and index web content for Yandex’s search services. YandexBot has been active since at least 2009 and serves as the primary data collection mechanism for Yandex’s search index.",
+          "As a sophisticated web crawler, it discovers new and updated content across the web, following links from page to page to build a comprehensive map of the internet. The bot identifies itself in server logs with user-agent strings that typically follow patterns like Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots) or more specific variants such as Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots) for image-focused crawling.",
+          "YandexBot is actually a family of specialized crawlers, including YandexImages, YandexMobileBot, YandexAccessibilityBot, and others, each designed to gather specific types of web content."
+        ]
+      },
+      {
+        "title": "YandexBot Bot Information | Cloudflare Radar",
+        "url": "https://radar.cloudflare.com/bots/directory/yandex",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Search Engine Crawler · Operator · Yandex · Documentation · https://yandex.com/support/webmaster/robot-workings/check-yandex-robots.html · Copy link · HTTP requests · Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots) robots.txtLearn more...Copy ·",
+        "profile": {
+          "name": "Cloudflare Radar",
+          "url": "https://radar.cloudflare.com/bots/directory/yandex",
+          "long_name": "radar.cloudflare.com",
+          "img": "https://imgs.search.brave.com/2SD89nswFvCPZMSgVFRD3_02NBgoa9j3EPZtchEK6QA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2RmNTJhNmRj/YmI4NDI1MmQ4NGM0/M2JkNTA1MDYzYzdl/NjI0NDJiNzJiZDhk/ZGJlYzU3MTVkMGMw/NTE0ZDQ3My9yYWRh/ci5jbG91ZGZsYXJl/LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "radar.cloudflare.com",
+          "hostname": "radar.cloudflare.com",
+          "favicon": "https://imgs.search.brave.com/2SD89nswFvCPZMSgVFRD3_02NBgoa9j3EPZtchEK6QA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2RmNTJhNmRj/YmI4NDI1MmQ4NGM0/M2JkNTA1MDYzYzdl/NjI0NDJiNzJiZDhk/ZGJlYzU3MTVkMGMw/NTE0ZDQ3My9yYWRh/ci5jbG91ZGZsYXJl/LmNvbS8",
+          "path": "› bots  › directory  › yandex"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/AlyzNPB1AhnIhkxvii_RLCLNsfp9Op8hlKI9VFpNElM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yYWRh/ci5jbG91ZGZsYXJl/LmNvbS9hc3NldHMv/aW1hZ2VzL29nLXYy/LnBuZw",
+          "original": "https://radar.cloudflare.com/assets/images/og-v2.png",
+          "logo": false
+        },
+        "extra_snippets": [
+          "Search Engine Crawler · Operator · Yandex · Documentation · https://yandex.com/support/webmaster/robot-workings/check-yandex-robots.html · Copy link · HTTP requests · Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots) robots.txtLearn more...Copy ·",
+          "Detailed information for YandexBot."
+        ]
+      },
+      {
+        "title": "How to check that a robot belongs to Yandex | Webmaster",
+        "url": "https://yandex.com/support/webmaster/en/robot-workings/check-yandex-robots",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "User-agent: YandexCalendar Disallow: / User-agent: YandexMobileBot Disallow: /private/*.txt$ Bots use an offline network: AS13238 and AS208722, as well as IP addresses that change frequently. Therefore, their list is not disclosed. When the robot accesses the page, your server logs may show the User-agent and the browser&#x27;s version used for crawling the site. For example, Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.268.",
+        "profile": {
+          "name": "Yandex",
+          "url": "https://yandex.com/support/webmaster/en/robot-workings/check-yandex-robots",
+          "long_name": "yandex.com",
+          "img": "https://imgs.search.brave.com/PzD4Z70x4Tr5qx1FVRSQC87oEooqqKp5MO04jnTc-kI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDcxYjJmYzYw/NTk4Yzc0MWFhZjgw/ODg3ZDQ3ZDIyNmZl/NjE4NmU0NjY1YTkw/MzNlOGJkYzIwNGQz/ZTAxY2E4Zi95YW5k/ZXguY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "yandex.com",
+          "hostname": "yandex.com",
+          "favicon": "https://imgs.search.brave.com/PzD4Z70x4Tr5qx1FVRSQC87oEooqqKp5MO04jnTc-kI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDcxYjJmYzYw/NTk4Yzc0MWFhZjgw/ODg3ZDQ3ZDIyNmZl/NjE4NmU0NjY1YTkw/MzNlOGJkYzIwNGQz/ZTAxY2E4Zi95YW5k/ZXguY29tLw",
+          "path": "› support  › webmaster  › en  › robot-workings  › check-yandex-robots"
+        },
+        "extra_snippets": [
+          "User-agent: YandexCalendar Disallow: / User-agent: YandexMobileBot Disallow: /private/*.txt$ Bots use an offline network: AS13238 and AS208722, as well as IP addresses that change frequently. Therefore, their list is not disclosed. When the robot accesses the page, your server logs may show the User-agent and the browser's version used for crawling the site. For example, Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.268.",
+          "A number of Yandex robots download web documents for purposes other than indexing. To avoid unintentional blocking by site owners, they may ignore the file's restrictive directives robots.txtdesigned for arbitrary robots (User-agent: *).",
+          "In addition, robots may ignore some robots.txt restrictions for certain sites if there is an agreement between \"Yandex\" and the owners of those sites."
+        ]
+      },
+      {
+        "title": "web crawlers - How to block only Yandex bot using robots.txt - Webmasters Stack Exchange",
+        "url": "https://webmasters.stackexchange.com/questions/104865/how-to-block-only-yandex-bot-using-robots-txt",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "ok so if i want block all yandex bot, i need add in robots.txt this: User-agent: Yandex Disallow: / ?",
+        "page_age": "2017-03-25T00:00:00",
+        "profile": {
+          "name": "Stack Exchange",
+          "url": "https://webmasters.stackexchange.com/questions/104865/how-to-block-only-yandex-bot-using-robots-txt",
+          "long_name": "webmasters.stackexchange.com",
+          "img": "https://imgs.search.brave.com/T3arg3d9H0lQoYEGPBwrGesf1nfD6LqSf4M1Vca3Atk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzJmZjc1MWM4/NTdkY2Y2ODAzZjJm/NzU0MGVhNGNmZDRm/YzJmYTA4M2U2NGZl/Mzc1NDMyZjAzZjJl/YTZlOTY5NC93ZWJt/YXN0ZXJzLnN0YWNr/ZXhjaGFuZ2UuY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "qa",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "webmasters.stackexchange.com",
+          "hostname": "webmasters.stackexchange.com",
+          "favicon": "https://imgs.search.brave.com/T3arg3d9H0lQoYEGPBwrGesf1nfD6LqSf4M1Vca3Atk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzJmZjc1MWM4/NTdkY2Y2ODAzZjJm/NzU0MGVhNGNmZDRm/YzJmYTA4M2U2NGZl/Mzc1NDMyZjAzZjJl/YTZlOTY5NC93ZWJt/YXN0ZXJzLnN0YWNr/ZXhjaGFuZ2UuY29t/Lw",
+          "path": "› questions  › 104865  › how-to-block-only-yandex-bot-using-robots-txt"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/YU57lJH11LYkQYWMZAQexPfXWh27_QB6TyPK0AspR4s/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93ZWJt/YXN0ZXJzLnN0YWNr/ZXhjaGFuZ2UuY29t/L0NvbnRlbnQvU2l0/ZXMvd2VibWFzdGVy/cy9JbWcvYXBwbGUt/dG91Y2gtaWNvbkAy/LnBuZz92PTg3YWI4/MGU3M2JlOA",
+          "original": "https://webmasters.stackexchange.com/Content/Sites/webmasters/Img/apple-touch-icon@2.png?v=87ab80e73be8",
+          "logo": true
+        },
+        "age": "March 25, 2017",
+        "qa": {
+          "question": "How to block only Yandex bot using robots.txt",
+          "answer": {
+            "text": "<p>There are many \"Yandex bots\". If you want to block <em>all</em> the Yandex bots then:</p>\n\n<pre><code>User-agent: Yandex\nDisallow: /\n</code></pre>\n\n<p>However, if you only want to block the main indexing \"YandexBot\" then:</p>\n\n<pre><code>User-agent: YandexBot\nDisallow: /\n</code></pre>\n\n<p>Source:<br>\nhttps://yandex.com/support/webmaster/controlling-robot/robots-txt.xml</p>\n\n<p>You don't need to do anything for Googlebot (or any other bot) if you want the other bots to crawl your site, since <em>allow</em> (crawling) is the default action.</p>",
+            "author": "MrWhite",
+            "upvoteCount": 6
+          }
+        },
+        "organization": {
+          "type": "organization",
+          "name": "Stack Overflow",
+          "contact_points": []
+        },
+        "extra_snippets": [
+          "User-agent: YandexBot Disallow: / Source: https://yandex.com/support/webmaster/controlling-robot/robots-txt.xml · You don't need to do anything for Googlebot (or any other bot) if you want the other bots to crawl your site, since allow (crawling) is the default action.",
+          "Yeah, I generally use robots.txt to prevent something, because by default all bots are allowed to crawl. For example wikipedia site blocking Google-ads bot(Mediapartners-Google*), because they are not using any ads.",
+          "ok so if i want block all yandex bot, i need add in robots.txt this: User-agent: Yandex Disallow: / ?",
+          "1 The Yandex index robot is redirected when requesting this site so the robots.txt file will not be used."
+        ]
+      },
+      {
+        "title": ".htaccess - How to block yandex - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/73125671/how-to-block-yandex",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Yandex supposedly supports robots.txt.",
+        "profile": {
+          "name": "Stack Overflow",
+          "url": "https://stackoverflow.com/questions/73125671/how-to-block-yandex",
+          "long_name": "stackoverflow.com",
+          "img": "https://imgs.search.brave.com/4WRMec_wn8Q9LO6DI43kkBvIL6wD5TYCXztC9C9kEI0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWU3Zjg0ZjA1/YjQ3ZTlkNjQ1ODA1/MjAwODhiNjhjYWU0/OTc4MjM4ZDJlMTBi/ODExYmNiNTkzMjdh/YjM3MGExMS9zdGFj/a292ZXJmbG93LmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "qa",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "stackoverflow.com",
+          "hostname": "stackoverflow.com",
+          "favicon": "https://imgs.search.brave.com/4WRMec_wn8Q9LO6DI43kkBvIL6wD5TYCXztC9C9kEI0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWU3Zjg0ZjA1/YjQ3ZTlkNjQ1ODA1/MjAwODhiNjhjYWU0/OTc4MjM4ZDJlMTBi/ODExYmNiNTkzMjdh/YjM3MGExMS9zdGFj/a292ZXJmbG93LmNv/bS8",
+          "path": "› questions  › 73125671  › how-to-block-yandex"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/8rYjSv2_oY3M4_lTWZkus1tHOIG9JiPNKVK68dZmOHo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGFj/a292ZXJmbG93LmNv/bS9Db250ZW50L1Np/dGVzL3N0YWNrb3Zl/cmZsb3cvSW1nL2Fw/cGxlLXRvdWNoLWlj/b25AMi5wbmc_dj0w/ZjBjYWI2ODE1Nzk",
+          "original": "https://stackoverflow.com/Content/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=0f0cab681579",
+          "logo": true
+        },
+        "qa": {
+          "question": "How to block yandex",
+          "answer": {
+            "text": "<p>In case anyone else has this problem, the following worked for me:</p>\n<pre><code>    RewriteCond %{HTTP_USER_AGENT} ^.*(yandex).*$ [NC]\n    RewriteRule .* - [F,L]\n</code></pre>",
+            "author": "user3052443",
+            "upvoteCount": 2
+          }
+        },
+        "extra_snippets": [
+          "You need to check that the User-Agent header contains \"YandexBot\" (or \"yandex.com\").",
+          "However, consider using using robots.txt instead to block crawling in the first place.",
+          "Yandex supposedly supports robots.txt."
+        ]
+      }
+    ],
+    "family_friendly": true
+  }
+}

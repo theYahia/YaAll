@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "{{ВОПРОС_1}}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ОТВЕТ_1_40_60_СЛОВ}}"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "{{ВОПРОС_2}}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ОТВЕТ_2_40_60_СЛОВ}}"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "{{ВОПРОС_3}}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ОТВЕТ_3_40_60_СЛОВ}}"
+      }
+    }
+  ]
+}

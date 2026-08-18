@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "{{ИМЯ_ОРГАНИЗАЦИИ}}",
+  "url": "{{URL_САЙТА}}",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "{{URL_ЛОГОТИПА}}",
+    "width": 600,
+    "height": 60
+  },
+  "description": "{{ОПИСАНИЕ_100_СЛОВ}}",
+  "foundingDate": "{{ГОД_ОСНОВАНИЯ}}",
+  "sameAs": [
+    "{{ССЫЛКА_VK}}",
+    "{{ССЫЛКА_TELEGRAM}}",
+    "{{ССЫЛКА_ODNOKLASSNIKI}}",
+    "{{ССЫЛКА_DZEN}}",
+    "{{ССЫЛКА_RUTUBE}}",
+    "{{ССЫЛКА_YOUTUBE}}"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "{{ТЕЛЕФОН}}",
+    "contactType": "customer service",
+    "availableLanguage": "Russian"
+  }
+}

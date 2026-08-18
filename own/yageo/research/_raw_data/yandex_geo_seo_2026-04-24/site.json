@@ -1,0 +1,619 @@
+{
+  "type": "search",
+  "query": {
+    "original": "gitverse.ru SEO Yandex",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "videos",
+        "all": true
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "videos": {
+    "type": "videos",
+    "results": [
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=J1eggmrvtb8",
+        "title": "🌍🔍 How To Submit Your Sitemap to Yandex Webmaster Tools | ...",
+        "description": "Want to improve your website’s visibility in Russia and Eastern Europe? In this step-by-step tutorial, you'll learn how to submit your sitemap to Yandex Sear...",
+        "age": "July 11, 2025",
+        "page_age": "2025-07-11T02:55:35",
+        "fetched_content_timestamp": 1777012643,
+        "video": {
+          "duration": "02:36",
+          "creator": "Visualmodo",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/OeuOhxPBP1xUalgE8IwiwJzAQR4kHs4PuU_P0jAaE24/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9K/MWVnZ21ydnRiOC9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/J1eggmrvtb8/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=RPYOfp6dIH0",
+        "title": "Yandex Webmaster Tools: The SEO Secret to UNTAPPED Traffic (PRO ...",
+        "description": "Relying 100% on Google is a business risk. This is the definitive PRO Guide to Yandex Webmaster Tools for SEO. This is the SEO Secret to UNTAPPED Traffic. If...",
+        "age": "December 30, 2025",
+        "page_age": "2025-12-30T14:35:21",
+        "fetched_content_timestamp": 1776077674,
+        "video": {
+          "duration": "10:41",
+          "creator": "Beloved Adejuyigbe",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/TrYVFkfNvewAAYBmeVhg7pYJroNANwR32e0xtSZ5Ei0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9S/UFlPZnA2ZElIMC9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/RPYOfp6dIH0/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=yrogVaMpobo",
+        "title": "How To Add Your Site Yandex Search Engine? 🔍 - YouTube",
+        "description": "Looking to expand your site’s visibility beyond Google? In this quick and easy tutorial, you’ll learn how to add your website to Yandex, the most popular sea...",
+        "age": "July 9, 2025",
+        "page_age": "2025-07-09T03:14:14",
+        "fetched_content_timestamp": 1776655573,
+        "video": {
+          "duration": "04:10",
+          "creator": "Visualmodo",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ybXgo8QBOWOl2bcnWQBahRcRmT0cOeIaPoZAuq5cJ-U/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS95/cm9nVmFNcG9iby9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/yrogVaMpobo/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=tKoKFiZOI3k",
+        "title": "How to succeed at SEO on Yandex | Need-to-know",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "fetched_content_timestamp": 1724170552,
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/WAw7xN0xyFxZDEQ2hgA3PtJuvU--ooDT7by2ILyYdRQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS90/S29LRmlaT0kzay9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/tKoKFiZOI3k/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=3OwBUIZo4fU",
+        "title": "How to Submit a Sitemap to Yandex Webmaster Tools - YouTube",
+        "description": "How to Submit a Sitemap to Yandex Webmaster Tools:1) Navigate to Yandex Webmaster Tools: https://webmaster.yandex.com/2) Navigate to Indexing (left-hand-side...",
+        "age": "October 18, 2024",
+        "page_age": "2024-10-18T00:00:05",
+        "fetched_content_timestamp": 1731628395,
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/TWzqO3Aaa2u__UN3qJOXVnfYYhp9Dhmu6iS7ceOr-kU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS8z/T3dCVUlabzRmVS9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/3OwBUIZo4fU/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=t8BzUdRMdOU",
+        "title": "Mastering Yandex SEO: Tips for Dominating Search Rankings - YouTube",
+        "description": "Yandex has a number of algorithms that ensure users are met with quality, useful content matching their search intent. This process began in 2007 through an ...",
+        "age": "March 28, 2023",
+        "page_age": "2023-03-28T20:16:27",
+        "fetched_content_timestamp": 1776161915,
+        "video": {
+          "duration": "01:03",
+          "creator": "Leads Dubai",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/oYJAwi3VgR343jhTgJkyPYjxUJjN2YSPqhjyJeVMYrE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS90/OEJ6VWRSTWRPVS9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/t8BzUdRMdOU/maxresdefault.jpg"
+        }
+      }
+    ],
+    "mutated_by_goggles": false
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "yandex.cloud Traffic Analytics, Ranking & Audience [August 2025] | Similarweb",
+        "url": "https://www.similarweb.com/website/yandex.cloud/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "gitverse.ru93&amp;2.1KComputers Electronics ... traffic source to yandex.cloud is Direct traffic, driving 52.28% of desktop visits last month, and Organic Search is the 2nd with 24.64% of traffic....",
+        "profile": {
+          "name": "Similarweb",
+          "url": "https://www.similarweb.com/website/yandex.cloud/",
+          "long_name": "similarweb.com",
+          "img": "https://imgs.search.brave.com/U6PC3sxswGYIexJuUmh1mObFeIsCkn6ufh1cOfcskhI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjRkZWZkNzBh/NDNiOTEzYzMyNjY0/ZDU5MmEyMGM2Mzlm/NTRkZDUxNjM1YTQ0/ZmZlMGZjNDYxYmE4/MzkyMjlkNi93d3cu/c2ltaWxhcndlYi5j/b20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "similarweb.com",
+          "hostname": "www.similarweb.com",
+          "favicon": "https://imgs.search.brave.com/U6PC3sxswGYIexJuUmh1mObFeIsCkn6ufh1cOfcskhI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjRkZWZkNzBh/NDNiOTEzYzMyNjY0/ZDU5MmEyMGM2Mzlm/NTRkZDUxNjM1YTQ0/ZmZlMGZjNDYxYmE4/MzkyMjlkNi93d3cu/c2ltaWxhcndlYi5j/b20v",
+          "path": "  › home  › website traffic checker  › yandex.cloud"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/BFXjZY6ruYKSaURryyped80dW_HtZ12WVMSFPIbKa3w/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtdXMtd2VzdC0y/LnNpbWlsYXJjZG4u/Y29tL2J1aWxkLzIw/MjUwOTEwLm1hc3Rl/ci41MGY2M2JjL2Rp/c3Qvc2NyaXB0cy9s/aXRlLWFwcC9hc3Nl/dHMvZTIzY2YzNTA4/Y2YxMGNiM2I1ODAu/cG5n",
+          "original": "https://static-us-west-2.similarcdn.com/build/20250910.master.50f63bc/dist/scripts/lite-app/assets/e23cf3508cf10cb3b580.png",
+          "logo": false
+        },
+        "extra_snippets": [
+          "gitverse.ru93&2.1KComputers Electronics and Technology > Computer Security#376Analyze gitverse.ruCompare to gitverse.ru · downdetector.su93%3.5MComputers Electronics and Technology > Computer Security#50Analyze downdetector.suCompare to downdetector.suSee all competitors · The top traffic source to yandex.cloud is Direct traffic, driving 52.28% of desktop visits last month, and Organic Search is the 2nd with 24.64% of traffic.",
+          "Grow your traffic share per keyword and understand how SEO and PPC investments can be optimized with Similarweb's Digital Marketing Intelligence solution.Try it now · The top referral sites sending desktop traffic to yandex.cloud. ... Start a trial93.67%Start a trial3.22%Start a trial0.93�talens.yandex0.34%btrx.info0.17%kinopoisk.ru0.17# Others1.49%See all",
+          "Which countries sent the most traffic to yandex.cloud lately? Where is their core audience from? Last month Russia was the top country sending desktop traffic to yandex.cloud - click below to discover all countries",
+          "Analysis of the top publishers sending traffic to yandex.cloud. Currently, there are 26 publishers referring visitors. ... Start a trial17.29%Start a trial17.03%rambler.ru12.56%text.ru7.53%google.com2.96!"
+        ]
+      },
+      {
+        "title": "codespawn/coderun: Yandex coderun challenge solutions | Gitverse",
+        "url": "https://gitverse.ru/codespawn/coderun",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "codespawn/coderun: Yandex coderun challenge solutions. Up-to-date files and descriptions. Branches and discussions on the developer platform GitVerse.",
+        "profile": {
+          "name": "Gitverse",
+          "url": "https://gitverse.ru/codespawn/coderun",
+          "long_name": "gitverse.ru",
+          "img": "https://imgs.search.brave.com/yE8NKwp7QtDR1xx6jyBRtig8Apb_1a7SZSIyASVCEsM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTgxYTEwMzdk/OGJlNTQxNjY2MGJj/YmYyMTkyMjEzNzFj/ODI4YTg0NGI4NGQy/NDQxNWMwMDQzNGQx/YmQ5N2VkOS9naXR2/ZXJzZS5ydS8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "gitverse.ru",
+          "hostname": "gitverse.ru",
+          "favicon": "https://imgs.search.brave.com/yE8NKwp7QtDR1xx6jyBRtig8Apb_1a7SZSIyASVCEsM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTgxYTEwMzdk/OGJlNTQxNjY2MGJj/YmYyMTkyMjEzNzFj/ODI4YTg0NGI4NGQy/NDQxNWMwMDQzNGQx/YmQ5N2VkOS9naXR2/ZXJzZS5ydS8",
+          "path": "› codespawn  › coderun"
+        }
+      },
+      {
+        "title": "candi/cloud-providers/yandex - main - deckhouse/deckhouse - Gitverse",
+        "url": "https://gitverse.ru/deckhouse/deckhouse/content/main/candi/cloud-providers/yandex",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "candi/cloud-providers/yandex - main - deckhouse/deckhouse: актуальные файлы и описания. Ветки и обсуждения на платформе для разработчиков GitVerse.",
+        "profile": {
+          "name": "Gitverse",
+          "url": "https://gitverse.ru/deckhouse/deckhouse/content/main/candi/cloud-providers/yandex",
+          "long_name": "gitverse.ru",
+          "img": "https://imgs.search.brave.com/yE8NKwp7QtDR1xx6jyBRtig8Apb_1a7SZSIyASVCEsM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTgxYTEwMzdk/OGJlNTQxNjY2MGJj/YmYyMTkyMjEzNzFj/ODI4YTg0NGI4NGQy/NDQxNWMwMDQzNGQx/YmQ5N2VkOS9naXR2/ZXJzZS5ydS8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "gitverse.ru",
+          "hostname": "gitverse.ru",
+          "favicon": "https://imgs.search.brave.com/yE8NKwp7QtDR1xx6jyBRtig8Apb_1a7SZSIyASVCEsM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTgxYTEwMzdk/OGJlNTQxNjY2MGJj/YmYyMTkyMjEzNzFj/ODI4YTg0NGI4NGQy/NDQxNWMwMDQzNGQx/YmQ5N2VkOS9naXR2/ZXJzZS5ydS8",
+          "path": "› deckhouse  › deckhouse  › content  › main  › candi  › cloud-providers  › yandex"
+        },
+        "extra_snippets": [
+          "Нажимая кнопку «Принимаю», Вы даете АО «СберТех» согласие на обработку Ваших персональных данных в целях совершенствования нашего веб-сайта и Сервиса GitVerse, а также повышения удобства их использования."
+        ]
+      },
+      {
+        "title": "kovardin/godot-yandex-ads | Gitverse",
+        "url": "https://gitverse.ru/kovardin/godot-yandex-ads",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Godot Yandex AdsРекламаНастройка рекламыИнтеграцияИспользование ... Для полного доступа зарегистрируйтесь или авторизуйтесь на GitVerseВойти",
+        "profile": {
+          "name": "Gitverse",
+          "url": "https://gitverse.ru/kovardin/godot-yandex-ads",
+          "long_name": "gitverse.ru",
+          "img": "https://imgs.search.brave.com/yE8NKwp7QtDR1xx6jyBRtig8Apb_1a7SZSIyASVCEsM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTgxYTEwMzdk/OGJlNTQxNjY2MGJj/YmYyMTkyMjEzNzFj/ODI4YTg0NGI4NGQy/NDQxNWMwMDQzNGQx/YmQ5N2VkOS9naXR2/ZXJzZS5ydS8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "gitverse.ru",
+          "hostname": "gitverse.ru",
+          "favicon": "https://imgs.search.brave.com/yE8NKwp7QtDR1xx6jyBRtig8Apb_1a7SZSIyASVCEsM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTgxYTEwMzdk/OGJlNTQxNjY2MGJj/YmYyMTkyMjEzNzFj/ODI4YTg0NGI4NGQy/NDQxNWMwMDQzNGQx/YmQ5N2VkOS9naXR2/ZXJzZS5ydS8",
+          "path": "› kovardin  › godot-yandex-ads"
+        },
+        "extra_snippets": [
+          "Godot Yandex AdsРекламаНастройка рекламыИнтеграцияИспользование ... Для полного доступа зарегистрируйтесь или авторизуйтесь на GitVerseВойти"
+        ]
+      },
+      {
+        "title": "gen/yandex-translate-api: Yandex Translate API with rust. | Gitverse",
+        "url": "https://gitverse.ru/gen/yandex-translate-api",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "gen/yandex-translate-api: Yandex Translate API with rust.. Up-to-date files and descriptions. Branches and discussions on the developer platform GitVerse.",
+        "profile": {
+          "name": "Gitverse",
+          "url": "https://gitverse.ru/gen/yandex-translate-api",
+          "long_name": "gitverse.ru",
+          "img": "https://imgs.search.brave.com/yE8NKwp7QtDR1xx6jyBRtig8Apb_1a7SZSIyASVCEsM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTgxYTEwMzdk/OGJlNTQxNjY2MGJj/YmYyMTkyMjEzNzFj/ODI4YTg0NGI4NGQy/NDQxNWMwMDQzNGQx/YmQ5N2VkOS9naXR2/ZXJzZS5ydS8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "gitverse.ru",
+          "hostname": "gitverse.ru",
+          "favicon": "https://imgs.search.brave.com/yE8NKwp7QtDR1xx6jyBRtig8Apb_1a7SZSIyASVCEsM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTgxYTEwMzdk/OGJlNTQxNjY2MGJj/YmYyMTkyMjEzNzFj/ODI4YTg0NGI4NGQy/NDQxNWMwMDQzNGQx/YmQ5N2VkOS9naXR2/ZXJzZS5ydS8",
+          "path": "› gen  › yandex-translate-api"
+        },
+        "extra_snippets": [
+          "Yandex Translate API with rust. ... Для полного доступа зарегистрируйтесь или авторизуйтесь на GitVerseВойти"
+        ]
+      },
+      {
+        "title": "pulumi/pulumi-yandex: pulumi yandex cloud provider | Gitverse",
+        "url": "https://gitverse.ru/pulumi/pulumi-yandex",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "pulumi/pulumi-yandex: pulumi yandex cloud provider. Актуальные файлы и описания. Ветки и обсуждения на платформе для разработчиков GitVerse.",
+        "page_age": "2025-05-16T00:00:00",
+        "profile": {
+          "name": "Gitverse",
+          "url": "https://gitverse.ru/pulumi/pulumi-yandex",
+          "long_name": "gitverse.ru",
+          "img": "https://imgs.search.brave.com/yE8NKwp7QtDR1xx6jyBRtig8Apb_1a7SZSIyASVCEsM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTgxYTEwMzdk/OGJlNTQxNjY2MGJj/YmYyMTkyMjEzNzFj/ODI4YTg0NGI4NGQy/NDQxNWMwMDQzNGQx/YmQ5N2VkOS9naXR2/ZXJzZS5ydS8"
+        },
+        "language": "ru",
+        "family_friendly": false,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "gitverse.ru",
+          "hostname": "gitverse.ru",
+          "favicon": "https://imgs.search.brave.com/yE8NKwp7QtDR1xx6jyBRtig8Apb_1a7SZSIyASVCEsM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTgxYTEwMzdk/OGJlNTQxNjY2MGJj/YmYyMTkyMjEzNzFj/ODI4YTg0NGI4NGQy/NDQxNWMwMDQzNGQx/YmQ5N2VkOS9naXR2/ZXJzZS5ydS8",
+          "path": "› pulumi  › pulumi-yandex"
+        },
+        "age": "May 16, 2025",
+        "extra_snippets": [
+          "Для полного доступа зарегистрируйтесь или авторизуйтесь на GitVerseВойти"
+        ]
+      },
+      {
+        "title": "Пакеты · urlagushka/yandex-translate-api",
+        "url": "https://gitverse.ru/urlagushka/yandex-translate-api/packages",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "GitVerse — a platform for developers. ✅ Create and develop open and closed source projects. ✅ Repository upload, import, and mirroring from other git services.",
+        "profile": {
+          "name": "Gitverse",
+          "url": "https://gitverse.ru/urlagushka/yandex-translate-api/packages",
+          "long_name": "gitverse.ru",
+          "img": "https://imgs.search.brave.com/yE8NKwp7QtDR1xx6jyBRtig8Apb_1a7SZSIyASVCEsM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTgxYTEwMzdk/OGJlNTQxNjY2MGJj/YmYyMTkyMjEzNzFj/ODI4YTg0NGI4NGQy/NDQxNWMwMDQzNGQx/YmQ5N2VkOS9naXR2/ZXJzZS5ydS8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "gitverse.ru",
+          "hostname": "gitverse.ru",
+          "favicon": "https://imgs.search.brave.com/yE8NKwp7QtDR1xx6jyBRtig8Apb_1a7SZSIyASVCEsM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTgxYTEwMzdk/OGJlNTQxNjY2MGJj/YmYyMTkyMjEzNzFj/ODI4YTg0NGI4NGQy/NDQxNWMwMDQzNGQx/YmQ5N2VkOS9naXR2/ZXJzZS5ydS8",
+          "path": "› urlagushka  › yandex-translate-api  › packages"
+        },
+        "extra_snippets": [
+          "Для полного доступа зарегистрируйтесь или авторизуйтесь на GitVerseВойти"
+        ]
+      },
+      {
+        "title": "Yandex · GitHub",
+        "url": "https://github.com/yandex",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Yandex open source projects and technologies. Yandex has 152 repositories available. Follow their code on GitHub.",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/yandex",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› yandex"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/-GjbeSnnxHr1smjBTtwgv8Gg7vt_g1pR5TbLdIpe6fA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hdmF0/YXJzLmdpdGh1YnVz/ZXJjb250ZW50LmNv/bS91Lzc0MDkyMTM_/cz0yMDAmYW1wO3Y9/NA",
+          "original": "https://avatars.githubusercontent.com/u/7409213?s=200&amp;v=4",
+          "logo": false
+        },
+        "organization": {
+          "type": "organization",
+          "name": "Opensource",
+          "contact_points": []
+        },
+        "extra_snippets": [
+          "Toolchain Registry is a central registry for maintaining and versioning toolchains used in Yandex.",
+          "yandex/metrica-tag’s past year of commit activity",
+          "yandex/toolchain-registry’s past year of commit activity"
+        ]
+      },
+      {
+        "title": "r/SEO on Reddit: Doing SEO for Yandex.ru",
+        "url": "https://www.reddit.com/r/SEO/comments/fnjmz1/doing_seo_for_yandexru/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "But if you only want to target Russia with Russian queries, I believe it would be best to have a .ru domain. And if you plan to also have it in different languages, use subfolders, such as /en/ and implement hreflang. ... nice. thank you. just as an update. I contacted a local seo guy with some experience on Yandex and he said basically the same thing.",
+        "page_age": "2020-03-23T13:05:34",
+        "profile": {
+          "name": "Reddit",
+          "url": "https://www.reddit.com/r/SEO/comments/fnjmz1/doing_seo_for_yandexru/",
+          "long_name": "reddit.com",
+          "img": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "qa",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "reddit.com",
+          "hostname": "www.reddit.com",
+          "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+          "path": "  › r/seo  › doing seo for yandex.ru"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/A5H_aQiEBuUODR0lNeU8iDfhrWUvO8oEmRGE_mcS_gM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmVkZGl0c3RhdGlj/LmNvbS9pY29uLnBu/Zw",
+          "original": "https://www.redditstatic.com/icon.png",
+          "logo": true
+        },
+        "age": "March 23, 2020",
+        "qa": {
+          "question": "<p>\n      I have a project for a local business in Russia and i&#39;m looking to optimize their website (WP) for Yandex. I don&#39;t have much experience with this but from what I gather its kinda similar to optimization for Google.<br>From what I gathered the important things for Yandex are (in that order) : Hosting and websie loading speed and accessibility, domain location (better to use .ru), user visits and engagement, meta data optimization, page tags/title tags, no duplication, internal links (key worded), external links (only of they bring traffic) and text length (200-500 wrds.).<br>Am I missing something here?<br>Any resources or tools you can recommend specifically for Yandex? (i speak Russian as well)<br>Or some Google SEO tools that can definately be used for both?<br>Maybe some good tutorials on this topic?\n    </p>",
+          "answer": {
+            "text": "<span>Hi. As far as I know, the algo for ranking in Yandex is pretty similar to what Google does. Practically, you have to be careful at the about same things. One thing you should also add to your list: backlinks profile. And try to clean it as much as possible. Even if you are optimising for Yandex, it doesnt mean you cannot use tools such as Google Search Console or Bing Webmaster tools (I think Yandex webmaster doesnt provide so many things). They will probably give you some interesting hints. Also, I think that some of the most important stuff in SEO nowadays are: make sure all bots can access your content (technically) - all important pages and all important content on pages (for example, if your website uses JS, rendering can become an issue) quality content and reduce duplicate and thin content optimize crawl budget have a clean, natural backlinks profile have a really good UX and website speed offer as much relevant information as possible regarding: products, services any additional services, FAQs etc. do not create a page for every query you want to target (for example, do not use different categories of products for really similar products if they can be listed in the same page) have a good content marketing strategy (for blog) - it can bring potential customers, it can increase websites relevance in the industry and the brand becomes an expert in providing relevant information for potential customers. Hope these help :)</span>\n",
+            "upvoteCount": 2
+          }
+        },
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "DrSobek",
+              "url": "https://www.reddit.com/user/DrSobek/"
+            }
+          ],
+          "date": "Mar 23, 2020",
+          "publisher": {
+            "type": "organization",
+            "name": "Reddit",
+            "url": "https://www.reddit.com",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/vwRCTZCyS3UsCGj7HsYLzWpcOMhAEqq9hhxBK8tt7Dw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmVkZGl0c3RhdGlj/LmNvbS9zaHJlZGRp/dC9hc3NldHMvZmF2/aWNvbi82NHg2NC5w/bmc",
+              "original": "https://www.redditstatic.com/shreddit/assets/favicon/64x64.png"
+            }
+          }
+        },
+        "extra_snippets": [
+          "From what I gathered the important things for Yandex are (in that order) : Hosting and websie loading speed and accessibility, domain location (better to use .ru), user visits and engagement, meta data optimization, page tags/title tags, no duplication, internal links (key worded), external links (only of they bring traffic) and text length (200-500 wrds.). Am I missing something here? Any resources or tools you can recommend specifically for Yandex? (i speak Russian as well) Or some Google SEO tools that can definately be used for both?",
+          "But if you only want to target Russia with Russian queries, I believe it would be best to have a .ru domain. And if you plan to also have it in different languages, use subfolders, such as /en/ and implement hreflang. ... nice. thank you. just as an update. I contacted a local seo guy with some experience on Yandex and he said basically the same thing.",
+          "Even if you are optimising for Yandex, it doesnt mean you cannot use tools such as Google Search Console or Bing Webmaster tools (I think Yandex webmaster doesnt provide so many things). They will probably give you some interesting hints. Also, I think that some of the most important stuff in SEO nowadays are:",
+          "Posted by u/DrSobek - 2 votes and 5 comments"
+        ]
+      },
+      {
+        "title": "cherkalexander/yandex-music-extension: Extension allows you enjoy listening to YandexMusic right in your favorite code editor | Gitverse",
+        "url": "https://gitverse.ru/cherkalexander/yandex-music-extension",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "cherkalexander/yandex-music-extension: Extension allows you enjoy listening to YandexMusic right in your favorite code editor. Up-to-date files and descriptions. Branches and discussions on the developer platform GitVerse.",
+        "profile": {
+          "name": "Gitverse",
+          "url": "https://gitverse.ru/cherkalexander/yandex-music-extension",
+          "long_name": "gitverse.ru",
+          "img": "https://imgs.search.brave.com/yE8NKwp7QtDR1xx6jyBRtig8Apb_1a7SZSIyASVCEsM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTgxYTEwMzdk/OGJlNTQxNjY2MGJj/YmYyMTkyMjEzNzFj/ODI4YTg0NGI4NGQy/NDQxNWMwMDQzNGQx/YmQ5N2VkOS9naXR2/ZXJzZS5ydS8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "gitverse.ru",
+          "hostname": "gitverse.ru",
+          "favicon": "https://imgs.search.brave.com/yE8NKwp7QtDR1xx6jyBRtig8Apb_1a7SZSIyASVCEsM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTgxYTEwMzdk/OGJlNTQxNjY2MGJj/YmYyMTkyMjEzNzFj/ODI4YTg0NGI4NGQy/NDQxNWMwMDQzNGQx/YmQ5N2VkOS9naXR2/ZXJzZS5ydS8",
+          "path": "› cherkalexander  › yandex-music-extension"
+        },
+        "extra_snippets": [
+          "yandexMusic.showElectronApp - shows electron app, which is used for playing audio (for debug purpose, by default is ... When working on a remote machine via SSH, the extension attempts to download and run Electron on the remote machine by default. This is not the correct behavior.",
+          "We need to instruct Visual Studio Code that the extension should run locally. This can be achieved by using the remote.extensionKind setting as explained in the VS Code documentation. ... You can open an issue on a GitHub page or contact me at cherkalexander@gmail.com with any additional questions or feedback. You can ask any questions about Yandex Music Api in Telegram Chat",
+          "To use this extension you should have Yandex Music account.",
+          "Thanks to MarshalX, his project was used as a foundation for yandex-music-extension and yandex-music-open-api."
+        ]
+      }
+    ],
+    "family_friendly": false
+  }
+}

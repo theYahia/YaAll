@@ -1,0 +1,608 @@
+{
+  "type": "search",
+  "query": {
+    "original": "yandex-cloud-ml-sdk python YandexGPT example completion",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "videos",
+        "all": true
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "videos": {
+    "type": "videos",
+    "results": [
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=Xjutc_T0p8s",
+        "title": "Deep-dive для разработчиков: создание ...",
+        "description": "Retrieval Augmented Generation (RAG) стал стандартом де-факто при создании AI-ассистентов на базе языковых моделей. Однако эффективная реализация RAG требует...",
+        "age": "February 27, 2025",
+        "page_age": "2025-02-27T10:32:17",
+        "fetched_content_timestamp": 1744590661,
+        "video": {
+          "duration": "01:18:29",
+          "creator": "Yandex Cloud",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/OUCwh77LBrE9-hnsD7p-VHE16T6Lshr0ZYapDA7dei0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9Y/anV0Y19UMHA4cy9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/Xjutc_T0p8s/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=kKbMaWSi20I",
+        "title": "Создание AI-ассистентов - YouTube",
+        "description": "AI-ассистенты — один из самых востребованных сценариев применения больших языковых моделей в бизнесе. Например, AI-ассистент может снизить нагрузку на службу...",
+        "age": "November 21, 2024",
+        "page_age": "2024-11-21T21:56:45",
+        "fetched_content_timestamp": 1776778312,
+        "video": {
+          "duration": "49:59",
+          "creator": "Yandex Cloud",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/M42vWrvWRn_x46iPI-GlRP897YxcreBfZtt_Fcr65pQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9r/S2JNYVdTaTIwSS9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/kKbMaWSi20I/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=TD1JY24QTAk",
+        "title": "Как создавать AI‑ассистентов - YouTube",
+        "description": "Разберёмся, какие преимущества дают AI‑ассистенты и каких ошибок при их создании можно избежать. Расскажем о новом решении в рамках Yandex Foundation Models ...",
+        "age": "October 24, 2024",
+        "page_age": "2024-10-24T13:01:02",
+        "fetched_content_timestamp": 1744669786,
+        "video": {
+          "duration": "27:50",
+          "creator": "Yandex Cloud",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/x4IhrTpp1G2C2HHg7bALYonUNovZOLXwlL_I7QluA9k/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9U/RDFKWTI0UVRBay9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/TD1JY24QTAk/maxresdefault.jpg"
+        }
+      }
+    ],
+    "mutated_by_goggles": false
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Yandex Cloud ML SDK",
+        "url": "https://github.com/yandex-cloud/yandex-cloud-ml-sdk",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "from yandex_ai_studio_sdk import AIStudio sdk = AIStudio(folder_id=&quot;...&quot;, auth=&quot;&lt;APIKey/IAMToken/SomethingElse&gt;&quot;) model = sdk.models.completions(&#x27;yandexgpt&#x27;) model = model.configure(temperature=0.5) result = model.run(&quot;foo&quot;) for alternative in result: print(alternative)",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/yandex-cloud/yandex-cloud-ml-sdk",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› yandex-cloud  › yandex-cloud-ml-sdk"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/BgMfUjdkEDM2S3PHj42bNoPqfRq3u0RlU7DmAHaMnAg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcGVu/Z3JhcGguZ2l0aHVi/YXNzZXRzLmNvbS83/MDBmODhjYWNiM2Ez/M2UxYThlNTQ0ZGJi/MmE2M2RlODYyYzBl/N2M2MjgyMTFiZjZk/NzdiMDdlOThiMDNm/YjFlL3lhbmRleC1j/bG91ZC95YW5kZXgt/YWktc3R1ZGlvLXNk/aw",
+          "original": "https://opengraph.githubassets.com/700f88cacb3a33e1a8e544dbb2a63de862c0e7c628211bf6d77b07e98b03fb1e/yandex-cloud/yandex-ai-studio-sdk",
+          "logo": false
+        },
+        "software": {
+          "name": "yandex-ai-studio-sdk",
+          "author": "yandex-cloud",
+          "is_npm": false,
+          "is_pypi": false,
+          "stars": 150,
+          "forks": 28,
+          "programmingLanguage": "Python"
+        },
+        "extra_snippets": [
+          "Yandex AI Studio SDK offers a comprehensive set of high‑level abstractions that map directly to the capabilities exposed by Yandex Cloud. The current feature set includes: ... Text generation (completion) models with streaming support.",
+          "This Python library provides a simple and efficient software development kit (SDK) for interacting with Yandex Cloud AI Studio services.",
+          "from yandex_ai_studio_sdk import AIStudio sdk = AIStudio(folder_id=\"...\", auth=\"<APIKey/IAMToken/SomethingElse>\") model = sdk.models.completions('yandexgpt') model = model.configure(temperature=0.5) result = model.run(\"foo\") for alternative in result: print(alternative)",
+          "from yandex_ai_studio_sdk import AIStudio from langchain_core.messages import AIMessage, HumanMessage sdk = AIStudio(folder_id=\"...\", auth=\"<APIKey/IAMToken/SomethingElse>\") model = sdk.models.completions('yandexgpt').langchain() langchain_result = model.invoke([ HumanMessage(content=\"hello!\"), AIMessage(content=\"Hi there human!\"), HumanMessage(content=\"Meow!\"), ])"
+        ]
+      },
+      {
+        "title": "Yandex Cloud Documentation | Yandex Foundation Models | Getting started with YandexGPT Lite and YandexGPT Pro",
+        "url": "https://yandex.cloud/en/docs/foundation-models/quickstart/yandexgpt",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "In the left-hand panel, select YandexGPT Prompt mode. In the Temperature field, enter a value between 0 and 1 for the model&#x27;s response variability. With a higher value, you get a less deterministic result.",
+        "page_age": "2025-09-05T00:00:00",
+        "profile": {
+          "name": "Yandex Cloud",
+          "url": "https://yandex.cloud/en/docs/foundation-models/quickstart/yandexgpt",
+          "long_name": "yandex.cloud",
+          "img": "https://imgs.search.brave.com/ZXA2-OoY8QsYFoJruyzvAt0tU4xdgLTF5PMWVeAWbm4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2NiMWFmNTMx/MDA1NDYwYzM4Y2Q4/NzJiN2U4YjFkZDJm/NjAxMzQyY2I4MmI5/MTA4YzI2NjJmOTUy/MDE1MzkwNi95YW5k/ZXguY2xvdWQv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "yandex.cloud",
+          "hostname": "yandex.cloud",
+          "favicon": "https://imgs.search.brave.com/ZXA2-OoY8QsYFoJruyzvAt0tU4xdgLTF5PMWVeAWbm4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2NiMWFmNTMx/MDA1NDYwYzM4Y2Q4/NzJiN2U4YjFkZDJm/NjAxMzQyY2I4MmI5/MTA4YzI2NjJmOTUy/MDE1MzkwNi95YW5k/ZXguY2xvdWQv",
+          "path": "› en  › docs  › foundation-models  › quickstart  › yandexgpt"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/SMCimzZmx_mxPcW1NHoLrILBJ8UAqqlgrpRf89tkEm0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly95YW5k/ZXguY2xvdWQvYXBp/L2ltYWdlLWdlbmVy/YXRvci9nZW5lcmF0/ZT91cmw9aHR0cHM6/JTJGJTJGeWFuZGV4/LmNsb3VkJTJGZW4l/MkZpbWFnZS1nZW5l/cmF0b3IlMkZlbiUy/RmRvY3MlMkZmb3Vu/ZGF0aW9uLW1vZGVs/cyUyRnF1aWNrc3Rh/cnQlMkZ5YW5kZXhn/cHQmYW1wO3dpZHRo/PTEyODAmYW1wO2hl/aWdodD02NDA",
+          "original": "https://yandex.cloud/api/image-generator/generate?url=https:%2F%2Fyandex.cloud%2Fen%2Fimage-generator%2Fen%2Fdocs%2Ffoundation-models%2Fquickstart%2Fyandexgpt&amp;width=1280&amp;height=640",
+          "logo": false
+        },
+        "age": "September 5, 2025",
+        "extra_snippets": [
+          "Use the pip package manager to install the ML SDK library: ... To use the examples of requests via the API, install cURL. To work with the YandexGPT API, you need to get authenticated using your account:",
+          "In the left-hand panel, select YandexGPT Prompt mode. In the Temperature field, enter a value between 0 and 1 for the model's response variability. With a higher value, you get a less deterministic result. Describe the request context under Instructions. Enter your prompt to the model under Request. Click View answer. The response will appear on the right side of the screen. Create a file named generate-text.py and paste the following code into it: #!/usr/bin/env python3 from __future__ import annotations from yandex_cloud_ml_sdk import YCloudML messages = [ { \"role\": \"system\", \"text\": \"Find errors in the text and correct them\", }, { \"role\": \"user\", \"text\": \"\"\"Laminate flooring is sutiable for instalation in the kitchen or in a child's room.",
+          "It withsatnds moisturre and mechanical dammage thanks to a 0.2 mm thick proctive layer of melamine films and a wax-treated interlocking system.\"\"\", }, ] def main(): sdk = YCloudML( folder_id=\"<folder_ID>\", auth=\"<API_key>\", ) result = ( sdk.models.completions(\"yandexgpt\").configure(temperature=0.5).run(messages) ) for alternative in result: print(alternative) if __name__ == \"__main__\": main() ... As input data for a request, Yandex Cloud ML SDK can accept a string, a dictionary, an object of the TextMessage class, or an array containing any combination of these data types.",
+          "For more information, see Yandex Cloud ML SDK usage. messages: List of messages that set the context for the model: ... assistant: Used for responses generated by the model. In chat mode, the model's responses tagged with the assistant role are included in the message to save the conversation context. Do not send user messages with this role. ... The following examples use API key authentication. Yandex Cloud ML SDK also supports IAM token and OAuth token authentication."
+        ]
+      },
+      {
+        "title": "docs/ru/_includes/foundation-models/examples/yandexgpt-stream-sdk.md at master · yandex-cloud/docs",
+        "url": "https://github.com/yandex-cloud/docs/blob/master/ru/_includes/foundation-models/examples/yandexgpt-stream-sdk.md",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "#!/usr/bin/env python3 from __future__ import annotations from yandex_cloud_ml_sdk import YCloudML messages = [ {&quot;role&quot;: &quot;system&quot;, &quot;text&quot;: &quot;Найди ошибки в тексте и исправь их&quot;}, {&quot;role&quot;: &quot;user&quot;, &quot;text&quot;: &quot;Ашипки саме сибя ни исрпвят.&quot;}, ] def main(): sdk = YCloudML( folder_id=&quot;&lt;идентификатор_каталога&gt;&quot;, auth=&quot;&lt;API-ключ&gt;&quot;, ) model = sdk.models.completions(&quot;yandexgpt&quot;) for result in model.configure(temperature=0.5).run_stream(messages): for alternative in result: print(alternative) if __name__ == &quot;__main__&quot;: main()",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/yandex-cloud/docs/blob/master/ru/_includes/foundation-models/examples/yandexgpt-stream-sdk.md",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› yandex-cloud  › docs  › blob  › master  › ru  › _includes  › foundation-models  › examples  › yandexgpt-stream-sdk.md"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/J4Ddx9I_DmFHfD4ix8XVhlReqF9OWlFFLcaJ_C4wIec/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcGVu/Z3JhcGguZ2l0aHVi/YXNzZXRzLmNvbS9m/NmRiMDlhNDk2YmYx/MmNmMmMwNmJmZjg4/OTJjMjM4OGJhYmM4/OTE0NGYyOTI4YTgx/NjY0MDU0OTY0Nzg3/NDM2L3lhbmRleC1j/bG91ZC9kb2Nz",
+          "original": "https://opengraph.githubassets.com/f6db09a496bf12cf2c06bff8892c2388babc89144f2928a81664054964787436/yandex-cloud/docs",
+          "logo": false
+        },
+        "software": {
+          "name": "docs",
+          "author": "yandex-cloud",
+          "is_npm": false,
+          "is_pypi": false,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "#!/usr/bin/env python3 from __future__ import annotations from yandex_cloud_ml_sdk import YCloudML messages = [ {\"role\": \"system\", \"text\": \"Найди ошибки в тексте и исправь их\"}, {\"role\": \"user\", \"text\": \"Ашипки саме сибя ни исрпвят.\"}, ] def main(): sdk = YCloudML( folder_id=\"<идентификатор_каталога>\", auth=\"<API-ключ>\", ) model = sdk.models.completions(\"yandexgpt\") for result in model.configure(temperature=0.5).run_stream(messages): for alternative in result: print(alternative) if __name__ == \"__main__\": main()"
+        ]
+      },
+      {
+        "title": "GitHub - yandex-cloud/yandex-ai-studio-sdk · GitHub",
+        "url": "https://github.com/yandex-cloud/yandex-ai-studio-sdk",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "from yandex_ai_studio_sdk import AIStudio from langchain_core.messages import AIMessage, HumanMessage sdk = AIStudio(folder_id=&quot;...&quot;, auth=&quot;&lt;APIKey/IAMToken/SomethingElse&gt;&quot;) model = sdk.models.completions(&#x27;yandexgpt&#x27;).langchain() langchain_result = model.invoke([ HumanMessage(content=&quot;hello!&quot;), AIMessage(content=&quot;Hi there human!&quot;), HumanMessage(content=&quot;Meow!&quot;), ])",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/yandex-cloud/yandex-ai-studio-sdk",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› yandex-cloud  › yandex-ai-studio-sdk"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/BgMfUjdkEDM2S3PHj42bNoPqfRq3u0RlU7DmAHaMnAg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcGVu/Z3JhcGguZ2l0aHVi/YXNzZXRzLmNvbS83/MDBmODhjYWNiM2Ez/M2UxYThlNTQ0ZGJi/MmE2M2RlODYyYzBl/N2M2MjgyMTFiZjZk/NzdiMDdlOThiMDNm/YjFlL3lhbmRleC1j/bG91ZC95YW5kZXgt/YWktc3R1ZGlvLXNk/aw",
+          "original": "https://opengraph.githubassets.com/700f88cacb3a33e1a8e544dbb2a63de862c0e7c628211bf6d77b07e98b03fb1e/yandex-cloud/yandex-ai-studio-sdk",
+          "logo": false
+        },
+        "software": {
+          "name": "yandex-ai-studio-sdk",
+          "author": "yandex-cloud",
+          "is_npm": false,
+          "is_pypi": false,
+          "stars": 150,
+          "forks": 28,
+          "programmingLanguage": "Python"
+        },
+        "extra_snippets": [
+          "Yandex AI Studio SDK offers a comprehensive set of high‑level abstractions that map directly to the capabilities exposed by Yandex Cloud. The current feature set includes: ... Text generation (completion) models with streaming support.",
+          "This Python library provides a simple and efficient software development kit (SDK) for interacting with Yandex Cloud AI Studio services.",
+          "from yandex_ai_studio_sdk import AIStudio sdk = AIStudio(folder_id=\"...\", auth=\"<APIKey/IAMToken/SomethingElse>\") model = sdk.models.completions('yandexgpt') model = model.configure(temperature=0.5) result = model.run(\"foo\") for alternative in result: print(alternative)",
+          "from yandex_ai_studio_sdk import AIStudio from langchain_core.messages import AIMessage, HumanMessage sdk = AIStudio(folder_id=\"...\", auth=\"<APIKey/IAMToken/SomethingElse>\") model = sdk.models.completions('yandexgpt').langchain() langchain_result = model.invoke([ HumanMessage(content=\"hello!\"), AIMessage(content=\"Hi there human!\"), HumanMessage(content=\"Meow!\"), ])"
+        ]
+      },
+      {
+        "title": "Yandex Cloud Documentation | Yandex Foundation Models | How to build a chat with YandexGPT Lite or YandexGPT Pro",
+        "url": "https://yandex.cloud/en/docs/foundation-models/operations/yandexgpt/create-chat",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "#!/usr/bin/env python3 from __future__ import annotations from yandex_cloud_ml_sdk import YCloudML messages = [ { &quot;role&quot;: &quot;system&quot;, &quot;text&quot;: &quot;You are a smart assistant&quot;, }, { &quot;role&quot;: &quot;user&quot;, &quot;text&quot;: &quot;Hi! What fields of science did Albert Einstein study?&quot;, }, ] def main(): sdk = YCloudML( folder_id=&quot;&lt;folder_ID&gt;&quot;, auth=&quot;&lt;API_key&gt;&quot;, ) result = ( sdk.models.completions(&quot;yandexgpt&quot;).configure(temperature=0.6).run(messages) ) for alternative in result: print(alternative) if __name__ == &quot;__main__&quot;: main() Where: Note ·",
+        "profile": {
+          "name": "Yandex Cloud",
+          "url": "https://yandex.cloud/en/docs/foundation-models/operations/yandexgpt/create-chat",
+          "long_name": "yandex.cloud",
+          "img": "https://imgs.search.brave.com/ZXA2-OoY8QsYFoJruyzvAt0tU4xdgLTF5PMWVeAWbm4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2NiMWFmNTMx/MDA1NDYwYzM4Y2Q4/NzJiN2U4YjFkZDJm/NjAxMzQyY2I4MmI5/MTA4YzI2NjJmOTUy/MDE1MzkwNi95YW5k/ZXguY2xvdWQv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "yandex.cloud",
+          "hostname": "yandex.cloud",
+          "favicon": "https://imgs.search.brave.com/ZXA2-OoY8QsYFoJruyzvAt0tU4xdgLTF5PMWVeAWbm4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2NiMWFmNTMx/MDA1NDYwYzM4Y2Q4/NzJiN2U4YjFkZDJm/NjAxMzQyY2I4MmI5/MTA4YzI2NjJmOTUy/MDE1MzkwNi95YW5k/ZXguY2xvdWQv",
+          "path": "› en  › docs  › foundation-models  › operations  › yandexgpt  › create-chat"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/1sCSGbBeX2fVffj_UtSZW4nJc4UNJvLZpTOpM2TFVoM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly95YW5k/ZXguY2xvdWQvYXBp/L2ltYWdlLWdlbmVy/YXRvci9nZW5lcmF0/ZT91cmw9aHR0cHM6/JTJGJTJGeWFuZGV4/LmNsb3VkJTJGZW4l/MkZpbWFnZS1nZW5l/cmF0b3IlMkZlbiUy/RmRvY3MlMkZmb3Vu/ZGF0aW9uLW1vZGVs/cyUyRm9wZXJhdGlv/bnMlMkZ5YW5kZXhn/cHQlMkZjcmVhdGUt/Y2hhdCZhbXA7d2lk/dGg9MTI4MCZhbXA7/aGVpZ2h0PTY0MA",
+          "original": "https://yandex.cloud/api/image-generator/generate?url=https:%2F%2Fyandex.cloud%2Fen%2Fimage-generator%2Fen%2Fdocs%2Ffoundation-models%2Foperations%2Fyandexgpt%2Fcreate-chat&amp;width=1280&amp;height=640",
+          "logo": false
+        },
+        "extra_snippets": [
+          "To create a chat with a model in your application and avoid delays in responses, send prompts in synchronous mode using the completion method or Yandex Cloud ML SDK.",
+          "#!/usr/bin/env python3 from __future__ import annotations from yandex_cloud_ml_sdk import YCloudML messages = [ { \"role\": \"system\", \"text\": \"You are a smart assistant\", }, { \"role\": \"user\", \"text\": \"Hi! What fields of science did Albert Einstein study?\", }, ] def main(): sdk = YCloudML( folder_id=\"<folder_ID>\", auth=\"<API_key>\", ) result = ( sdk.models.completions(\"yandexgpt\").configure(temperature=0.6).run(messages) ) for alternative in result: print(alternative) if __name__ == \"__main__\": main() Where: Note ·",
+          "For more information, see Yandex Cloud ML SDK usage. messages: List of messages that set the context for the model: ... assistant: Used for responses generated by the model. In chat mode, the model's responses tagged with the assistant role are included in the message to save the conversation context. Do not send user messages with this role. ... The following examples use API key authentication. Yandex Cloud ML SDK also supports IAM token and OAuth token authentication.",
+          "For more information, see Authentication in Yandex Cloud ML SDK."
+        ]
+      },
+      {
+        "title": "yandex-cloud-ml-sdk/README.md at master · yandex-cloud/yandex-cloud-ml-sdk",
+        "url": "https://github.com/yandex-cloud/yandex-cloud-ml-sdk/blob/master/README.md",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "from yandex_cloud_ml_sdk import YCloudML sdk = YCloudML(folder_id=&quot;...&quot;, auth=&quot;&lt;APIKey/IAMToken/SomethingElse&gt;&quot;) model = sdk.models.completions(&#x27;yandexgpt&#x27;) model = model.configure(temperature=0.5) result = model.run(&quot;foo&quot;) for alternative in result: print(alternative)",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/yandex-cloud/yandex-cloud-ml-sdk/blob/master/README.md",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› yandex-cloud  › yandex-cloud-ml-sdk  › blob  › master  › README.md"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/p78tbOOlXXxEi3c0daGQPYFIt9XAcrFOKfKQ-4bOfV0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcGVu/Z3JhcGguZ2l0aHVi/YXNzZXRzLmNvbS9k/MjM3OWI4OThjYjRk/Mzk3ZTA1MjhhZTY2/NjNmZTk1NjUxNzFi/OWVkNGM4ZWNhYjhi/YzIwYzM2YjUyNTdj/NzJmL3lhbmRleC1j/bG91ZC95YW5kZXgt/Y2xvdWQtbWwtc2Rr",
+          "original": "https://opengraph.githubassets.com/d2379b898cb4d397e0528ae6663fe9565171b9ed4c8ecab8bc20c36b5257c72f/yandex-cloud/yandex-cloud-ml-sdk",
+          "logo": false
+        },
+        "software": {
+          "name": "yandex-cloud-ml-sdk",
+          "author": "yandex-cloud",
+          "is_npm": false,
+          "is_pypi": false,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "This Python library provides a simple and efficient software development kit (SDK) for interacting with Yandex Cloud Machine Learning services. The SDK abstracts away the complexities of raw gRPC calls, making it easier for developers to integrate cloud functionality into their applications seamlessly. Yandex Cloud ML SDK provides an easy-to-use interface for accessing Yandex Cloud ML services.",
+          "from yandex_cloud_ml_sdk import YCloudML sdk = YCloudML(folder_id=\"...\", auth=\"<APIKey/IAMToken/SomethingElse>\") model = sdk.models.completions('yandexgpt') model = model.configure(temperature=0.5) result = model.run(\"foo\") for alternative in result: print(alternative)",
+          "from yandex_cloud_ml_sdk import YCloudML from langchain_core.messages import AIMessage, HumanMessage sdk = YCloudML(folder_id=\"...\", auth=\"<APIKey/IAMToken/SomethingElse>\") model = sdk.models.completions('yandexgpt').langchain() langchain_result = model.invoke([ HumanMessage(content=\"hello!\"), AIMessage(content=\"Hi there human!\"), HumanMessage(content=\"Meow!\"), ])"
+        ]
+      },
+      {
+        "title": "GitHub - allseeteam/yandexgpt-python: Python SDK for YaGPT API · GitHub",
+        "url": "https://github.com/allseeteam/yandexgpt-python",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "from yandex_gpt import YandexGPT, YandexGPTConfigManagerForAPIKey # Setup configuration (input fields may be empty if they are set in environment variables) config = YandexGPTConfigManagerForAPIKey(model_type=&quot;yandexgpt&quot;, catalog_id=&quot;your_catalog_id&quot;, api_key=&quot;your_api_key&quot;) # Instantiate YandexGPT yandex_gpt = YandexGPT(config_manager=config) # Async function to get completion async def get_completion(): messages = [{&quot;role&quot;: &quot;user&quot;, &quot;text&quot;: &quot;Hello, world!&quot;}] completion = await yandex_gpt.get_async_completion(messages=messages) print(completion) # Run the async function import asyncio asyncio.run(get_completion())",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/allseeteam/yandexgpt-python",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› allseeteam  › yandexgpt-python"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/7MJjRcgI9uGXKsvL1m04ErG9hlhFDLTD79_4y06rZnA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcGVu/Z3JhcGguZ2l0aHVi/YXNzZXRzLmNvbS9l/MGUwOTI2NjI3NDM2/YWY3YjU0ZmJkNjY3/MDYzZTliMjk4MDNk/YzRlMTg0MDk3Mjk2/MGVlMTI1OGU4NGJh/YThjL2FsbHNlZXRl/YW0veWFuZGV4Z3B0/LXB5dGhvbg",
+          "original": "https://opengraph.githubassets.com/e0e0926627436af7b54fbd667063e9b29803dc4e1840972960ee1258e84baa8c/allseeteam/yandexgpt-python",
+          "logo": false
+        },
+        "software": {
+          "name": "yandexgpt-python",
+          "author": "allseeteam",
+          "is_npm": false,
+          "is_pypi": false,
+          "stars": 24,
+          "forks": 4,
+          "programmingLanguage": "Python"
+        },
+        "extra_snippets": [
+          "The YandexGPT SDK is designed for asynchronous operation. To use it, instantiate the YandexGPT class with a configuration manager that includes your Yandex Cloud catalog ID, API key/IAM token, and the desired GPT model type.",
+          "The YandexGPT Python SDK provides an easy-to-use interface for interacting with the Yandex GPT API. It includes asynchronous methods for sending requests to the Yandex GPT API, handling authentication, and processing responses.",
+          "Asynchronous API calls to Yandex GPT. Easy configuration of API credentials and model parameters. Supports multiple GPT models. Includes utility for managing API request headers and payload. The SDK depends on several Python libraries for its operation. These dependencies are specified in the requirements.txt file. For more detailed information, including installation guides, usage examples, and API references, please visit the YandexGPT Python SDK Documentation.",
+          "from yandex_gpt import YandexGPT, YandexGPTConfigManagerForAPIKey # Setup configuration (input fields may be empty if they are set in environment variables) config = YandexGPTConfigManagerForAPIKey(model_type=\"yandexgpt\", catalog_id=\"your_catalog_id\", api_key=\"your_api_key\") # Instantiate YandexGPT yandex_gpt = YandexGPT(config_manager=config) # Async function to get completion async def get_completion(): messages = [{\"role\": \"user\", \"text\": \"Hello, world!\"}] completion = await yandex_gpt.get_async_completion(messages=messages) print(completion) # Run the async function import asyncio asyncio.run(get_completion())"
+        ]
+      },
+      {
+        "title": "YandexGPT - YandexGPT Python 0.2.3 documentation",
+        "url": "https://yandexgpt-python.readthedocs.io/en/latest/YandexGPT.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Synchronously sends a completion request to the Yandex GPT API and returns the completion result. async get_async_completion(messages: List[YandexGPTMessage] | List[Dict[str, str]], temperature: float = 0.6, max_tokens: int = 1000, stream: bool = False, completion_url: str = &#x27;https://llm.api.cloud.yandex.net/foundationModels/v1/completionAsync&#x27;, timeout: int = 5) → str#",
+        "profile": {
+          "name": "Readthedocs",
+          "url": "https://yandexgpt-python.readthedocs.io/en/latest/YandexGPT.html",
+          "long_name": "yandexgpt-python.readthedocs.io",
+          "img": "https://imgs.search.brave.com/vu1vBz81_Lls6KYsx87K-ZW76Fi89irtjehOYYcFNZw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2NmNTBlM2Rm/NjhkMDlhYjE5ZWE2/ZGRkNGU5YWRhYWUw/ZjJjNTY4NmNmMDEw/MDA2OTllYTEzYjRi/ZmFjMmEyNi95YW5k/ZXhncHQtcHl0aG9u/LnJlYWR0aGVkb2Nz/LmlvLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "yandexgpt-python.readthedocs.io",
+          "hostname": "yandexgpt-python.readthedocs.io",
+          "favicon": "https://imgs.search.brave.com/vu1vBz81_Lls6KYsx87K-ZW76Fi89irtjehOYYcFNZw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2NmNTBlM2Rm/NjhkMDlhYjE5ZWE2/ZGRkNGU5YWRhYWUw/ZjJjNTY4NmNmMDEw/MDA2OTllYTEzYjRi/ZmFjMmEyNi95YW5k/ZXhncHQtcHl0aG9u/LnJlYWR0aGVkb2Nz/LmlvLw",
+          "path": "› en  › latest  › YandexGPT.html"
+        },
+        "extra_snippets": [
+          "Extends the YandexGPTBase class to interact with the Yandex GPT API using a simplified configuration manager. This class allows for easier configuration of API requests and includes both synchronous and asynchronous methods. get_async_completion(messages, temperature, max_tokens, stream, completion_url, timeout) -> str",
+          "Asynchronously sends a completion request to the Yandex GPT API and returns the completion result. get_sync_completion(messages, temperature, max_tokens, stream, completion_url) -> str",
+          "Synchronously sends a completion request to the Yandex GPT API and returns the completion result. async get_async_completion(messages: List[YandexGPTMessage] | List[Dict[str, str]], temperature: float = 0.6, max_tokens: int = 1000, stream: bool = False, completion_url: str = 'https://llm.api.cloud.yandex.net/foundationModels/v1/completionAsync', timeout: int = 5) → str#",
+          "URL to the Yandex GPT asynchronous completion API. ... Time in seconds after which the operation is considered timed out. ... The text of the completion result. ... If the completion operation fails or times out. get_sync_completion(messages: List[YandexGPTMessage] | List[Dict[str, str]], temperature: float = 0.6, max_tokens: int = 1000, stream: bool = False, completion_url: str = 'https://llm.api.cloud.yandex.net/foundationModels/v1/completion')#"
+        ]
+      },
+      {
+        "title": "Quickstart Guide - YandexGPT Python 0.2.3 documentation",
+        "url": "https://yandexgpt-python.readthedocs.io/en/latest/quickstart.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "from yandex_gpt import YandexGPT # Initialize YandexGPT with a configuration manager yandex_gpt = YandexGPT(config_manager=config_manager) # Synchronous completion example completion = yandex_gpt.get_sync_completion(messages=[{&#x27;role&#x27;: &#x27;user&#x27;, &#x27;text&#x27;: &#x27;Hello!&#x27;}]) print(completion) ... from ...",
+        "profile": {
+          "name": "Readthedocs",
+          "url": "https://yandexgpt-python.readthedocs.io/en/latest/quickstart.html",
+          "long_name": "yandexgpt-python.readthedocs.io",
+          "img": "https://imgs.search.brave.com/vu1vBz81_Lls6KYsx87K-ZW76Fi89irtjehOYYcFNZw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2NmNTBlM2Rm/NjhkMDlhYjE5ZWE2/ZGRkNGU5YWRhYWUw/ZjJjNTY4NmNmMDEw/MDA2OTllYTEzYjRi/ZmFjMmEyNi95YW5k/ZXhncHQtcHl0aG9u/LnJlYWR0aGVkb2Nz/LmlvLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "yandexgpt-python.readthedocs.io",
+          "hostname": "yandexgpt-python.readthedocs.io",
+          "favicon": "https://imgs.search.brave.com/vu1vBz81_Lls6KYsx87K-ZW76Fi89irtjehOYYcFNZw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2NmNTBlM2Rm/NjhkMDlhYjE5ZWE2/ZGRkNGU5YWRhYWUw/ZjJjNTY4NmNmMDEw/MDA2OTllYTEzYjRi/ZmFjMmEyNi95YW5k/ZXhncHQtcHl0aG9u/LnJlYWR0aGVkb2Nz/LmlvLw",
+          "path": "› en  › latest  › quickstart.html"
+        },
+        "extra_snippets": [
+          "YandexGPT Class: The YandexGPT class is the main interface to the Yandex GPT API. It provides methods to send both synchronous and asynchronous requests for text completions. Configuration Managers: Configuration managers are used to set up and manage the necessary settings for the YandexGPT class, such as authentication and model details. For more information, see the Configuration Managers Module. Threads: The SDK offers the YandexGPTThread class to manage conversation threads, allowing for maintaining the context of a conversation.",
+          "from yandex_gpt import YandexGPT # Initialize YandexGPT with a configuration manager yandex_gpt = YandexGPT(config_manager=config_manager) # Synchronous completion example completion = yandex_gpt.get_sync_completion(messages=[{'role': 'user', 'text': 'Hello!'}]) print(completion) ... from yandex_gpt import YandexGPTThread # Create a thread instance using the same configuration manager thread = YandexGPTThread(config_manager=config_manager) # Add a message to the thread and run it asynchronously thread.add_message(role='user', text='Hello, Yandex GPT!') # ... run and interact with the thread · After going through these examples, you’re ready to dive deeper into the SDK.",
+          "from yandex_gpt import YandexGPTConfigManagerForAPIKey # Initialize the configuration manager with model type, catalog ID, and API key config_manager = YandexGPTConfigManagerForAPIKey( model_type=\"yandexgpt\", catalog_id=\"your_catalog_id\", api_key=\"your_api_key\" )"
+        ]
+      },
+      {
+        "title": "YandexGPT Python SDK",
+        "url": "https://pypi.org/project/yandexgpt-python/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The YandexGPT SDK is designed for asynchronous operation. To use it, instantiate the YandexGPT class with a configuration manager that includes your Yandex Cloud catalog ID, API key/IAM token, and the desired GPT model type.",
+        "profile": {
+          "name": "PyPI",
+          "url": "https://pypi.org/project/yandexgpt-python/",
+          "long_name": "pypi.org",
+          "img": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pypi.org",
+          "hostname": "pypi.org",
+          "favicon": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8",
+          "path": "› project  › yandexgpt-python"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lJdaJSfF8JrYle3bvs5zoI0KGv_VB46f4fIqVrxGCmI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9weXBp/Lm9yZy9zdGF0aWMv/aW1hZ2VzL3R3aXR0/ZXIuYWJhZjRiMTku/d2VicA",
+          "original": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+          "logo": false
+        },
+        "software": {
+          "name": "yandexgpt-python",
+          "version": "0.2.3",
+          "homepage": "https://github.com/allseeteam/yandexgpt-python",
+          "datePublished": "Apr 15, 2024",
+          "is_npm": false,
+          "is_pypi": true,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "The YandexGPT SDK is designed for asynchronous operation. To use it, instantiate the YandexGPT class with a configuration manager that includes your Yandex Cloud catalog ID, API key/IAM token, and the desired GPT model type.",
+          "The YandexGPT Python SDK provides an easy-to-use interface for interacting with the Yandex GPT API. It includes asynchronous methods for sending requests to the Yandex GPT API, handling authentication, and processing responses.",
+          "Asynchronous API calls to Yandex GPT. Easy configuration of API credentials and model parameters. Supports multiple GPT models. Includes utility for managing API request headers and payload. The SDK depends on several Python libraries for its operation. These dependencies are specified in the requirements.txt file. For more detailed information, including installation guides, usage examples, and API references, please visit the YandexGPT Python SDK Documentation.",
+          "If you want to install the SDK locally (for example, if you want to modify SDK code), you can do so by cloning the repository and running the setup script: git clone https://github.com/allseeteam/yandexgpt-python.git cd yandexgpt-python pip install -e ."
+        ]
+      }
+    ],
+    "family_friendly": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "yandex-metrika": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@theyahia/yandex-metrika-mcp"
+      ],
+      "env": {
+        "YANDEX_METRIKA_TOKEN": "YOUR_TOKEN"
+      }
+    }
+  }
+}

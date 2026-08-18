@@ -1,0 +1,503 @@
+{
+  "type": "search",
+  "query": {
+    "original": "\"rubert\" OR \"sbert\" russian semantic similarity embedding pypi 2025",
+    "show_strict_warning": false,
+    "cleaned": "rubert sbert russian semantic similarity embedding pypi 2025",
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": "",
+    "search_operators": {
+      "applied": true,
+      "cleaned_query": "rubert sbert russian semantic similarity embedding pypi 2025"
+    }
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "The Russian-focused embedders’ exploration: ruMTEB benchmark and Russian embedding model design",
+        "url": "https://arxiv.org/html/2408.12503v1",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Text embeddings play an important role in many Natural Language Processing (NLP) tasks, from clustering to semantic textual similarity (STS) and information retrieval (IR). The community has addressed this demand by releasing several powerful text embedding models (or embedders) Wang et al. (2024, 2023a); Chen et al. (2024). However, there is still a lack of such embedders developed specifically for the Russian language. The most popular Russian-oriented models, such as rubert-tiny2 222https://huggingface.co/cointegrated/rubert-tiny2, SBERT",
+        "page_age": "2024-08-22T15:50:48",
+        "profile": {
+          "name": "arXiv",
+          "url": "https://arxiv.org/html/2408.12503v1",
+          "long_name": "arxiv.org",
+          "img": "https://imgs.search.brave.com/l36MWBCdhb-teoPlxGGMWEenj3njVas--CoLjN2ciHU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjcxZDU5ZmZl/ZmIwNzY4NTUyZDg1/ZTVjNGNhMzE2NjUz/MjljMzQwZTA0MThm/NTdjN2Q0N2I3NjFm/ZjIwZmU5MC9hcnhp/di5vcmcv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "arxiv.org",
+          "hostname": "arxiv.org",
+          "favicon": "https://imgs.search.brave.com/l36MWBCdhb-teoPlxGGMWEenj3njVas--CoLjN2ciHU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjcxZDU5ZmZl/ZmIwNzY4NTUyZDg1/ZTVjNGNhMzE2NjUz/MjljMzQwZTA0MThm/NTdjN2Q0N2I3NjFm/ZjIwZmU5MC9hcnhp/di5vcmcv",
+          "path": "› html  › 2408.12503v1"
+        },
+        "age": "August 22, 2024",
+        "extra_snippets": [
+          "Text embeddings play an important role in many Natural Language Processing (NLP) tasks, from clustering to semantic textual similarity (STS) and information retrieval (IR). The community has addressed this demand by releasing several powerful text embedding models (or embedders) Wang et al. (2024, 2023a); Chen et al. (2024). However, there is still a lack of such embedders developed specifically for the Russian language. The most popular Russian-oriented models, such as rubert-tiny2 222https://huggingface.co/cointegrated/rubert-tiny2, SBERT",
+          "Scaling the number of languages supported (including Russian) has been demonstrated in mE5 Wang et al. (2024) models and BGE-M3 Chen et al. (2024), thereby extending their applicability in multilingual contexts. The Russian-oriented models are mainly represented by SBERT models and rubert-tiny2 and their modifications.",
+          "Embedding models play a crucial role in Natural Language Processing (NLP) by creating text embeddings used in various tasks such as information retrieval and assessing semantic text similarity. This paper focuses on research related to embedding models in the Russian language.",
+          "It introduces a new Russian-focused embedding model called ru-en-RoSBERTa and the ruMTEB benchmark, the Russian version extending the Massive Text Embedding Benchmark (MTEB). Our benchmark includes seven categories of tasks, such as semantic textual similarity, text classification, reranking, and retrieval."
+        ]
+      },
+      {
+        "title": "DeepPavlov/rubert-base-cased-sentence · Hugging Face",
+        "url": "https://huggingface.co/DeepPavlov/rubert-base-cased-sentence",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "It is initialized with RuBERT and fine‑tuned on SNLI[1] google-translated to russian and on russian part of XNLI dev set[2]. Sentence representations are mean pooled token embeddings in the same manner as in Sentence‑BERT[3].",
+        "profile": {
+          "name": "Hugging Face",
+          "url": "https://huggingface.co/DeepPavlov/rubert-base-cased-sentence",
+          "long_name": "huggingface.co",
+          "img": "https://imgs.search.brave.com/L-O7pGsoxRbYSIBhk64OxIe19zjGm3DcqlEnCuoI678/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmYwNDg3ZTZh/YzcxMDgwYmRkOGFm/YTk1MTJiYzQ2NmM5/NWViOGEyNGYyZWEx/NDg4NzQ5NzlhYTA5/NTI0MDA4Yy9odWdn/aW5nZmFjZS5jby8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "huggingface.co",
+          "hostname": "huggingface.co",
+          "favicon": "https://imgs.search.brave.com/L-O7pGsoxRbYSIBhk64OxIe19zjGm3DcqlEnCuoI678/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmYwNDg3ZTZh/YzcxMDgwYmRkOGFm/YTk1MTJiYzQ2NmM5/NWViOGEyNGYyZWEx/NDg4NzQ5NzlhYTA5/NTI0MDA4Yy9odWdn/aW5nZmFjZS5jby8",
+          "path": "› DeepPavlov  › rubert-base-cased-sentence"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/vDeHePXy6LnTpSCjwrd3AEpGYMQ1Wyd8EgTBTlVCmGY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4t/dGh1bWJuYWlscy5o/dWdnaW5nZmFjZS5j/by9zb2NpYWwtdGh1/bWJuYWlscy9tb2Rl/bHMvRGVlcFBhdmxv/di9ydWJlcnQtYmFz/ZS1jYXNlZC1zZW50/ZW5jZS5wbmc",
+          "original": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/DeepPavlov/rubert-base-cased-sentence.png",
+          "logo": false
+        },
+        "extra_snippets": [
+          "It is initialized with RuBERT and fine‑tuned on SNLI[1] google-translated to russian and on russian part of XNLI dev set[2]. Sentence representations are mean pooled token embeddings in the same manner as in Sentence‑BERT[3].",
+          "Sentence RuBERT (Russian, cased, 12-layer, 768-hidden, 12-heads, 180M parameters) is a representation‑based sentence encoder for Russian."
+        ]
+      },
+      {
+        "title": "GitHub - flipz357/S3BERT: Semantically Structured Sentence Embeddings · GitHub",
+        "url": "https://github.com/flipz357/S3BERT",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "It contains updated, streamlined, cleaned and maintained code, and allows install via pypi. Code for generating and training sentence embeddings with semantic features. Two main goals: increase interpretability of sentence embeddings and explain ...",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/flipz357/S3BERT",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› flipz357  › S3BERT"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/TLgIJjB2IHrpTwaeXNQa6HSNc9-6mncDMKatvL_pFRM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcGVu/Z3JhcGguZ2l0aHVi/YXNzZXRzLmNvbS8z/OGMwZWY3MTY4MzIy/ZjU4OGY2ZDY3ZWJi/ZmU4ZjEyYTM2ZjI3/MDgyZDA5MTQ0YzQy/YmI2NjliMWI0YTFi/YzJkL2ZsaXB6MzU3/L1MzQkVSVA",
+          "original": "https://opengraph.githubassets.com/38c0ef7168322f588f6d67ebbfe8f12a36f27082d09144c42bb669b1b4a1bc2d/flipz357/S3BERT",
+          "logo": false
+        },
+        "software": {
+          "name": "S3BERT",
+          "author": "flipz357",
+          "is_npm": false,
+          "is_pypi": false,
+          "stars": 71,
+          "forks": 5,
+          "programmingLanguage": "Python 90.8% | Dockerfile 9.2%"
+        },
+        "extra_snippets": [
+          "For both SBERT and S3BERT the similarity for every pair is calculated on the full embeddings (cosine).",
+          "If you would like to train an interpretable embedding model from scratch, please also check out our XPLAINSIM software package. It contains updated, streamlined, cleaned and maintained code, and allows install via pypi. Code for generating and training sentence embeddings with semantic features. Two main goals: increase interpretability of sentence embeddings and explain similarity",
+          "quant_sim: Similarity w.r.t.\\ quantificational structure similarity of sentences(three vs. four, a vs. all, etc.) score_wlk: see Smatch, but measured with contextual Weisfeiler Leman Kernel isntead of Smatch · score_wwlk: See Smatch, but measured with Wasserstein Weisfeiler Leman Kernel instead of Smatch · If you find the work interesting, consider citing: @article{opitz2022sbert, title={SBERT studies Meaning Representations: Decomposing Sentence Embeddings into Explainable Semantic Features}, author={Opitz, Juri and Frank, Anette}, journal={arXiv preprint arXiv:2206.07023}, year={2022} }",
+          "In our paper, we define metrics between abstract meaning representations (AMRs) such that we can measure, e.g., coreference or quantification similarity of sentences and see how these sub-similarities modulate the overall similarity."
+        ]
+      },
+      {
+        "title": "ruMTEB benchmark and Russian embedding model design",
+        "url": "https://aclanthology.org/2025.naacl-long.12.pdf",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "clustering to semantic textual similarity (STS) and · information retrieval (IR). The community has ad- dressed this demand by releasing several powerful · text embedding models (or embedders) (Wang · et al., 2024, 2023a; Chen et al., 2024). However, there is still a lack of such embedders developed · specifically for the Russian language. The most · popular Russian-oriented models, such as rubert- tiny2 1, SBERTlarge-nlu-ru2, and SBERTlarge-mt-nlu-ru3, have been released several years ago and thus do ·",
+        "profile": {
+          "name": "ACL Anthology",
+          "url": "https://aclanthology.org/2025.naacl-long.12.pdf",
+          "long_name": "aclanthology.org",
+          "img": "https://imgs.search.brave.com/3lKnTPtD5UAtUOTnkijk0YuA2kxvPPpQrhFGm-B3F1A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGYwZTlkMDFi/MjAwODEwYTk4M2Jh/YzBmOWMxOTZhYzdl/MzQ0YmJmMzRjOTFj/ZjI0NWQzNzdlYWE2/ZWQ0NDI2YS9hY2xh/bnRob2xvZ3kub3Jn/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "aclanthology.org",
+          "hostname": "aclanthology.org",
+          "favicon": "https://imgs.search.brave.com/3lKnTPtD5UAtUOTnkijk0YuA2kxvPPpQrhFGm-B3F1A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGYwZTlkMDFi/MjAwODEwYTk4M2Jh/YzBmOWMxOTZhYzdl/MzQ0YmJmMzRjOTFj/ZjI0NWQzNzdlYWE2/ZWQ0NDI2YS9hY2xh/bnRob2xvZ3kub3Jn/Lw",
+          "path": "› 2025.naacl-long.12.pdf"
+        },
+        "content_type": "pdf",
+        "extra_snippets": [
+          "clustering to semantic textual similarity (STS) and · information retrieval (IR). The community has ad- dressed this demand by releasing several powerful · text embedding models (or embedders) (Wang · et al., 2024, 2023a; Chen et al., 2024). However, there is still a lack of such embedders developed · specifically for the Russian language. The most · popular Russian-oriented models, such as rubert- tiny2 1, SBERTlarge-nlu-ru2, and SBERTlarge-mt-nlu-ru3, have been released several years ago and thus do ·",
+          "Task-oriented intrinsic evaluation of semantic textual · similarity.",
+          "Semantic Textual Similarity (STS).",
+          "2016 task 1: Semantic textual similarity, monolin-"
+        ]
+      },
+      {
+        "title": "Pre-trained embeddings — DeepPavlov 1.7.0 documentation",
+        "url": "https://docs.deeppavlov.ai/en/master/features/pretrained_vectors.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "We are publishing several pre-trained BERT models: · RuBERT for Russian language",
+        "profile": {
+          "name": "Deeppavlov",
+          "url": "https://docs.deeppavlov.ai/en/master/features/pretrained_vectors.html",
+          "long_name": "docs.deeppavlov.ai",
+          "img": "https://imgs.search.brave.com/asJGy6lPRlqsL3GJ_vkX0ZpMH75Gmg2_Fuer7uQ45HY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODVkZDY5MzY4/NzlmNWYzMjc5Y2U5/MzEzZjgzZjViNDlk/NGUzYTI5NDhhNzJk/YWE1NmEwYjU5YzU5/ODM3ODUxNi9kb2Nz/LmRlZXBwYXZsb3Yu/YWkv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "docs.deeppavlov.ai",
+          "hostname": "docs.deeppavlov.ai",
+          "favicon": "https://imgs.search.brave.com/asJGy6lPRlqsL3GJ_vkX0ZpMH75Gmg2_Fuer7uQ45HY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODVkZDY5MzY4/NzlmNWYzMjc5Y2U5/MzEzZjgzZjViNDlk/NGUzYTI5NDhhNzJk/YWE1NmEwYjU5YzU5/ODM3ODUxNi9kb2Nz/LmRlZXBwYXZsb3Yu/YWkv",
+          "path": "› en  › master  › features  › pretrained_vectors.html"
+        },
+        "article": {
+          "author": []
+        }
+      },
+      {
+        "title": "An Artificial Intelligence Driven Semantic Similarity-Based Pipeline for Rapid Literature Review",
+        "url": "https://arxiv.org/html/2509.15292v1",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Reimers and Gurevych [5] introduced Sentence Bert (SBERT) for semantic similarity, which has become a baseline in many automated pipelines largely due to its efficient and accurate generation of sentence embeddings. SBERT enables precise comparison using cosine similarity.",
+        "page_age": "2025-09-18T17:01:17",
+        "profile": {
+          "name": "arXiv",
+          "url": "https://arxiv.org/html/2509.15292v1",
+          "long_name": "arxiv.org",
+          "img": "https://imgs.search.brave.com/l36MWBCdhb-teoPlxGGMWEenj3njVas--CoLjN2ciHU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjcxZDU5ZmZl/ZmIwNzY4NTUyZDg1/ZTVjNGNhMzE2NjUz/MjljMzQwZTA0MThm/NTdjN2Q0N2I3NjFm/ZjIwZmU5MC9hcnhp/di5vcmcv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "arxiv.org",
+          "hostname": "arxiv.org",
+          "favicon": "https://imgs.search.brave.com/l36MWBCdhb-teoPlxGGMWEenj3njVas--CoLjN2ciHU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjcxZDU5ZmZl/ZmIwNzY4NTUyZDg1/ZTVjNGNhMzE2NjUz/MjljMzQwZTA0MThm/NTdjN2Q0N2I3NjFm/ZjIwZmU5MC9hcnhp/di5vcmcv",
+          "path": "› html  › 2509.15292v1"
+        },
+        "age": "September 18, 2025",
+        "extra_snippets": [
+          "Reimers and Gurevych [5] introduced Sentence Bert (SBERT) for semantic similarity, which has become a baseline in many automated pipelines largely due to its efficient and accurate generation of sentence embeddings. SBERT enables precise comparison using cosine similarity.",
+          "[9] Google, “Gemini 2.0 Flash Large Language Model,” 2025.",
+          "[10] B. Kang and Y. Shin, “Empirical Study of Zero-shot Keyphrase Extraction with Large Language Models,” in Proc. 31st Int. Conf. Comput. Linguistics, Abu Dhabi, UAE, Jan. 2025, pp. 3670–3686.",
+          "[Online]. Available: https://aclanthology.org/2025.coling-main.248/"
+        ]
+      },
+      {
+        "title": "cointegrated/rubert-tiny2 · Hugging Face",
+        "url": "https://huggingface.co/cointegrated/rubert-tiny2",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "This is an updated version of cointegrated/rubert-tiny: a small Russian BERT-based encoder with high-quality sentence embeddings.",
+        "profile": {
+          "name": "Hugging Face",
+          "url": "https://huggingface.co/cointegrated/rubert-tiny2",
+          "long_name": "huggingface.co",
+          "img": "https://imgs.search.brave.com/L-O7pGsoxRbYSIBhk64OxIe19zjGm3DcqlEnCuoI678/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmYwNDg3ZTZh/YzcxMDgwYmRkOGFm/YTk1MTJiYzQ2NmM5/NWViOGEyNGYyZWEx/NDg4NzQ5NzlhYTA5/NTI0MDA4Yy9odWdn/aW5nZmFjZS5jby8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "huggingface.co",
+          "hostname": "huggingface.co",
+          "favicon": "https://imgs.search.brave.com/L-O7pGsoxRbYSIBhk64OxIe19zjGm3DcqlEnCuoI678/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmYwNDg3ZTZh/YzcxMDgwYmRkOGFm/YTk1MTJiYzQ2NmM5/NWViOGEyNGYyZWEx/NDg4NzQ5NzlhYTA5/NTI0MDA4Yy9odWdn/aW5nZmFjZS5jby8",
+          "path": "› cointegrated  › rubert-tiny2"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/RG1uA3_F4duUOAl5iaxypRBeM_DUzj99SlM4KmWPhmc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4t/dGh1bWJuYWlscy5o/dWdnaW5nZmFjZS5j/by9zb2NpYWwtdGh1/bWJuYWlscy9tb2Rl/bHMvY29pbnRlZ3Jh/dGVkL3J1YmVydC10/aW55Mi5wbmc",
+          "original": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/cointegrated/rubert-tiny2.png",
+          "logo": false
+        },
+        "extra_snippets": [
+          "This is an updated version of cointegrated/rubert-tiny: a small Russian BERT-based encoder with high-quality sentence embeddings.",
+          "For those who want to run the inference with VLLM, there is a vLLM-optimized version of this model: WpythonW/rubert-tiny2-vllm",
+          "# pip install transformers sentencepiece import torch from transformers import AutoTokenizer, AutoModel tokenizer = AutoTokenizer.from_pretrained(\"cointegrated/rubert-tiny2\") model = AutoModel.from_pretrained(\"cointegrated/rubert-tiny2\") # model.cuda() # uncomment it if you have a GPU def embed_bert_cls(text, model, tokenizer): t = tokenizer(text, padding=True, truncation=True, return_tensors='pt') with torch.no_grad(): model_output = model(**{k: v.to(model.device) for k, v in t.items()}) embeddings = model_output.last_hidden_state[:, 0, :] embeddings = torch.nn.functional.normalize(embeddings) return embeddings[0].cpu().numpy() print(embed_bert_cls('привет мир', model, tokenizer).shape) # (312,)",
+          "from sentence_transformers import SentenceTransformer model = SentenceTransformer('cointegrated/rubert-tiny2') sentences = [\"привет мир\", \"hello world\", \"здравствуй вселенная\"] embeddings = model.encode(sentences) print(embeddings)"
+        ]
+      },
+      {
+        "title": "Evaluating Embedding-Based Similarity Models for Assessment of Open-Ended Questions | Springer Nature Link",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-032-16848-1_14",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "A dataset of 800 answers was collected from ten GenAI models across eight domain-specific questions. Each answer was graded by a human annotator, and four distinct models (SBERT, GPT, GPT-4o, Cohere) were used to calculate semantic similarity ...",
+        "profile": {
+          "name": "Springer",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-032-16848-1_14",
+          "long_name": "link.springer.com",
+          "img": "https://imgs.search.brave.com/_9fJfT7yiJHjwRW_yis-sKXBI-83soJohV8IX_gf83A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2FlNzAzZTY0/NWEyMTdmNjZhOTAz/YTRlOTM0MDg0MDJi/NWIzODMzM2M2ZDAw/OTVkOTViOTE2MTMz/M2NmMmY1OC9saW5r/LnNwcmluZ2VyLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "link.springer.com",
+          "hostname": "link.springer.com",
+          "favicon": "https://imgs.search.brave.com/_9fJfT7yiJHjwRW_yis-sKXBI-83soJohV8IX_gf83A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2FlNzAzZTY0/NWEyMTdmNjZhOTAz/YTRlOTM0MDg0MDJi/NWIzODMzM2M2ZDAw/OTVkOTViOTE2MTMz/M2NmMmY1OC9saW5r/LnNwcmluZ2VyLmNv/bS8",
+          "path": "  › home  › advanced research in technologies, information, innovation and sustainability  › conference paper"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/l_S0GL-NgHUp7orNVC8GPy37bBfYwQusE-LkGLINjiI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5zcHJpbmdlcm5h/dHVyZS5jb20vdzE1/My9zcHJpbmdlci1z/dGF0aWMvY292ZXIv/Ym9vay85NzgtMy0w/MzItMTY4NDgtMS5q/cGc",
+          "original": "https://media.springernature.com/w153/springer-static/cover/book/978-3-032-16848-1.jpg",
+          "logo": false
+        },
+        "extra_snippets": [
+          "A dataset of 800 answers was collected from ten GenAI models across eight domain-specific questions. Each answer was graded by a human annotator, and four distinct models (SBERT, GPT, GPT-4o, Cohere) were used to calculate semantic similarity between GenAI answers and reference materials.",
+          "Pecuchova, J., Drlik, M.: The role of generative artificial intelligence in the assessment of open-ended questions. In: Auer, M.E., Rüütmann, T. (eds.) ICL 2024. LNNS, vol. 1260, pp. 394–405. Springer, Cham (2025).",
+          "Pecuchová, J., Benko, Ľ. (2026). Evaluating Embedding-Based Similarity Models for Assessment of Open-Ended Questions. In: Guarda, T., Portela, F., Augusto, M.F. (eds) Advanced Research in Technologies, Information, Innovation and Sustainability. ARTIIS 2025.",
+          "Other embedding-based models failed to align with human annotations, often misclassifying grades and failing to identify strong or weak quality answers. These findings challenge the assumption that semantic similarity can serve as an alternative for human assessment in evaluating open-ended questions."
+        ]
+      },
+      {
+        "title": "python - How to compare sentence similarities using embeddings from BERT - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/60492839/how-to-compare-sentence-similarities-using-embeddings-from-bert",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "You should use instead a model pre-trained specifically for sentence similarity, such as Sentence-BERT. Sentence-BERT and several other pretrained models for sentence similarity are available in the sentence-transformers library (https://www.sbert.net/docs/pretrained_models.html), which is fully compatible with the amazing HuggingFace transformers library.",
+        "profile": {
+          "name": "Stack Overflow",
+          "url": "https://stackoverflow.com/questions/60492839/how-to-compare-sentence-similarities-using-embeddings-from-bert",
+          "long_name": "stackoverflow.com",
+          "img": "https://imgs.search.brave.com/4WRMec_wn8Q9LO6DI43kkBvIL6wD5TYCXztC9C9kEI0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWU3Zjg0ZjA1/YjQ3ZTlkNjQ1ODA1/MjAwODhiNjhjYWU0/OTc4MjM4ZDJlMTBi/ODExYmNiNTkzMjdh/YjM3MGExMS9zdGFj/a292ZXJmbG93LmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "qa",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "stackoverflow.com",
+          "hostname": "stackoverflow.com",
+          "favicon": "https://imgs.search.brave.com/4WRMec_wn8Q9LO6DI43kkBvIL6wD5TYCXztC9C9kEI0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWU3Zjg0ZjA1/YjQ3ZTlkNjQ1ODA1/MjAwODhiNjhjYWU0/OTc4MjM4ZDJlMTBi/ODExYmNiNTkzMjdh/YjM3MGExMS9zdGFj/a292ZXJmbG93LmNv/bS8",
+          "path": "› questions  › 60492839  › how-to-compare-sentence-similarities-using-embeddings-from-bert"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/8rYjSv2_oY3M4_lTWZkus1tHOIG9JiPNKVK68dZmOHo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGFj/a292ZXJmbG93LmNv/bS9Db250ZW50L1Np/dGVzL3N0YWNrb3Zl/cmZsb3cvSW1nL2Fw/cGxlLXRvdWNoLWlj/b25AMi5wbmc_dj0w/ZjBjYWI2ODE1Nzk",
+          "original": "https://stackoverflow.com/Content/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=0f0cab681579",
+          "logo": true
+        },
+        "qa": {
+          "question": "How to compare sentence similarities using embeddings from BERT",
+          "answer": {
+            "text": "<p>In addition to an already great accepted answer, I want to point you to <code>sentence-BERT</code>, which discusses the similarity aspect and implications of specific metrics (like cosine similarity) in greater detail.\nThey also have a very convenient implementation online. The main advantage here is that they seemingly gain a lot of processing speed compared to a \"naive\" sentence embedding comparison, but I am not familiar enough with the implementation itself.</p>\n\n<p>Importantly, there is also generally a more fine-grained distinction in <em>what kind of similarity</em> you want to look at. Specifically for that, there is also a great discussion in one of the task papers from SemEval 2014 (SICK dataset), which goes into more detail about this. From your task description, I am assuming that you are already using data from one of the later SemEval tasks, which also extended this to multilingual similarity.</p>",
+            "author": "dennlinger",
+            "upvoteCount": 24
+          }
+        },
+        "extra_snippets": [
+          "As a complement to dennlinger's answer, I'll add a code example from https://www.sbert.net/docs/usage/semantic_textual_similarity.html to compare sentence similarities using embeddings from BERT:",
+          "You should NOT use BERT's output as sentence embeddings for semantic similarity. BERT is not pretrained for semantic similarity, which will result in poor results, even worse than simple Glove Embeddings.",
+          "You should use instead a model pre-trained specifically for sentence similarity, such as Sentence-BERT. Sentence-BERT and several other pretrained models for sentence similarity are available in the sentence-transformers library (https://www.sbert.net/docs/pretrained_models.html), which is fully compatible with the amazing HuggingFace transformers library.",
+          "Firstly, what is the best way to extratc the semantic embedding from the BERT model?"
+        ]
+      },
+      {
+        "title": "embcli-sbert · PyPI",
+        "url": "https://pypi.org/project/embcli-sbert/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "# get an embedding for an input ... embedding for an input by a community model. emb embed -m sbert/intfloat/multilingual-e5-small &quot;Embeddings are essential for semantic search and RAG apps.&quot; # calculate similarity score between two texts by all-MiniLM-L6-v2....",
+        "page_age": "2025-05-18T00:00:00",
+        "profile": {
+          "name": "PyPI",
+          "url": "https://pypi.org/project/embcli-sbert/",
+          "long_name": "pypi.org",
+          "img": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pypi.org",
+          "hostname": "pypi.org",
+          "favicon": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8",
+          "path": "› project  › embcli-sbert"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lJdaJSfF8JrYle3bvs5zoI0KGv_VB46f4fIqVrxGCmI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9weXBp/Lm9yZy9zdGF0aWMv/aW1hZ2VzL3R3aXR0/ZXIuYWJhZjRiMTku/d2VicA",
+          "original": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+          "logo": false
+        },
+        "age": "May 18, 2025",
+        "software": {
+          "name": "embcli-sbert",
+          "version": "0.1.0",
+          "datePublished": "Jun 01, 2025",
+          "is_npm": false,
+          "is_pypi": true,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "# get an embedding for an input text by another model, all-mpnet-base-v2. emb embed -m sbert/all-mpnet-base-v2 \"Embeddings are essential for semantic search and RAG apps.\" # get an embedding for an input by a community model. emb embed -m sbert/intfloat/multilingual-e5-small \"Embeddings are essential for semantic search and RAG apps.\" # calculate similarity score between two texts by all-MiniLM-L6-v2.",
+          "the default metric is cosine similarity. emb simscore -m sbert \"The cat drifts toward sleep.\" \"Sleep dances in the cat's eyes.\" 0.8031787421988659 · You can use the emb command to index documents and perform semantic search.",
+          "# the documents should be in a CSV file with two columns: id and text. the separator should be comma. emb ingest -m sbert -c catcafe -f <path-to-your-documents> # search for a query in the indexed documents. emb search -m sbert -c catcafe -q \"Who's the naughtiest one?\"",
+          "# multilingual search emb search -m sbert -c catcafe -q \"一番のいたずら者は誰?\" Found 5 results: Score: 0.3771080195010235, Document ID: 68, Text: Xavi: Xavi is an intelligent and agile cat, perhaps a sleek black or Oriental breed, quick on his feet and sharp in mind."
+        ]
+      }
+    ],
+    "family_friendly": true
+  }
+}

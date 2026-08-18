@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ЗАГОЛОВОК_СТАТЬИ}}",
+  "description": "{{ОПИСАНИЕ_160_СИМВОЛОВ}}",
+  "datePublished": "{{ДАТА_ISO8601}}",
+  "dateModified": "{{ДАТА_ОБНОВЛЕНИЯ_ISO8601}}",
+  "url": "{{URL_СТАТЬИ}}",
+  "image": {
+    "@type": "ImageObject",
+    "url": "{{URL_ИЗОБРАЖЕНИЯ}}",
+    "width": 1200,
+    "height": 630
+  },
+  "author": {
+    "@type": "Person",
+    "name": "{{ИМЯ_АВТОРА}}",
+    "jobTitle": "{{ДОЛЖНОСТЬ_АВТОРА}}",
+    "url": "{{URL_ПРОФИЛЯ_АВТОРА}}",
+    "sameAs": [
+      "{{ПРОФИЛЬ_VK}}",
+      "{{ПРОФИЛЬ_TELEGRAM}}"
+    ],
+    "affiliation": {
+      "@type": "Organization",
+      "name": "{{НАЗВАНИЕ_КОМПАНИИ}}"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ИЗДАТЕЛЬ}}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{URL_ЛОГОТИПА_ИЗДАТЕЛЯ}}"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{URL_СТАТЬИ}}"
+  }
+}

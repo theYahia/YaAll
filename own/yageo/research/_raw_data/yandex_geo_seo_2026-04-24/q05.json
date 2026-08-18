@@ -1,0 +1,869 @@
+{
+  "type": "search",
+  "query": {
+    "original": "texterra pixelplus ashmanov \"Алиса ai\" 2026",
+    "show_strict_warning": false,
+    "cleaned": "texterra pixelplus ashmanov Алиса ai 2026",
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": "",
+    "search_operators": {
+      "applied": true,
+      "cleaned_query": "texterra pixelplus ashmanov Алиса ai 2026"
+    }
+  },
+  "infobox": {
+    "type": "graph",
+    "results": [
+      {
+        "title": "Алиса AI",
+        "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8%D1%81%D0%B0_AI",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "голосовой помощник от компании Яндекс",
+        "family_friendly": true,
+        "type": "infobox",
+        "position": -1,
+        "long_desc": "Али́са AI (до 28 октября 2025 года Нейросеть Алиса, до 2024 года Алиса) — нейросеть, созданная компанией Яндекс. Работает в двух форматах: как нейросеть в чат-боте и как ...",
+        "attributes": [
+          [
+            "Тип",
+            "<a href='https://ru.wikipedia.org/wiki/Виртуальный_ассистент'>виртуальный ассистент</a> и голосовой помощник<a href='https://www.wikidata.org/wiki/Q125180532#sitelinks-wikipedia'></a>"
+          ],
+          [
+            "Разработчик",
+            "<a href='https://ru.wikipedia.org/wiki/Яндекс'>ООО «Яндекс»</a>"
+          ],
+          [
+            "Написана на",
+            "<a href='https://ru.wikipedia.org/wiki/C++'>C++</a>"
+          ],
+          [
+            "Операционные системы",
+            "<a href='https://ru.wikipedia.org/wiki/Windows'>Windows</a>, <a href='https://ru.wikipedia.org/wiki/Android'>Android</a> и <a href='https://ru.wikipedia.org/wiki/IOS'>iOS</a>"
+          ],
+          [
+            "Дата выпуска",
+            "<a href='https://ru.wikipedia.org/wiki/10_октября'>10 октября</a> <a href='https://ru.wikipedia.org/wiki/2017_год'>2017</a>"
+          ],
+          [
+            "Сайт",
+            "alice.yandex.ru<br><a href='https://commons.wikimedia.org/wiki/Category:Alice%20(Yandex)'>Медиафайлы на Викискладе</a>"
+          ]
+        ],
+        "profiles": [
+          {
+            "name": "YouTube",
+            "url": "https://www.youtube.com/@yandex_search",
+            "long_name": "youtube.com",
+            "img": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v"
+          },
+          {
+            "name": "Wikidata",
+            "url": "http://www.wikidata.org/entity/Q42337230",
+            "long_name": "wikidata.org",
+            "img": "https://imgs.search.brave.com/8vIq-V97PH8S0N-pyaeHgq_gFHOA8hXjBunynHio-Uw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzdkMGIyYTky/OTJjN2RjNDEyNWYx/MGQxNjAzNmZlNDk4/ZTRmNDczNjk0ZTZl/N2IxZjI0NTVkMGE3/YTBiYjEzYi93d3cu/d2lraWRhdGEub3Jn/Lw"
+          },
+          {
+            "name": "VK",
+            "url": "https://vk.com/alice_yndx",
+            "long_name": "vk.com",
+            "img": "https://imgs.search.brave.com/MQK8gqZ0Gg4_DGQkhUiblqmOhR298jpWq-MDEnaVAjE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDlkNTQxZmQw/MTAyNjVmY2YwMzdh/MmQ0ZTlmZTMwZTFm/M2Y1YjBjNjk5ZDU4/ZDdiYTkxZWM3MDgz/ZDc2N2E5Ni92ay5j/b20v"
+          },
+          {
+            "name": "X",
+            "url": "https://x.com/alice_yandex",
+            "long_name": "x.com",
+            "img": "https://imgs.search.brave.com/VpOsyUaQQGp5MT_drqEzgpxdO8o12jax0jeq0Vojuto/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmQzM2JiZDhi/OWVhNGYxZmRkNDli/NzAxODUzMzFhYTNm/ODcxNmE4ZGQ5OTE3/MWU4OGZjNDQyZDdh/NzQ4MWE4YS94LmNv/bS8"
+          },
+          {
+            "name": "Telegram",
+            "url": "https://t.me/s/alice_ya_bot",
+            "long_name": "t.me",
+            "img": "https://imgs.search.brave.com/NIt42vl0MdXky8hEpBF0cs4eueEve_mDvIbqmjxImxo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGZjZjExMjdi/MWVjZDQ1YTg4YzNm/NjFiYmI2ZTJiZTQz/OTFlMTA5NTc1ZjYx/Nzg4YWQ0YmRkMjk0/ODdhMDNlMy90Lm1l/Lw"
+          },
+          {
+            "name": "Yandex Music",
+            "url": "https://music.yandex.ru/artist/5533796",
+            "long_name": "music.yandex.ru",
+            "img": "https://imgs.search.brave.com/wV7rirKRxOWzBmOpDLVjUGa8yvP789APGJWbxcGaznE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGQ1ODZiNGNk/MTk5ZmY2ZDEyMjA5/MmNjYjE5YzUwOWY5/YjUzMDc0MDlkOThk/ODliMDJmZDk3NDRh/ZTRhMTBhYi9tdXNp/Yy55YW5kZXgucnUv"
+          },
+          {
+            "name": "Wikipedia",
+            "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8%D1%81%D0%B0_AI",
+            "long_name": "ru.wikipedia.org",
+            "img": "https://imgs.search.brave.com/2IG02A8mKYF-36M_tHuhweGVBVKOU0AYMnvcSheekkk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmJlMTM3YjZi/MmEzOTE4YTk5ZTUz/ZTA4OTRmMjlkMDFk/ZDZkZjkzOTBiZmVk/ZDg4ODRjYjc4M2Rk/NjNkOWIzNy9ydS53/aWtpcGVkaWEub3Jn/Lw"
+          }
+        ],
+        "website_url": "https://a.ya.ru",
+        "ratings": [],
+        "providers": [
+          {
+            "type": "external",
+            "name": "Wikipedia",
+            "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8%D1%81%D0%B0_AI",
+            "img": "https://imgs.search.brave.com/2IG02A8mKYF-36M_tHuhweGVBVKOU0AYMnvcSheekkk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmJlMTM3YjZi/MmEzOTE4YTk5ZTUz/ZTA4OTRmMjlkMDFk/ZDZkZjkzOTBiZmVk/ZDg4ODRjYjc4M2Rk/NjNkOWIzNy9ydS53/aWtpcGVkaWEub3Jn/Lw"
+          }
+        ],
+        "images": [
+          {
+            "src": "https://imgs.search.brave.com/wkHJvPKYBAsjfQdos5fUzY2mHQtWKjSqzkgCVnputmI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9kL2QyL0Fs/aXNhX1lhbmRleC5z/dmcvMjUwcHgtQWxp/c2FfWWFuZGV4LnN2/Zy5wbmc",
+            "alt": "Alisa Yandex",
+            "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Alisa_Yandex.svg/250px-Alisa_Yandex.svg.png",
+            "logo": true
+          }
+        ],
+        "subtype": "generic",
+        "found_in_urls": [
+          "https://alice.yandex.ru/"
+        ]
+      }
+    ]
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "videos",
+        "all": true
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "infobox",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "videos": {
+    "type": "videos",
+    "results": [
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=8XNLLqVk3wc",
+        "title": "Алиса AI и другие новинки Яндекса. ...",
+        "description": "AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket · © 2025 Google LLC",
+        "age": "October 30, 2025",
+        "page_age": "2025-10-30T19:16:05",
+        "fetched_content_timestamp": 1762255348,
+        "video": {
+          "duration": "01:57:59",
+          "creator": "Сергей Епихин",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/NTkDEVJ_MZOZ0g6bec-M3pI1WrlNvDysV11JmomZYNI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS84/WE5MTHFWazN3Yy9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/8XNLLqVk3wc/maxresdefault.jpg"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=QhEc2FFAWWA",
+        "title": "Новая Алиса AI - YouTube",
+        "description": "Встречайте Алису AI — самую мощную нейросеть Яндекса, в чате с которой можно решать любые задачи. Скоро она научится запоминать ваши планы, напоминать о важн...",
+        "age": "October 28, 2025",
+        "page_age": "2025-10-28T15:31:03",
+        "fetched_content_timestamp": 1776434900,
+        "video": {
+          "duration": "01:03",
+          "creator": "Яндекс Поиск и Алиса",
+          "publisher": "YouTube"
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/TM1f9JyBrnfoPOb68AVrNZlJKdbEg8iACVnoaBjUTB4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9R/aEVjMkZGQVdXQS9t/YXhyZXNkZWZhdWx0/LmpwZw",
+          "original": "https://i.ytimg.com/vi/QhEc2FFAWWA/maxresdefault.jpg"
+        }
+      }
+    ],
+    "mutated_by_goggles": false
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Алиса AI: Нейросеть на русском",
+        "url": "https://play.google.com/store/apps/details?id=com.yandex.aliceapp&hl=en_US",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Alice AI: texts, neural network, fresh ideas, knowledge, Russian-language AI chat. Powerful Yandex AI on your phone helps with everyday chores and tackles tasks for study, work, and creativity.",
+        "profile": {
+          "name": "Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.yandex.aliceapp&hl=en_US",
+          "long_name": "play.google.com",
+          "img": "https://imgs.search.brave.com/BRXcD4iaX7N7RXX5b2ues7rPiumLO6jABWJKycKQM3o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjgwZWUzMzVj/YTc2M2VmMDJlYjE2/YmIyYzA3Y2IwZDkx/ZGViYmUxOGU1Njk4/NGI0NDNhOTQ1N2Mw/MDYyNjk4Ny9wbGF5/Lmdvb2dsZS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "creative_work",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "play.google.com",
+          "hostname": "play.google.com",
+          "favicon": "https://imgs.search.brave.com/BRXcD4iaX7N7RXX5b2ues7rPiumLO6jABWJKycKQM3o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjgwZWUzMzVj/YTc2M2VmMDJlYjE2/YmIyYzA3Y2IwZDkx/ZGViYmUxOGU1Njk4/NGI0NDNhOTQ1N2Mw/MDYyNjk4Ny9wbGF5/Lmdvb2dsZS5jb20v",
+          "path": "› store  › apps  › details"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/q6ubS9bFz0AR5ql8G4jnkXJ-uuTkMaiJWfvNUYA5qlY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9wbGF5/LWxoLmdvb2dsZXVz/ZXJjb250ZW50LmNv/bS96R2U0T0d2ZU91/WGJGNHIzNUtYWEw3/d2hRLXA1SHdWNGQw/RWlsT3phMnk3ZHJD/RVNoR0lnSTVISGo3/UW1jRExnc3J1aEJK/Q0dfRkp4eS1SNUFz/Yzg",
+          "original": "https://play-lh.googleusercontent.com/zGe4OGveOuXbF4r35KXXL7whQ-p5HwV4d0EilOza2y7drCEShGIgI5HHj7QmcDLgsruhBJCG_FJxy-R5Asc8",
+          "logo": true
+        },
+        "creative_work": {
+          "name": "Alice AI",
+          "rating": {
+            "ratingValue": 4.6,
+            "bestRating": 5.0,
+            "reviewCount": 87999,
+            "is_tripadvisor": false
+          },
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/q6ubS9bFz0AR5ql8G4jnkXJ-uuTkMaiJWfvNUYA5qlY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9wbGF5/LWxoLmdvb2dsZXVz/ZXJjb250ZW50LmNv/bS96R2U0T0d2ZU91/WGJGNHIzNUtYWEw3/d2hRLXA1SHdWNGQw/RWlsT3phMnk3ZHJD/RVNoR0lnSTVISGo3/UW1jRExnc3J1aEJK/Q0dfRkp4eS1SNUFz/Yzg",
+            "original": "https://play-lh.googleusercontent.com/zGe4OGveOuXbF4r35KXXL7whQ-p5HwV4d0EilOza2y7drCEShGIgI5HHj7QmcDLgsruhBJCG_FJxy-R5Asc8"
+          }
+        },
+        "extra_snippets": [
+          "AI chat for real-life tasks"
+        ]
+      },
+      {
+        "title": "Яндекс Поиск с усиленной Алисой AI: большое обновление, новые функции, инструмент Вебмастера для ИИ-ответов от 7 апреля 2026 года",
+        "url": "https://www.ashmanov.com/education/articles/alisa-ai-yandeksa-menyaet-pravila-igry-obnovleniya-poiska-i-novye-instrumenty/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Разбираем главные новости «Дня Поиска» Яндекса от 7 апреля 2026 года: усиленная Алиса AI, новые возможности Поиска, критерии ЭПОС, ...",
+        "page_age": "2026-04-07T14:00:50",
+        "profile": {
+          "name": "Ashmanov",
+          "url": "https://www.ashmanov.com/education/articles/alisa-ai-yandeksa-menyaet-pravila-igry-obnovleniya-poiska-i-novye-instrumenty/",
+          "long_name": "ashmanov.com",
+          "img": "https://imgs.search.brave.com/C-9d74aziAwjPLFjnkl1BiZpMoAQ_fLM5H-mulxxYlI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2NkNGU1M2Yw/MjZhYzg2ZTM2ZDg2/Y2E2ZWNiMWE5M2Ni/MDczODYyZTRiNjhh/OGIyODdiMTcxMTFi/NTI2NzQ5OS93d3cu/YXNobWFub3YuY29t/Lw"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "location",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ashmanov.com",
+          "hostname": "www.ashmanov.com",
+          "favicon": "https://imgs.search.brave.com/C-9d74aziAwjPLFjnkl1BiZpMoAQ_fLM5H-mulxxYlI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2NkNGU1M2Yw/MjZhYzg2ZTM2ZDg2/Y2E2ZWNiMWE5M2Ni/MDczODYyZTRiNjhh/OGIyODdiMTcxMTFi/NTI2NzQ5OS93d3cu/YXNobWFub3YuY29t/Lw",
+          "path": "  › главная  › образование  › статьи  › яндекс поиск с усиленной алисой ai: большое обновление, новые функции, инструмент вебмастера для ии-ответов от 7 апреля 2026 года"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/982bWDGAOJai8mTdfwwSb0tHwdCAmJWCr9AetOq7DMc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YXNobWFub3YuY29t/L3N0YXRpYy9pbWcv/YWlwX2xvZ29fc21h/bGwucG5n",
+          "original": "https://www.ashmanov.com/static/img/aip_logo_small.png",
+          "logo": true
+        },
+        "age": "2 weeks ago",
+        "location": {
+          "title": "Ашманов и партнеры",
+          "url": "https://www.ashmanov.com/education/articles/alisa-ai-yandeksa-menyaet-pravila-igry-obnovleniya-poiska-i-novye-instrumenty/",
+          "is_source_local": false,
+          "is_source_both": false,
+          "family_friendly": true,
+          "type": "location_result",
+          "provider_url": "https://www.ashmanov.com/education/articles/alisa-ai-yandeksa-menyaet-pravila-igry-obnovleniya-poiska-i-novye-instrumenty/",
+          "zoom_level": 7,
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/YTrGfrnDsJJmxAODVqYBhPaAd-2LqLVvchC0DBMCbZ0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YXNobWFub3YuY29t/L3N0YXRpYy9pbWcv/bG9nby5zdmc",
+            "original": "https://www.ashmanov.com/static/img/logo.svg"
+          },
+          "postal_address": {
+            "type": "PostalAddress",
+            "postalCode": "121357",
+            "streetAddress": "Верейская 29, строение 134 Бизнес-центр «Верейская плаза 3»",
+            "addressLocality": "Москва",
+            "displayAddress": "Верейская 29, строение 134 Бизнес-центр «Верейская плаза 3», 121357, Москва"
+          },
+          "profiles": [
+            {
+              "type": "external",
+              "name": "ashmanov.com",
+              "url": "https://www.ashmanov.com/education/articles/alisa-ai-yandeksa-menyaet-pravila-igry-obnovleniya-poiska-i-novye-instrumenty/",
+              "img": "https://imgs.search.brave.com/C-9d74aziAwjPLFjnkl1BiZpMoAQ_fLM5H-mulxxYlI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2NkNGU1M2Yw/MjZhYzg2ZTM2ZDg2/Y2E2ZWNiMWE5M2Ni/MDczODYyZTRiNjhh/OGIyODdiMTcxMTFi/NTI2NzQ5OS93d3cu/YXNobWFub3YuY29t/Lw"
+            }
+          ],
+          "pictures": {
+            "results": [
+              {
+                "src": "https://imgs.search.brave.com/YTrGfrnDsJJmxAODVqYBhPaAd-2LqLVvchC0DBMCbZ0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YXNobWFub3YuY29t/L3N0YXRpYy9pbWcv/bG9nby5zdmc",
+                "original": "https://www.ashmanov.com/static/img/logo.svg"
+              },
+              {
+                "src": "https://imgs.search.brave.com/IUccGQ1kbG68eiBDSPsaSIHTQflCskvPRCsge0Z573A/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YXNobWFub3YuY29t/L3VwbG9hZC9yZXNp/emVfY2FjaGUvb3Bl/bmdyYXBoLzE5NS82/MDBfMzE1XzM3MjVl/NDhjMDQ0MTYzZGZj/NDFlYWI2M2QxMGYy/OTM5MC8xOTU3ODE4/YWY2MjllZGMzYzIz/MWQ5MmQ5ZmE0YzJj/Mi5qcGc",
+                "original": "https://www.ashmanov.com/upload/resize_cache/opengraph/195/600_315_3725e48c044163dfc41eab63d10f29390/1957818af629edc3c231d92d9fa4c2c2.jpg"
+              }
+            ]
+          },
+          "categories": []
+        },
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Ашманов и партнеры",
+              "url": "https://www.ashmanov.com/company/"
+            },
+            {
+              "type": "person",
+              "name": "Анастасия Курдюкова",
+              "url": "https://www.ashmanov.com/education/authors/anastasiya-kurdyukova/"
+            },
+            {
+              "type": "person",
+              "name": "Денис Шубенок",
+              "url": "https://www.ashmanov.com/education/authors/denis-shubenok/"
+            }
+          ],
+          "publisher": {
+            "type": "organization",
+            "name": "Ашманов и партнеры",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/982bWDGAOJai8mTdfwwSb0tHwdCAmJWCr9AetOq7DMc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YXNobWFub3YuY29t/L3N0YXRpYy9pbWcv/YWlwX2xvZ29fc21h/bGwucG5n",
+              "original": "https://www.ashmanov.com/static/img/aip_logo_small.png"
+            }
+          }
+        },
+        "extra_snippets": [
+          "Разбираем главные новости «Дня Поиска» Яндекса от 7 апреля 2026 года: усиленная Алиса AI, новые возможности Поиска, критерии ЭПОС, ИИ-блендер и инструмент для анализа видимости сайта в Алисе AI.",
+          "Яндекс Поиск с усиленной Алисой AI: большое обновление, новые функции, инструмент Вебмастера для ИИ-ответов от 7 апреля 2026 года",
+          "Это продолжение интеграции технологий Алисы, начатой в 2025 году, когда под поисковой строкой стали появляться генеративные ответы с источниками, иллюстрациями и видеоматериалами.",
+          "Теперь фокус смещается на углубление исользования ИИ в обработке запросов и формировании ответов. Алиса AI более активно анализирует именно контекст запросов, что позволило улучшить качество и релевантность генерируемых ответов."
+        ]
+      },
+      {
+        "title": "Скачать Алиса AI: Нейросеть на русском 26.10.1 для Android, iPhone / iPad, iPad",
+        "url": "https://trashbox.ru/link/alice-ai-android",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Настраивайте режимы общения: Алиса может отвечать голосом или работать в тихом режиме. Есть обновление в Google Play: Alice AI (Secret version) 20 апреля 2026, 00:00",
+        "page_age": "2026-04-11T00:15:44",
+        "profile": {
+          "name": "Trashbox",
+          "url": "https://trashbox.ru/link/alice-ai-android",
+          "long_name": "trashbox.ru",
+          "img": "https://imgs.search.brave.com/cLGYGre2zsJrrASqfwEowodYzMsdYcptqaGuu6t3nmE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTQxZjM1Nzky/N2ZjZWNhODdmNDM5/NWQ3MjQwMjdjMzAz/MjU3YmY4ZTViNTA5/Yzk3ZTI5MjQxZDZl/MDM5OTdkYy90cmFz/aGJveC5ydS8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "creative_work",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "trashbox.ru",
+          "hostname": "trashbox.ru",
+          "favicon": "https://imgs.search.brave.com/cLGYGre2zsJrrASqfwEowodYzMsdYcptqaGuu6t3nmE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTQxZjM1Nzky/N2ZjZWNhODdmNDM5/NWQ3MjQwMjdjMzAz/MjU3YmY4ZTViNTA5/Yzk3ZTI5MjQxZDZl/MDM5OTdkYy90cmFz/aGJveC5ydS8",
+          "path": "  › android  › утилиты"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/4wdw_fAhMbgf5NfEYFKj7JVBsMAN4GYrGqa_KhY9Mso/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90cmFz/aGJveC5ydS9hcGtf/aWNvbnMvdG9waWNf/MTg1MDgwXzI1Ni5w/bmc_MTc3NjcxOTY2/MA",
+          "original": "https://trashbox.ru/apk_icons/topic_185080_256.png?1776719660",
+          "logo": true
+        },
+        "age": "2 weeks ago",
+        "creative_work": {
+          "name": "Алиса AI",
+          "rating": {
+            "ratingValue": 5.0,
+            "bestRating": 5.0,
+            "reviewCount": 1,
+            "is_tripadvisor": false
+          },
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/4wdw_fAhMbgf5NfEYFKj7JVBsMAN4GYrGqa_KhY9Mso/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90cmFz/aGJveC5ydS9hcGtf/aWNvbnMvdG9waWNf/MTg1MDgwXzI1Ni5w/bmc_MTc3NjcxOTY2/MA",
+            "original": "https://trashbox.ru/apk_icons/topic_185080_256.png?1776719660"
+          }
+        },
+        "extra_snippets": [
+          "Движок версии 14.6 © 2006-2026 А. Бобылев · Пользовательское соглашение · Политика конфиденциальности · Приложения / Android / Apple iOS / iPad / Утилиты / ИИ ... Чат с Алисой: тексты, новые идеи, знания и генерация изображений.",
+          "Настраивайте режимы общения: Алиса может отвечать голосом или работать в тихом режиме. Есть обновление в Google Play: Alice AI (Secret version) 20 апреля 2026, 00:00",
+          "Какой смартфон купить в апреле 2026: рейтинг лучших моделей на любой бюджет",
+          "Какой ПК собрать в апреле 2026 года: лучшие игровые сборки от 56 970 рублей"
+        ]
+      },
+      {
+        "title": "Алиса AI для решения реальных задач",
+        "url": "https://alice.yandex.ru/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Работает на Alice AI — саом мощном семействе генеративных моделей Яндекса. Анализируйте файлы, ищите ответы, генерируйте тексты и ...",
+        "profile": {
+          "name": "Yandex",
+          "url": "https://alice.yandex.ru/",
+          "long_name": "alice.yandex.ru",
+          "img": "https://imgs.search.brave.com/HLEAK7N9YTxkzuydOw8dDv3zyC_0HweGbBbWGzFPCjY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTFjNzhhMmQ4/MThhNGU1MmJjMGI3/OGIyNmU3ODNhNWE5/YTBlMDBjNmIwZjg3/YWE1OGRhNDYwYjM4/MjkxMTcxZi9hbGlj/ZS55YW5kZXgucnUv"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "alice.yandex.ru",
+          "hostname": "alice.yandex.ru",
+          "favicon": "https://imgs.search.brave.com/HLEAK7N9YTxkzuydOw8dDv3zyC_0HweGbBbWGzFPCjY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTFjNzhhMmQ4/MThhNGU1MmJjMGI3/OGIyNmU3ODNhNWE5/YTBlMDBjNmIwZjg3/YWE1OGRhNDYwYjM4/MjkxMTcxZi9hbGlj/ZS55YW5kZXgucnUv",
+          "path": ""
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/dwE-YLPldIvLaJhhOoe6B00oq5Q-2yNfVGQeKuP33lQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly95YXN0/YXRpYy5uZXQvczMv/YWxpY2VzdGF0aWMv/Xy92Mi9zdGF0aWMv/bWVkaWEvb2ctaW1h/Z2UuODM4MGZiNjQu/cG5n",
+          "original": "https://yastatic.net/s3/alicestatic/_/v2/static/media/og-image.8380fb64.png",
+          "logo": false
+        },
+        "extra_snippets": [
+          "Работает на Alice AI — саом мощном семействе генеративных моделей Яндекса. Анализируйте файлы, ищите ответы, генерируйте тексты и изображения в чате."
+        ]
+      },
+      {
+        "title": "Нейросеть Алиса AI 2026: умный помощник для учёбы, работы и творчества",
+        "url": "https://blog.adspower-ru.com/docs/neuroset-alisa-ai",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Это и есть Алиса ИИ нейросеть — нейросеть от Яндекса, которая умеет «думать» и общаться почти как человек.",
+        "page_age": "2026-01-22T00:00:00",
+        "profile": {
+          "name": "Adspower-ru",
+          "url": "https://blog.adspower-ru.com/docs/neuroset-alisa-ai",
+          "long_name": "blog.adspower-ru.com",
+          "img": "https://imgs.search.brave.com/9Ez-KjmEM8qsAaF9_OxAJc9gdyz_DRHsQZsLjgIVKUo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjk3MTkyMDIz/MDllMmIwYzQzZjA5/ZTJjYzdkOWYzMDY2/OTVhZmE5ZWFmOTdh/YTRlNDYxM2IxZjNl/MmIzMWRiOC9ibG9n/LmFkc3Bvd2VyLXJ1/LmNvbS8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "blog.adspower-ru.com",
+          "hostname": "blog.adspower-ru.com",
+          "favicon": "https://imgs.search.brave.com/9Ez-KjmEM8qsAaF9_OxAJc9gdyz_DRHsQZsLjgIVKUo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjk3MTkyMDIz/MDllMmIwYzQzZjA5/ZTJjYzdkOWYzMDY2/OTVhZmE5ZWFmOTdh/YTRlNDYxM2IxZjNl/MmIzMWRiOC9ibG9n/LmFkc3Bvd2VyLXJ1/LmNvbS8",
+          "path": "› docs  › neuroset-alisa-ai"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/G2tlJQBwZkqMGSGfrHjui86HuZp99uDM7r9ZNVwEXWo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yZXNv/dXJjZS13YW5nc3Uu/aGVscGxvb2submV0/L2RvY2tlcl9wcm9k/dWN0aW9uL3E1YzQ3/MS9hcnRpY2xlL1FO/dDhqdkpLL2NvdmVy/L2NvdmVyP3JhbmQ9/MjEzNDA1ODMxNw",
+          "original": "https://resource-wangsu.helplook.net/docker_production/q5c471/article/QNt8jvJK/cover/cover?rand=2134058317",
+          "logo": false
+        },
+        "age": "January 22, 2026",
+        "extra_snippets": [
+          "титульная страницаСценарии использованияСценарии использованияНейросеть Алиса AI 2026: умный помощник для учёбы, работы и творчества",
+          "Алиса AI — это не просто чат-бот. Это настоящий помощник, с которым можно общаться как с человеком.",
+          "Что такое Алиса AI? Как ей пользоваться? Почему Алиса AI так популярна? И главное — как применить её в учёбе и работе?",
+          "Он всегда на связи, отвечает на вопросы, помогает с уроками, придумывает истории и даже рисует картинки. Это и есть Алиса ИИ нейросеть — нейросеть от Яндекса, которая умеет «думать» и общаться почти как человек."
+        ]
+      },
+      {
+        "title": "«Алису AI» адаптировали для незрячих и слабовидящих пользователей",
+        "url": "https://www.ixbt.com/news/2026/04/21/alisu-ai-adaptirovali-dlja-nezrjachih-i-slabovidjashih-polzovatelej.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Обновлённая версия доступна на Android, iOS и в веб-версии. «Алиса AI» работает на базе генеративных моделей семейства Alice AI, включая Alice AI LLM, ...",
+        "page_age": "2026-04-21T11:29:51",
+        "profile": {
+          "name": "iXBT Live",
+          "url": "https://www.ixbt.com/news/2026/04/21/alisu-ai-adaptirovali-dlja-nezrjachih-i-slabovidjashih-polzovatelej.html",
+          "long_name": "ixbt.com",
+          "img": "https://imgs.search.brave.com/sYNw5hacHS1TbyHdKGOX7JhZwWF2EJQgfhBMRSJx-34/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMThjMGRlYWZl/MDA5Njg3NzRjNzcx/ODI4MTdlMjM3MjVl/NDgxMmFkZWEyZjZk/ZDAwMTYwZDZhNGY5/NWI0NDc5MS93d3cu/aXhidC5jb20v"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ixbt.com",
+          "hostname": "www.ixbt.com",
+          "favicon": "https://imgs.search.brave.com/sYNw5hacHS1TbyHdKGOX7JhZwWF2EJQgfhBMRSJx-34/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMThjMGRlYWZl/MDA5Njg3NzRjNzcx/ODI4MTdlMjM3MjVl/NDgxMmFkZWEyZjZk/ZDAwMTYwZDZhNGY5/NWI0NDc5MS93d3cu/aXhidC5jb20v",
+          "path": "  › новости  › 2026-04-21  › «алису ai» адаптировали для незрячих и слабовидящих пользователей"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/T3CPufUog-03shEyVcvvUE16znfiqREg_h9myUzCyHw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5peGJ0LnNpdGUv/MTYwMHg5MDAvc21h/cnQvaHR0cHM6Ly93/d3cuaXhidC5jb20v/aW1nL24xL25ld3Mv/MjAyNi8zLzIvaXhi/dG1lZGlhX2FpLV9f/X19fX18tLWFyXzE2/OV8tLXZfN19iNWQ2/YTRhMC00MzdjLTRm/NTItOTk4Yi02ZWFl/YzBjZDNlM2NfMV9s/YXJnZS5wbmc",
+          "original": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/2/ixbtmedia_ai-_______--ar_169_--v_7_b5d6a4a0-437c-4f52-998b-6eaec0cd3e3c_1_large.png",
+          "logo": false
+        },
+        "age": "3 days ago",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "VerKo",
+              "url": "https://www.ixbt.com/newsauthors/8532mvMj"
+            }
+          ],
+          "date": "Apr 21, 2026",
+          "publisher": {
+            "type": "organization",
+            "name": "IXBT.com",
+            "url": "https://www.ixbt.com",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/9rWbfWGJWnp3bIvaCn1x2cQcfBzmZ7BN7xyRE5uPyho/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/aXhidC5zaXRlL29i/amVjdHMvaW1hZ2Vz/L2l4YnQvbG9nby5w/bmc",
+              "original": "https://cdn.ixbt.site/objects/images/ixbt/logo.png"
+            }
+          }
+        },
+        "extra_snippets": [
+          "На данный момент 16 сервисов омпании, включая чат с «Алисой AI», адаптированы для незрячих и слабовидящих пользователей",
+          "Обновлённая версия доступна на Android, iOS и в веб-версии. «Алиса AI» работает на базе генеративных моделей семейства Alice AI, включая Alice AI LLM, Alice AI ART и Alice AI VLM.",
+          "Чат с «Алисой AI» доступен на alice.yandex.ru, в приложениях «Алиса AI», «Яндекс Браузер» и «Яндекс с Алисой AI».",
+          "Команда Яндекса адаптировала приложение и веб-версию «Алисы AI» для работы со скринридерами — программами экранного доступа, озвучивающими содержимое экрана или выводящими его на брайлевский дисплей."
+        ]
+      },
+      {
+        "title": "Все пользователи «Алисы AI» Яндекса получили доступ к новому ИИ-агенту «Исследовать»",
+        "url": "https://www.ixbt.com/news/2026/04/02/vse-polzovateli-alisy-ai-jandeksa-poluchili-dostup-k-novomu-iiagentu-issledovat.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Пользователи с подпиской «Алиса Плюс» получат приоритет и увеличенный лимит исследований",
+        "page_age": "2026-04-02T07:47:54",
+        "profile": {
+          "name": "iXBT Live",
+          "url": "https://www.ixbt.com/news/2026/04/02/vse-polzovateli-alisy-ai-jandeksa-poluchili-dostup-k-novomu-iiagentu-issledovat.html",
+          "long_name": "ixbt.com",
+          "img": "https://imgs.search.brave.com/sYNw5hacHS1TbyHdKGOX7JhZwWF2EJQgfhBMRSJx-34/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMThjMGRlYWZl/MDA5Njg3NzRjNzcx/ODI4MTdlMjM3MjVl/NDgxMmFkZWEyZjZk/ZDAwMTYwZDZhNGY5/NWI0NDc5MS93d3cu/aXhidC5jb20v"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ixbt.com",
+          "hostname": "www.ixbt.com",
+          "favicon": "https://imgs.search.brave.com/sYNw5hacHS1TbyHdKGOX7JhZwWF2EJQgfhBMRSJx-34/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMThjMGRlYWZl/MDA5Njg3NzRjNzcx/ODI4MTdlMjM3MjVl/NDgxMmFkZWEyZjZk/ZDAwMTYwZDZhNGY5/NWI0NDc5MS93d3cu/aXhidC5jb20v",
+          "path": "  › новости  › 2026-04-02  › все пользователи «алисы ai» яндекса получили доступ к новому ии-агенту «исследовать»"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ONyHMFtviZfzexyg7oyBK97fluj52fee9MNfVac0bBQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5peGJ0LnNpdGUv/MTYwMHg5MDAvc21h/cnQvaHR0cHM6Ly93/d3cuaXhidC5jb20v/aW1nL24xL25ld3Mv/MjAyNi8zLzQvMV9s/YXJnZS5wbmc",
+          "original": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/4/1_large.png",
+          "logo": false
+        },
+        "age": "3 weeks ago",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "VerKo"
+            }
+          ],
+          "date": "Apr 02, 2026",
+          "publisher": {
+            "type": "organization",
+            "name": "IXBT.com",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/9rWbfWGJWnp3bIvaCn1x2cQcfBzmZ7BN7xyRE5uPyho/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/aXhidC5zaXRlL29i/amVjdHMvaW1hZ2Vz/L2l4YnQvbG9nby5w/bmc",
+              "original": "https://cdn.ixbt.site/objects/images/ixbt/logo.png"
+            }
+          }
+        },
+        "extra_snippets": [
+          "ИИ-агент «Исследовать» доступен на сайте alice.yandex.ru, в приложениях «Алиса AI», «Яндекс с Алисой AI» и в «Яндекс Браузере». Пользователи с подпиской «Алиса Плюс» получат приоритет и увеличенный лимит исследований — до 10 исследований в месяц.",
+          "Команда Яндекса объявила о масштабном запуске новой функции фирменной нейросети «Алиса AI». Теперь любой может воспользоваться виртуальным аналитиком в чате, который способен провести комплексный анализ данных — от финансового планирования до оценки эффективности алгоритмов.",
+          "Искусственный интеллект Россия нейросеть YandexGPT Yandex Яндекс Алиса Alice 02 апр 10:36"
+        ]
+      },
+      {
+        "title": "Как «Алиса AI» стала первой в мире нейросетью, которая может распознавать запахи",
+        "url": "https://www.sostav.ru/publication/kak-alisa-ai-stala-pervoj-v-mire-nejrosetyu-kotoraya-mozhet-raspoznavat-zapakhi-83212.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Чтобы «Алиса AI» распознала запах, нужно было перейти в чат с ней в приложении или на сайте, нажать на кнопку функции и просто загрузить ...",
+        "page_age": "2026-04-20T15:43:00",
+        "profile": {
+          "name": "Sostav.ru",
+          "url": "https://www.sostav.ru/publication/kak-alisa-ai-stala-pervoj-v-mire-nejrosetyu-kotoraya-mozhet-raspoznavat-zapakhi-83212.html",
+          "long_name": "sostav.ru",
+          "img": "https://imgs.search.brave.com/yK-M8zlCTmj-bUox3R8Cpi_BdT7Qwa0Q3rKtY-8LcfE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY4OTc1Zjg0/YzA1ZTgzMzA5YjIw/NTZiODg2YzAzNzg5/ZjM5OGE0ODNlODY1/Y2JkOWY3YmRiMDBl/NGU3NmE0Ny93d3cu/c29zdGF2LnJ1Lw"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "sostav.ru",
+          "hostname": "www.sostav.ru",
+          "favicon": "https://imgs.search.brave.com/yK-M8zlCTmj-bUox3R8Cpi_BdT7Qwa0Q3rKtY-8LcfE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY4OTc1Zjg0/YzA1ZTgzMzA5YjIw/NTZiODg2YzAzNzg5/ZjM5OGE0ODNlODY1/Y2JkOWY3YmRiMDBl/NGU3NmE0Ny93d3cu/c29zdGF2LnJ1Lw",
+          "path": "  › новости  › digital  › нейросети"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/H6gwzrMeZr25KRdMRtUN_eZ6D3JfMblzRPrnnXMGv-w/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/c29zdGF2LnJ1L2lt/YWdlcy9uZXdzLzIw/MjYvMDQvMTcvcHJl/dmlldy84MzIxMl9z/dC5qcGc",
+          "original": "https://www.sostav.ru/images/news/2026/04/17/preview/83212_st.jpg",
+          "logo": false
+        },
+        "age": "4 days ago",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Sostav.ru"
+            }
+          ],
+          "date": "Apr 17, 2026",
+          "publisher": {
+            "type": "organization",
+            "name": "Sostav.ru",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/Ceoj0AO9zm_Umwuowcht-ag50fNn25DJoofDwZLjz4k/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/c29zdGF2LnJ1L2Fw/cC9wdWJsaWMvZGVz/aWduL2xvZ28yMDE4/LnBuZw",
+              "original": "https://www.sostav.ru/app/public/design/logo2018.png"
+            }
+          }
+        },
+        "extra_snippets": [
+          "© Sostav.ru 1998-2026 Независимый проект брендингового агентства Depot",
+          "Чтобы «Алиса AI» распознала запах, нужно было перейти в чат с ней в приложении или на сайте, нажать на кнопку функции и просто загрузить любую картинку — спустя несколько секунд нейросеть отвечала, чем пахнет то, что там изображено.",
+          "Более того, такая функция уже давно была в нейросети — «Алиса AI» умеет анализировать фото и считывать с них текст.",
+          "Команда Digital PR нейросети «Алисы AI» в этом году захотела пойти дальше и выпустить шутку прямо внутри продукта — в виде реально работающей функции в нейросети."
+        ]
+      },
+      {
+        "title": "Алиса AI — Википедия",
+        "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8%D1%81%D0%B0_AI",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Али́са AI (до 28 октября 2025 года Нейросеть Алиса, до 2024 года Алиса) — нейросеть, созданная компанией Яндекс.",
+        "page_age": "2026-04-15T11:43:01",
+        "profile": {
+          "name": "Wikipedia",
+          "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8%D1%81%D0%B0_AI",
+          "long_name": "ru.wikipedia.org",
+          "img": "https://imgs.search.brave.com/2IG02A8mKYF-36M_tHuhweGVBVKOU0AYMnvcSheekkk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmJlMTM3YjZi/MmEzOTE4YTk5ZTUz/ZTA4OTRmMjlkMDFk/ZDZkZjkzOTBiZmVk/ZDg4ODRjYjc4M2Rk/NjNkOWIzNy9ydS53/aWtpcGVkaWEub3Jn/Lw"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "deep_results": {
+          "buttons": [
+            {
+              "type": "button_result",
+              "title": "История",
+              "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8%D1%81%D0%B0_AI#История"
+            },
+            {
+              "type": "button_result",
+              "title": "Технологии",
+              "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8%D1%81%D0%B0_AI#Технологии"
+            },
+            {
+              "type": "button_result",
+              "title": "Устройства с «Алисой AI»",
+              "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8%D1%81%D0%B0_AI#Устройства_с_«Алисой_AI»"
+            },
+            {
+              "type": "button_result",
+              "title": "Конструкторы навыков",
+              "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8%D1%81%D0%B0_AI#Конструкторы_навыков"
+            },
+            {
+              "type": "button_result",
+              "title": "Критика",
+              "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8%D1%81%D0%B0_AI#Критика"
+            },
+            {
+              "type": "button_result",
+              "title": "На других языках",
+              "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8%D1%81%D0%B0_AI#На_других_языках"
+            },
+            {
+              "type": "button_result",
+              "title": "Прочее",
+              "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8%D1%81%D0%B0_AI#Прочее"
+            },
+            {
+              "type": "button_result",
+              "title": "Примечания",
+              "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8%D1%81%D0%B0_AI#Примечания"
+            }
+          ]
+        },
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ru.wikipedia.org",
+          "hostname": "ru.wikipedia.org",
+          "favicon": "https://imgs.search.brave.com/2IG02A8mKYF-36M_tHuhweGVBVKOU0AYMnvcSheekkk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmJlMTM3YjZi/MmEzOTE4YTk5ZTUz/ZTA4OTRmMjlkMDFk/ZDZkZjkzOTBiZmVk/ZDg4ODRjYjc4M2Rk/NjNkOWIzNy9ydS53/aWtpcGVkaWEub3Jn/Lw",
+          "path": "› wiki  › Алиса_AI"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/8ryR8eIyiBgnBYcygVYK2HLb4LY-crUq5a4Ci3ULHB8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2QyL0FsaXNhX1lh/bmRleC5zdmc",
+          "original": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Alisa_Yandex.svg",
+          "logo": true
+        },
+        "age": "1 week ago",
+        "extra_snippets": [
+          "Али́са AI (до 28 октября 2025 года Нейросеть Алиса, до 2024 года Алиса) — нейросеть, созданная компанией Яндекс. Работает в двух форматах: как нейросеть в чат-боте и как виртуальный ассистент в умных устройствах.",
+          "По данным Яндекса, в июне 2025 года «Алисой» в поиске и в чате воспользовалось более 43 млн человек.",
+          "В феврале 2025 года Алиса была обновлена до новой языковой модели YandexGPT-5 Pro.",
+          "В мае 2025 года Яндекс добавил Алису в Поиск.",
+          "С помощью чата с Алисой AI можно создавать тексты разных стилей, придумывать идеи и концепции, генерировать изображения и работать с файлами. Пользователям доступен режим рассуждений, который нужен при решении сложных, многосоставных задач."
+        ]
+      },
+      {
+        "title": "Все возможности Алисы AI — в одном приложении",
+        "url": "https://alice.yandex.ru/aliceapp/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Или делайте трендовые анимированные аватарки для соцсетей. Алиса AI добавит движение в любое изображение — просто отправьте фото в ...",
+        "profile": {
+          "name": "Yandex",
+          "url": "https://alice.yandex.ru/aliceapp/",
+          "long_name": "alice.yandex.ru",
+          "img": "https://imgs.search.brave.com/HLEAK7N9YTxkzuydOw8dDv3zyC_0HweGbBbWGzFPCjY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTFjNzhhMmQ4/MThhNGU1MmJjMGI3/OGIyNmU3ODNhNWE5/YTBlMDBjNmIwZjg3/YWE1OGRhNDYwYjM4/MjkxMTcxZi9hbGlj/ZS55YW5kZXgucnUv"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "alice.yandex.ru",
+          "hostname": "alice.yandex.ru",
+          "favicon": "https://imgs.search.brave.com/HLEAK7N9YTxkzuydOw8dDv3zyC_0HweGbBbWGzFPCjY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTFjNzhhMmQ4/MThhNGU1MmJjMGI3/OGIyNmU3ODNhNWE5/YTBlMDBjNmIwZjg3/YWE1OGRhNDYwYjM4/MjkxMTcxZi9hbGlj/ZS55YW5kZXgucnUv",
+          "path": "› aliceapp"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/MAA9rAh10aJxvz8jRUL5__jYKzYqpwiVsNg6dIy0Fvs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hdmF0/YXJzLm1kcy55YW5k/ZXgubmV0L2dldC1s/cGMvMTI2MDI1Njcv/NjVjNzQyODMtZmVi/YS00M2Q2LThhNmMt/NTVjNjc1YjdmOThk/L29yaWc",
+          "original": "https://avatars.mds.yandex.net/get-lpc/12602567/65c74283-feba-43d6-8a6c-55c675b7f98d/orig",
+          "logo": false
+        },
+        "extra_snippets": [
+          "Переписывайтесь с Алисой AI в чате или задавайте вопросы голосом — она ответит в том же формате.",
+          "Кстати, в чате можно сохранять ответы Алисы со Станции и работать над ними, даже когда вы не дома.",
+          "Или делайте трендовые анимированные аватарки для соцсетей. Алиса AI добавит движение в любое изображение — просто отправьте фото в чат и опишите свою идею",
+          "Если при решении вопроса нужно учитывать несколько условий, включайте режим Рассуждений. В нём Алиса AI даёт подробные и осмысленные ответы на основе анализа экспертного уровня"
+        ]
+      }
+    ],
+    "family_friendly": true
+  }
+}

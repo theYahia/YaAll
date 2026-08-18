@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "{{НАЗВАНИЕ_ПРИЛОЖЕНИЯ}}",
+  "description": "{{ОПИСАНИЕ}}",
+  "url": "{{URL_СТРАНИЦЫ}}",
+  "applicationCategory": "{{КАТЕГОРИЯ}}",
+  "operatingSystem": "{{ОС_НАПРИМЕР_Android_iOS_Web}}",
+  "offers": {
+    "@type": "Offer",
+    "price": "{{ЦЕНА_0_ДЛЯ_БЕСПЛАТНЫХ}}",
+    "priceCurrency": "RUB"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "{{СРЕДНЯЯ_ОЦЕНКА}}",
+    "ratingCount": "{{КОЛ_ВО_ОЦЕНОК}}",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "{{РАЗРАБОТЧИК}}"
+  }
+}

@@ -1,0 +1,546 @@
+{
+  "type": "search",
+  "query": {
+    "original": "russian text quality scoring readability expertise metrics python",
+    "show_strict_warning": false,
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 19,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "py-readability-metrics · PyPI",
+        "url": "https://pypi.org/project/py-readability-metrics/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Score text &quot;Readability&quot; with popular formulas and metrics including Flesch-Kincaid, Gunning Fog, ARI, Dale Chall, SMOG, Spache and more",
+        "profile": {
+          "name": "PyPI",
+          "url": "https://pypi.org/project/py-readability-metrics/",
+          "long_name": "pypi.org",
+          "img": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pypi.org",
+          "hostname": "pypi.org",
+          "favicon": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8",
+          "path": "› project  › py-readability-metrics"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lJdaJSfF8JrYle3bvs5zoI0KGv_VB46f4fIqVrxGCmI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9weXBp/Lm9yZy9zdGF0aWMv/aW1hZ2VzL3R3aXR0/ZXIuYWJhZjRiMTku/d2VicA",
+          "original": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+          "logo": false
+        },
+        "software": {
+          "name": "py-readability-metrics",
+          "version": "1.4.5",
+          "homepage": "https://github.com/cdimascio/py-readability-metrics",
+          "datePublished": "Aug 02, 2020",
+          "is_npm": false,
+          "is_pypi": true,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "Score the readability of text using popular readability formulas and metrics including: Flesch Kincaid Grade Level, Flesch Reading Ease, Gunning Fog Index, Dale Chall Readability, Automated Readability Index (ARI), Coleman Liau Index, Linsear Write, SMOG, and SPACHE. 📗 · pip install py-readability-metrics python -m nltk.downloader punkt",
+          "The commonwealth of Pennsylvania uses Flesch-Kincaid Grade Level for scoring automobile insurance policies to ensure their texts are no higher than a ninth grade level of reading difficulty. Many other U.S. states also use Flesch-Kincaid Grade Level to score other legal documents such as business policies and financial forms.",
+          "The U.S. Department of Defense uses the Reading Ease test as the standard test of readability for its documents and forms. Florida requires that life insurance policies have a Flesch Reading Ease score of 45 or greater."
+        ]
+      },
+      {
+        "title": "GitHub - cdimascio/py-readability-metrics: 📗 Score text readability using a number of formulas: Flesch-Kincaid Grade Level, Gunning Fog, ARI, Dale Chall, SMOG, and more",
+        "url": "https://github.com/cdimascio/py-readability-metrics",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "📗 Score text readability using a number of formulas: Flesch-Kincaid Grade Level, Gunning Fog, ARI, Dale Chall, SMOG, and more - cdimascio/py-readability-metrics",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/cdimascio/py-readability-metrics",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› cdimascio  › py-readability-metrics"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Afau3c1i8H34zD64XublqZUQ6MAWHhbg96ZMuAkCIls/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yZXBv/c2l0b3J5LWltYWdl/cy5naXRodWJ1c2Vy/Y29udGVudC5jb20v/MTYzNzA1MjM3L2M1/MjY4ZTgwLTExNmMt/MTFlYS05MWUzLTU2/ZDBiYjgyNDVjMg",
+          "original": "https://repository-images.githubusercontent.com/163705237/c5268e80-116c-11ea-91e3-56d0bb8245c2",
+          "logo": false
+        },
+        "software": {
+          "name": "py-readability-metrics",
+          "author": "cdimascio",
+          "is_npm": false,
+          "is_pypi": false,
+          "stars": 402,
+          "forks": 68,
+          "programmingLanguage": "Python 100.0% | Python 100.0%"
+        },
+        "extra_snippets": [
+          "pip install py-readability-metrics python -m nltk.downloader punkt"
+        ]
+      },
+      {
+        "title": "textstat · PyPI",
+        "url": "https://pypi.org/project/textstat/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Returns a grade level score for the given text. A value of 4 means very easy text, whereas 15 means very difficult text. ... Returns the number of syllables present in the given text.",
+        "profile": {
+          "name": "PyPI",
+          "url": "https://pypi.org/project/textstat/",
+          "long_name": "pypi.org",
+          "img": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pypi.org",
+          "hostname": "pypi.org",
+          "favicon": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8",
+          "path": "› project  › textstat"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lJdaJSfF8JrYle3bvs5zoI0KGv_VB46f4fIqVrxGCmI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9weXBp/Lm9yZy9zdGF0aWMv/aW1hZ2VzL3R3aXR0/ZXIuYWJhZjRiMTku/d2VicA",
+          "original": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+          "logo": false
+        },
+        "software": {
+          "name": "textstat",
+          "version": "0.7.13",
+          "homepage": "https://github.com/textstat/textstat",
+          "datePublished": "Feb 18, 2026",
+          "is_npm": false,
+          "is_pypi": true,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "Returns a grade level score for the given text. A value of 4 means very easy text, whereas 15 means very difficult text. ... Returns the number of syllables present in the given text. Uses the Python module Pyphen for syllable calculation in most languages, but defaults to nltk.corpus.cmudict for en_US.",
+          "Returns the Flesch Reading Ease Score.",
+          "The table is an example of values. While the maximum score is 121.22, there is no limit on how low the score can be.",
+          "A negative score is valid."
+        ]
+      },
+      {
+        "title": "Readability tests | Python",
+        "url": "https://campus.datacamp.com/courses/feature-engineering-for-nlp-in-python/basic-features-and-readability-scores?ex=8",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "This exercise is part of the course · Learn to compute basic features such as number of words, number of characters, average word length and number of special characters (such as Twitter hashtags and mentions). You will also learn to compute readability scores and determine the amount of education ...",
+        "profile": {
+          "name": "DataCamp",
+          "url": "https://campus.datacamp.com/courses/feature-engineering-for-nlp-in-python/basic-features-and-readability-scores?ex=8",
+          "long_name": "campus.datacamp.com",
+          "img": "https://imgs.search.brave.com/cuXevl4wjH0_gW8TDCSDf1RkMF3xwiD6-LQlovutaXA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2E3ZjM1ZTg0/NmUxMTI2MGIwMmI0/Njc0MDNiNThjNDkw/ZTFlN2E2MjY0NGU4/OWQyZmRjMzI0Yjlm/YTdhZTFjMy9jYW1w/dXMuZGF0YWNhbXAu/Y29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "campus.datacamp.com",
+          "hostname": "campus.datacamp.com",
+          "favicon": "https://imgs.search.brave.com/cuXevl4wjH0_gW8TDCSDf1RkMF3xwiD6-LQlovutaXA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2E3ZjM1ZTg0/NmUxMTI2MGIwMmI0/Njc0MDNiNThjNDkw/ZTFlN2E2MjY0NGU4/OWQyZmRjMzI0Yjlm/YTdhZTFjMy9jYW1w/dXMuZGF0YWNhbXAu/Y29tLw",
+          "path": "› courses  › feature-engineering-for-nlp-in-python  › basic-features-and-readability-scores"
+        },
+        "extra_snippets": [
+          "The index can be interpreted using this table. A score of 6 would indicate 6th grade reading difficulty whereas a score of 17 would indicate college graduate level reading difficulty. We can conduct these tests in Python using the readability metrics library.",
+          "Here is an example of Readability tests:",
+          "There are a variety of readability tests in use. Some of the common ones include the Flesch reading ease, the Gunning fog index, the simple measure of gobbledygook or SMOG and the Dale-Chall score. Note that these tests are used for texts in English. Tests for other languages also exist that take into consideration, the nuances of that particular language.",
+          "The Flesch Reading Ease is one of the oldest and most widely used readability tests. The score is based on two ideas: the first is that the greater the average sentence length, harder the text is to read. Consider these two sentences. The first is easier to follow than the second."
+        ]
+      },
+      {
+        "title": "Measuring the \"readability\" of texts with Large Language Models",
+        "url": "https://seantrott.substack.com/p/measuring-the-readability-of-texts",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "To calculate Flesch-Kincaid, you just need an estimate of the number of words per sentence (which is pretty easy in languages like English, which separates words with spaces), as well as the number of syllables per word (which you can obtain from an electronic dictionary). In fact, the Python package textstat has working implementations of this formula (and others) in English, as well as other languages like French and Russian.",
+        "page_age": "2024-02-02T16:32:55",
+        "profile": {
+          "name": "Substack",
+          "url": "https://seantrott.substack.com/p/measuring-the-readability-of-texts",
+          "long_name": "seantrott.substack.com",
+          "img": "https://imgs.search.brave.com/UflvaevUEfEuP_Uheev9cQ7XuF2RqNVWY7Qz154jhBI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjJiNGExMWQ1/N2UzMDY3ZjFhNDZk/Y2I5ZTNjYTZjYmE3/NzY3YWFjMTg2Njdj/YjExMjhiYWFhOGYy/ZTU2ZGY2OC9zZWFu/dHJvdHQuc3Vic3Rh/Y2suY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "seantrott.substack.com",
+          "hostname": "seantrott.substack.com",
+          "favicon": "https://imgs.search.brave.com/UflvaevUEfEuP_Uheev9cQ7XuF2RqNVWY7Qz154jhBI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjJiNGExMWQ1/N2UzMDY3ZjFhNDZk/Y2I5ZTNjYTZjYmE3/NzY3YWFjMTg2Njdj/YjExMjhiYWFhOGYy/ZTU2ZGY2OC9zZWFu/dHJvdHQuc3Vic3Rh/Y2suY29tLw",
+          "path": "› p  › measuring-the-readability-of-texts"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/T3Z6hzipHCFn6R09u868zzMLVEK53yXmV9lRsinr7j4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdWJz/dGFja2Nkbi5jb20v/aW1hZ2UvZmV0Y2gv/Zl9hdXRvLHFfYXV0/bzpnb29kLGZsX3By/b2dyZXNzaXZlOnN0/ZWVwL2h0dHBzJTNB/JTJGJTJGc3Vic3Rh/Y2stcG9zdC1tZWRp/YS5zMy5hbWF6b25h/d3MuY29tJTJGcHVi/bGljJTJGaW1hZ2Vz/JTJGMThjYzA5Yzct/ODI1Ni00NjM1LWE4/YmEtZGI5MmUxYjBl/OWJlXzE5MjB4MTQ0/MC5wbmc",
+          "original": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18cc09c7-8256-4635-a8ba-db92e1b0e9be_1920x1440.png",
+          "logo": false
+        },
+        "age": "February 2, 2024",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Sean Trott",
+              "url": "https://substack.com/@seantrott",
+              "thumbnail": {
+                "src": "https://imgs.search.brave.com/gevTwphJsl0E8-oV-sb-ABcMgFegIhQh8LlgXKADUJQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdWJz/dGFja2Nkbi5jb20v/aW1hZ2UvZmV0Y2gv/JHNfIXAzaW8hLGZf/YXV0byxxX2F1dG86/Z29vZCxmbF9wcm9n/cmVzc2l2ZTpzdGVl/cC9odHRwcyUzQSUy/RiUyRmJ1Y2tldGVl/ci1lMDViYmM4NC1i/YWEzLTQzN2UtOTUx/OC1hZGIzMmJlNzc5/ODQuczMuYW1hem9u/YXdzLmNvbSUyRnB1/YmxpYyUyRmltYWdl/cyUyRmJiN2FjODBm/LTBhZjUtNGRkMi05/Y2Q5LWRlM2QxY2U1/OTAwM18xMzA5eDE5/NTQuanBlZw",
+                "original": "https://substackcdn.com/image/fetch/$s_!p3io!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb7ac80f-0af5-4dd2-9cd9-de3d1ce59003_1309x1954.jpeg"
+              }
+            }
+          ],
+          "date": "Feb 02, 2024",
+          "publisher": {
+            "type": "organization",
+            "name": "The Counterfactual",
+            "url": "https://seantrott.substack.com"
+          },
+          "isAccessibleForFree": true
+        },
+        "extra_snippets": [
+          "To calculate Flesch-Kincaid, you just need an estimate of the number of words per sentence (which is pretty easy in languages like English, which separates words with spaces), as well as the number of syllables per word (which you can obtain from an electronic dictionary). In fact, the Python package textstat has working implementations of this formula (and others) in English, as well as other languages like French and Russian.",
+          "Some metrics of readability (like Linsear Write) were supposedly developed for the purpose of evaluating training manuals (e.g., for the Air Force). Speaking of accessibility, the Web Content Accessibility Guidelines (WCAG) include a requirement that text on the web be understandable and readable.",
+          "Thus, they used something called a Bradley-Terry model to convert those pairwise judgments into individual scores for each text excerpt. Intuitively, this works as follows: the more times text A is selected as more readable than another text, the more readable that text is; ultimately, each text is assigned a “readability coefficient” which represents (roughly) the proportion of times it is selected as more readable than its competitors.",
+          "This number was called the “BT (Bradley-Terry) Easiness” score. These numbers are standardized, so they range from about -3.67 to 1.71 (mean = -0.96, SD = 1.03). A more negative number means that a text is not very readable, while a more positive number means that a text is more readable."
+        ]
+      },
+      {
+        "title": "py-readability-metrics — py-readability-metrics 1.4.4 documentation",
+        "url": "https://py-readability-metrics.readthedocs.io/en/latest/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Score the readability of text using popular readability metrics including: Flesch Kincaid Grade Level, Flesch Reading Ease, Gunning Fog Index, Dale Chall Readability, Automated Readability Index (ARI), Coleman Liau Index, Lisnear Write, and SMOG · pip install py-readability-metrics python ...",
+        "profile": {
+          "name": "Readthedocs",
+          "url": "https://py-readability-metrics.readthedocs.io/en/latest/",
+          "long_name": "py-readability-metrics.readthedocs.io",
+          "img": "https://imgs.search.brave.com/jL2tF59jvtmLuXYmM1tZuO3SBvyw3-nn1yqR6ZmCyWo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWM4ZTQ5MzJh/ODJjYTYyOTRmODhi/OTRjM2JiNGNmNTJj/NTI4YTY5ZjU1NWVk/ZmU2ZGU3NzFhOWVi/MzcxZGUwNy9weS1y/ZWFkYWJpbGl0eS1t/ZXRyaWNzLnJlYWR0/aGVkb2NzLmlvLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "py-readability-metrics.readthedocs.io",
+          "hostname": "py-readability-metrics.readthedocs.io",
+          "favicon": "https://imgs.search.brave.com/jL2tF59jvtmLuXYmM1tZuO3SBvyw3-nn1yqR6ZmCyWo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWM4ZTQ5MzJh/ODJjYTYyOTRmODhi/OTRjM2JiNGNmNTJj/NTI4YTY5ZjU1NWVk/ZmU2ZGU3NzFhOWVi/MzcxZGUwNy9weS1y/ZWFkYWJpbGl0eS1t/ZXRyaWNzLnJlYWR0/aGVkb2NzLmlvLw",
+          "path": "› en  › latest"
+        },
+        "extra_snippets": [
+          "Score the readability of text using popular readability metrics including: Flesch Kincaid Grade Level, Flesch Reading Ease, Gunning Fog Index, Dale Chall Readability, Automated Readability Index (ARI), Coleman Liau Index, Lisnear Write, and SMOG · pip install py-readability-metrics python -m nltk.downloader punkt"
+        ]
+      },
+      {
+        "title": "[Textstat] How to evaluate readability?",
+        "url": "https://www.kaggle.com/code/yhirakawa/textstat-how-to-evaluate-readability",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Checking your browser before accessing www.kaggle.com · Click here if you are not automatically redirected after 5 seconds",
+        "profile": {
+          "name": "Kaggle",
+          "url": "https://www.kaggle.com/code/yhirakawa/textstat-how-to-evaluate-readability",
+          "long_name": "kaggle.com",
+          "img": "https://imgs.search.brave.com/LYDej7nuUhFTLCe5StdAieSCp7HNxEe9IynPedz8e50/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzFhNzdkYTBi/YzU2YTBlYmJmMWQ4/NDU1MjM3YTk4MWI3/NWZmZDllM2RkZTM0/MjM1ZmE4YmRmM2M3/ZjI3NzNiMi93d3cu/a2FnZ2xlLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "kaggle.com",
+          "hostname": "www.kaggle.com",
+          "favicon": "https://imgs.search.brave.com/LYDej7nuUhFTLCe5StdAieSCp7HNxEe9IynPedz8e50/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzFhNzdkYTBi/YzU2YTBlYmJmMWQ4/NDU1MjM3YTk4MWI3/NWZmZDllM2RkZTM0/MjM1ZmE4YmRmM2M3/ZjI3NzNiMi93d3cu/a2FnZ2xlLmNvbS8",
+          "path": "› code  › yhirakawa  › textstat-how-to-evaluate-readability"
+        }
+      },
+      {
+        "title": "GitHub - mmautner/readability: a collection of functions that measure the readability of a given body of text",
+        "url": "https://github.com/mmautner/readability",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "I&#x27;d recommend checking out the wikipedia articles below--most of the metrics estimate the grade level required to comprehend a given block of text and may return odd results on small snippets of text. To get up and running you&#x27;ll need NLTK and will need the punkt data set: shell$ pip install nltk shell$ python &gt;&gt;import nltk &gt;&gt;nltk.download(&#x27;punkt&#x27;)",
+        "profile": {
+          "name": "GitHub",
+          "url": "https://github.com/mmautner/readability",
+          "long_name": "github.com",
+          "img": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "github.com",
+          "hostname": "github.com",
+          "favicon": "https://imgs.search.brave.com/xxsA4YxzaR0cl-DBsH9-lpv2gsif3KMYgM87p26bs_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQyNWM1NjA5/ZjZmZjNlYzI2MDNk/N2VkNmJhYjE2MzZl/MDY5ZTMxMDUzZmY1/NmU3NWIzNWVmMjk0/NTBjMjJjZi9naXRo/dWIuY29tLw",
+          "path": "› mmautner  › readability"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/sUCbeeckF8RZ31hMwFt1P_bhl4hXx-gDABtSCyJkXQg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcGVu/Z3JhcGguZ2l0aHVi/YXNzZXRzLmNvbS9i/YjY0NGZjNDBhOGEw/MmEzODZhZDFlMmNl/YTVlODA0NDUxYWUz/MjNlM2U2OTlmZTcw/ZGNkYTM2NGE3ODJm/MTUxL21tYXV0bmVy/L3JlYWRhYmlsaXR5",
+          "original": "https://opengraph.githubassets.com/bb644fc40a8a02a386ad1e2cea5e804451ae323e3e699fe70dcda364a782f151/mmautner/readability",
+          "logo": false
+        },
+        "software": {
+          "name": "readability",
+          "author": "mmautner",
+          "is_npm": false,
+          "is_pypi": false,
+          "stars": 196,
+          "forks": 60,
+          "programmingLanguage": "Python 100.0% | Python 100.0%"
+        },
+        "extra_snippets": [
+          "I'd recommend checking out the wikipedia articles below--most of the metrics estimate the grade level required to comprehend a given block of text and may return odd results on small snippets of text. To get up and running you'll need NLTK and will need the punkt data set: shell$ pip install nltk shell$ python >>import nltk >>nltk.download('punkt')",
+          "The following readability metrics are included in readability.py:"
+        ]
+      },
+      {
+        "title": "Readability Index in Python(NLP) - GeeksforGeeks",
+        "url": "https://www.geeksforgeeks.org/readability-index-pythonnlp/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "ASL = Average sentence length &quot;&quot;&quot; words = word_count(text) # Number of words not termed as difficult words count = word_count - difficult_words(text) if words &gt; 0: # Percentage of words not on difficult word list per = float(count) / float(words) * 100 # diff_words stores percentage of difficult words diff_words = 100 - per raw_score = (0.1579 * diff_words) + \\ (0.0496 * avg_sentence_length(text)) # If Percentage of Difficult Words is greater than 5 %, then; # Adjusted Score = Raw Score + 3.6365, # otherwise Adjusted Score = Raw Score if diff_words &gt; 5: raw_score += 3.6365 return legacy_round(score, 2)",
+        "page_age": "2021-09-03T00:05:27",
+        "profile": {
+          "name": "GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/readability-index-pythonnlp/",
+          "long_name": "geeksforgeeks.org",
+          "img": "https://imgs.search.brave.com/bGE5KD5Za34la_MeOAt7584d1aXRWEQopsXEQyAALPw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjBhOGQ3MmNi/ZWE5N2EwMmZjYzA1/ZTI0ZTFhMGUyMTE0/MGM0ZTBmMWZlM2Y2/Yzk2ODMxZTRhYTBi/NDdjYTE0OS93d3cu/Z2Vla3Nmb3JnZWVr/cy5vcmcv"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "geeksforgeeks.org",
+          "hostname": "www.geeksforgeeks.org",
+          "favicon": "https://imgs.search.brave.com/bGE5KD5Za34la_MeOAt7584d1aXRWEQopsXEQyAALPw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjBhOGQ3MmNi/ZWE5N2EwMmZjYzA1/ZTI0ZTFhMGUyMTE0/MGM0ZTBmMWZlM2Y2/Yzk2ODMxZTRhYTBi/NDdjYTE0OS93d3cu/Z2Vla3Nmb3JnZWVr/cy5vcmcv",
+          "path": "› readability-index-pythonnlp"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/XsmKjgGdPhI5EyY-T7EbvI3rvV4x8PGYYcrUI5GzqfU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZWVrc2Zvcmdl/ZWtzLm9yZy93cC1j/b250ZW50L3VwbG9h/ZHMvZ2ZnXzIwMFgy/MDAtMTAweDEwMC5w/bmc",
+          "original": "https://media.geeksforgeeks.org/wp-content/uploads/gfg_200X200-100x100.png",
+          "logo": false
+        },
+        "age": "September 3, 2021",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "GeeksforGeeks",
+              "url": "https://www.geeksforgeeks.org/"
+            }
+          ],
+          "date": "Mar 25, 2018",
+          "publisher": {
+            "type": "organization",
+            "name": "GeeksforGeeks",
+            "url": "https://www.geeksforgeeks.org/",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/8t0csW0AtvhECYCkII8A-ny6TwFvN6QmetAHqm0j9Y0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZWVrc2Zvcmdl/ZWtzLm9yZy93cC1j/b250ZW50L2Nkbi11/cGxvYWRzL2xvZ28t/bmV3LTIuc3Zn",
+              "original": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/logo-new-2.svg"
+            }
+          }
+        },
+        "extra_snippets": [
+          "So, it is required that the content be easy enough to read and understand this is as readable as possible. There are various available Difficulty Scales with their own difficulty determining formulae. This article illustrates various traditional readability formulae available for readability score evaluation.",
+          "Help us improve. Share your suggestions to enhance the article. Contribute your expertise and make a difference in the GeeksforGeeks portal.",
+          "Enhance the article with your expertise.",
+          "ASL = Average sentence length \"\"\" words = word_count(text) # Number of words not termed as difficult words count = word_count - difficult_words(text) if words > 0: # Percentage of words not on difficult word list per = float(count) / float(words) * 100 # diff_words stores percentage of difficult words diff_words = 100 - per raw_score = (0.1579 * diff_words) + \\ (0.0496 * avg_sentence_length(text)) # If Percentage of Difficult Words is greater than 5 %, then; # Adjusted Score = Raw Score + 3.6365, # otherwise Adjusted Score = Raw Score if diff_words > 5: raw_score += 3.6365 return legacy_round(score, 2)"
+        ]
+      },
+      {
+        "title": "readability · PyPI",
+        "url": "https://pypi.org/project/readability/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Measure the readability of a given text using surface characteristics",
+        "profile": {
+          "name": "PyPI",
+          "url": "https://pypi.org/project/readability/",
+          "long_name": "pypi.org",
+          "img": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "software",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "pypi.org",
+          "hostname": "pypi.org",
+          "favicon": "https://imgs.search.brave.com/flW5Iwq2xxYD_afH_8LgWtKsAb0IYlZh0Wn5OL6vifg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjgwMTY1NjI3/NTA4OGQwZmY0ZjQ5/MzJlOWZjMGVjY2Q4/Yzg4NTdlMTg1YTA2/MTliMWFjMmUzZWU2/OTE0ODY2Yi9weXBp/Lm9yZy8",
+          "path": "› project  › readability"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lJdaJSfF8JrYle3bvs5zoI0KGv_VB46f4fIqVrxGCmI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9weXBp/Lm9yZy9zdGF0aWMv/aW1hZ2VzL3R3aXR0/ZXIuYWJhZjRiMTku/d2VicA",
+          "original": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+          "logo": false
+        },
+        "software": {
+          "name": "readability",
+          "version": "0.3.2",
+          "homepage": "https://github.com/andreasvc/readability/",
+          "datePublished": "Jan 14, 2025",
+          "is_npm": false,
+          "is_pypi": true,
+          "programmingLanguage": ""
+        },
+        "extra_snippets": [
+          "The quality of preprocessing affects the validity of the results."
+        ]
+      }
+    ],
+    "family_friendly": true
+  }
+}

@@ -1,0 +1,1027 @@
+{
+  "type": "search",
+  "query": {
+    "original": "serpstat topvisor \"Алиса ai\" генеративная выдача Яндекс",
+    "show_strict_warning": false,
+    "altered": "serpstat topvisor алиса ai генеративная выдача яндекс",
+    "cleaned": "serpstat topvisor Алиса ai генеративная выдача Яндекс",
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": true,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": false,
+    "state": "",
+    "search_operators": {
+      "applied": true,
+      "cleaned_query": "serpstat topvisor Алиса ai генеративная выдача Яндекс"
+    }
+  },
+  "faq": {
+    "type": "faq",
+    "results": [
+      {
+        "question": "Что такое генеративная выдача в поиске с Алисой?",
+        "answer": "Генеративная выдача — это ответы, которые чат-бот Алиса генерирует из различных источников, а не просто список ссылок. Ответы строятся на основе информации, найденной в интернете, и перерабатываются в удобную для пользователя форму.",
+        "title": "Как оптимизировать сайт под «Поиск ...",
+        "url": "https://www.qmedia.by/blog/kak_optimizirovat_sajt_pod_poisk_s_alisoj_i_chat-bot_alisa_ai_v_2026_godu.html",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "qmedia.by",
+          "hostname": "www.qmedia.by",
+          "favicon": "https://imgs.search.brave.com/xmEZyyvZ6m-5nY7osFv93neLcKa3LJH2-AqTyBVtcW0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmRkZGE1YTM4/ZWQ3ZDE0MjUzNjcx/YjgzODY1NmQ2OWJj/MGYwNmJkNGI5MWNh/OTQwMTk4MjRkMzFm/Nzc3NmI3NS93d3cu/cW1lZGlhLmJ5Lw",
+          "path": "  › главная  › блог"
+        }
+      },
+      {
+        "question": "Какие технические аспекты важны для сайта, чтобы попасть в генеративную выдачу?",
+        "answer": "Важно обеспечить быструю загрузку, доступность контента для ИИ-краулеров, корректно настроить адаптивный дизайн и исключить блокировки контента.",
+        "title": "Как оптимизировать сайт под «Поиск ...",
+        "url": "https://www.qmedia.by/blog/kak_optimizirovat_sajt_pod_poisk_s_alisoj_i_chat-bot_alisa_ai_v_2026_godu.html",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "qmedia.by",
+          "hostname": "www.qmedia.by",
+          "favicon": "https://imgs.search.brave.com/xmEZyyvZ6m-5nY7osFv93neLcKa3LJH2-AqTyBVtcW0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmRkZGE1YTM4/ZWQ3ZDE0MjUzNjcx/YjgzODY1NmQ2OWJj/MGYwNmJkNGI5MWNh/OTQwMTk4MjRkMzFm/Nzc3NmI3NS93d3cu/cW1lZGlhLmJ5Lw",
+          "path": "  › главная  › блог"
+        }
+      },
+      {
+        "question": "Как улучшить шансы попадания в генеративную выдачу Алисы?",
+        "answer": "Для этого важно оптимизировать сайт для ИИ, предоставить структурированный контент, который легко парсируется, а также работать над репутацией и авторитетностью ресурса.",
+        "title": "Как оптимизировать сайт под «Поиск ...",
+        "url": "https://www.qmedia.by/blog/kak_optimizirovat_sajt_pod_poisk_s_alisoj_i_chat-bot_alisa_ai_v_2026_godu.html",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "qmedia.by",
+          "hostname": "www.qmedia.by",
+          "favicon": "https://imgs.search.brave.com/xmEZyyvZ6m-5nY7osFv93neLcKa3LJH2-AqTyBVtcW0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmRkZGE1YTM4/ZWQ3ZDE0MjUzNjcx/YjgzODY1NmQ2OWJj/MGYwNmJkNGI5MWNh/OTQwMTk4MjRkMzFm/Nzc3NmI3NS93d3cu/cW1lZGlhLmJ5Lw",
+          "path": "  › главная  › блог"
+        }
+      },
+      {
+        "question": "Какие факторы влияют на доверие ИИ к сайту?",
+        "answer": "ИИ оценивает сайты по принципам E‑E‑A‑T (Опыт, Экспертиза, Авторитетность, Доверие). Важно показывать опыт в теме, иметь качественные внешние ссылки и быть прозрачным в политике обработки данных.",
+        "title": "Как оптимизировать сайт под «Поиск ...",
+        "url": "https://www.qmedia.by/blog/kak_optimizirovat_sajt_pod_poisk_s_alisoj_i_chat-bot_alisa_ai_v_2026_godu.html",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "qmedia.by",
+          "hostname": "www.qmedia.by",
+          "favicon": "https://imgs.search.brave.com/xmEZyyvZ6m-5nY7osFv93neLcKa3LJH2-AqTyBVtcW0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmRkZGE1YTM4/ZWQ3ZDE0MjUzNjcx/YjgzODY1NmQ2OWJj/MGYwNmJkNGI5MWNh/OTQwMTk4MjRkMzFm/Nzc3NmI3NS93d3cu/cW1lZGlhLmJ5Lw",
+          "path": "  › главная  › блог"
+        }
+      }
+    ]
+  },
+  "infobox": {
+    "type": "graph",
+    "results": [
+      {
+        "title": "Алиса AI",
+        "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8%D1%81%D0%B0_AI",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "голосовой помощник от компании Яндекс",
+        "family_friendly": true,
+        "type": "infobox",
+        "position": -1,
+        "long_desc": "Али́са AI (до 28 октября 2025 года Нейросеть Алиса, до 2024 года Алиса) — нейросеть, созданная компанией Яндекс. Работает в двух форматах: как нейросеть в чат-боте и как ...",
+        "attributes": [
+          [
+            "Тип",
+            "<a href='https://ru.wikipedia.org/wiki/Виртуальный_ассистент'>виртуальный ассистент</a> и голосовой помощник<a href='https://www.wikidata.org/wiki/Q125180532#sitelinks-wikipedia'></a>"
+          ],
+          [
+            "Разработчик",
+            "<a href='https://ru.wikipedia.org/wiki/Яндекс'>ООО «Яндекс»</a>"
+          ],
+          [
+            "Написана на",
+            "<a href='https://ru.wikipedia.org/wiki/C++'>C++</a>"
+          ],
+          [
+            "Операционные системы",
+            "<a href='https://ru.wikipedia.org/wiki/Windows'>Windows</a>, <a href='https://ru.wikipedia.org/wiki/Android'>Android</a> и <a href='https://ru.wikipedia.org/wiki/IOS'>iOS</a>"
+          ],
+          [
+            "Дата выпуска",
+            "<a href='https://ru.wikipedia.org/wiki/10_октября'>10 октября</a> <a href='https://ru.wikipedia.org/wiki/2017_год'>2017</a>"
+          ],
+          [
+            "Сайт",
+            "alice.yandex.ru<br><a href='https://commons.wikimedia.org/wiki/Category:Alice%20(Yandex)'>Медиафайлы на Викискладе</a>"
+          ]
+        ],
+        "profiles": [
+          {
+            "name": "YouTube",
+            "url": "https://www.youtube.com/@yandex_search",
+            "long_name": "youtube.com",
+            "img": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v"
+          },
+          {
+            "name": "Wikidata",
+            "url": "http://www.wikidata.org/entity/Q42337230",
+            "long_name": "wikidata.org",
+            "img": "https://imgs.search.brave.com/8vIq-V97PH8S0N-pyaeHgq_gFHOA8hXjBunynHio-Uw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzdkMGIyYTky/OTJjN2RjNDEyNWYx/MGQxNjAzNmZlNDk4/ZTRmNDczNjk0ZTZl/N2IxZjI0NTVkMGE3/YTBiYjEzYi93d3cu/d2lraWRhdGEub3Jn/Lw"
+          },
+          {
+            "name": "VK",
+            "url": "https://vk.com/alice_yndx",
+            "long_name": "vk.com",
+            "img": "https://imgs.search.brave.com/MQK8gqZ0Gg4_DGQkhUiblqmOhR298jpWq-MDEnaVAjE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDlkNTQxZmQw/MTAyNjVmY2YwMzdh/MmQ0ZTlmZTMwZTFm/M2Y1YjBjNjk5ZDU4/ZDdiYTkxZWM3MDgz/ZDc2N2E5Ni92ay5j/b20v"
+          },
+          {
+            "name": "X",
+            "url": "https://x.com/alice_yandex",
+            "long_name": "x.com",
+            "img": "https://imgs.search.brave.com/VpOsyUaQQGp5MT_drqEzgpxdO8o12jax0jeq0Vojuto/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmQzM2JiZDhi/OWVhNGYxZmRkNDli/NzAxODUzMzFhYTNm/ODcxNmE4ZGQ5OTE3/MWU4OGZjNDQyZDdh/NzQ4MWE4YS94LmNv/bS8"
+          },
+          {
+            "name": "Telegram",
+            "url": "https://t.me/s/alice_ya_bot",
+            "long_name": "t.me",
+            "img": "https://imgs.search.brave.com/NIt42vl0MdXky8hEpBF0cs4eueEve_mDvIbqmjxImxo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGZjZjExMjdi/MWVjZDQ1YTg4YzNm/NjFiYmI2ZTJiZTQz/OTFlMTA5NTc1ZjYx/Nzg4YWQ0YmRkMjk0/ODdhMDNlMy90Lm1l/Lw"
+          },
+          {
+            "name": "Yandex Music",
+            "url": "https://music.yandex.ru/artist/5533796",
+            "long_name": "music.yandex.ru",
+            "img": "https://imgs.search.brave.com/wV7rirKRxOWzBmOpDLVjUGa8yvP789APGJWbxcGaznE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGQ1ODZiNGNk/MTk5ZmY2ZDEyMjA5/MmNjYjE5YzUwOWY5/YjUzMDc0MDlkOThk/ODliMDJmZDk3NDRh/ZTRhMTBhYi9tdXNp/Yy55YW5kZXgucnUv"
+          },
+          {
+            "name": "Wikipedia",
+            "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8%D1%81%D0%B0_AI",
+            "long_name": "ru.wikipedia.org",
+            "img": "https://imgs.search.brave.com/2IG02A8mKYF-36M_tHuhweGVBVKOU0AYMnvcSheekkk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmJlMTM3YjZi/MmEzOTE4YTk5ZTUz/ZTA4OTRmMjlkMDFk/ZDZkZjkzOTBiZmVk/ZDg4ODRjYjc4M2Rk/NjNkOWIzNy9ydS53/aWtpcGVkaWEub3Jn/Lw"
+          }
+        ],
+        "website_url": "https://a.ya.ru",
+        "ratings": [],
+        "providers": [
+          {
+            "type": "external",
+            "name": "Wikipedia",
+            "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8%D1%81%D0%B0_AI",
+            "img": "https://imgs.search.brave.com/2IG02A8mKYF-36M_tHuhweGVBVKOU0AYMnvcSheekkk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmJlMTM3YjZi/MmEzOTE4YTk5ZTUz/ZTA4OTRmMjlkMDFk/ZDZkZjkzOTBiZmVk/ZDg4ODRjYjc4M2Rk/NjNkOWIzNy9ydS53/aWtpcGVkaWEub3Jn/Lw"
+          }
+        ],
+        "images": [
+          {
+            "src": "https://imgs.search.brave.com/wkHJvPKYBAsjfQdos5fUzY2mHQtWKjSqzkgCVnputmI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9kL2QyL0Fs/aXNhX1lhbmRleC5z/dmcvMjUwcHgtQWxp/c2FfWWFuZGV4LnN2/Zy5wbmc",
+            "alt": "Alisa Yandex",
+            "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Alisa_Yandex.svg/250px-Alisa_Yandex.svg.png",
+            "logo": true
+          }
+        ],
+        "subtype": "generic",
+        "found_in_urls": [
+          "https://alice.yandex.ru/"
+        ]
+      }
+    ]
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "infobox",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "faq",
+        "all": true
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Как оптимизировать сайт под «Поиск с Алисой» и чат-бот «Алиса AI» в 2026 году",
+        "url": "https://www.qmedia.by/blog/kak_optimizirovat_sajt_pod_poisk_s_alisoj_i_chat-bot_alisa_ai_v_2026_godu.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Поэтому оптимизация под Алису — это не только SEO, но и комплексная работа с контентом, технической оптимизацией и репутацией ресурса. Концепция E‑E‑A‑T (Experience, Expertise, Authoritativeness, Trustworthiness) играет ключевую роль в отборе источников для генеративной выдачи. Яндекс активно использует эти принципы для оценки надежности контента.",
+        "page_age": "2026-02-20T00:00:00",
+        "profile": {
+          "name": "Qmedia",
+          "url": "https://www.qmedia.by/blog/kak_optimizirovat_sajt_pod_poisk_s_alisoj_i_chat-bot_alisa_ai_v_2026_godu.html",
+          "long_name": "qmedia.by",
+          "img": "https://imgs.search.brave.com/xmEZyyvZ6m-5nY7osFv93neLcKa3LJH2-AqTyBVtcW0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmRkZGE1YTM4/ZWQ3ZDE0MjUzNjcx/YjgzODY1NmQ2OWJj/MGYwNmJkNGI5MWNh/OTQwMTk4MjRkMzFm/Nzc3NmI3NS93d3cu/cW1lZGlhLmJ5Lw"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "location",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "qmedia.by",
+          "hostname": "www.qmedia.by",
+          "favicon": "https://imgs.search.brave.com/xmEZyyvZ6m-5nY7osFv93neLcKa3LJH2-AqTyBVtcW0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmRkZGE1YTM4/ZWQ3ZDE0MjUzNjcx/YjgzODY1NmQ2OWJj/MGYwNmJkNGI5MWNh/OTQwMTk4MjRkMzFm/Nzc3NmI3NS93d3cu/cW1lZGlhLmJ5Lw",
+          "path": "  › главная  › блог"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Ox4wQOP_NZiJrMEsz_chLklkNLrzguHvymD6BGqtIqk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cW1lZGlhLmJ5L2Fz/c2V0cy90ZW1wbGF0/ZXMvcW1lZGlhL2lt/YWdlcy9sb2dvLXdo/aXRlLnN2Zw",
+          "original": "https://www.qmedia.by/assets/templates/qmedia/images/logo-white.svg",
+          "logo": true
+        },
+        "age": "February 20, 2026",
+        "location": {
+          "title": "Qmedia",
+          "url": "https://www.qmedia.by/",
+          "is_source_local": false,
+          "is_source_both": false,
+          "family_friendly": true,
+          "type": "location_result",
+          "provider_url": "https://www.qmedia.by/blog/kak_optimizirovat_sajt_pod_poisk_s_alisoj_i_chat-bot_alisa_ai_v_2026_godu.html",
+          "coordinates": [
+            53.910532,
+            27.505246
+          ],
+          "zoom_level": 7,
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/ScC88LAX5MFfHj1auRF9VYHRgjnldwrkmuWylxKdtg0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cW1lZGlhLmJ5L2Fz/c2V0cy90ZW1wbGF0/ZXMvcW1lZGlhL2lt/YWdlcy9sb2dvLXdo/aXRlLnN2Zw",
+            "original": "https://www.qmedia.by/assets/templates/qmedia/images/logo-white.svg"
+          },
+          "postal_address": {
+            "type": "PostalAddress",
+            "country": "BY",
+            "postalCode": "220089",
+            "streetAddress": "Притыцкого",
+            "addressLocality": "Минск",
+            "displayAddress": "Притыцкого, 220089, Минск"
+          },
+          "opening_hours": {
+            "current_day": [
+              {
+                "abbr_name": "Fri",
+                "full_name": "Friday",
+                "opens": "00:00",
+                "closes": "23:59"
+              }
+            ],
+            "days": [
+              [
+                {
+                  "abbr_name": "Mon",
+                  "full_name": "Monday",
+                  "opens": "00:00",
+                  "closes": "23:59"
+                }
+              ],
+              [
+                {
+                  "abbr_name": "Tue",
+                  "full_name": "Tuesday",
+                  "opens": "00:00",
+                  "closes": "23:59"
+                }
+              ],
+              [
+                {
+                  "abbr_name": "Wed",
+                  "full_name": "Wednesday",
+                  "opens": "00:00",
+                  "closes": "23:59"
+                }
+              ],
+              [
+                {
+                  "abbr_name": "Thu",
+                  "full_name": "Thursday",
+                  "opens": "00:00",
+                  "closes": "23:59"
+                }
+              ],
+              [
+                {
+                  "abbr_name": "Sat",
+                  "full_name": "Saturday",
+                  "opens": "00:00",
+                  "closes": "23:59"
+                }
+              ],
+              [
+                {
+                  "abbr_name": "Sun",
+                  "full_name": "Sunday",
+                  "opens": "00:00",
+                  "closes": "23:59"
+                }
+              ]
+            ]
+          },
+          "contact": {
+            "telephone": "+375 29 335-23-23"
+          },
+          "price_range": "$",
+          "profiles": [
+            {
+              "type": "external",
+              "name": "qmedia.by",
+              "url": "https://www.qmedia.by/blog/kak_optimizirovat_sajt_pod_poisk_s_alisoj_i_chat-bot_alisa_ai_v_2026_godu.html",
+              "img": "https://imgs.search.brave.com/xmEZyyvZ6m-5nY7osFv93neLcKa3LJH2-AqTyBVtcW0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmRkZGE1YTM4/ZWQ3ZDE0MjUzNjcx/YjgzODY1NmQ2OWJj/MGYwNmJkNGI5MWNh/OTQwMTk4MjRkMzFm/Nzc3NmI3NS93d3cu/cW1lZGlhLmJ5Lw"
+            }
+          ],
+          "pictures": {
+            "results": [
+              {
+                "src": "https://imgs.search.brave.com/ScC88LAX5MFfHj1auRF9VYHRgjnldwrkmuWylxKdtg0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cW1lZGlhLmJ5L2Fz/c2V0cy90ZW1wbGF0/ZXMvcW1lZGlhL2lt/YWdlcy9sb2dvLXdo/aXRlLnN2Zw",
+                "original": "https://www.qmedia.by/assets/templates/qmedia/images/logo-white.svg"
+              },
+              {
+                "src": "https://imgs.search.brave.com/FZkIvsewZMLFASt5MrYRQqEq4PIvS0ZFIkgjsQUsbpA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cW1lZGlhLmJ5L2Fz/c2V0cy90ZW1wbGF0/ZXMvcW1lZGlhL2lt/YWdlcy9zaGFyZS5q/cGc",
+                "original": "https://www.qmedia.by/assets/templates/qmedia/images/share.jpg"
+              }
+            ]
+          },
+          "categories": []
+        },
+        "faq": {
+          "items": [
+            {
+              "question": "Что такое генеративная выдача в поиске с Алисой?",
+              "answer": "Генеративная выдача — это ответы, которые чат-бот Алиса генерирует из различных источников, а не просто список ссылок. Ответы строятся на основе информации, найденной в интернете, и перерабатываются в удобную для пользователя форму.",
+              "title": "Как оптимизировать сайт под «Поиск ...",
+              "url": "https://www.qmedia.by/blog/kak_optimizirovat_sajt_pod_poisk_s_alisoj_i_chat-bot_alisa_ai_v_2026_godu.html",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "qmedia.by",
+                "hostname": "www.qmedia.by",
+                "favicon": "https://imgs.search.brave.com/xmEZyyvZ6m-5nY7osFv93neLcKa3LJH2-AqTyBVtcW0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmRkZGE1YTM4/ZWQ3ZDE0MjUzNjcx/YjgzODY1NmQ2OWJj/MGYwNmJkNGI5MWNh/OTQwMTk4MjRkMzFm/Nzc3NmI3NS93d3cu/cW1lZGlhLmJ5Lw",
+                "path": "  › главная  › блог"
+              }
+            },
+            {
+              "question": "Как улучшить шансы попадания в генеративную выдачу Алисы?",
+              "answer": "Для этого важно оптимизировать сайт для ИИ, предоставить структурированный контент, который легко парсируется, а также работать над репутацией и авторитетностью ресурса.",
+              "title": "Как оптимизировать сайт под «Поиск ...",
+              "url": "https://www.qmedia.by/blog/kak_optimizirovat_sajt_pod_poisk_s_alisoj_i_chat-bot_alisa_ai_v_2026_godu.html",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "qmedia.by",
+                "hostname": "www.qmedia.by",
+                "favicon": "https://imgs.search.brave.com/xmEZyyvZ6m-5nY7osFv93neLcKa3LJH2-AqTyBVtcW0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmRkZGE1YTM4/ZWQ3ZDE0MjUzNjcx/YjgzODY1NmQ2OWJj/MGYwNmJkNGI5MWNh/OTQwMTk4MjRkMzFm/Nzc3NmI3NS93d3cu/cW1lZGlhLmJ5Lw",
+                "path": "  › главная  › блог"
+              }
+            },
+            {
+              "question": "Какие факторы влияют на доверие ИИ к сайту?",
+              "answer": "ИИ оценивает сайты по принципам E‑E‑A‑T (Опыт, Экспертиза, Авторитетность, Доверие). Важно показывать опыт в теме, иметь качественные внешние ссылки и быть прозрачным в политике обработки данных.",
+              "title": "Как оптимизировать сайт под «Поиск ...",
+              "url": "https://www.qmedia.by/blog/kak_optimizirovat_sajt_pod_poisk_s_alisoj_i_chat-bot_alisa_ai_v_2026_godu.html",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "qmedia.by",
+                "hostname": "www.qmedia.by",
+                "favicon": "https://imgs.search.brave.com/xmEZyyvZ6m-5nY7osFv93neLcKa3LJH2-AqTyBVtcW0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmRkZGE1YTM4/ZWQ3ZDE0MjUzNjcx/YjgzODY1NmQ2OWJj/MGYwNmJkNGI5MWNh/OTQwMTk4MjRkMzFm/Nzc3NmI3NS93d3cu/cW1lZGlhLmJ5Lw",
+                "path": "  › главная  › блог"
+              }
+            },
+            {
+              "question": "Какие технические аспекты важны для сайта, чтобы попасть в генеративную выдачу?",
+              "answer": "Важно обеспечить быструю загрузку, доступность контента для ИИ-краулеров, корректно настроить адаптивный дизайн и исключить блокировки контента.",
+              "title": "Как оптимизировать сайт под «Поиск ...",
+              "url": "https://www.qmedia.by/blog/kak_optimizirovat_sajt_pod_poisk_s_alisoj_i_chat-bot_alisa_ai_v_2026_godu.html",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "qmedia.by",
+                "hostname": "www.qmedia.by",
+                "favicon": "https://imgs.search.brave.com/xmEZyyvZ6m-5nY7osFv93neLcKa3LJH2-AqTyBVtcW0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmRkZGE1YTM4/ZWQ3ZDE0MjUzNjcx/YjgzODY1NmQ2OWJj/MGYwNmJkNGI5MWNh/OTQwMTk4MjRkMzFm/Nzc3NmI3NS93d3cu/cW1lZGlhLmJ5Lw",
+                "path": "  › главная  › блог"
+              }
+            }
+          ]
+        },
+        "extra_snippets": [
+          "Узнайте, как оптимизировать сайт для генеративной выдачи «Поиск с Алисой» и чат-бота «Алиса AI» в 2026 году. Включает советы по контенту, технической оптимизации и улучшению репутации ресурса для успешного попадания в топ.",
+          "Поэтому оптимизация под Алису — это не только SEO, но и комплексная работа с контентом, технической оптимизацией и репутацией ресурса. Концепция E‑E‑A‑T (Experience, Expertise, Authoritativeness, Trustworthiness) играет ключевую роль в отборе источников для генеративной выдачи. Яндекс активно использует эти принципы для оценки надежности контента.",
+          "В 2026 году «Поиск с Алисой» и чат-бот «Алиса AI» играют всё более важную роль в поисковой выдаче, заменяя классические поисковые системы, предлагая пользователям сгенерированные ответы на основе информации из авторитетных источников. Чтобы попасть в генеративную выдачу, недостаточно просто занять топовые позиции в поисковой выдаче.",
+          "Для локальных бизнесов важно выстроить корректную разметку Organization и LocalBusiness, что повышает шансы попасть в ответы по локальным запросам и в чат-бот Алисы. Чтобы попасть в генеративную выдачу, контент должен быть не только полезным, но и удобным для вырезки фрагментов."
+        ]
+      },
+      {
+        "title": "Алиса AI для решения реальных задач",
+        "url": "https://alice.yandex.ru/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Работает на Alice AI — саом мощном семействе генеративных моделей Яндекса. Анализируйте файлы, ищите ответы, генерируйте тексты и ...",
+        "profile": {
+          "name": "Yandex",
+          "url": "https://alice.yandex.ru/",
+          "long_name": "alice.yandex.ru",
+          "img": "https://imgs.search.brave.com/HLEAK7N9YTxkzuydOw8dDv3zyC_0HweGbBbWGzFPCjY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTFjNzhhMmQ4/MThhNGU1MmJjMGI3/OGIyNmU3ODNhNWE5/YTBlMDBjNmIwZjg3/YWE1OGRhNDYwYjM4/MjkxMTcxZi9hbGlj/ZS55YW5kZXgucnUv"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "alice.yandex.ru",
+          "hostname": "alice.yandex.ru",
+          "favicon": "https://imgs.search.brave.com/HLEAK7N9YTxkzuydOw8dDv3zyC_0HweGbBbWGzFPCjY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTFjNzhhMmQ4/MThhNGU1MmJjMGI3/OGIyNmU3ODNhNWE5/YTBlMDBjNmIwZjg3/YWE1OGRhNDYwYjM4/MjkxMTcxZi9hbGlj/ZS55YW5kZXgucnUv",
+          "path": ""
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/dwE-YLPldIvLaJhhOoe6B00oq5Q-2yNfVGQeKuP33lQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly95YXN0/YXRpYy5uZXQvczMv/YWxpY2VzdGF0aWMv/Xy92Mi9zdGF0aWMv/bWVkaWEvb2ctaW1h/Z2UuODM4MGZiNjQu/cG5n",
+          "original": "https://yastatic.net/s3/alicestatic/_/v2/static/media/og-image.8380fb64.png",
+          "logo": false
+        },
+        "extra_snippets": [
+          "Работает на Alice AI — саом мощном семействе генеративных моделей Яндекса. Анализируйте файлы, ищите ответы, генерируйте тексты и изображения в чате."
+        ]
+      },
+      {
+        "title": "Alice AI — новые генеративные модели Яндекса",
+        "url": "https://ya.ru/ai/aliceai",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Пользователи могут попробовать новую модель в чате с Алисой AI, который доступен в отдельном приложении и на alice.yandex.ru, а также в приложении Яндекс и Яндекс Браузере. Бизнес-клиенты — в Yandex Cloud на платформе AI Studio. ... Генеративная визуально-языковая модель — видит, понимает, решает и отвечает.",
+        "profile": {
+          "name": "Яндекс",
+          "url": "https://ya.ru/ai/aliceai",
+          "long_name": "ya.ru",
+          "img": "https://imgs.search.brave.com/qNDKsn1L77Nev1l0_L2WCuepHdq8-1bOOj9N8kxBN5s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTQ4NmY5YTJh/MWViM2M2M2E1NmI1/YjZmMzM2OTdhNzRi/MTg3OGVkYWU2NGZj/NGJhNGY3ODk5MDVi/M2Q1ZTZiMS95YS5y/dS8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ya.ru",
+          "hostname": "ya.ru",
+          "favicon": "https://imgs.search.brave.com/qNDKsn1L77Nev1l0_L2WCuepHdq8-1bOOj9N8kxBN5s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTQ4NmY5YTJh/MWViM2M2M2E1NmI1/YjZmMzM2OTdhNzRi/MTg3OGVkYWU2NGZj/NGJhNGY3ODk5MDVi/M2Q1ZTZiMS95YS5y/dS8",
+          "path": "› ai  › aliceai"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/E3oezRXlPo4ZzvUXp9Ci_cwCoZ9BmFyePamyfPJ-QR8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hdmF0/YXJzLm1kcy55YW5k/ZXgubmV0L2dldC1s/cGMvMTc4MDAwOTQv/ZjNmODg3ZTgtMTlk/MC00YTAzLTkxNjIt/YWNlOGFlMWQ4MjM1/L29yaWc",
+          "original": "https://avatars.mds.yandex.net/get-lpc/17800094/f3f887e8-19d0-4a03-9162-ace8ae1d8235/orig",
+          "logo": false
+        },
+        "extra_snippets": [
+          "Самые мощные нейросети Яндекса. В чём они превосходят конкурентов и где попробовать бесплатно.",
+          "Пользователи могут попробовать новую модель в чате с Алисой AI, который доступен в отдельном приложении и на alice.yandex.ru, а также в приложении Яндекс и Яндекс Браузере. Бизнес-клиенты — в Yandex Cloud на платформе AI Studio. ... Генеративная визуально-языковая модель — видит, понимает, решает и отвечает.",
+          "Alice AI VLM работает в приложении Алиса AI и на alice.yandex.ru, а также в чате с Алисой AI в приложении Яндекс и Яндекс Браузере.",
+          "Alice AI ART работает в приложении Алиса AI, Шедевруме и на alice.yandex.ru, а также в чате с Алисой AI в приложении Яндекс и Яндекс Браузере."
+        ]
+      },
+      {
+        "title": "Обновления поиска Яндекса с Алисой AI: что меняется для SEO и сайтов | РБК Компании",
+        "url": "https://companies.rbc.ru/news/xxuSRRwGJW/obnovleniya-poiska-yandeksa-s-alisoj-ai-chto-menyaetsya-dlya-seo-i-sajtov/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Теперь поисковая выдача стала еще более персонализированной, а быстрые ответы под строкой поиска стали качественнее благодаря улучшению искусственного интеллекта.",
+        "page_age": "2026-04-22T12:00:38",
+        "profile": {
+          "name": "RBC",
+          "url": "https://companies.rbc.ru/news/xxuSRRwGJW/obnovleniya-poiska-yandeksa-s-alisoj-ai-chto-menyaetsya-dlya-seo-i-sajtov/",
+          "long_name": "companies.rbc.ru",
+          "img": "https://imgs.search.brave.com/ynwalYCuYQy9rgtkrpPe6s51LC9pScD_dZv9vAP23U0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmVmZWUwZmY1/OTE3YWU1YmJjNDQ4/MzJjOGE5NTMwMDI5/NGM4NTlkMGZlN2Y1/OGYxYzQ4YzY0YmJi/OGI1OWYwYy9jb21w/YW5pZXMucmJjLnJ1/Lw"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "companies.rbc.ru",
+          "hostname": "companies.rbc.ru",
+          "favicon": "https://imgs.search.brave.com/ynwalYCuYQy9rgtkrpPe6s51LC9pScD_dZv9vAP23U0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmVmZWUwZmY1/OTE3YWU1YmJjNDQ4/MzJjOGE5NTMwMDI5/NGM4NTlkMGZlN2Y1/OGYxYzQ4YzY0YmJi/OGI1OWYwYy9jb21w/YW5pZXMucmJjLnJ1/Lw",
+          "path": "  › ✅рбк компании  › ✅лента публикаций  › ✅мнение эксперта  › ✅обновления поиска яндекса с алисой ai: что меняется для seo и сайтов"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/DQaTUrQSbe3MixpmR6cCw9Rh2qvu3y4_1XdPU07mKmw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waWNz/LnJiYy5ydS92Ml9j/b21wYW5pZXNfczMv/cmVzaXplZC85NjB4/SC9tZWRpYS9jb21w/YW55X3ByZXNzX3Jl/bGVhc2VfaW1hZ2Uv/NzRkNGEzODgtZjBh/MS00MjVjLWFjZjgt/OWE5MWFlZjNjYzdk/LmpwZw",
+          "original": "https://pics.rbc.ru/v2_companies_s3/resized/960xH/media/company_press_release_image/74d4a388-f0a1-425c-acf8-9a91aef3cc7d.jpg",
+          "logo": false
+        },
+        "age": "2 days ago",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Мария Трушкова",
+              "url": "https://companies.rbc.ru/experts/24604/mariya-trushkova/"
+            }
+          ],
+          "date": "Apr 22, 2026",
+          "publisher": {
+            "type": "organization",
+            "name": "РБК Компании",
+            "url": "https://companies.rbc.ru/",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/OB8ZKj93yWvTDLiePutZDxm9RjDP37vNhlIHvwtzmfQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zLnJi/ay5ydS92Ml9jb21w/YW5pZXNfc3RhdGlj/L2Fzc2V0cy9pbWcv/bG9nby5zdmc",
+              "original": "https://s.rbk.ru/v2_companies_static/assets/img/logo.svg"
+            }
+          }
+        },
+        "extra_snippets": [
+          "Для аудитории это экономия времени, а для сайтов — новый вызов: теперь борьба идет не только за место в выдаче, но и за попадание в ИИ-ответы. Алиса AI позволяет углубиться в тему",
+          "Количество быстрых ответов в выдаче увеличилось · Поиск Яндекса с Алисой AI все чаще закрывает запрос прямо в выдаче.",
+          "Теперь пользователю не нужно просматривать десятки страниц, чтобы получить информацию: по многим темам ответ появляется сразу в выдаче. Если короткого ответа недостаточно, тему можно тут же уточнить через Алису AI — задать дополнительный вопрос, разобраться в деталях, сравнить варианты или получить более развернутое объяснение.",
+          "Теперь поисковая выдача стала еще более персонализированной, а быстрые ответы под строкой поиска стали качественнее благодаря улучшению искусственного интеллекта."
+        ]
+      },
+      {
+        "title": "Нейросеть Алиса АИ от Яндекса — чат-бот с поиском, что умеет и как работает нейросеть Alice AI - Semantica Media",
+        "url": "https://semantica-media.ru/blog/nejroset-alisa-ot-yandeksa-chto-eto-takoe-i-chto-umeet-alice-ai.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Под капотом современной Алисы работает сложный гибрид технологий искусственного интеллекта, где ключевую роль играет генеративная языковая модель YandexGPT, дополненная рядом других специализированных нейросетей и сервисов.",
+        "page_age": "2026-03-13T13:51:29",
+        "profile": {
+          "name": "Semantica Media",
+          "url": "https://semantica-media.ru/blog/nejroset-alisa-ot-yandeksa-chto-eto-takoe-i-chto-umeet-alice-ai.html",
+          "long_name": "semantica-media.ru",
+          "img": "https://imgs.search.brave.com/jmjtm67a2ACQ4x3vXZ5EKwy94zc0WCqT-9YILU-vpS4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWYxODlmN2Q2/NThiMTMzMGMxZjk4/NDgyZWU3OWFiYmI2/NGJmNzM4ZTQ2OGEy/NmY4OTA2ZDE3YjY5/ODM2NDE5MC9zZW1h/bnRpY2EtbWVkaWEu/cnUv"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "faq",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "semantica-media.ru",
+          "hostname": "semantica-media.ru",
+          "favicon": "https://imgs.search.brave.com/jmjtm67a2ACQ4x3vXZ5EKwy94zc0WCqT-9YILU-vpS4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWYxODlmN2Q2/NThiMTMzMGMxZjk4/NDgyZWU3OWFiYmI2/NGJmNzM4ZTQ2OGEy/NmY4OTA2ZDE3YjY5/ODM2NDE5MC9zZW1h/bnRpY2EtbWVkaWEu/cnUv",
+          "path": "  › главная  › блог  › нейросети"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/QLVwloc0GNCqHD3ZbTMZzbTZSm2XBtVzMtLHNueO-ac/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zZW1h/bnRpY2EtbWVkaWEu/cnUvd3AtY29udGVu/dC91cGxvYWRzLzIw/MjYvMDMvbmVqcm9z/ZXQtYWxpc2Etb3Qt/eWFuZGVrc2FfLXBv/bG55ai1vYnpvci1h/bGljZS1haS3igJQt/dm96bW96aG5vc3Rp/LW90bGljaGl5YS1p/LWthay1pc3BvbHpv/dmF0LnBuZw",
+          "original": "https://semantica-media.ru/wp-content/uploads/2026/03/nejroset-alisa-ot-yandeksa_-polnyj-obzor-alice-ai-—-vozmozhnosti-otlichiya-i-kak-ispolzovat.png",
+          "logo": false
+        },
+        "age": "March 13, 2026",
+        "faq": {
+          "items": [
+            {
+              "question": "Может ли Алиса генерировать тексты и ответы на сложные вопросы?",
+              "answer": "Да, может. Алиса успешно справляется с генерацией статей, сценариев, писем, а также дает развернутые ответы на сложные научные, философские или технические вопросы, объясняя их доступным языком.",
+              "title": "Нейросеть Алиса АИ от Яндекса — ...",
+              "url": "https://semantica-media.ru/blog/nejroset-alisa-ot-yandeksa-chto-eto-takoe-i-chto-umeet-alice-ai.html",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "semantica-media.ru",
+                "hostname": "semantica-media.ru",
+                "favicon": "https://imgs.search.brave.com/jmjtm67a2ACQ4x3vXZ5EKwy94zc0WCqT-9YILU-vpS4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWYxODlmN2Q2/NThiMTMzMGMxZjk4/NDgyZWU3OWFiYmI2/NGJmNzM4ZTQ2OGEy/NmY4OTA2ZDE3YjY5/ODM2NDE5MC9zZW1h/bnRpY2EtbWVkaWEu/cnUv",
+                "path": "  › главная  › блог  › нейросети"
+              }
+            },
+            {
+              "question": "Какие языки понимает и на каких языках отвечает Алиса?",
+              "answer": "Основной язык для полноценного диалога и генерации — русский. Она также хорошо понимает и может отвечать на английском, немецком, французском и других языках, но с меньшей глубиной и точностью, чем на русском.",
+              "title": "Нейросеть Алиса АИ от Яндекса — ...",
+              "url": "https://semantica-media.ru/blog/nejroset-alisa-ot-yandeksa-chto-eto-takoe-i-chto-umeet-alice-ai.html",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "semantica-media.ru",
+                "hostname": "semantica-media.ru",
+                "favicon": "https://imgs.search.brave.com/jmjtm67a2ACQ4x3vXZ5EKwy94zc0WCqT-9YILU-vpS4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWYxODlmN2Q2/NThiMTMzMGMxZjk4/NDgyZWU3OWFiYmI2/NGJmNzM4ZTQ2OGEy/NmY4OTA2ZDE3YjY5/ODM2NDE5MC9zZW1h/bnRpY2EtbWVkaWEu/cnUv",
+                "path": "  › главная  › блог  › нейросети"
+              }
+            },
+            {
+              "question": "Какие ограничения есть у Алисы — когда она может ошибаться?",
+              "answer": "Алиса может ошибаться в фактологии (даты, имена, специфические цифры), узкопрофессиональных темах (медицина, прао, инженерия).\nВсегда проверяйте критически важную информацию по официальным источникам.",
+              "title": "Нейросеть Алиса АИ от Яндекса — ...",
+              "url": "https://semantica-media.ru/blog/nejroset-alisa-ot-yandeksa-chto-eto-takoe-i-chto-umeet-alice-ai.html",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "semantica-media.ru",
+                "hostname": "semantica-media.ru",
+                "favicon": "https://imgs.search.brave.com/jmjtm67a2ACQ4x3vXZ5EKwy94zc0WCqT-9YILU-vpS4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWYxODlmN2Q2/NThiMTMzMGMxZjk4/NDgyZWU3OWFiYmI2/NGJmNzM4ZTQ2OGEy/NmY4OTA2ZDE3YjY5/ODM2NDE5MC9zZW1h/bnRpY2EtbWVkaWEu/cnUv",
+                "path": "  › главная  › блог  › нейросети"
+              }
+            },
+            {
+              "question": "Какой уровень точности и достоверности у ответов Alice AI?",
+              "answer": "Точность ответов Alice AI варьируется в зависимости от типа запроса: по общим темам модель демонстрирует достаточно высокий уровень достоверности, но в узкоспециализированных областях возможны ошибки и «галлюцинации». По данным Яндекса, с выходом YandexGPT 4 Pro качество ответов улучшилось (в 58 % случаев они стали лучше предыдущей версии, а объём полезной информации вырос на 55 %), однако для критически важных сведений рекомендуется дополнительная проверка фактов.",
+              "title": "Нейросеть Алиса АИ от Яндекса — ...",
+              "url": "https://semantica-media.ru/blog/nejroset-alisa-ot-yandeksa-chto-eto-takoe-i-chto-umeet-alice-ai.html",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "semantica-media.ru",
+                "hostname": "semantica-media.ru",
+                "favicon": "https://imgs.search.brave.com/jmjtm67a2ACQ4x3vXZ5EKwy94zc0WCqT-9YILU-vpS4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWYxODlmN2Q2/NThiMTMzMGMxZjk4/NDgyZWU3OWFiYmI2/NGJmNzM4ZTQ2OGEy/NmY4OTA2ZDE3YjY5/ODM2NDE5MC9zZW1h/bnRpY2EtbWVkaWEu/cnUv",
+                "path": "  › главная  › блог  › нейросети"
+              }
+            },
+            {
+              "question": "Алиса это нейросеть или искусственный интеллект?",
+              "answer": "Алиса — это система искусственного интеллекта (ИИ), в основе которой лежат нейросети (в частности, языковая модель YandexGPT). То есть она не «или нейросеть, или ИИ», а именно ИИ‑система, использующая нейросети как ключевой инструмент для понимания языка, генерации ответов и решения задач.",
+              "title": "Нейросеть Алиса АИ от Яндекса — ...",
+              "url": "https://semantica-media.ru/blog/nejroset-alisa-ot-yandeksa-chto-eto-takoe-i-chto-umeet-alice-ai.html",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "semantica-media.ru",
+                "hostname": "semantica-media.ru",
+                "favicon": "https://imgs.search.brave.com/jmjtm67a2ACQ4x3vXZ5EKwy94zc0WCqT-9YILU-vpS4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWYxODlmN2Q2/NThiMTMzMGMxZjk4/NDgyZWU3OWFiYmI2/NGJmNzM4ZTQ2OGEy/NmY4OTA2ZDE3YjY5/ODM2NDE5MC9zZW1h/bnRpY2EtbWVkaWEu/cnUv",
+                "path": "  › главная  › блог  › нейросети"
+              }
+            },
+            {
+              "question": "Может ли Алиса генерировать тексты и ответы на сложные вопросы?",
+              "answer": "Да, может. Алиса успешно справляется с генерацией статей, сценариев, писем, а также дает развернутые ответы на сложные научные, философские или технические вопросы, объясняя их доступным языком.",
+              "title": "Нейросеть Алиса АИ от Яндекса — ...",
+              "url": "https://semantica-media.ru/blog/nejroset-alisa-ot-yandeksa-chto-eto-takoe-i-chto-umeet-alice-ai.html",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "semantica-media.ru",
+                "hostname": "semantica-media.ru",
+                "favicon": "https://imgs.search.brave.com/jmjtm67a2ACQ4x3vXZ5EKwy94zc0WCqT-9YILU-vpS4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWYxODlmN2Q2/NThiMTMzMGMxZjk4/NDgyZWU3OWFiYmI2/NGJmNzM4ZTQ2OGEy/NmY4OTA2ZDE3YjY5/ODM2NDE5MC9zZW1h/bnRpY2EtbWVkaWEu/cnUv",
+                "path": "  › главная  › блог  › нейросети"
+              }
+            },
+            {
+              "question": "Какие языки понимает и на каких языках отвечает Алиса?",
+              "answer": "Основной язык для полноценного диалога и генерации — русский. Она также хорошо понимает и может отвечать на английском, немецком, французском и других языках, но с меньшей глубиной и точностью, чем на русском.",
+              "title": "Нейросеть Алиса АИ от Яндекса — ...",
+              "url": "https://semantica-media.ru/blog/nejroset-alisa-ot-yandeksa-chto-eto-takoe-i-chto-umeet-alice-ai.html",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "semantica-media.ru",
+                "hostname": "semantica-media.ru",
+                "favicon": "https://imgs.search.brave.com/jmjtm67a2ACQ4x3vXZ5EKwy94zc0WCqT-9YILU-vpS4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWYxODlmN2Q2/NThiMTMzMGMxZjk4/NDgyZWU3OWFiYmI2/NGJmNzM4ZTQ2OGEy/NmY4OTA2ZDE3YjY5/ODM2NDE5MC9zZW1h/bnRpY2EtbWVkaWEu/cnUv",
+                "path": "  › главная  › блог  › нейросети"
+              }
+            },
+            {
+              "question": "Какие ограничения есть у Алисы — когда она может ошибаться?",
+              "answer": "Алиса может ошибаться в фактологии (даты, имена, специфические цифры), узкопрофессиональных темах (медицина, право, инженерия).\nВсегда проверяйте критически важную информацию по официальным источникам.",
+              "title": "Нейросеть Алиса АИ от Яндекса — ...",
+              "url": "https://semantica-media.ru/blog/nejroset-alisa-ot-yandeksa-chto-eto-takoe-i-chto-umeet-alice-ai.html",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "semantica-media.ru",
+                "hostname": "semantica-media.ru",
+                "favicon": "https://imgs.search.brave.com/jmjtm67a2ACQ4x3vXZ5EKwy94zc0WCqT-9YILU-vpS4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWYxODlmN2Q2/NThiMTMzMGMxZjk4/NDgyZWU3OWFiYmI2/NGJmNzM4ZTQ2OGEy/NmY4OTA2ZDE3YjY5/ODM2NDE5MC9zZW1h/bnRpY2EtbWVkaWEu/cnUv",
+                "path": "  › главная  › блог  › нейросети"
+              }
+            },
+            {
+              "question": "Какой уровень точности и достоверности у ответов Alice AI?",
+              "answer": "Точность ответов Alice AI варьируется в зависимости от типа запроса: по общим темам модель демонстрирует достаточно высокий уровень достоверности, но в узкоспециализированных областях возможны ошибки и «галлюцинации». По данным Яндекса, с выходом YandexGPT 4 Pro качество ответов улучшилось (в 58 % случаев они стали лучше предыдущей версии, а объём полезной информации вырос на 55 %), однако для критически важных сведений рекомендуется дополнительная проверка фактов.",
+              "title": "Нейросеть Алиса АИ от Яндекса — ...",
+              "url": "https://semantica-media.ru/blog/nejroset-alisa-ot-yandeksa-chto-eto-takoe-i-chto-umeet-alice-ai.html",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "semantica-media.ru",
+                "hostname": "semantica-media.ru",
+                "favicon": "https://imgs.search.brave.com/jmjtm67a2ACQ4x3vXZ5EKwy94zc0WCqT-9YILU-vpS4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWYxODlmN2Q2/NThiMTMzMGMxZjk4/NDgyZWU3OWFiYmI2/NGJmNzM4ZTQ2OGEy/NmY4OTA2ZDE3YjY5/ODM2NDE5MC9zZW1h/bnRpY2EtbWVkaWEu/cnUv",
+                "path": "  › главная  › блог  › нейросети"
+              }
+            },
+            {
+              "question": "Алиса это нейросеть или искусственный интеллект?",
+              "answer": "Алиса — это система искусственного интеллекта (ИИ), в основе которой лежат нейросети (в частности, языковая модель YandexGPT). То есть она не «или нейросеть, или ИИ», а именно ИИ‑система, использующая нейросети как ключевой инструмент для понимания языка, генерации ответов и решения задач.",
+              "title": "Нейросеть Алиса АИ от Яндекса — ...",
+              "url": "https://semantica-media.ru/blog/nejroset-alisa-ot-yandeksa-chto-eto-takoe-i-chto-umeet-alice-ai.html",
+              "meta_url": {
+                "scheme": "https",
+                "netloc": "semantica-media.ru",
+                "hostname": "semantica-media.ru",
+                "favicon": "https://imgs.search.brave.com/jmjtm67a2ACQ4x3vXZ5EKwy94zc0WCqT-9YILU-vpS4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWYxODlmN2Q2/NThiMTMzMGMxZjk4/NDgyZWU3OWFiYmI2/NGJmNzM4ZTQ2OGEy/NmY4OTA2ZDE3YjY5/ODM2NDE5MC9zZW1h/bnRpY2EtbWVkaWEu/cnUv",
+                "path": "  › главная  › блог  › нейросети"
+              }
+            }
+          ]
+        },
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Оксана Зорий"
+            }
+          ],
+          "date": "Mar 13, 2026"
+        },
+        "extra_snippets": [
+          "Что важно знать о нейросети Алиса АИ от Яндекса: это нейросеть или искусственный интеллект, что умеет Alice AI, возможности и функции голосового помощника в блоге SEMANTICA.",
+          "Под капотом современной Алисы работает сложный гибрид технологий искусственного интеллекта, где ключевую роль играет генеративная языковая модель YandexGPT, дополненная рядом других специализированных нейросетей и сервисов.",
+          "Нейросеть Алиса AI — это эволюция голосового помощника в универсального ИИ ассистента, глубоко интегрированного в экосистему Яндекса. Она сочетает возможности генеративных нейросетей (YandexGPT) с функционалом сервисов компании, что позволяет решать широкий спектр задач — от управления умным домом до генерации текстов и анализа данных.",
+          "Загадывание и отгадывание загадок, словесные игры («города», «крокодил»). Читайте также «Поиск с Алисой»: что на самом деле влияет на попадание в AI-выдачу"
+        ]
+      },
+      {
+        "title": "Скачать Алиса AI: Нейросеть на русском 26.10.1 для Android, iPhone / iPad, iPad",
+        "url": "https://trashbox.ru/link/alice-ai-android",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Широкие возможности искусственного интеллекта от Яндекса в вашем смартфоне: помощь с рутинными делами, решение задач для учёбы, работы и творчества. Задавайте вопросы, пишите и редактируйте тексты — отвечать Алисе помогает генеративная нейросетевая модель.",
+        "page_age": "2026-04-11T00:15:44",
+        "profile": {
+          "name": "Trashbox",
+          "url": "https://trashbox.ru/link/alice-ai-android",
+          "long_name": "trashbox.ru",
+          "img": "https://imgs.search.brave.com/cLGYGre2zsJrrASqfwEowodYzMsdYcptqaGuu6t3nmE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTQxZjM1Nzky/N2ZjZWNhODdmNDM5/NWQ3MjQwMjdjMzAz/MjU3YmY4ZTViNTA5/Yzk3ZTI5MjQxZDZl/MDM5OTdkYy90cmFz/aGJveC5ydS8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "creative_work",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "trashbox.ru",
+          "hostname": "trashbox.ru",
+          "favicon": "https://imgs.search.brave.com/cLGYGre2zsJrrASqfwEowodYzMsdYcptqaGuu6t3nmE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTQxZjM1Nzky/N2ZjZWNhODdmNDM5/NWQ3MjQwMjdjMzAz/MjU3YmY4ZTViNTA5/Yzk3ZTI5MjQxZDZl/MDM5OTdkYy90cmFz/aGJveC5ydS8",
+          "path": "  › android  › утилиты"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/4wdw_fAhMbgf5NfEYFKj7JVBsMAN4GYrGqa_KhY9Mso/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90cmFz/aGJveC5ydS9hcGtf/aWNvbnMvdG9waWNf/MTg1MDgwXzI1Ni5w/bmc_MTc3NjcxOTY2/MA",
+          "original": "https://trashbox.ru/apk_icons/topic_185080_256.png?1776719660",
+          "logo": true
+        },
+        "age": "2 weeks ago",
+        "creative_work": {
+          "name": "Алиса AI",
+          "rating": {
+            "ratingValue": 5.0,
+            "bestRating": 5.0,
+            "reviewCount": 1,
+            "is_tripadvisor": false
+          },
+          "thumbnail": {
+            "src": "https://imgs.search.brave.com/4wdw_fAhMbgf5NfEYFKj7JVBsMAN4GYrGqa_KhY9Mso/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90cmFz/aGJveC5ydS9hcGtf/aWNvbnMvdG9waWNf/MTg1MDgwXzI1Ni5w/bmc_MTc3NjcxOTY2/MA",
+            "original": "https://trashbox.ru/apk_icons/topic_185080_256.png?1776719660"
+          }
+        },
+        "extra_snippets": [
+          "Широкие возможности искусственного интеллекта от Яндекса в вашем смартфоне: помощь с рутинными делами, решение задач для учёбы, работы и творчества. Задавайте вопросы, пишите и редактируйте тексты — отвечать Алисе помогает генеративная нейросетевая модель.",
+          "Пост выдачи бейджей 🇷🇺 сообщества Россия",
+          "Создавайте изображения с подключенной опцией Алиса Про — нейросеть YandexArt сгенерирует картинки по вашему запросу, предложив до 4 вариантов.",
+          "Просматривайте историю своего общения: Алиса покажет в чате текстовые диалоги, а также те голосовые ответы со Станций, которые вы сохраните с помощью фразы: «Алиса, сохрани ответ»."
+        ]
+      },
+      {
+        "title": "Это новая Алиса AI — встречайте - Яндекс",
+        "url": "https://alice.yandex.ru/waitlist",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Запишитесь в лист ожидания, чтобы первыми получить ранний доступ к новым AI-агентам.",
+        "profile": {
+          "name": "Yandex",
+          "url": "https://alice.yandex.ru/waitlist",
+          "long_name": "alice.yandex.ru",
+          "img": "https://imgs.search.brave.com/HLEAK7N9YTxkzuydOw8dDv3zyC_0HweGbBbWGzFPCjY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTFjNzhhMmQ4/MThhNGU1MmJjMGI3/OGIyNmU3ODNhNWE5/YTBlMDBjNmIwZjg3/YWE1OGRhNDYwYjM4/MjkxMTcxZi9hbGlj/ZS55YW5kZXgucnUv"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "alice.yandex.ru",
+          "hostname": "alice.yandex.ru",
+          "favicon": "https://imgs.search.brave.com/HLEAK7N9YTxkzuydOw8dDv3zyC_0HweGbBbWGzFPCjY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTFjNzhhMmQ4/MThhNGU1MmJjMGI3/OGIyNmU3ODNhNWE5/YTBlMDBjNmIwZjg3/YWE1OGRhNDYwYjM4/MjkxMTcxZi9hbGlj/ZS55YW5kZXgucnUv",
+          "path": "› waitlist"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/lMcqCufUBpCYdtHTic6-2F7cqDaSrUGQstxfiiyBMns/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hdmF0/YXJzLm1kcy55YW5k/ZXgubmV0L2dldC1s/cGMvMTc4MDAwOTQv/M2UxYjU4NGEtNGRm/YS00OWQyLThhOTAt/NTFlMGYxZDA3ZWQ3/L29yaWc",
+          "original": "https://avatars.mds.yandex.net/get-lpc/17800094/3e1b584a-4dfa-49d2-8a90-51e0f1d07ed7/orig",
+          "logo": false
+        },
+        "extra_snippets": [
+          "На любой открытой странице в Яндекс Браузере отвечу на вопросы по сайту, документам и видео"
+        ]
+      },
+      {
+        "title": "Алиса AI — всегда под рукой в Яндекс Браузере",
+        "url": "https://browser.yandex.ru/c/pagequestions/index",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Чат с Алисой AI доступен на любой странице в Браузере: откройте его в один клик и задайте вопрос. Алиса AI учитывает содержимое страницы, видео или документа, а если ...",
+        "profile": {
+          "name": "Yandex Browser",
+          "url": "https://browser.yandex.ru/c/pagequestions/index",
+          "long_name": "browser.yandex.ru",
+          "img": "https://imgs.search.brave.com/4WIXX-jEj310wjKOD-aDTj6KZ3aIyjqHdQvkl3ZM2fk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDc0ZTA1NGMz/ZWU3ZmQxYWZmNDY0/MjgxMzViYmNkMDA3/MzhmMDk3MjVjZTg0/MjBiMDVmNjA5ZjE1/MDczOTA4OS9icm93/c2VyLnlhbmRleC5y/dS8"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "browser.yandex.ru",
+          "hostname": "browser.yandex.ru",
+          "favicon": "https://imgs.search.brave.com/4WIXX-jEj310wjKOD-aDTj6KZ3aIyjqHdQvkl3ZM2fk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDc0ZTA1NGMz/ZWU3ZmQxYWZmNDY0/MjgxMzViYmNkMDA3/MzhmMDk3MjVjZTg0/MjBiMDVmNjA5ZjE1/MDczOTA4OS9icm93/c2VyLnlhbmRleC5y/dS8",
+          "path": "› c  › pagequestions  › index"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/OanU2C-wCcRqxsMt6Pu1D7IcgbSY0taAgtbXtAo1WFQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hdmF0/YXJzLm1kcy55YW5k/ZXgubmV0L2dldC1s/cGMvMTc4MDAwOTQv/YjE4Yzk5MzUtOTJj/Mi00NTc1LTlkNjIt/NjA1OTY2ZGY2Njgw/L29yaWc",
+          "original": "https://avatars.mds.yandex.net/get-lpc/17800094/b18c9935-92c2-4575-9d62-605966df6680/orig",
+          "logo": false
+        },
+        "extra_snippets": [
+          "Чат с Алисой AI доступен на любой странице в Браузере: откройте его в один клик и задайте вопрос. Алиса AI учитывает содержимое страницы, видео или документа, а если информации не хватает — находит её в интернете.",
+          "Писать тексты в Браузере можно уверенно и без ошибок. Редактор с Алисой AI проверит и улучшит ваш текст в пару кликов",
+          "Один клик — и вы в чате с Алисой AI.",
+          "Алиса AI — всегда в правом верхнем углу."
+        ]
+      },
+      {
+        "title": "ИИ-помощник «Алиса Про» заработал в почте «Яндекса»",
+        "url": "https://3dnews.ru/1139938/iipomoshchnik-alisa-pro-zarabotal-v-pochte-yandeksa",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "В сервисе «Яндекс Почта» появился помощник с искусственным интеллектом на основе большой языковой модели «Алиса AI» — он анализирует данные в переписке и ...",
+        "page_age": "2026-04-14T19:40:03",
+        "profile": {
+          "name": "3DNews",
+          "url": "https://3dnews.ru/1139938/iipomoshchnik-alisa-pro-zarabotal-v-pochte-yandeksa",
+          "long_name": "3dnews.ru",
+          "img": "https://imgs.search.brave.com/Q2rA77xBEeXT2t_AhspxSWeyRZ6uEYTMLF-4S6AvMMQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGNkMWJlY2Yy/ZTU0OTRhOTU2Y2Qz/NTg3M2QyYjA2YWZh/YzA2NDVjYzVmOWY3/NDM1MmMyNzA2MzBh/MzJmNzRjMS8zZG5l/d3MucnUv"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "3dnews.ru",
+          "hostname": "3dnews.ru",
+          "favicon": "https://imgs.search.brave.com/Q2rA77xBEeXT2t_AhspxSWeyRZ6uEYTMLF-4S6AvMMQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGNkMWJlY2Yy/ZTU0OTRhOTU2Y2Qz/NTg3M2QyYjA2YWZh/YzA2NDVjYzVmOWY3/NDM1MmMyNzA2MzBh/MzJmNzRjMS8zZG5l/d3MucnUv",
+          "path": "› 1139938  › iipomoshchnik-alisa-pro-zarabotal-v-pochte-yandeksa"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/J_tOoKliA3vAfFOkbtyOp4vFfNY3o9T0_xbuqrsMShE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/M2RuZXdzLnJ1L2Fz/c2V0cy9leHRlcm5h/bC9pbGx1c3RyYXRp/b25zLzIwMjYvMDQv/MTQvMTEzOTkzOC9h/bGljZV8xLmpwZw",
+          "original": "https://cdn.3dnews.ru/assets/external/illustrations/2026/04/14/1139938/alice_1.jpg",
+          "logo": false
+        },
+        "age": "1 week ago",
+        "extra_snippets": [
+          "В сервисе «Яндекс Почта» появился помощник с искусственным интеллектом на основе большой языковой модели «Алиса AI» — он анализирует данные в переписке и способствует решению задач личного и рабочего характера.."
+        ]
+      },
+      {
+        "title": "Все пользователи «Алисы AI» Яндекса получили доступ к новому ИИ-агенту «Исследовать»",
+        "url": "https://www.ixbt.com/news/2026/04/02/vse-polzovateli-alisy-ai-jandeksa-poluchili-dostup-k-novomu-iiagentu-issledovat.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Искусственный интеллект Россия нейросеть YandexGPT Yandex Яндекс Алиса Alice 02 апр 10:36",
+        "page_age": "2026-04-02T07:47:54",
+        "profile": {
+          "name": "iXBT Live",
+          "url": "https://www.ixbt.com/news/2026/04/02/vse-polzovateli-alisy-ai-jandeksa-poluchili-dostup-k-novomu-iiagentu-issledovat.html",
+          "long_name": "ixbt.com",
+          "img": "https://imgs.search.brave.com/sYNw5hacHS1TbyHdKGOX7JhZwWF2EJQgfhBMRSJx-34/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMThjMGRlYWZl/MDA5Njg3NzRjNzcx/ODI4MTdlMjM3MjVl/NDgxMmFkZWEyZjZk/ZDAwMTYwZDZhNGY5/NWI0NDc5MS93d3cu/aXhidC5jb20v"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "ixbt.com",
+          "hostname": "www.ixbt.com",
+          "favicon": "https://imgs.search.brave.com/sYNw5hacHS1TbyHdKGOX7JhZwWF2EJQgfhBMRSJx-34/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMThjMGRlYWZl/MDA5Njg3NzRjNzcx/ODI4MTdlMjM3MjVl/NDgxMmFkZWEyZjZk/ZDAwMTYwZDZhNGY5/NWI0NDc5MS93d3cu/aXhidC5jb20v",
+          "path": "  › новости  › 2026-04-02  › все пользователи «алисы ai» яндекса получили доступ к новому ии-агенту «исследовать»"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ONyHMFtviZfzexyg7oyBK97fluj52fee9MNfVac0bBQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5peGJ0LnNpdGUv/MTYwMHg5MDAvc21h/cnQvaHR0cHM6Ly93/d3cuaXhidC5jb20v/aW1nL24xL25ld3Mv/MjAyNi8zLzQvMV9s/YXJnZS5wbmc",
+          "original": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/4/1_large.png",
+          "logo": false
+        },
+        "age": "3 weeks ago",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "VerKo"
+            }
+          ],
+          "date": "Apr 02, 2026",
+          "publisher": {
+            "type": "organization",
+            "name": "IXBT.com",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/9rWbfWGJWnp3bIvaCn1x2cQcfBzmZ7BN7xyRE5uPyho/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/aXhidC5zaXRlL29i/amVjdHMvaW1hZ2Vz/L2l4YnQvbG9nby5w/bmc",
+              "original": "https://cdn.ixbt.site/objects/images/ixbt/logo.png"
+            }
+          }
+        },
+        "extra_snippets": [
+          "ИИ-агент «Исследовать» доступен на сайте alice.yandex.ru, в приложениях «Алиса AI», «Яндекс с Алисой AI» и в «Яндекс Браузере». Пользователи с подпиской «Алиса Плюс» получат приоритет и увеличенный лимит исследований — до 10 исследований в месяц.",
+          "Команда Яндекса объявила о масштабном запуске новой функции фирменной нейросети «Алиса AI». Теперь любой может воспользоваться виртуальным аналитиком в чате, который способен провести комплексный анализ данных — от финансового планирования до оценки эффективности алгоритмов.",
+          "Искусственный интеллект Россия нейросеть YandexGPT Yandex Яндекс Алиса Alice 02 апр 10:36"
+        ]
+      }
+    ],
+    "family_friendly": true
+  }
+}

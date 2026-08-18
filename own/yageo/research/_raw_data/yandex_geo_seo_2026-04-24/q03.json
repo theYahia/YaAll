@@ -1,0 +1,30 @@
+{
+  "type": "search",
+  "query": {
+    "original": "geo \"e-e-a-t\" русский \"ЭПОС\" скрипт open-source",
+    "show_strict_warning": false,
+    "altered": "geo e-e-a-t русский эпос скрипт open-source",
+    "cleaned": "geo e-e-a-t русский ЭПОС скрипт open-source",
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": true,
+    "should_fallback": true,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": false,
+    "state": "",
+    "search_operators": {
+      "applied": true,
+      "cleaned_query": "geo e-e-a-t русский ЭПОС скрипт open-source"
+    }
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [],
+    "top": [],
+    "side": []
+  }
+}

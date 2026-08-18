@@ -1,0 +1,97 @@
+{
+  "type": "search",
+  "query": {
+    "original": "envybox Ковалевы \"открытое geo\" 2026 что это",
+    "show_strict_warning": false,
+    "cleaned": "envybox Ковалевы открытое geo 2026 что это",
+    "is_navigational": false,
+    "is_news_breaking": false,
+    "spellcheck_off": false,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": true,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": false,
+    "state": "",
+    "search_operators": {
+      "applied": true,
+      "cleaned_query": "envybox Ковалевы открытое geo 2026 что это"
+    }
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Envybox и агентство «Ковалевы» запускают открытое GEO-продвижение - Новости Интернет-маркетинга",
+        "url": "https://news.inhouse-marketing.ru/2026/04/22/envybox-i-agentstvo-kovalevy-zapyskaut-otkrytoe-geo-prodvijenie/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Именно эту задачу мы и берем в работу в рамках открытого GEO-эксперимента совместно с Envybox.",
+        "page_age": "2026-04-22T14:21:38",
+        "profile": {
+          "name": "Inhouse-marketing",
+          "url": "https://news.inhouse-marketing.ru/2026/04/22/envybox-i-agentstvo-kovalevy-zapyskaut-otkrytoe-geo-prodvijenie/",
+          "long_name": "news.inhouse-marketing.ru",
+          "img": "https://imgs.search.brave.com/Jvjj1trx_pgHLO84nDv_w78IcyAOZwdUY9iFORq9xvs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWFjZDQwMjBh/NzFhNjFjZWU4OGFi/N2JiODA3ZThlMGI4/ZjJhOWYzYzFkM2Fi/NzIwNjIyMmRlYzk0/NTQ3NWQ3Zi9uZXdz/LmluaG91c2UtbWFy/a2V0aW5nLnJ1Lw"
+        },
+        "language": "ru",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "article",
+        "is_live": false,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "news.inhouse-marketing.ru",
+          "hostname": "news.inhouse-marketing.ru",
+          "favicon": "https://imgs.search.brave.com/Jvjj1trx_pgHLO84nDv_w78IcyAOZwdUY9iFORq9xvs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWFjZDQwMjBh/NzFhNjFjZWU4OGFi/N2JiODA3ZThlMGI4/ZjJhOWYzYzFkM2Fi/NzIwNjIyMmRlYzk0/NTQ3NWQ3Zi9uZXdz/LmluaG91c2UtbWFy/a2V0aW5nLnJ1Lw",
+          "path": "  › главная  › статьи"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/zkfMiKrKPc5dGVc73MhJu3dRLOWeNY4wNgr9mqq1IAM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/LmluaG91c2UtbWFy/a2V0aW5nLnJ1L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI2LzA0/Lzk3YzljZjkwY2Nj/ZDc3YzQ5MDNiMjZl/MGZhMDA1OGM3Lmpw/Zw",
+          "original": "https://news.inhouse-marketing.ru/wp-content/uploads/2026/04/97c9cf90cccd77c4903b26e0fa0058c7.jpg",
+          "logo": false
+        },
+        "age": "2 days ago",
+        "article": {
+          "author": [
+            {
+              "type": "person",
+              "name": "Admin",
+              "url": "https://news.inhouse-marketing.ru/author/admin/"
+            }
+          ],
+          "date": "Apr 22, 2026",
+          "publisher": {
+            "type": "organization",
+            "name": "Новости Интернет-маркетинга",
+            "thumbnail": {
+              "src": "https://imgs.search.brave.com/6z96kRo3BuMhF3lgBdWdXAX1ZNqHOF5i9hdtJA2DX3w/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/LmluaG91c2UtbWFy/a2V0aW5nLnJ1L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI1LzAx/L2JlenlteWFubnlq/LTEtc2NhbGVkLmpw/Zw",
+              "original": "https://news.inhouse-marketing.ru/wp-content/uploads/2025/01/bezymyannyj-1-scaled.jpg"
+            }
+          }
+        },
+        "extra_snippets": [
+          "Поведение пользователей в поисковых системах меняется. Все чаще ответы ищут не только в Яндексе и Google, но и напрямую задают вопросы в ChatGPT, Perplexity AI, Google Gemini и других нейросетях.",
+          "22.04.2026 · Envybox и агентство «Ковалевы» запускают открытое GEO-продвижение · 22.04.2026 · «Видимость сайта в Алисе AI»: новый инструмент в Яндекс Вебмастере ·",
+          "Именно эту задачу мы и берем в работу в рамках открытого GEO-эксперимента совместно с Envybox.",
+          "Если классическое SEO работает с выдачей ссылок, то GEO – с источниками, на которые опираются AI-модели. В этом случае цель – сделать так, чтобы бренд: упоминался в ответах нейросетей, ... По сути, речь идет о новом уровне конкуренции: не за позицию в топ-10, а за место внутри самого ответа. Envybox – IT-компания, разрабатывающая инструменты для роста конверсии и автоматизации бизнеса."
+        ]
+      }
+    ],
+    "family_friendly": true
+  }
+}
