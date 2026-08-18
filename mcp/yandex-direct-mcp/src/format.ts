@@ -2,7 +2,7 @@ import { microsToRubles } from "./client.js";
 
 // Поля ответов API v5, которые приходят в микроединицах и конвертируются в рубли на выводе.
 // Консервативный набор: только заведомо денежные ключи, чтобы не задеть счётчики/ID.
-const MONEY_KEYS = new Set(["Amount", "Bid", "ContextBid"]);
+const MONEY_KEYS = new Set(["Amount", "Bid", "ContextBid", "WeeklySpendLimit", "BidCeiling"]);
 
 function convertMoney(value: unknown): unknown {
   if (Array.isArray(value)) return value.map(convertMoney);

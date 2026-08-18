@@ -3,6 +3,30 @@
 Все значимые изменения проекта документируются в этом файле.
 Формат основан на [Keep a Changelog](https://keepachangelog.com/ru/1.1.0/), версионирование — [SemVer](https://semver.org/lang/ru/).
 
+## [5.0.0] — 2026-08-18
+
+Вклад **[Maxim (DrSeedon)](https://github.com/DrSeedon)** — исходный pull request
+[theYahia/yandex-direct-mcp#7](https://github.com/theYahia/yandex-direct-mcp/pull/7)
+(репозиторий заархивирован, код перенесён в монорепозиторий YaAll вручную).
+Расширено с 20 до 48 инструментов.
+
+### ⚠️ Breaking changes
+- **Все ID — строки.** Параметры `campaign_id(s)`, `ad_group_id(s)`, `ad_id(s)`, `keyword_id(s)`, `region_ids` и остальные идентификаторы принимаются как десятичные строки (`"1915016273214320641"`), а не числа. 64-битные ID Яндекс.Директа не помещаются в `Number` без потери точности, поэтому старый числовой формат больше не принимается.
+- Ответы API парсятся через `json-bigint` (`storeAsString: true`): большие ID возвращаются строками, а не округлённым `Number`.
+
+### Added
+- 28 инструментов (20 → 48):
+  - **Кампании и стратегии**: `manage_campaigns`, `get_strategy`, `set_strategy`.
+  - **Объявления**: `moderate_ads`.
+  - **Минус-фразы**: `get_campaign_negative_keywords`, `list_negative_keyword_shared_sets`, `manage_negative_keyword_shared_sets`, `link_negative_keyword_sets`.
+  - **Ассеты**: `list_sitelinks`, `set_sitelinks`, `list_ad_extensions`, `add_ad_extensions`, `delete_ad_extensions`, `manage_ad_images`, `list_vcards`, `add_vcard`.
+  - **Ставки**: `get_bid_adjustments`, `set_bid_adjustments`.
+  - **Аудитории и цели**: `list_retargeting_lists`, `add_retargeting_list`, `list_audience_targets`, `set_audience_targets`, `list_dynamic_targets`, `manage_dynamic_targets`.
+  - **Данные аккаунта**: `get_search_queries`, `get_changes`, `list_feeds`, `list_businesses`.
+- Зависимость `json-bigint` + хелперы `src/id.ts` (`idField`, `apiId`, `apiIds`) для валидации и сериализации ID.
+- Денежные ключи `WeeklySpendLimit` и `BidCeiling` конвертируются в рубли на выводе.
+- Тесты: `src/__tests__/lossless-and-new-tools.test.ts`, `src/__tests__/remaining-tools.test.ts` (всего 48 тестов).
+
 ## [4.0.1] — 2026-06-23
 
 ### Fixed
