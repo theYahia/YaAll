@@ -39,10 +39,10 @@ endorses or is affiliated with this compilation.
 Components under MIT — see LICENSE
 ================================================================================
 
-  own/yageo/                  originally https://github.com/theYahia/YaGEO
-  own/yandex-direct-mcp/      originally https://github.com/theYahia/yandex-direct-mcp
-  own/yandex-metrika-mcp/     originally https://github.com/theYahia/yandex-metrika-mcp
-  own/wordstat-sweep/         first published here
+  yageo/                  originally https://github.com/theYahia/YaGEO
+  yandex-direct-mcp/      originally https://github.com/theYahia/yandex-direct-mcp
+  yandex-metrika-mcp/     originally https://github.com/theYahia/yandex-metrika-mcp
+  wordstat-sweep/         first published here
 
 Those three source repositories are archived; this repository is now their
 canonical home. See ИСТОЧНИКИ.md for exact provenance commits.
