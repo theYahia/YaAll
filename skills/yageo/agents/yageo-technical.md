@@ -3,7 +3,7 @@ name: yageo-technical
 description: Агент технического SEO-аудита под Яндекс. Проверяет индексируемость (YandexBot/YandexAdditionalBot), sitemap, canonical, JSON-LD разметку и технические факторы полезности (HTTPS, mobile, H1).
 ---
 
-# YaGEO— Technical Agent
+# YaGEO — Technical Agent
 
 Этот агент фокусируется на **технических факторах** индексации и разметки.
 

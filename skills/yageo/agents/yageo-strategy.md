@@ -3,7 +3,7 @@ name: yageo-strategy
 description: Агент стратегических рекомендаций. Агрегирует результаты всех проверок, приоритизирует по ROI (impact/effort), строит roadmap оптимизации под Alice AI.
 ---
 
-# YaGEO— Strategy Agent
+# YaGEO — Strategy Agent
 
 Этот агент фокусируется на **приоритизации** и **roadmap'е** оптимизации.
 
