@@ -116,10 +116,10 @@ export async function apiPost(service: string, method: string, params: Record<st
   const response = await fetchWithRetry(url, {
     method: "POST",
     headers: commonHeaders(),
-    body: JSON.stringify({ method, params }),
+    body: JSONbig.stringify({ method, params }),
   });
   logUnits(response);
-  const data = await response.json();
+  const data = JSONbig.parse(await response.text());
   assertNoApiError(data);
   return data;
 }
@@ -142,7 +142,7 @@ export async function apiReport(params: Record<string, unknown>, opts: ReportOpt
     skipReportSummary: opts.skipReportSummary ? "true" : "false",
     skipColumnHeader: opts.skipColumnHeader ? "true" : "false",
   };
-  const body = JSON.stringify({ params });
+  const body = JSONbig.stringify({ params });
 
   for (let poll = 0; poll <= REPORT_MAX_POLLS; poll++) {
     const response = await fetchWithRetry(REPORT_URL, { method: "POST", headers, body });
@@ -176,13 +176,16 @@ export async function apiV4(method: string, param: Record<string, unknown> = {})
   const response = await fetchWithRetry(V4_URL, {
     method: "POST",
     headers: { "Content-Type": "application/json", "Accept-Language": "ru" },
-    body: JSON.stringify({ method, token: getToken(), param }),
+    body: JSONbig.stringify({ method, token: getToken(), param }),
   });
   logUnits(response);
-  const data = await response.json() as Record<string, unknown>;
+  const data = JSONbig.parse(await response.text()) as Record<string, unknown>;
   if (data && (data.error_code !== undefined || data.error_str !== undefined)) {
     const detail = data.error_detail ? ` — ${data.error_detail}` : "";
     throw new Error(`Ошибка API v4 [${data.error_code ?? "?"}]: ${data.error_str ?? "неизвестная ошибка"}${detail}`);
   }
   return data;
 }
+import JSONbigFactory from "json-bigint";
+
+const JSONbig = JSONbigFactory({ storeAsString: true });

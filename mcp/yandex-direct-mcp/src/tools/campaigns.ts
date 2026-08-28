@@ -2,6 +2,7 @@ import { z } from "zod";
 import { apiPost, rublesToMicros } from "../client.js";
 import { formatResult } from "../format.js";
 import { pageFields, buildPage } from "../pagination.js";
+import { apiId, idField } from "../id.js";
 
 export const listCampaignsSchema = z.object({
   status: z.string().optional().describe("Фильтр по статусу: ACCEPTED, DRAFT, MODERATION и т.д."),
@@ -26,12 +27,12 @@ export async function handleListCampaigns(params: z.infer<typeof listCampaignsSc
 }
 
 export const getCampaignSchema = z.object({
-  campaign_id: z.number().describe("ID рекламной кампании"),
+  campaign_id: idField("ID рекламной кампании"),
 });
 
 export async function handleGetCampaign(params: z.infer<typeof getCampaignSchema>): Promise<string> {
   const data = await apiPost("campaigns", "get", {
-    SelectionCriteria: { Ids: [params.campaign_id] },
+    SelectionCriteria: { Ids: [apiId(params.campaign_id)] },
     FieldNames: ["Id", "Name", "Status", "State", "DailyBudget", "StartDate", "EndDate", "Type", "Statistics"],
   });
   return formatResult(data);
@@ -70,7 +71,7 @@ export async function handleCreateCampaign(params: z.infer<typeof createCampaign
 }
 
 export const updateCampaignSchema = z.object({
-  campaign_id: z.number().describe("ID кампании"),
+  campaign_id: idField("ID кампании"),
   name: z.string().optional().describe("Новое название"),
   daily_budget: z.number().positive().optional().describe("Новый дневной бюджет в рублях"),
   status: z.string().optional().describe("Действие со статусом: SUSPEND, RESUME, ARCHIVE, UNARCHIVE"),
@@ -90,14 +91,14 @@ export async function handleUpdateCampaign(params: z.infer<typeof updateCampaign
     if (!method) {
       throw new Error(`Неизвестное действие статуса: ${params.status}. Допустимо: SUSPEND, RESUME, ARCHIVE, UNARCHIVE.`);
     }
-    const r = await apiPost("campaigns", method, { SelectionCriteria: { Ids: [params.campaign_id] } });
+    const r = await apiPost("campaigns", method, { SelectionCriteria: { Ids: [apiId(params.campaign_id)] } });
     sections.push(formatResult(r));
   }
 
   // 2) Обновление полей — выполняется ДОПОЛНИТЕЛЬНО к действию статуса, если заданы
   //    (исправление: раньше при наличии status поля name/budget молча терялись).
   if (params.name !== undefined || params.daily_budget !== undefined) {
-    const campaign: Record<string, unknown> = { Id: params.campaign_id };
+    const campaign: Record<string, unknown> = { Id: apiId(params.campaign_id) };
     if (params.name !== undefined) campaign.Name = params.name;
     if (params.daily_budget !== undefined) {
       campaign.DailyBudget = { Amount: rublesToMicros(params.daily_budget), Mode: "STANDARD" };
@@ -110,4 +111,17 @@ export async function handleUpdateCampaign(params: z.infer<typeof updateCampaign
     throw new Error("Нечего обновлять: укажите status и/или name/daily_budget.");
   }
   return sections.join("\n\n");
+}
+
+export const manageCampaignsSchema = z.object({
+  campaign_ids: z.array(idField("ID кампании")).min(1).max(1000).describe("ID кампаний"),
+  action: z.enum(["suspend", "resume", "archive", "unarchive"])
+    .describe("Действие: suspend/resume/archive/unarchive"),
+});
+
+export async function handleManageCampaigns(params: z.infer<typeof manageCampaignsSchema>): Promise<string> {
+  const data = await apiPost("campaigns", params.action, {
+    SelectionCriteria: { Ids: params.campaign_ids.map(apiId) },
+  });
+  return formatResult(data);
 }
