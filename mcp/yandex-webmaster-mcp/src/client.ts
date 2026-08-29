@@ -112,7 +112,7 @@ function isRetryableNetworkError(error: unknown): boolean {
 
 function buildHeaders(hasBody: boolean): Record<string, string> {
   const headers: Record<string, string> = {
-    Authorization: `Bearer ${getToken()}`,
+    Authorization: `OAuth ${getToken()}`,
     Accept: "application/json",
   };
   if (hasBody) headers["Content-Type"] = "application/json";
