@@ -1,6 +1,6 @@
 # @theyahia/yandex-tracker-mcp
 
-MCP server for **Yandex Tracker** API. **12 tools** for issues, queues, comments, transitions, and worklogs.
+MCP server for **Yandex Tracker** API. **14 tools** for issues, queues, queue access, comments, transitions, and worklogs.
 
 [![npm](https://img.shields.io/npm/v/@theyahia/yandex-tracker-mcp)](https://www.npmjs.com/package/@theyahia/yandex-tracker-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -35,7 +35,7 @@ Part of the [Russian API MCP](https://github.com/theYahia/russian-mcp) series by
 claude mcp add yandex-tracker -e YANDEX_TRACKER_TOKEN=token -e YANDEX_TRACKER_ORG_ID=orgid -- npx -y @theyahia/yandex-tracker-mcp
 ```
 
-## Tools (12)
+## Tools (14)
 
 | Tool | Description |
 |------|-------------|
@@ -48,6 +48,8 @@ claude mcp add yandex-tracker -e YANDEX_TRACKER_TOKEN=token -e YANDEX_TRACKER_OR
 | `transition_issue` | Execute a workflow transition (open, close, resolve) |
 | `list_queues` | List all queues |
 | `get_queue` | Get queue details |
+| `get_queue_access` | Read who can create / read / write / grant in a queue |
+| `set_queue_access` | Set one queue permission for the given users and/or groups |
 | `search_issues` | Search using Yandex Tracker query language |
 | `log_worklog` | Log time spent on an issue |
 | `list_worklogs` | List worklog entries for an issue |

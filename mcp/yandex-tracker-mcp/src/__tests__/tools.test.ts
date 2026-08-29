@@ -99,4 +99,39 @@ describe("yandex-tracker-mcp tools", () => {
       expect(headers["X-Org-ID"]).toBe("12345");
     });
   });
+
+  describe("queue access", () => {
+    it("handleGetQueueAccess reads /access", async () => {
+      const { handleGetQueueAccess } = await import("../tools/queues.js");
+      await handleGetQueueAccess({ queue_key: "PROJ" });
+      expect(mockFetch.mock.calls[0][0] as string).toContain("queues/PROJ/access");
+    });
+
+    // Ловушка Трекера: PATCH на /permissions отвечает 200 и молча игнорирует тело.
+    // Писать надо в /access — этот тест держит адрес.
+    it("handleSetQueueAccess patches /access, not /permissions", async () => {
+      const { handleSetQueueAccess } = await import("../tools/queues.js");
+      await handleSetQueueAccess({ queue_key: "PROJ", permission: "read", groups: ["1"] });
+      const patch = mockFetch.mock.calls.find((c) => c[1]?.method === "PATCH");
+      expect(patch).toBeDefined();
+      expect(patch![0] as string).toContain("queues/PROJ/access");
+      expect(patch![0] as string).not.toContain("permissions");
+      expect(JSON.parse(patch![1]?.body as string)).toEqual({ read: { groups: ["1"] } });
+    });
+
+    it("handleSetQueueAccess snapshots access before and after the write", async () => {
+      const { handleSetQueueAccess } = await import("../tools/queues.js");
+      const out = JSON.parse(await handleSetQueueAccess({ queue_key: "PROJ", permission: "write", users: ["42"] }));
+      expect(out).toHaveProperty("before");
+      expect(out).toHaveProperty("after");
+      expect(mockFetch.mock.calls.filter((c) => (c[1]?.method ?? "GET") === "GET")).toHaveLength(2);
+    });
+
+    // Пустой список не «оставил бы как было», а снял бы право у всех разом.
+    it("handleSetQueueAccess refuses an empty users+groups payload without calling the API", async () => {
+      const { handleSetQueueAccess } = await import("../tools/queues.js");
+      await expect(handleSetQueueAccess({ queue_key: "PROJ", permission: "read" })).rejects.toThrow(/empty list/i);
+      expect(mockFetch).not.toHaveBeenCalled();
+    });
+  });
 });

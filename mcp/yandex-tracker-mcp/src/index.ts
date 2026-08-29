@@ -4,7 +4,7 @@ import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js";
 import { listIssuesSchema, handleListIssues, getIssueSchema, handleGetIssue, createIssueSchema, handleCreateIssue, updateIssueSchema, handleUpdateIssue, transitionIssueSchema, handleTransitionIssue, searchIssuesSchema, handleSearchIssues } from "./tools/issues.js";
 import { listCommentsSchema, handleListComments, addCommentSchema, handleAddComment } from "./tools/comments.js";
-import { listQueuesSchema, handleListQueues, getQueueSchema, handleGetQueue } from "./tools/queues.js";
+import { listQueuesSchema, handleListQueues, getQueueSchema, handleGetQueue, getQueueAccessSchema, handleGetQueueAccess, setQueueAccessSchema, handleSetQueueAccess } from "./tools/queues.js";
 import { listWorklogsSchema, handleListWorklogs, logWorklogSchema, handleLogWorklog } from "./tools/worklogs.js";
 
 const server = new McpServer({
@@ -96,10 +96,24 @@ server.tool(
   async (params) => ({ content: [{ type: "text", text: await handleListWorklogs(params) }] }),
 );
 
+server.tool(
+  "get_queue_access",
+  "Read who can create, read, write and grant access in a queue. Reads queues/<key>/access — the same thing the queue's Access settings show.",
+  getQueueAccessSchema.shape,
+  async (params) => ({ content: [{ type: "text", text: await handleGetQueueAccess(params) }] }),
+);
+
+server.tool(
+  "set_queue_access",
+  "Set one queue permission (create/read/write/writeNoAssign/grant) to the given users and/or groups. The list REPLACES the current one, so pass everyone who should keep the permission; the reply returns the access object before and after so the change is auditable. Note: the sibling queues/<key>/permissions endpoint answers 200 and silently ignores writes — this tool uses /access, which actually applies.",
+  setQueueAccessSchema.shape,
+  async (params) => ({ content: [{ type: "text", text: await handleSetQueueAccess(params) }] }),
+);
+
 async function main() {
   const transport = new StdioServerTransport();
   await server.connect(transport);
-  console.error("[yandex-tracker-mcp] Server started. 12 tools available.");
+  console.error("[yandex-tracker-mcp] Server started. 14 tools available.");
 }
 
 main().catch((error) => {
