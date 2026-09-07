@@ -84,13 +84,13 @@ python -c "from scripts.epos_scorer import score_url; print('OK')"
 
 Если **ImportError** → установить:
 ```bash
-pip install -e D:/Yahia/active/YaGEO
+pip install -e D:/Yahia/experiments/YaGEO
 ```
 
-Если папки `D:/Yahia/active/YaGEO` нет → клонировать:
+Если папки `D:/Yahia/experiments/YaGEO` нет → клонировать:
 ```bash
-git clone https://gitverse.ru/m3taR3B/YaGEO D:/Yahia/active/YaGEO
-pip install -e D:/Yahia/active/YaGEO
+git clone https://gitverse.ru/m3taR3B/YaGEO D:/Yahia/experiments/YaGEO
+pip install -e D:/Yahia/experiments/YaGEO
 ```
 
 ### Step 3: Verify gate script

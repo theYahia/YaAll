@@ -1,6 +1,6 @@
 # BURN-LOG — YaGEO behavior-preserving refactor (2026-06-24)
 
-**Repo:** YaGEO (`D:/Yahia/active/YaGEO`)
+**Repo:** YaGEO (`D:/Yahia/experiments/YaGEO`)
 **Mode:** REFACTOR ONLY — lighten / structure / behavior-preserving. No new features, no bug fixes (bugs reported, not fixed).
 **Base commit:** `29b8b0517a8c03ddf7c6d00942b149425787473e` (branch `feat/mcp-server`, clean tree on entry)
 **Work branch:** `refactor/burn-2026-06-24`

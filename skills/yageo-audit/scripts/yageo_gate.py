@@ -20,7 +20,7 @@ Exit codes:
     1 — хотя бы одна страница ниже threshold
     2 — config error (sitemap не найден, etc.)
 
-Установка YaGEO: `pip install -e D:/Yahia/active/YaGEO`.
+Установка YaGEO: `pip install -e D:/Yahia/experiments/YaGEO`.
 """
 from __future__ import annotations
 
@@ -151,12 +151,12 @@ def preflight_import():
     is absent (exit 2 = config error). Returns the resolved callable.
     """
     try:
-        from scripts.epos_scorer import score_url  # YaGEO (pip install -e D:/Yahia/active/YaGEO)
+        from scripts.epos_scorer import score_url  # YaGEO (pip install -e D:/Yahia/experiments/YaGEO)
     except ImportError as e:
         print("FATAL: не удалось импортировать YaGEO scorer (scripts.epos_scorer.score_url).",
               file=sys.stderr)
         print(f"  {type(e).__name__}: {e}", file=sys.stderr)
-        print("  Установка: pip install -e D:/Yahia/active/YaGEO", file=sys.stderr)
+        print("  Установка: pip install -e D:/Yahia/experiments/YaGEO", file=sys.stderr)
         sys.exit(2)
     return score_url
 

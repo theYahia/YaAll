@@ -81,7 +81,7 @@ yageo-mcp                    # запуск stdio-сервера (обычно �
     "yageo": {
       "command": ".venv/Scripts/python.exe",   // Windows; macOS/Linux: ".venv/bin/python"
       "args": ["-m", "scripts.mcp_server"],
-      "cwd": "D:/Yahia/active/YaGEO"            // абсолютный путь к репозиторию
+      "cwd": "D:/Yahia/experiments/YaGEO"            // абсолютный путь к репозиторию
     }
   }
 }

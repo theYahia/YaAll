@@ -1,6 +1,6 @@
 # YaGEO— handoff prompt для новой Claude Code сессии
 
-> **Инструкция**: открой новый Claude Code в папке `D:/Yahia/active/YaGEO/`, скопируй этот файл целиком в prompt. Claude увидит полный контекст и сможет продолжить build.
+> **Инструкция**: открой новый Claude Code в папке `D:/Yahia/experiments/YaGEO/`, скопируй этот файл целиком в prompt. Claude увидит полный контекст и сможет продолжить build.
 
 ---
 
@@ -14,7 +14,7 @@
 
 ## Что уже сделано (research phase, 3 sweep'а)
 
-Все артефакты research лежат в `D:/Yahia/active/YaGEO/research/`. **Прочитай их по порядку перед началом:**
+Все артефакты research лежат в `D:/Yahia/experiments/YaGEO/research/`. **Прочитай их по порядку перед началом:**
 
 1. `yandex_geo_seo_brief.md` — Phase 0+1 брифф первого sweep (стратегический вопрос: ставить или пропускать Alice AI GEO для gosmax.ru)
 2. `yandex_geo_seo.md` — Phase 5 synthesis первого sweep (вердикт: **BUILD**)
