@@ -8,10 +8,14 @@ function getToken(): string {
   return token;
 }
 
-function getOrgId(): string {
+// Облачная организация (Yandex Cloud Organization) требует X-Cloud-Org-ID,
+// организация Яндекс 360 — X-Org-ID. С чужим заголовком API отдаёт 403 errorCode 620345.
+function getOrgHeaders(): Record<string, string> {
+  const cloudOrgId = process.env.YANDEX_TRACKER_CLOUD_ORG_ID;
+  if (cloudOrgId) return { "X-Cloud-Org-ID": cloudOrgId };
   const orgId = process.env.YANDEX_TRACKER_ORG_ID;
-  if (!orgId) throw new Error("YANDEX_TRACKER_ORG_ID is not set");
-  return orgId;
+  if (!orgId) throw new Error("YANDEX_TRACKER_ORG_ID or YANDEX_TRACKER_CLOUD_ORG_ID is not set");
+  return { "X-Org-ID": orgId };
 }
 
 export async function trackerRequest(
@@ -21,7 +25,7 @@ export async function trackerRequest(
   params?: Record<string, string>,
 ): Promise<unknown> {
   const token = getToken();
-  const orgId = getOrgId();
+  const orgHeaders = getOrgHeaders();
 
   for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
     const controller = new AbortController();
@@ -36,7 +40,7 @@ export async function trackerRequest(
           "Content-Type": "application/json",
           "Accept": "application/json",
           "Authorization": `OAuth ${token}`,
-          "X-Org-ID": orgId,
+          ...orgHeaders,
         },
         ...(body ? { body: typeof body === "string" ? body : JSON.stringify(body) } : {}),
         signal: controller.signal,
