@@ -4,7 +4,7 @@ collect_semantics.py - Semantic core collection for gosmax.ru
 Algorithm: SERP-overlap clustering (RU SEO standard, aggregator Precision=3-4)
 
 Usage:
-    python research/scripts/collect_semantics.py [--depth 1|2]
+    python research/scripts/collect_semantics.py [--depth N] [--min-expand V]
 
 Output:
     research/semantic_core.csv  - 7 columns: phrase|volume|intent|cluster|depth|source_seed|target_page
@@ -18,7 +18,7 @@ import sys
 import time
 import urllib.error
 import urllib.request
-from collections import defaultdict
+from collections import defaultdict, deque
 from pathlib import Path
 
 if hasattr(sys.stdout, "reconfigure"):
@@ -34,9 +34,27 @@ SERP_OVERLAP_THRESHOLD = 1   # min shared seeds to merge clusters
 # 2026-07-25: было 20 с комментарием «topRequests returns ≤20» — это неверно. Живая проверка
 # на «max каналы»: num_phrases=50 вернул ровно 50 фраз, num_phrases=100 — ровно 100 (суммарный
 # объём 52 917 → 59 934). Лимит был наш собственный и резал сбор в 5 раз.
-MAX_RELATED = 100            # проверено 25.07: API отдаёт сколько просишь
-RATE_DELAY = 0.35            # seconds between API calls (stays under quota)
+# 24.09: num_phrases=2000 на «мессенджер макс» вернул ровно 2000 фраз, хвост — до count 15.
+# Один вызов даёт в 20 раз больше, чем прежние 100, а квота считает вызовы, не фразы.
+MAX_RELATED = 2000
+# Насыщение снежного кома: последние N раскрытий вместе принесли новых фраз меньше чем на
+# SHARE от уже собранного объёма → дальше копать дороже, чем находить.
+SATURATION_WINDOW = 50
+SATURATION_SHARE = 0.01
+# Шум омонимов «max/макс»: iPhone Pro Max, Max Payne, цены и торренты. Такие фразы остаются в ядре
+# (их режут intent_map и build_content_plan), но не раскрываются: иначе квота уходит на чужие ядра.
+NOISE = re.compile(r"pro\s*max|про\s*макс|promax|промакс|\bцена|\bкупить|\bотзыв|чехл|чехол|\d+\s*gb|ультра|характеристик|\bдрифт|\bmad\b|\bбош|\bпорно|payne|пейн|торрент|\b3ds|\b3д\b|станци|airpods", re.I)
+# «Также ищут» (associations) приходят в том же ответе topRequests и квоты не стоят. Но у «макс»
+# в ассоциациях и «телеграм», и «госуслуги» — берём только фразы про сам мессенджер.
+MAX_TOKEN = re.compile(r"\b(макс|max|мах)(е|а|у|ом|ик|ике)?\b", re.I)
+CACHE_PATH = Path(__file__).resolve().parents[1] / "_raw_data" / "wordstat_cache" / f"topRequests_{MAX_RELATED}.jsonl"
+RATE_DELAY = 0.35            # пауза между вызовами; от ЧАСОВОЙ квоты не спасает — см. _pace()
 API_TIMEOUT = 15
+# Квота ключа, снята живьём 05.09: «wordstatRequestsPerHour.rate ... allowed 100 requests».
+# Держим 95, чтобы оставить запас на ручные проверки тем же ключом.
+QUOTA_PER_HOUR = int(os.environ.get("WORDSTAT_QUOTA_PER_HOUR", "95"))
+QUOTA_WINDOW_S = 3600
+_CALLS: deque[float] = deque()
 
 # ── Intent classification (Q2 research: RU SEO tier taxonomy) ──────────────
 # Order matters: first match wins. T4/T5 checked before T3 to avoid misclassification.
@@ -114,7 +132,33 @@ def _load_env():
         os.environ.setdefault(k.strip(), v.strip())
 
 
+def _pace() -> None:
+    """Держит темп под часовой квотой Wordstat, вместо того чтобы упираться в неё и ретраить.
+
+    05.09.2026: прогон на 138 сидах повис. Ключ отдавал `search-api.wordstatRequestsPerHour.rate
+    rate quota limit exceed: allowed 100 requests`, а ретрай ждал 30/90/240 с — то есть после
+    сотого запроса каждый сид сгорал за шесть минут и терялся молча (`return []`), и ядро
+    выглядело собранным. Реактивный ретрай под ЧАСОВУЮ квоту не работает в принципе: ждать надо
+    до сдвига окна, а это до часа.
+
+    Здесь окно считается явно: помним время последних вызовов и, упершись в лимит, спим ровно до
+    того момента, когда самый старый вызов выпадет из часа. Прогон становится предсказуемым —
+    138 сидов это ~1,5 часа, — и ни один сид не теряется.
+    """
+    now = time.monotonic()
+    while _CALLS and now - _CALLS[0] >= QUOTA_WINDOW_S:
+        _CALLS.popleft()
+    if len(_CALLS) >= QUOTA_PER_HOUR:
+        wait = QUOTA_WINDOW_S - (now - _CALLS[0]) + 1
+        print(f"  [quota] {len(_CALLS)}/{QUOTA_PER_HOUR} за час — ждём {wait / 60:.1f} мин", flush=True)
+        time.sleep(wait)
+        _pace()
+        return
+    _CALLS.append(now)
+
+
 def _post(path: str, body: dict, api_key: str, folder_id: str) -> dict:
+    _pace()
     url = f"https://searchapi.api.cloud.yandex.net/{path}"
     data = json.dumps(body, ensure_ascii=False).encode("utf-8")
     req = urllib.request.Request(
@@ -140,32 +184,128 @@ def top_requests(phrase: str, api_key: str, folder_id: str, num_phrases: int = M
                          {"phrase": phrase, "num_phrases": num_phrases}, api_key, folder_id)
             break
         except Exception as e:
+            if isinstance(e, urllib.error.HTTPError) and e.code in (401, 403):
+                # Пустой баланс Yandex Cloud или отозванный ключ. Раньше сид молча терялся
+                # (return []), а ядро выглядело собранным. Кэш на диске — перезапуск продолжит.
+                print(f"STOP: Wordstat {e.code} на {phrase!r} — баланс Yandex Cloud или ключ. "
+                      f"Кэш сохранён, перезапуск той же командой продолжит с места.", file=sys.stderr, flush=True)
+                sys.exit(2)
             msg = str(e).lower()
-            transient = "429" in msg or "timed out" in msg or "timeout" in msg or "503" in msg
+            quota = "429" in msg or "quota" in msg
+            transient = quota or "timed out" in msg or "timeout" in msg or "503" in msg
             if transient and attempt < 3:
-                wait = (30, 90, 240)[attempt]
-                print(f"  [rate-limit] {phrase!r} → пауза {wait}s (попытка {attempt + 2}/4)", flush=True)
+                # 429 от ЧАСОВОЙ квоты не рассасывается за полминуты. Такое бывает, когда окно
+                # выбрано до старта прогона — _pace() про это не знает, его счётчик пуст. Ждём
+                # десятками минут, а не секундами; сетевые же заминки лечатся коротко.
+                wait = (600, 900, 1200)[attempt] if quota else (30, 90, 240)[attempt]
+                print(f"  [{'quota' if quota else 'retry'}] {phrase!r} → пауза {wait // 60} мин "
+                      f"(попытка {attempt + 2}/4)", flush=True)
                 time.sleep(wait)
                 continue
             print(f"  WARN topRequests({phrase!r}): {e}", file=sys.stderr, flush=True)
             return []
     try:
-        # API returns {"results": [...]} with count as string
-        items = data.get("results") or data.get("topRequests") or []
-        result = []
-        for item in items:
-            p = item.get("phrase") or item.get("request") or ""
-            raw_count = item.get("count") or item.get("shows") or 0
-            try:
-                count = int(raw_count)
-            except (ValueError, TypeError):
-                count = 0
-            if p:
-                result.append({"phrase": p, "count": count})
-        return result
+        # API returns {"results": [...], "associations": [...]} with count as string
+        _ASSOC[phrase] = _parse_items(data.get("associations"))
+        return _parse_items(data.get("results") or data.get("topRequests"))
     except Exception as e:
         print(f"  WARN topRequests({phrase!r}): {e}", file=sys.stderr)
         return []
+
+
+def _parse_items(items) -> list[dict]:
+    result = []
+    for item in items or []:
+        p = item.get("phrase") or item.get("request") or ""
+        raw_count = item.get("count") or item.get("shows") or 0
+        try:
+            count = int(raw_count)
+        except (ValueError, TypeError):
+            count = 0
+        if p:
+            result.append({"phrase": p, "count": count})
+    return result
+
+
+_ASSOC: dict[str, list[dict]] = {}
+
+
+def assoc_items(phrase: str) -> list[dict]:
+    """«Также ищут» для уже запрошенной фразы — только про мессенджер и без шума."""
+    return [a for a in _ASSOC.get(phrase, []) if MAX_TOKEN.search(a["phrase"]) and not NOISE.search(a["phrase"])]
+
+
+_CACHE: dict[str, list[dict]] | None = None
+
+
+def cached_top_requests(phrase: str, api_key: str, folder_id: str, cache_path: Path = CACHE_PATH) -> list[dict]:
+    """top_requests() с кэшем на диске (JSONL, дописывается по строке).
+
+    Полный свип — это часы под часовой квотой; обрыв на пятом часу без кэша сжигал квоту
+    заново. Пустой ответ не кэшируется: почти всегда это WARN (квота, сеть), а не пустой спрос.
+    """
+    global _CACHE
+    if _CACHE is None:
+        _CACHE = {}
+        if cache_path.exists():
+            for line in cache_path.read_text(encoding="utf-8").splitlines():
+                rec = json.loads(line)
+                _CACHE[rec["phrase"]] = rec["items"]
+                _ASSOC[rec["phrase"]] = rec.get("assoc", [])  # записи до 27.09 без assoc не перезапрашиваем
+    if phrase in _CACHE:
+        return _CACHE[phrase]
+    items = top_requests(phrase, api_key, folder_id)
+    if items:
+        _CACHE[phrase] = items
+        cache_path.parent.mkdir(parents=True, exist_ok=True)
+        with cache_path.open("a", encoding="utf-8") as f:
+            f.write(json.dumps({"phrase": phrase, "items": items, "assoc": _ASSOC.get(phrase, [])},
+                               ensure_ascii=False) + "\n")
+    return items
+
+
+def snowball(frontier, phrase_to_seeds, phrase_volume, source_seed_map, fetch,
+             depth: int, min_expand: int, saturation: bool = True) -> int:
+    """Раскрывает найденные фразы уровень за уровнем, крупные первыми, до насыщения.
+
+    Правит три словаря на месте, возвращает число раскрытий. Раньше глубина 2 раскрывала
+    КАЖДУЮ фразу без порога — на ядре в тысячи фраз это сутки квоты без возможности остановиться.
+    saturation=False (27.09): насыщение 24.09 остановило ком через 50 раскрытий из 2 292 — долю
+    считали от объёма, где ~20 % дают «мессенджер макс» и «max ru», и хвосты тем не раскрылись.
+    """
+    expanded = set()
+    total = sum(phrase_volume.values()) or 1
+    calls = 0
+    for level in range(2, depth + 1):
+        frontier = sorted({p for p in frontier if p not in expanded and phrase_volume.get(p, 0) >= min_expand
+                           and not NOISE.search(p)},
+                          key=lambda p: -phrase_volume.get(p, 0))
+        print(f"\n[semantics] уровень {level}: раскрываем {len(frontier)} фраз (объём >= {min_expand})", flush=True)
+        found: list[str] = []
+        recent: deque[int] = deque(maxlen=SATURATION_WINDOW)
+        for i, phrase in enumerate(frontier, 1):
+            expanded.add(phrase)
+            calls += 1
+            gain = 0
+            for item in fetch(phrase)[:MAX_RELATED] + assoc_items(phrase):
+                child, count = item["phrase"], item["count"]
+                if child not in phrase_to_seeds:
+                    found.append(child)
+                    gain += count
+                phrase_to_seeds[child] |= phrase_to_seeds[phrase]
+                source_seed_map.setdefault(child, source_seed_map.get(phrase, phrase))
+                if count > phrase_volume.get(child, 0):
+                    phrase_volume[child] = count
+            total += gain
+            recent.append(gain)
+            if i % 50 == 0:
+                print(f"  [{i}/{len(frontier)}] фраз {len(phrase_to_seeds)}, объём {total}", flush=True)
+            if saturation and len(recent) == SATURATION_WINDOW and sum(recent) < SATURATION_SHARE * total:
+                print(f"  насыщение: последние {SATURATION_WINDOW} раскрытий дали {sum(recent)} "
+                      f"из {total} ({sum(recent) / total:.2%}) — стоп", flush=True)
+                return calls
+        frontier = found
+    return calls
 
 
 # ── Wordstat regions + dynamics (C-2 enrichment) ─────────────────────────────
@@ -353,7 +493,9 @@ def build_clusters(phrases: list[str], edges: list[tuple[str, str]]) -> dict[str
 def main():
     import argparse
     parser = argparse.ArgumentParser(description="Yandex Wordstat semantic core builder")
-    parser.add_argument("--depth", choices=["1", "2"], default="1", help="expand related phrases recursively")
+    parser.add_argument("--depth", type=int, default=1, help="сколько уровней раскрывать: 1 — только сиды")
+    parser.add_argument("--min-expand", type=int, default=0, help="раскрывать только фразы с объёмом >= V")
+    parser.add_argument("--no-saturation", action="store_true", help="раскрыть весь фронтир, без стопа по насыщению")
     parser.add_argument("--regions", action="store_true", help="enrich rows with top_region + affinity_index (extra Yandex Cloud quota)")
     parser.add_argument("--dynamics", action="store_true", help="enrich high-volume rows with seasonality (extra quota, only volume>=10K)")
     parser.add_argument("--seeds", default=None, help="path to seed_keywords.txt (default: <project>/research/seed_keywords.txt)")
@@ -366,8 +508,6 @@ def main():
     if not api_key:
         sys.exit("ERROR: YANDEX_SEARCH_API_KEY not found in .env.local")
 
-    depth2 = args.depth == "2"
-
     base = Path(__file__).resolve().parents[1]
     seeds_path = Path(args.seeds) if args.seeds else (base / "seed_keywords.txt")
     output_path = Path(args.output) if args.output else (base / "semantic_core.csv")
@@ -375,7 +515,7 @@ def main():
     seeds = load_seeds(seeds_path)
     seed_intent: dict[str, str] = {ph: hint for ph, hint in seeds}
     print(f"[semantics] {len(seeds)} seeds loaded from {seeds_path.name}")
-    print(f"[semantics] depth={'2' if depth2 else '1'}, threshold={SERP_OVERLAP_THRESHOLD}")
+    print(f"[semantics] depth={args.depth}, min_expand={args.min_expand}, threshold={SERP_OVERLAP_THRESHOLD}")
 
     # Phase 1 - Expansion: topRequests for each seed
     # phrase_to_seeds[phrase] = set of seeds that listed this phrase in their topRequests
@@ -385,11 +525,11 @@ def main():
 
     for i, (seed, hint) in enumerate(seeds, 1):
         print(f"  [{i:02d}/{len(seeds)}] {seed!r}...", end=" ", flush=True)
-        items = top_requests(seed, api_key, folder_id)
+        items = cached_top_requests(seed, api_key, folder_id)
         time.sleep(RATE_DELAY)
 
         collected = 0
-        for item in items[:MAX_RELATED]:
+        for item in items[:MAX_RELATED] + assoc_items(seed):
             phrase = item.get("phrase") or item.get("request") or ""
             count = item.get("count") or item.get("shows") or 0
             if not phrase:
@@ -408,39 +548,25 @@ def main():
 
         print(f"{collected} related")
 
-    # Phase 1b - Depth=2: expand related phrases (only for non-seed phrases)
-    if depth2:
-        depth2_phrases = [p for p in phrase_to_seeds if p not in seed_intent]
-        print(f"\n[semantics] depth=2: expanding {len(depth2_phrases)} phrases...")
-        for i, phrase in enumerate(depth2_phrases, 1):
-            if i % 50 == 0:
-                print(f"  [{i}/{len(depth2_phrases)}]…", flush=True)
-            items = top_requests(phrase, api_key, folder_id)
-            time.sleep(RATE_DELAY)
-            for item in items[:MAX_RELATED]:
-                child = item.get("phrase") or item.get("request") or ""
-                count = item.get("count") or item.get("shows") or 0
-                if not child:
-                    continue
-                # inherit seeds from parent
-                phrase_to_seeds[child] |= phrase_to_seeds[phrase]
-                if child not in source_seed_map:
-                    source_seed_map[child] = source_seed_map.get(phrase, phrase)
-                if count > phrase_volume.get(child, 0):
-                    phrase_volume[child] = count
+    # Phase 1b - снежный ком (--depth >= 2)
+    if args.depth >= 2:
+        snowball([p for p in phrase_to_seeds if p not in seed_intent], phrase_to_seeds, phrase_volume,
+                 source_seed_map, lambda p: cached_top_requests(p, api_key, folder_id),
+                 args.depth, args.min_expand, saturation=not args.no_saturation)
 
     all_phrases = list(phrase_to_seeds.keys())
     print(f"\n[semantics] {len(all_phrases)} unique phrases after expansion")
 
     # Phase 2 - SERP-overlap clustering
     print(f"[semantics] SERP-overlap clustering (threshold >= {SERP_OVERLAP_THRESHOLD})...")
-    edges: list[tuple[str, str]] = []
-    for i in range(len(all_phrases)):
-        for j in range(i + 1, len(all_phrases)):
-            a, b = all_phrases[i], all_phrases[j]
-            shared = len(phrase_to_seeds[a] & phrase_to_seeds[b])
-            if shared >= SERP_OVERLAP_THRESHOLD:
-                edges.append((a, b))
+    assert SERP_OVERLAP_THRESHOLD == 1, "цепочка ниже верна только для порога 1"
+    # threshold=1: общий сид = ребро. Цепочка внутри группы сида даёт ту же связность, что и
+    # все пары, но за O(n), а не O(n²) — на снежном коме в десятки тысяч фраз пары не досчитать.
+    by_seed: defaultdict[str, list[str]] = defaultdict(list)
+    for p in all_phrases:
+        for sd in phrase_to_seeds[p]:
+            by_seed[sd].append(p)
+    edges = [(g[i], g[i + 1]) for g in by_seed.values() for i in range(len(g) - 1)]
 
     print(f"  {len(edges)} edges found")
     clusters = build_clusters(all_phrases, edges)
